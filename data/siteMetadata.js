@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Rajat Kanti Bhattacharjee',
   author: 'Rajat Kanti Bhattacharjee',
   headerTitle: 'rajatkb',
-  description: 'Building neural nets, systems, and things at the edge of curiosity. Independent ML engineer and researcher.',
+  description: 'Building neural nets, systems, and things at the edge of curiosity.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://rajatkb.github.io',
