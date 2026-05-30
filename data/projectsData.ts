@@ -30,6 +30,11 @@ const projectsData: Project[] = [
     href: 'https://github.com/rajatkb/go-promise',
   },
   {
+    title: 'Boro DB',
+    description: `A simple database written in Go. Minimalist storage engine with basic query capabilities — built to understand database internals from the ground up.`,
+    href: 'https://github.com/rajatkb/boro-db',
+  },
+  {
     title: 'Go Skip List',
     description: `Skip list data structure implementation in Golang. A probabilistic alternative to balanced trees with O(log n) search, insert, and delete operations.`,
     href: 'https://github.com/rajatkb/go-skiplist',
