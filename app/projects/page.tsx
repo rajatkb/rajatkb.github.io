@@ -1,10 +1,32 @@
+'use client'
+
+import { useState, useMemo } from 'react'
 import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
-import { genPageMetadata } from 'app/seo'
-
-export const metadata = genPageMetadata({ title: 'Projects' })
 
 export default function Projects() {
+  const [yearFilter, setYearFilter] = useState('all')
+  const [tagFilter, setTagFilter] = useState('all')
+
+  const years = useMemo(() => {
+    const y = [...new Set(projectsData.map((p) => p.year))]
+    return y.sort((a, b) => b - a)
+  }, [])
+
+  const allTags = useMemo(() => {
+    const t = new Set<string>()
+    projectsData.forEach((p) => p.tags.forEach((tag) => t.add(tag)))
+    return [...t].sort()
+  }, [])
+
+  const filtered = useMemo(() => {
+    return projectsData.filter((p) => {
+      if (yearFilter !== 'all' && p.year !== Number(yearFilter)) return false
+      if (tagFilter !== 'all' && !p.tags.includes(tagFilter)) return false
+      return true
+    })
+  }, [yearFilter, tagFilter])
+
   return (
     <>
       {/* Hero */}
@@ -28,18 +50,64 @@ export default function Projects() {
         </div>
       </section>
 
-      <div className="container py-12">
-        <div className="-m-4 flex flex-wrap">
-          {projectsData.map((d) => (
-            <Card
-              key={d.title}
-              title={d.title}
-              description={d.description}
-              imgSrc={d.imgSrc}
-              href={d.href}
-            />
+      {/* Filters */}
+      <div className="mb-8 flex flex-wrap gap-4">
+        <select
+          value={yearFilter}
+          onChange={(e) => setYearFilter(e.target.value)}
+          className="rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm text-gray-700 focus:border-primary-500 focus:ring-2 focus:ring-primary-200 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-200"
+        >
+          <option value="all">All Years</option>
+          {years.map((y) => (
+            <option key={y} value={y}>
+              {y}
+            </option>
           ))}
-        </div>
+        </select>
+
+        <select
+          value={tagFilter}
+          onChange={(e) => setTagFilter(e.target.value)}
+          className="rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm text-gray-700 focus:border-primary-500 focus:ring-2 focus:ring-primary-200 dark:border-gray-600 dark:bg-gray-800 dark:text-gray-200"
+        >
+          <option value="all">All Categories</option>
+          {allTags.map((t) => (
+            <option key={t} value={t}>
+              {t}
+            </option>
+          ))}
+        </select>
+
+        {filtered.length !== projectsData.length && (
+          <button
+            onClick={() => {
+              setYearFilter('all')
+              setTagFilter('all')
+            }}
+            className="rounded-lg border border-gray-300 px-4 py-2 text-sm text-gray-500 hover:text-gray-700 dark:border-gray-600 dark:text-gray-400 dark:hover:text-gray-200"
+          >
+            Clear filters
+          </button>
+        )}
+      </div>
+
+      {/* Grid */}
+      <div className="container py-12">
+        {filtered.length === 0 ? (
+          <p className="text-center text-gray-500 dark:text-gray-400">No projects match the selected filters.</p>
+        ) : (
+          <div className="-m-4 flex flex-wrap">
+            {filtered.map((d) => (
+              <Card
+                key={d.title}
+                title={d.title}
+                description={d.description}
+                imgSrc={d.imgSrc}
+                href={d.href}
+              />
+            ))}
+          </div>
+        )}
       </div>
     </>
   )
