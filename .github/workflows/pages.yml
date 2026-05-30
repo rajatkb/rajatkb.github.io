@@ -34,7 +34,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-nextjs-${{ hashFiles('**/package-lock.json') }}-
       - run: npm ci
-      - run: npm run build
+      - run: npm run build -- --webpack
         env:
           EXPORT: 1
           UNOPTIMIZED: 1
