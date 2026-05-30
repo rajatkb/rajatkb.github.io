@@ -1,5 +1,5 @@
 @import 'tailwindcss';
-@plugin "@tailwindcss/forms";
+@plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
 @source '../node_modules/pliny';
 @custom-variant dark (&:where(.dark, .dark *));
@@ -7,34 +7,34 @@
 /* Core theme configuration */
 @theme {
   /* Font families */
-  --font-sans: var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+  --font-sans:
+    var(--font-space-grotesk), ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
     'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
-  /* Colors */
-  /* Copied from https://tailwindcss.com/docs/theme#default-theme-variable-reference */
-  --color-primary-50: oklch(0.971 0.014 343.198);
-  --color-primary-100: oklch(0.948 0.028 342.258);
-  --color-primary-200: oklch(0.899 0.061 343.231);
-  --color-primary-300: oklch(0.823 0.12 346.018);
-  --color-primary-400: oklch(0.718 0.202 349.761);
-  --color-primary-500: oklch(0.656 0.241 354.308);
-  --color-primary-600: oklch(0.592 0.249 0.584);
-  --color-primary-700: oklch(0.525 0.223 3.958);
-  --color-primary-800: oklch(0.459 0.187 3.815);
-  --color-primary-900: oklch(0.408 0.153 2.432);
-  --color-primary-950: oklch(0.284 0.109 3.907);
+  /* Colors — dark black + yellow theme */
+  --color-primary-50: oklch(0.987 0.026 102.212);
+  --color-primary-100: oklch(0.973 0.071 103.193);
+  --color-primary-200: oklch(0.945 0.129 101.54);
+  --color-primary-300: oklch(0.905 0.182 98.111);
+  --color-primary-400: oklch(0.852 0.199 91.936);
+  --color-primary-500: oklch(0.795 0.184 86.047);
+  --color-primary-600: oklch(0.681 0.162 75.834);
+  --color-primary-700: oklch(0.554 0.135 66.442);
+  --color-primary-800: oklch(0.442 0.109 53.777);
+  --color-primary-900: oklch(0.357 0.083 48.496);
+  --color-primary-950: oklch(0.248 0.055 49.346);
 
-  --color-gray-50: oklch(0.985 0.002 247.839);
-  --color-gray-100: oklch(0.967 0.003 264.542);
-  --color-gray-200: oklch(0.928 0.006 264.531);
-  --color-gray-300: oklch(0.872 0.01 258.338);
-  --color-gray-400: oklch(0.707 0.022 261.325);
-  --color-gray-500: oklch(0.551 0.027 264.364);
-  --color-gray-600: oklch(0.446 0.03 256.802);
-  --color-gray-700: oklch(0.373 0.034 259.733);
-  --color-gray-800: oklch(0.278 0.033 256.848);
-  --color-gray-900: oklch(0.21 0.034 264.665);
-  --color-gray-950: oklch(0.13 0.028 261.692);
+  --color-gray-50: oklch(0.98 0.003 248.5);
+  --color-gray-100: oklch(0.96 0.005 250);
+  --color-gray-200: oklch(0.91 0.007 255);
+  --color-gray-300: oklch(0.84 0.01 258);
+  --color-gray-400: oklch(0.65 0.02 260);
+  --color-gray-500: oklch(0.5 0.025 264);
+  --color-gray-600: oklch(0.38 0.03 258);
+  --color-gray-700: oklch(0.3 0.035 260);
+  --color-gray-800: oklch(0.2 0.03 258);
+  --color-gray-900: oklch(0.14 0.025 265);
+  --color-gray-950: oklch(0.09 0.02 260);
 
   /* Line heights */
   --line-height-11: 2.75rem;
