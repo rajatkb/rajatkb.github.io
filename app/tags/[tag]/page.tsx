@@ -4,10 +4,18 @@ import siteMetadata from '@/data/siteMetadata'
 import ListLayout from '@/layouts/ListLayoutWithTags'
 import { allBlogs } from 'contentlayer/generated'
 import tagData from 'app/tag-data.json'
+import projectsData from '@/data/projectsData'
 import { genPageMetadata } from 'app/seo'
 import { Metadata } from 'next'
 
 const POSTS_PER_PAGE = 5
+
+function getAllTagSlugs(): string[] {
+  const blogTags = Object.keys(tagData as Record<string, number>)
+  const projectTags = new Set<string>()
+  projectsData.forEach((p) => p.tags.forEach((t) => projectTags.add(t)))
+  return [...new Set([...blogTags, ...projectTags])]
+}
 
 export async function generateMetadata(props: {
   params: Promise<{ tag: string }>
@@ -26,10 +34,8 @@ export async function generateMetadata(props: {
   })
 }
 
-export const generateStaticParams = async () => {
-  const tagCounts = tagData as Record<string, number>
-  const tagKeys = Object.keys(tagCounts)
-  return tagKeys.map((tag) => ({
+export function generateStaticParams() {
+  return getAllTagSlugs().map((tag) => ({
     tag: encodeURI(tag),
   }))
 }

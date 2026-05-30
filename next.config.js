@@ -61,14 +61,6 @@ module.exports = () => {
     basePath,
     reactStrictMode: true,
     trailingSlash: true,
-    turbopack: {
-      rules: {
-        '*.svg': {
-          loaders: ['@svgr/webpack'],
-          as: '*.js',
-        },
-      },
-    },
     pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
     images: {
       remotePatterns: [
@@ -94,6 +86,14 @@ module.exports = () => {
           headers: securityHeaders,
         },
       ]
+    },
+    webpack: (config, options) => {
+      config.module.rules.push({
+        test: /\.svg$/,
+        use: ['@svgr/webpack'],
+      })
+
+      return config
     },
   })
 }
