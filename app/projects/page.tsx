@@ -44,8 +44,7 @@ export default function Projects() {
             Projects
           </h1>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-gray-200 sm:text-xl">
-            ML systems, super-resolution, databases, and distributed tooling — things I've built and
-            shipped.
+            ML systems, super-resolution, databases, and distributed tooling.
           </p>
         </div>
       </section>
