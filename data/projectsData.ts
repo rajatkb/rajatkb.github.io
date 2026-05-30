@@ -25,11 +25,6 @@ const projectsData: Project[] = [
     imgSrc: 'https://i.imgur.com/CxDOxAQ.png',
   },
   {
-    title: 'redo-paper',
-    description: `Reproducing research papers from scratch. Code and model weights for various papers — mostly code since I don't have tons of H100s with me.`,
-    href: 'https://github.com/rajatkb/redo-paper',
-  },
-  {
     title: 'Go Promise',
     description: `Promise/Future concurrency library for Go, inspired by Bluebird. Provides async primitives with composable promise chains for goroutine coordination.`,
     href: 'https://github.com/rajatkb/go-promise',
