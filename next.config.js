@@ -81,6 +81,10 @@ module.exports = () => {
           protocol: 'https',
           hostname: 'i.imgur.com',
         },
+        {
+          protocol: 'https',
+          hostname: 'images.unsplash.com',
+        },
       ],
       unoptimized,
     },
