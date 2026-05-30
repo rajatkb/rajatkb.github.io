@@ -12,7 +12,7 @@ const HERO_IMAGES = [
 ]
 
 export default function Home({ posts }) {
-  const heroImage = HERO_IMAGES[Math.floor(Math.random() * HERO_IMAGES.length)]
+  const heroImage = HERO_IMAGES[0]
 
   return (
     <>
