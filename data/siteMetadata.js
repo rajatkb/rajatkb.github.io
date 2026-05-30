@@ -17,9 +17,6 @@ const siteMetadata = {
   locale: 'en-US',
   stickyNav: false,
   analytics: {},
-  newsletter: {
-    provider: 'buttondown',
-  },
   comments: {
     provider: 'giscus',
     giscusConfig: {
