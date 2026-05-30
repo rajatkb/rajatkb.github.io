@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Rajat Kanti Bhattacharjee',
   author: 'Rajat Kanti Bhattacharjee',
   headerTitle: 'rajatkb',
-  description: 'Personal portfolio and research blog — machine learning, systems, and code demos',
+  description: 'Ads ML @ Roku. Building neural nets, systems, and things at the edge of curiosity.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://rajatkb.github.io',
