@@ -19,15 +19,15 @@ const projectsData: Project[] = [
     imgSrc: 'https://i.imgur.com/N8rGCsf.png',
   },
   {
-    title: 'ShareKBM',
-    description: `Open-source keyboard & mouse sharing software (Synergy alternative) written in Go. Cross-platform input forwarding with low-latency networking.`,
-    href: 'https://github.com/rajatkb/ShareKBM',
-  },
-  {
     title: 'DBPN — Deep Back-Projection Network',
     description: `Keras implementation of Deep Back-Projection Network for super-resolution. An alternative approach using iterative up-and-down projection stages.`,
     href: 'https://github.com/rajatkb/DBPN-Deep_Back_Projection_Network-Keras',
     imgSrc: 'https://i.imgur.com/CxDOxAQ.png',
+  },
+  {
+    title: 'redo-paper',
+    description: `Reproducing research papers from scratch. Code and model weights for various papers — mostly code since I don't have tons of H100s with me.`,
+    href: 'https://github.com/rajatkb/redo-paper',
   },
   {
     title: 'Go Promise',
@@ -35,9 +35,9 @@ const projectsData: Project[] = [
     href: 'https://github.com/rajatkb/go-promise',
   },
   {
-    title: 'Conference Notify',
-    description: `Web app aggregating conference CFPs and deadlines. Users discover, track, and get notified about relevant academic conferences and submission deadlines.`,
-    href: 'https://github.com/rajatkb/Conference-Notify',
+    title: 'Go Skip List',
+    description: `Skip list data structure implementation in Golang. A probabilistic alternative to balanced trees with O(log n) search, insert, and delete operations.`,
+    href: 'https://github.com/rajatkb/go-skiplist',
   },
 ]
 
