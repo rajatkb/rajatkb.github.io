@@ -1,7 +1,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Rajat Kumar Behera',
-  author: 'Rajat Kumar Behera',
+  title: 'Rajat Kanti Bhattacharjee',
+  author: 'Rajat Kanti Bhattacharjee',
   headerTitle: 'rajatkb',
   description: 'Personal portfolio and research blog — machine learning, systems, and code demos',
   language: 'en-us',
