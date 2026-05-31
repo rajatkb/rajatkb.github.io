@@ -103,6 +103,8 @@ export default function Projects() {
                 description={d.description}
                 imgSrc={d.imgSrc}
                 href={d.href}
+                year={d.year}
+                tags={d.tags}
               />
             ))}
           </div>
