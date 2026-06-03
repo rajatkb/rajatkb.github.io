@@ -32,27 +32,29 @@ const Card = ({ title, description, imgSrc, href, year, tags }) => (
             unoptimized
           />
         ))}
-      <div className="p-6">
-        <div className="mb-2 flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
-          {year && <span>{year}</span>}
-          {tags && tags.length > 0 && (
-            <div className="flex flex-wrap gap-1">
-              {tags.map((tag) => (
-                <Tag key={tag} text={tag} />
-              ))}
-            </div>
-          )}
+      <div className="flex h-full flex-col p-6">
+        <div className="flex-1">
+          <div className="mb-2 flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
+            {year && <span>{year}</span>}
+          </div>
+          <h2 className="mb-3 text-2xl leading-8 font-bold tracking-tight">
+            {href ? (
+              <Link href={href} aria-label={`Link to ${title}`}>
+                {title}
+              </Link>
+            ) : (
+              title
+            )}
+          </h2>
+          <p className="prose mb-3 max-w-none text-gray-500 dark:text-gray-400">{description}</p>
         </div>
-        <h2 className="mb-3 text-2xl leading-8 font-bold tracking-tight">
-          {href ? (
-            <Link href={href} aria-label={`Link to ${title}`}>
-              {title}
-            </Link>
-          ) : (
-            title
-          )}
-        </h2>
-        <p className="prose mb-3 max-w-none text-gray-500 dark:text-gray-400">{description}</p>
+        {tags && tags.length > 0 && (
+          <div className="flex flex-wrap gap-1.5 py-3">
+            {tags.map((tag) => (
+              <Tag key={tag} text={tag} />
+            ))}
+          </div>
+        )}
         {href && (
           <Link
             href={href}
