@@ -65,6 +65,10 @@
     border-color: var(--color-gray-200, currentColor);
   }
 
+  html {
+    transition: background-color 0.5s ease, color 0.5s ease;
+  }
+
   a,
   button {
     outline-color: var(--color-primary-500);
