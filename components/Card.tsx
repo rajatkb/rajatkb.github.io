@@ -29,7 +29,7 @@ const Card = ({ title, description, imgSrc, href, year, tags }) => (
             unoptimized
           />
         ))}
-      <div className="flex h-full flex-col p-6">
+      <div className="flex flex-col p-6">
         <div className="flex-1">
           <div className="mb-2 flex items-center gap-3 text-sm text-gray-500 dark:text-gray-400">
             {year && <span>{year}</span>}
