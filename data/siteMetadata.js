@@ -10,7 +10,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/rajatkb/rajatkb.github.io',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  email: 'rajatkumarbehera@gmail.com',
+  email: 'rajatk.dev@gmail.com',
   github: 'https://github.com/rajatkb',
   x: 'https://x.com/rajat_kb',
   linkedin: 'https://www.linkedin.com/in/rajatkb',
