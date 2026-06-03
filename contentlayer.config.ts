@@ -23,6 +23,7 @@ import rehypeCitation from 'rehype-citation'
 import rehypePrismPlus from 'rehype-prism-plus'
 import rehypePresetMinify from 'rehype-preset-minify'
 import siteMetadata from './data/siteMetadata'
+import projectsData from './data/projectsData'
 import { allCoreContent, sortPosts } from 'pliny/utils/contentlayer.js'
 import prettier from 'prettier'
 
@@ -85,9 +86,22 @@ function createSearchIndex(allBlogs) {
     siteMetadata?.search?.provider === 'kbar' &&
     siteMetadata.search.kbarConfig.searchDocumentsPath
   ) {
+    const searchContent = [
+      ...allCoreContent(sortPosts(allBlogs)),
+      ...projectsData.map((p) => ({
+        title: p.title,
+        summary: p.description,
+        date: `${p.year}-01-01`,
+        tags: p.tags,
+        draft: false,
+        layout: 'project',
+        slug: p.href,
+        path: p.href,
+      })),
+    ]
     writeFileSync(
       `public/${path.basename(siteMetadata.search.kbarConfig.searchDocumentsPath)}`,
-      JSON.stringify(allCoreContent(sortPosts(allBlogs)))
+      JSON.stringify(searchContent)
     )
     console.log('Local search index generated...')
   }
