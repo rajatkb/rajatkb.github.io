@@ -3,6 +3,7 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import projectsData from '@/data/projectsData'
 import { formatDate } from 'pliny/utils/formatDate'
+import { ArrowRight } from 'lucide-react'
 
 const MAX_DISPLAY = 5
 
@@ -126,7 +127,10 @@ export default function Home({ posts }) {
                         href={item.href}
                         className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                       >
-                        {item.type === 'project' ? 'View project &rarr;' : 'Read more &rarr;'}
+                        <span className="inline-flex items-center gap-1">
+                          {item.type === 'project' ? 'View project' : 'Read more'}
+                          <ArrowRight size={14} className="inline-block" />
+                        </span>
                       </Link>
                     </div>
                   </div>
@@ -141,13 +145,19 @@ export default function Home({ posts }) {
           href="/projects"
           className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
         >
-          All Projects &rarr;
+          <span className="inline-flex items-center gap-1">
+            All Projects
+            <ArrowRight size={14} className="inline-block" />
+          </span>
         </Link>
         <Link
           href="/blog"
           className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
         >
-          All Posts &rarr;
+          <span className="inline-flex items-center gap-1">
+            All Posts
+            <ArrowRight size={14} className="inline-block" />
+          </span>
         </Link>
       </div>
     </>

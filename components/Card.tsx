@@ -1,6 +1,7 @@
 import Image from './Image'
 import Link from './Link'
 import Tag from './Tag'
+import { ArrowRight } from 'lucide-react'
 
 const Card = ({ title, description, imgSrc, href, year, tags }) => (
   <div className="md max-w-[544px] p-4 md:w-1/2">
@@ -58,7 +59,10 @@ const Card = ({ title, description, imgSrc, href, year, tags }) => (
             className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-base leading-6 font-medium"
             aria-label={`Link to ${title}`}
           >
-            Learn more &rarr;
+            <span className="inline-flex items-center gap-1">
+              Learn more
+              <ArrowRight size={14} className="inline-block" />
+            </span>
           </Link>
         )}
       </div>

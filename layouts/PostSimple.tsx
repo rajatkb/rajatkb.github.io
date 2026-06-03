@@ -8,6 +8,7 @@ import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
 import siteMetadata from '@/data/siteMetadata'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import { ArrowRight } from 'lucide-react'
 
 interface LayoutProps {
   content: CoreContent<Blog>
@@ -68,7 +69,10 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
                       className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                       aria-label={`Next post: ${next.title}`}
                     >
-                      {next.title} &rarr;
+                      <span className="inline-flex items-center gap-1">
+                        {next.title}
+                        <ArrowRight size={14} className="inline-block" />
+                      </span>
                     </Link>
                   </div>
                 )}
