@@ -81,7 +81,7 @@ async function createTagCount(allBlogs) {
   writeFileSync('./app/tag-data.json', formatted)
 }
 
-function createSearchIndex(allBlogs) {
+function createSearchIndex(allBlogs, allVaultNotes: any[] = []) {
   if (
     siteMetadata?.search?.provider === 'kbar' &&
     siteMetadata.search.kbarConfig.searchDocumentsPath
@@ -98,6 +98,18 @@ function createSearchIndex(allBlogs) {
         slug: p.href,
         path: p.href,
       })),
+      ...allVaultNotes
+        .filter((n) => n.draft !== true)
+        .map((n) => ({
+          title: n.title,
+          summary: n.summary || '',
+          date: n.date,
+          tags: n.tags || [],
+          draft: false,
+          layout: 'note',
+          slug: n.slug,
+          path: n.path,
+        })),
     ]
     writeFileSync(
       `public/${path.basename(siteMetadata.search.kbarConfig.searchDocumentsPath)}`,
@@ -161,9 +173,38 @@ export const Authors = defineDocumentType(() => ({
   computedFields,
 }))
 
+export const VaultNote = defineDocumentType(() => ({
+  name: 'VaultNote',
+  filePathPattern: 'vault/**/*.{md,mdx}',
+  contentType: 'mdx',
+  fields: {
+    title: { type: 'string', required: true },
+    date: { type: 'date', required: true },
+    tags: { type: 'list', of: { type: 'string' }, default: [] },
+    lastmod: { type: 'date' },
+    draft: { type: 'boolean' },
+    summary: { type: 'string' },
+  },
+  computedFields: {
+    ...computedFields,
+    structuredData: {
+      type: 'json',
+      resolve: (doc) => ({
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: doc.title,
+        datePublished: doc.date,
+        dateModified: doc.lastmod || doc.date,
+        description: doc.summary,
+        url: `${siteMetadata.siteUrl}/${doc._raw.flattenedPath}`,
+      }),
+    },
+  },
+}))
+
 export default makeSource({
   contentDirPath: 'data',
-  documentTypes: [Blog, Authors],
+  documentTypes: [Blog, Authors, VaultNote],
   mdx: {
     cwd: process.cwd(),
     remarkPlugins: [
@@ -194,8 +235,8 @@ export default makeSource({
     ],
   },
   onSuccess: async (importData) => {
-    const { allBlogs } = await importData()
+    const { allBlogs, allVaultNotes } = await importData()
     createTagCount(allBlogs)
-    createSearchIndex(allBlogs)
+    createSearchIndex(allBlogs, allVaultNotes)
   },
 })

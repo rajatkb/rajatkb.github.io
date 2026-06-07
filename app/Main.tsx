@@ -96,7 +96,7 @@ export default function Home({ posts }) {
                     <dt className="sr-only">Date</dt>
                     <dd className="text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
                       <span>{item.year}</span>
-                      <span className="ml-2 text-xs uppercase tracking-wider text-primary-500">
+                      <span className="text-primary-500 ml-2 text-xs tracking-wider uppercase">
                         {item.type === 'project' ? 'Project' : 'Post'}
                       </span>
                     </dd>
@@ -105,10 +105,7 @@ export default function Home({ posts }) {
                     <div className="space-y-6">
                       <div>
                         <h2 className="text-2xl leading-8 font-bold tracking-tight">
-                          <Link
-                            href={item.href}
-                            className="text-gray-900 dark:text-gray-100"
-                          >
+                          <Link href={item.href} className="text-gray-900 dark:text-gray-100">
                             {item.title}
                           </Link>
                         </h2>
