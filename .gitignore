@@ -49,3 +49,6 @@ out/
 
 # KaTeX generated assets
 /public/css/
+
+# Obsidian vault settings
+data/vault/.obsidian/
