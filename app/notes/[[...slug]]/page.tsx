@@ -244,7 +244,9 @@ export const generateStaticParams = async () => {
   const folderParams = allFolderPaths().map((f) => ({
     slug: f.split('/').map((name) => decodeURI(name)),
   }))
-  return [...noteParams, ...folderParams]
+  // Root /notes/ page
+  const rootParam = { slug: undefined }
+  return [rootParam, ...noteParams, ...folderParams]
 }
 
 // ─── Page ─────────────────────────────────────────────────────────────

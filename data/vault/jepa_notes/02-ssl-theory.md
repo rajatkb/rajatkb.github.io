@@ -1,8 +1,8 @@
 ---
 title: "The Mathematics of Latent Prediction & Collapse in SSL"
 tags: [ssl, self-supervised-learning, theory, collapse, information-theory, jepa]
-created: 2026-06-07
-status: draft
+date: 2026-06-07
+draft: false
 aliases: [SSL Theory, Collapse Mathematics, Predictive SSL Theory]
 ---
 
