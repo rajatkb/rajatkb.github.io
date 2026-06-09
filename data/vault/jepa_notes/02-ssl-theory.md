@@ -6,8 +6,6 @@ draft: false
 aliases: [SSL Theory, Collapse Mathematics, Predictive SSL Theory]
 ---
 
-# The Mathematics of Latent Prediction & Collapse in Self-Supervised Learning
-
 ## Overview
 
 This note develops the mathematical theory underlying Self-Supervised Learning, with a focus on **predictive SSL** — methods that learn representations by predicting one view from another in latent space. We cover:

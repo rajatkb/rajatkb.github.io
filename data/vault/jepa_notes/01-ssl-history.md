@@ -6,8 +6,6 @@ lastmod: 2026-06-07
 draft: false
 ---
 
-# Self-Supervised Learning: A Historical Arc to JEPA
-
 ## Overview
 
 This note traces the evolution of Self-Supervised Learning (SSL) in computer vision, building a proper **timeline** that distinguishes between **Generative SSL** (predicting pixels/data) and **Predictive SSL** (predicting in latent space). The Joint-Embedding Predictive Architecture (JEPA) belongs firmly to the Predictive SSL lineage — a lineage that goes back much further than is commonly acknowledged.
