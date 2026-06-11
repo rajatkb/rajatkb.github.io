@@ -104,6 +104,10 @@ This era is almost entirely unknown to modern SSL practitioners. Yet it contains
 | Sec 2.4: PMIN as anti-collapse regularizer | SIGReg, LeJEPA | 2025 |
 | Explicit D_l term for collapse prevention | Variance regularization | 2022+ |
 | Symmetric (weight-sharing) architecture | Siamese networks | 1993+ |
+**Math (Predictability Maximization):**
+$$\mathcal{L} = \varepsilon M + (1 - \varepsilon) D_l$$
+$T_2$: minimize $\varepsilon M + (1-\varepsilon)D_l$ (predictor). $T_1$: minimize $\varepsilon M$ (encoder, asymmetric).
+*Latent learning:* $T_1$ encodes input $A$. $T_2$ sees $B$ (related), predicts $T_1$'s latent. $T_1$ makes representation predictable from $B$ while $D_l$ prevents collapse. Exactly JEPA's mechanism, 30 years earlier. Sec 2.1-2.4 = constrained variance (→VICReg), latent-predictor (→JEPA), Infomax (→Barlow Twins), adversarial anti-collapse (→SIGReg).
 
 **Key theoretical contributions:**
 1. **First clear framing of representation learning as predictability in latent space**
@@ -147,23 +151,37 @@ The era that most modern practitioners think of as the "start" of SSL.
 
 ### 4.1 Context Prediction — Doersch et al., ICCV 2015
 **arXiv:** [1505.05192](https://arxiv.org/abs/1505.05192)
-Predict spatial offset between two image patches. Forces understanding of object layout. Can be "hacked" via low-level texture cues.
+Predict spatial offset between two image patches.
+**Math:** Multi-class cross-entropy over 8 spatial offsets:
+$$\mathcal{L} = -\mathbb{E}\left[\log \frac{e^{f(P_1, P_2)_r}}{\sum_{k=1}^8 e^{f(P_1, P_2)_k}}\right]$$
+*Latent learning:* CNN encoder learns object-part geometry. Latent = penultimate layer of spatial-relation classifier. Forces understanding of object layout. Can be "hacked" via low-level texture cues.
 
 ### 4.2 Colorization — Zhang et al., ECCV 2016
 **arXiv:** [1603.08511](https://arxiv.org/abs/1603.08511)
 Predict color from grayscale. Multi-modal prediction problem (many valid colors) → blurry averages. Generative SSL approach.
+**Math:** Multinomial cross-entropy over 313 quantized color bins:
+$$\mathcal{L} = -\sum_{h,w} v(Z_{h,w}) \sum_q Z_{h,w,q} \log \hat{Z}_{h,w,q}$$
+*Latent learning:* Cross-channel encoder (L → ab). Semantic features emerge because color prediction requires object recognition.
 
 ### 4.3 Context Encoders (Inpainting) — Pathak et al., CVPR 2016
 **arXiv:** [1604.07379](https://arxiv.org/abs/1604.07379)
 Predict missing pixels conditioned on surrounding context. Uses both reconstruction + adversarial loss. Generative SSL.
+**Math:** $$\mathcal{L} = \lambda_{\text{rec}} \|M \odot (x - \hat{x})\|_2^2 + \lambda_{\text{adv}} \left(\mathbb{E}[\log D(x)] + \mathbb{E}[\log(1 - D(\hat{x}))]\right)$$
+*Latent learning:* Encoder compresses visible context into $z$; decoder reconstructs missing region. $z$ captures both local texture and global semantics.
 
 ### 4.4 Jigsaw Puzzles — Noroozi & Favaro, CVPR 2016
 **arXiv:** [1603.09246](https://arxiv.org/abs/1603.09246)
-Predict permutation of shuffled patches. Forces compositional/relational reasoning. Spatial SSL (predictive in the spatial layout sense, but classification-based rather than latent-space).
+Predict permutation of shuffled patches. Forces compositional/relational reasoning.
+**Math:** Multi-class over $P$ patch permutations:
+$$\mathcal{L} = -\mathbb{E}\left[\log \frac{e^{g([F_1,...,F_9])_p}}{\sum_{k=1}^P e^{g([F_1,...,F_9])_k}}\right],\; F_i = f_\theta(\tilde{P}_i)$$
+*Latent learning:* CFN encodes each patch independently. Features $F_i$ capture part semantics for determining spatial arrangement. Spatial SSL (predictive in the spatial layout sense, but classification-based rather than latent-space).
 
 ### 4.5 Rotation Prediction — Gidaris et al., ICLR 2018
 **arXiv:** [1803.07728](https://arxiv.org/abs/1803.07728)
 Predict 2D rotation applied to image. Forces understanding of canonical object orientation. Penalizes rotation invariance.
+**Math:** 4-way classification over rotations:
+$$\mathcal{L} = -\frac{1}{|X_i|} \sum_{x \in X_i} \log F_y(g(x|y)|\theta)$$
+*Latent learning:* Encoder learns canonical orientation. Latent = penultimate layer — discards rotation while retaining semantics needed for "up-ness."
 
 ### Theoretical Lessons from the Pretext Task Era
 1. **Shortcut learning is pervasive** — models find low-level shortcuts that let them "solve" pretext tasks without learning semantics
@@ -182,6 +200,10 @@ Predict 2D rotation applied to image. Forces understanding of canonical object o
 
 - Introduced **InfoNCE loss**: a contrastive loss that maximizes a lower bound on mutual information between context and future observations
 - **Predict future in latent space** using autoregressive models — a conceptual return to the world model idea but with modern machinery
+**Math (InfoNCE):**
+$$\mathcal{L}_N = -\mathbb{E}\left[\log \frac{\exp(z_{t+k}^\top W_k c_t)}{\sum_{x_j \in X} \exp(z_j^\top W_k c_t)}\right]$$
+Optimal critic $f^*(x,c)=p(x|c)/p(x)$ gives $I(x_{t+k};c_t) \geq \log N - \mathcal{L}_N$.
+*Latent learning:* Encoder $z_t$ + autoregressive $c_t$. InfoNCE forces $z_t$ to preserve info predictive of future — extracts slow features.
 - **Theoretical grounding:** contrastive learning = mutual information maximization between views
 
 ### 5.2 MoCo — Momentum Contrast (He et al., CVPR 2020)
@@ -189,18 +211,30 @@ Predict 2D rotation applied to image. Forces understanding of canonical object o
 - **Dictionary look-up** framing of contrastive learning
 - **Momentum encoder** + queue for large, consistent negative sample set
 - Does NOT cite PMAX or Becker & Hinton
+**Math (InfoNCE with queue + momentum encoder):**
+$$\mathcal{L}_q = -\log \frac{\exp(q \cdot k_+ / \tau)}{\sum_{i=0}^{65536} \exp(q \cdot k_i / \tau)}$$
+Momentum: $\theta_k \leftarrow 0.999\,\theta_k + 0.001\,\theta_q$.
+*Latent learning:* Dictionary look-up with $K=65536$ negatives from queue. Momentum encoder provides stable targets.
 
 ### 5.3 SimCLR — Simple Framework (Chen et al., ICML 2020)
 **arXiv:** [2002.05709](https://arxiv.org/abs/2002.05709)
 - No memory bank, no momentum — just large batch + aggressive augmentation + projection head
 - Key findings: 1) Augmentation composition is critical, 2) Projection head improves representations, 3) Larger batches help
 - **Theoretical tension:** The quality of representations depends *entirely* on hand-crafted data augmentations — a hidden form of supervision
+**Math (NT-Xent):**
+$$\ell_{i,j} = -\log \frac{\exp(\text{sim}(z_i,z_j)/\tau)}{\sum_{k=1}^{2N} \mathbb{1}_{[k\neq i]}\exp(\text{sim}(z_i,z_k)/\tau)}$$
+Gradient: $\nabla = \frac{1}{\tau}\frac{e^{u^\top v_+/\tau}}{Z(u)}v_+ - \sum_{v^-}\frac{e^{u^\top v^-/\tau}}{Z(u)}v^-$.
+*Latent learning:* Projector $g$ peels off augmentation info so $h=f(x)$ retains semantics. $\tau$ controls negative hardness.
 
 ### 5.4 SwAV — Swapped Clustering (Caron et al., NeurIPS 2020)
 **arXiv:** [2006.09882](https://arxiv.org/abs/2006.09882)
 - Instead of comparing features, compare **cluster assignments**
 - **Multi-crop** augmentation strategy — many low-resolution views
 - Bridges contrastive learning and prototype-based methods
+**Math (Swapped Prediction):**
+$$\mathcal{L}(z_t,z_s) = -\sum_k q_s^{(k)}\log p_t^{(k)} - \sum_k q_t^{(k)}\log p_s^{(k)}$$
+where $p^{(k)} = \text{softmax}(z^\top c_k/\tau)$, $q = \text{Sinkhorn-Knopp}(p)$.
+*Latent learning:* Compares cluster assignments (not features) across views. Prototypes $\{c_k\}$ are learnable centers.
 
 ### 5.5 BYOL — Bootstrap Your Own Latent (Grill et al., NeurIPS 2020)
 **arXiv:** [2006.07733](https://arxiv.org/abs/2006.07733)
@@ -210,12 +244,19 @@ Predict 2D rotation applied to image. Forces understanding of canonical object o
 - **The critical connection:** BYOL is the first method to **make PMAX work at scale on ImageNet** — specifically in the ε=1 regime (no explicit collapse prevention term)
 - BYOL's EMA + stop-gradient + predictor asymmetry = implicit anti-collapse toolkit
 - Michal Valko (BYOL lead, 2026): "BYOL first made the PMAX skeleton work at scale on ImageNet"
+**Math (MSE + predictor + EMA):**
+$$\mathcal{L}_\theta = \left\|\frac{q_\theta(z_\theta)}{\|q_\theta(z_\theta)\|} - \frac{z'_\xi}{\|z'_\xi\|}\right\|_2^2$$
+Online $f_\theta\to g_\theta\to q_\theta$, Target $f_\xi\to g_\xi$ (EMA: $\xi\leftarrow \tau\xi+(1-\tau)\theta$). Stop-gradient on target.
+*Latent learning:* $h_\theta=f_\theta(x)$ learned by predicting target's output. Predictor $q$ creates asymmetry — without it, collapse is immediate.
 
 ### 5.6 SimSiam — The Minimal Siamese (Chen & He, CVPR 2021)
 **arXiv:** [2011.10566](https://arxiv.org/abs/2011.10566)
 - Minimalist: stop-gradient is the **only** thing preventing collapse
 - Without stop-gradient → complete collapse in all experiments
 - Proposed **implicit EM interpretation** of stop-gradient
+**Math (Neg cosine + stop-gradient):**
+$$\mathcal{L} = \frac{1}{2}\mathcal{D}(p_1,\text{sg}(z_2)) + \frac{1}{2}\mathcal{D}(p_2,\text{sg}(z_1)),\; \mathcal{D}(p,z) = -\frac{p}{\|p\|}\cdot\frac{z}{\|z\|}$$
+*Latent learning:* Implicit EM: E-step fixes encoder, computes $\eta_x = \text{sg}(f(x_2))$; M-step minimizes $\mathbb{E}\|f_\theta(x_1)-\eta_x\|^2$. Collapse is stationary but not an attractor.
 
 ---
 
@@ -228,12 +269,18 @@ These methods explicitly regularize the representation to prevent collapse, retu
 - Cross-correlation matrix between two branches → identity matrix
 - Off-diagonal terms penalized (redundancy reduction)
 - **PMAX connection:** Michal Valko notes this is "literally Sec 2.3 of PMAX with a different name" (the Infomax section)
+**Math (Cross-correlation → Identity):**
+$$C_{ij} = \frac{\sum_b z_{b,i}^A z_{b,j}^B}{\sqrt{\sum_b (z_{b,i}^A)^2}\sqrt{\sum_b (z_{b,j}^B)^2}},\; \mathcal{L} = \sum_i (1-C_{ii})^2 + \lambda\sum_{i\neq j} C_{ij}^2$$
+*Latent learning:* Diagonal=1 forces invariance. Off-diagonal=0 decorrelates dimensions. Each dimension captures distinct info — redundancy reduction.
 
 ### 6.2 VICReg (Bardes et al., ICLR 2022)
 **arXiv:** [2105.04906](https://arxiv.org/abs/2105.04906)
 - Variance + Invariance + Covariance regularization
 - Explicit variance hinge prevents dimensional collapse
-- **PMAX connection:** "VICReg: variance hinge (Sec. 2.1) plus covariance penalty (Sec. 2.3) applied simultaneously, so indeed that paper is one section from PMAX"
+- **PMAX connection:** "VICReg: variance hinge (Sec. 2.1) plus covariance penalty (Sec. 2.3) applied simultaneously
+**Math (Variance + Invariance + Covariance):**
+$$\mathcal{L} = \lambda\frac{1}{N}\sum_i\|z_i-z'_i\|_2^2 + \mu\frac{1}{d}\sum_j\max(0,\gamma-\sqrt{\text{Var}(z_{:,j})+\epsilon}) + \nu\frac{1}{d}\sum_{i\neq j}[C(Z)]_{ij}^2$$
+*Latent learning:* Variance hinge forces std$_j\geq\gamma$ (anti-collapse). Covariance decorrelates dims. Each dim independently informative., so indeed that paper is one section from PMAX"
 
 ---
 
@@ -244,13 +291,21 @@ These methods explicitly regularize the representation to prevent collapse, retu
 - BERT-style masked prediction for vision
 - Predict **discrete visual tokens** (from dVAE tokenizer) — a generative SSL approach with discrete latent targets
 - First successful adaptation of masked language modeling to vision
+**Math (Masked image modeling with discrete tokens):**
+$$\mathcal{L} = -\mathbb{E}\left[\sum_{i\in M} \log p(z_i \mid \hat{x}_{I\setminus M})\right]$$
+where $z_i$ = dVAE discrete visual tokens.
+*Latent learning:* ViT encoder sees only unmasked patches. Predicts discrete token IDs for masked positions (classification, not regression).
 
 ### 7.2 MAE — Masked Autoencoders (He et al., CVPR 2022)
 **arXiv:** [2111.06377](https://arxiv.org/abs/2111.06377)
 - Mask 75% of patches, reconstruct **raw pixels** with asymmetric encoder-decoder
 - Masking ratio is the key: 75% prevents trivial interpolation
 - Despite predicting pixels (the least abstract target), it learns semantic representations because the task difficulty forces abstraction
-- **The paradox:** MAE shows that even a pure generative SSL objective can produce good representations — if the task is hard enough. This challenges the "predictive SSL is fundamentally better" narrative.
+- **The paradox:** MAE shows that even a pure generative SSL objective can produce good representations — if the task is hard enough.
+**Math (Pixel MSE with 75% masking):**
+$$\mathcal{L} = \frac{1}{|\mathcal{M}|}\sum_{i\in\mathcal{M}} \|x_i - \hat{x}_i\|_2^2$$
+Asymmetric encoder-decoder: encoder processes only visible patches.
+*Latent learning:* 75% masking prevents interpolation — must infer global structure. Despite pixel targets, task difficulty forces abstraction. This challenges the "predictive SSL is fundamentally better" narrative.
 
 ### 7.3 data2vec (Baevski et al., 2022)
 **arXiv:** [2202.03555](https://arxiv.org/abs/2202.03555)
@@ -258,6 +313,10 @@ These methods explicitly regularize the representation to prevent collapse, retu
 - Not a reconstruction method (predicts latent targets, not raw data)
 - Uses self-distillation (teacher-student with EMA)
 - **Conceptual bridge** between generative (masked prediction) and predictive (latent targets) SSL
+**Math (MSE in latent space, teacher-student):**
+$$\mathcal{L} = \frac{1}{|\mathcal{M}|}\sum_{i\in\mathcal{M}} \frac{\|y_i - e(x_i)\|_2^2}{\text{Var}(y)}$$
+Teacher (EMA) produces contextualized latent targets $y_i$ from unmasked input.
+*Latent learning:* Student predicts teacher's contextualized latents for masked positions — bridges generative masking and predictive SSL.
 
 ### 7.4 Theoretical Analysis of Masked Autoencoders & Masked Image Modeling
 
@@ -268,6 +327,8 @@ The success of MAE and MIM spawned a mini-literature trying to understand *why* 
 **arXiv:** [2208.04164](https://arxiv.org/abs/2208.04164)
 
 - **Core claim:** MIM implicitly learns **occlusion-invariant features** — representations that are stable under random patch removal
+- **Unified formulation:** MIM can be relaxed into equivalent siamese form:
+  $$\mathcal{L} = \underbrace{\mathbb{E}\left[\|f_\theta(x \odot M) - f_\xi(x)\|^2\right]}_{\text{occlusion invariance}} + \underbrace{\text{reconstruction term}}_{\text{auxiliary}}$$
 - **Unified framework:** By relaxing MIM into an equivalent siamese-like formulation, the paper shows MIM methods can be interpreted in a unified framework with conventional contrastive methods. The only differences are:
   - **(a) Data transformations** — what invariance to learn (occlusion vs color jitter/crop)
   - **(b) Similarity measurement** — how to compare representations
@@ -368,6 +429,10 @@ If the target representation doesn't matter much for MAE, then JEPA's choice to 
 - **Data-intrinsic view generation:** uses image structure (spatial masking), not hand-crafted augmentations
 - **Multi-scale prediction heads:** different blocks predict at different scales → semantic hierarchy
 - **Key design choice:** Target blocks must be large enough (semantic) and context block spatially distributed
+**Math (Multi-scale latent prediction):**
+$$\mathcal{L} = \sum_{k=1}^K \mathbb{E}\left[\|g_\phi^{(k)}(s_c) - \bar{s}_t^{(k)}\|_2^2\right]$$
+where $s_c = f_\theta(x|_{B_c})$, $\bar{s}_t^{(k)} = \bar{f}_\xi(x|_{B_t^{(k)}})$ (momentum encoder).
+*Latent learning:* Context encoder learns representations predictive of target blocks at multiple scales. No negatives — collapse prevented by EMA + predictor asymmetry. Multi-scale heads create semantic hierarchy.
 
 ### 9.2 V-JEPA (Bardes et al., 2024)
 **arXiv:** [2404.08471](https://arxiv.org/abs/2404.08471) — *Revisiting Feature Prediction for Learning Visual Representations from Video*
