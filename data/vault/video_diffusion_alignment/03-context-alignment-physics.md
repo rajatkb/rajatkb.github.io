@@ -2,7 +2,7 @@
 title: Video Alignment in Physics Context Alignment
 tags: [video-diffusion, alignment, physics, context-alignment, research]
 date: 2026-06-11
-status: draft
+draft: true
 ---
 
 # Video Alignment in Physics — Context Alignment
@@ -186,9 +186,9 @@ These are already documented in `01-landscape-alignment-detection.md`. Here we n
 #### SG-PVR (Jun 2026) — arXiv: 2606.11838
 - **Detection method:** Extract spatio-temporal scene graph from video → decompose prompt into atomic claims → verify each claim against scene graph
 - **Extension for Context Alignment:** The scene graph captures the static configuration. Could add *physical commonsense rules* to the verification step:
-  - Material compatibility rules: {glass} → {transparent, fragile}
-  - Scene compatibility: {indoor} → {walls, ceiling, furniture}
-  - Support physics: {A on B} → size(A) < size(B)
+  - Material compatibility rules: `{glass}` → `{transparent, fragile}`
+  - Scene compatibility: `{indoor}` → `{walls, ceiling, furniture}`
+  - Support physics: `{A on B}` → size(A) &lt; size(B)
 - **Key advantage:** Structured, debuggable, and each rule violation can be attributed to specific scene graph elements.
 
 ---
@@ -218,10 +218,10 @@ Extend the evaluation question approach with a *physics-aware question generator
 
 1. Extract scene graph from initial keyframe(s) — objects, materials, spatial relations, lighting cues
 2. Apply physical commonsense rules to the graph:
-   - Material compatibility: {glass} → {transparent, fragile, non-magnetic}
-   - Scene compatibility: {indoor setting} → {walls, ceiling, furniture}
-   - Support physics: {object A on object B} → size(A) < size(B), A above B
-   - Occlusion constraints: {opaque object A occludes B} → A is closer to camera than B
+   - Material compatibility: `{glass}` → `{transparent, fragile, non-magnetic}`
+   - Scene compatibility: `{indoor setting}` → `{walls, ceiling, furniture}`
+   - Support physics: `{object A on object B}` → size(A) &lt; size(B), A above B
+   - Occlusion constraints: `{opaque object A occludes B}` → A is closer to camera than B
 3. Flag any rule violations as context misalignment
 
 **Advantage:** More principled than QA-based — rules are explicit and debuggable

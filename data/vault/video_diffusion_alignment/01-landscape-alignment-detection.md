@@ -2,7 +2,7 @@
 title: Alignment Detection for Video Diffusion Models — Literature Landscape
 tags: [video-diffusion, alignment, detection, research]
 date: 2026-06-10
-status: draft
+draft: true
 ---
 
 # Alignment Detection for Video Diffusion Models — What Exists
