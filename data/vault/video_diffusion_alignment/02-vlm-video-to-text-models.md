@@ -2,7 +2,6 @@
 title: VLM & Video-to-Text Models for Scene Understanding — Capability Catalog
 tags: [video-diffusion, alignment, vlm, video-to-text, scene-understanding, research]
 date: 2026-06-11
-draft: true
 ---
 
 # VLM & Video-to-Text Models for Scene Understanding
