@@ -21,7 +21,6 @@ import rehypeKatex from 'rehype-katex'
 import rehypeKatexNoTranslate from 'rehype-katex-notranslate'
 import rehypeCitation from 'rehype-citation'
 import rehypePrismPlus from 'rehype-prism-plus'
-import rehypePresetMinify from 'rehype-preset-minify'
 import rehypeMermaid from 'rehype-mermaid'
 import siteMetadata from './data/siteMetadata'
 import projectsData from './data/projectsData'
@@ -233,7 +232,6 @@ export default makeSource({
       [rehypeCitation, { path: path.join(root, 'data') }],
       [rehypePrismPlus, { defaultLanguage: 'js', ignoreMissing: true }],
       rehypeMermaid,
-      rehypePresetMinify,
     ],
   },
   onSuccess: async (importData) => {
