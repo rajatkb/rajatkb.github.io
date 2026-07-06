@@ -1,0 +1,397 @@
+---
+title: 'ACL 2026 — Information Retrieval & Knowledge'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Information Retrieval & Knowledge
+**385 papers**
+
+- **EASE: Entity-Aware Sub-table Generation for Real-world Multi-table QA** — Myunghoon Kang, Dahyun Jung, Suhyune Son, Seonmin Koo, Changwoo Chun, Daniel Rim, Haeyoung Kwon, Yuna Hur, Heuiseok Lim
+- **Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation** — Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, Nils Feldhus, Christin Seifert, Hinrich Schuetze, Sebastian Möller, Vera Schmitt
+- **CLEAR: Cross-Lingual Enhancement in Retrieval via Reverse-training** — Seungyoon Lee, Minhyuk Kim, Seongtae Hong, Youngjoon Jang, Dongsuk Oh, Heuiseok Lim
+- **Aligning Language Models with Real-time Knowledge Editing** — Chenming Tang, Yutong Yang, Kexue Wang, Yunfang Wu
+- **MINTQA: A Multi-Hop Question Answering Benchmark for Evaluating LLMs on New and Long-tail Knowledge** — Jie He, Nan Hu, Wanqiu Long, Jiaoyan Chen, Jeff Z. Pan
+- **IntrAgent: An LLM Agent for Content-Grounded Information Retrieval through Literature Review** — Fengbo Ma, Zixin Rao, Xiaoting Li, Zhetao Chen, Hongyue Sun, Yiping Zhao, Xianyan Chen, Zhen Xiang
+- **AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering** — Zheyuan Zhang, Kaiwen Shi, Zhengqing Yuan, Zehong Wang, Tianyi Ma, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye
+- **FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation** — Gen Li, Peiyu Liu
+- **MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search** — Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao
+- **ReasonEmbed: Enhanced Text Embeddings for Reasoning-Intensive Document Retrieval** — Jianlyu Chen, Junwei Lan, Chaofan Li, Defu Lian, Zheng Liu
+- **PrefixNLI: Detecting Factual Inconsistencies as Soon as They Arise** — Sapir Harary, Eran Hirsch, Aviv Slobodkin, David Wan, Mohit Bansal, Ido Dagan
+- **RAM-SD: Retrieval-Augmented Multi-agent framework for Sarcasm Detection** — Ziyang Zhou, Ziqi Liu, Yan Wang, Yiming Lin, Yangbin Chen
+- **SAGE: A Search-AuGmented Evaluation of Large Language Models on Free‑Form QA** — Sher Badshah, Ali Emami, Hassan Sajjad
+- **Grammar Search for Multi-Agent Systems** — Mayank Singh, Vikas Yadav, Shiva Krishna Reddy Malay, Shravan Nayak, Sai Rajeswar, Sathwik Tejaswi Madhusudhan, Eduardo Blanco
+- **ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval** — David H. Yang, Yuxuan Zhu, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
+- **Act as you think: Reinforcing Consistent Reasoning in Medical Visual Question Answering** — Songtao Jiang, Yuan Wang, Ruizhe Chen, Yan Zhang, Ruilin Luo, Bohan Lei, Yeying Jin, Sibo Song, ZhiBo Yang, Jimeng Sun, Jian Wu, Zuozhu Liu
+- **CHIMERA: A Knowledge Base of Scientific Idea Recombinations for Research Analysis and Ideation** — Noy Sternlicht, Tom Hope
+- **Erasing Without Remembering: Implicit Knowledge Forgetting in Large Language Models** — Huazheng Wang, Yongcheng Jing, Haifeng Sun, Yingjie Wang, Jingyu Wang, Jianxin Liao, Dacheng Tao
+- **AraVQA: Building a New Arabic Factoid Visual Question Answering Dataset from Wikipedia** — Sultan Alrowili, Younes Samih, Abed Alhakim Freihat, Mathan Kumar Eswaran
+- **When Misinformation Speaks and Converses: Rethinking Fact-Checking in Audio Platforms** — Chaewan Chun, Delvin Ce Zhang, Dongwon Lee
+- **Does Self-Consistency Improve the Recall of Encyclopedic Knowledge?** — Sho Hoshino, Ukyo Honda, Peinan Zhang
+- **EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning** — Jiawei Liu, Qisi Chen, Jianshu Zhang, Quan Liu, Defu Lian
+- **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** — Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas
+- **MMSearch-R1: Incentivizing LMMs to Search** — Jinming Wu, Zihao Deng, Wei Li, Yiding Liu, Bo You, Bo Li, Zejun Ma, Ziwei Liu
+- **Thinking beyond the anthropomorphic paradigm benefits LLM research** — Lujain Ibrahim, Myra Cheng
+- **Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification** — Qisheng Hu, Quanyu Long, Wenya Wang
+- **EMCEE: Improving Multilingual Capability of LLMs via Bridging Knowledge and Reasoning with Extracted Synthetic Multilingual Context** — Hamin Koo, Jaehyung Kim
+- **Situated Embedding Models for Context-Aware Dense Retrieval** — Junjie Wu, Jiangnan Li, Yuqing Li, Lemao Liu, Liyan Xu, Jiwei Li, Dit-Yan Yeung, Jie Zhou, Mo Yu
+- **CiPO: Counterfactual Unlearning for Large Reasoning Models through Iterative Preference Optimization** — Junyi Li, Yongqiang Chen, Ningning Ding
+- **Towards Scalable Lifelong Knowledge Editing with Selective Knowledge Suppression** — Dahyun Jung, Jaewook Lee, Heuiseok Lim
+- **Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders** — Yupeng Hou, Jiacheng Li, Xiangjun Fu, Zhankui He, An Yan, Xiusi Chen, Julian McAuley
+- **CRAFT: Training-Free Cascaded Retrieval for Tabular QA** — Adarsh Singh, Kushal Raj Bhandari, Jianxi Gao, Soham Dan, Vivek Gupta
+- **KG-MuLQA: A Framework for KG-based Multi-Level QA Extraction and Long-Context LLM Evaluation** — Nikita Tatarinov, Vidhyakshaya Kannan, Haricharana Srinivasa, Arnav Raj, Harpreet Singh Anand, Varun Singh, Aditya Luthra, Ravij Lade, Agam Shah, Sudheer Chava
+- **Mitigating Context Interference for Reliable and Efficient Search Agents** — Boyang XUE, Bin Wu, Shuofei Qiao, Sheng Wang, Rui Wang, Yiming Du, Hongru WANG, Jeff Z. Pan, Emine Yilmaz, Kam-Fai Wong, Aldo Lipani
+- **Long Context Modeling with Ranked Memory-Augmented Retrieval** — Ghadir Alselwi, Hao Xue, Shoaib Jameel, Basem Suleiman, Flora Salim, Imran Razzak
+- **Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy** — Yi Jiang, Sendong Zhao, Jianbo Li, Haochun Wang, Lizhe Zhang, Yan Liu, Bing Qin
+- **Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** — Joonhyung Park, Jaeyun Song, Sihwan Park, Eunho Yang
+- **Mask-to-Correct⁺: Leveraging Retriever Diversity for Masking-guided Faithful Fact Correction** — Payel Santra, Lavisha Sharma, Madhusudan Ghosh, Partha Basuchowdhuri
+- **From Factuality to Meta-Factivity: A Cognitive Blueprint for Trustworthy LLMs** — Daohuan Liu, Lun Xia, Yuer Wang, Jiaoyang Su, Xuri Tang
+- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** — Woongyeong Yeo, Kangsan Kim, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang
+- **Disco-RAG: Discourse-Aware Retrieval-Augmented Generation** — Dongqi Liu, Hang Ding, Qiming Feng, Xurong Xie, Zhucun Xue, Chengjie Wang, Jian Li, Jiangning Zhang, Yabiao Wang
+- **Guaranteeing Knowledge Integration with Joint Decoding for Retrieval-Augmented Generation** — Zhengyi Zhao, Shubo Zhang, Zezhong Wang, Yuxi Zhang, Huimin Wang, Yutian Zhao, Yefeng Zheng, Binyang Li, Kam-Fai Wong, Xian Wu
+- **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning** — Bo Li, Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye
+- **Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with Constraints** — Zhenyun Yin, Shujie Wang, Xuhong Wang, Xingjun Ma, Yingchun Wang
+- **REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control** — Chuyi Kong, Wei Gao, Jing Ma, Hongzhan Lin, Yuxi Sun
+- **Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding** — Sensen Gao, Shanshan Zhao, Xu Jiang, Lunhao Duan, Yong Xien Chng, Qing-Guo Chen, Weihua Luo, Kaifu Zhang, Jia-Wang Bian, Mingming Gong
+- **Open Schrödinger’s Closed Box: Identifying Retrieval Augmented Generation in API-Accessible Large Language Model Services** — Yukun Jiang, Xinyue Shen, Michael Backes, Zheng Li, Yang Zhang
+- **D²Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning** — Kangcheng Luo, Tinglang Wu, Yansong Feng
+- **Enhancing Lexical Relation Mining with Structured Sememe Knowledge** — Hansi Wang, Qiliang Liang, Yue Wang, Yang Liu
+- **Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models** — Hao Fang, Xiaohang Sui, Hongyao Yu, Kuofeng Gao, Jiawei Kong, Sijin Yu, Bin Chen, Shutao Xia
+- **DPDV: Dual-Pathway and Dual-View Representation Learning for Bridging Information Asymmetry in Text-Video Retrieval** — Zequn Xie, Xin Liu, Fangming Feng, Boyun Zhang, Tao Jin
+- **Representation Interventions Enable Lifelong Knowledge Memory Control in LLMs** — Xuyuan Liu, Shengyu Chen, Xinshuai Dong, Yanchi Liu, Xujiang Zhao, Haoyu Wang, Yujun Yan, Haifeng Chen, Zhengzhang Chen
+- **LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation** — Yilin Xiao, Jin Chen, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang
+- **Incentivizing Parametric Knowledge via Reinforcement Learning with Verifiable Rewards for Cross-Cultural Entity Translation** — Jiang Zhou, Xiaohu Zhao, Xinwei Wu, Tianyu Dong, Hao Wang, Yangyang Liu, Heng Liu, Linlong Xu, Longyue Wang, Weihua Luo, Deyi Xiong
+- **Compete to Complete: Co-opetition Adversarial Learning for Retrieval-Augmented Generation** — Xin Liu, Yu-An Liu, Ruqing Zhang, Yixing Fan, Lixin Su, Jiafeng Guo, Xueqi Cheng
+- **FinSight: Towards Real-World Financial Deep Research** — Jiajie Jin, Yuyao Zhang, Yimeng Xu, Hongjin Qian, Yutao Zhu, Zhicheng Dou
+- **CiteGuard: Faithful Citation Attribution for LLMs via Retrieval-Augmented Validation** — Yee Man Choi, Xuehang Guo, Yi R. Fung, Qingyun Wang
+- **UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents** — Yifan Ji, Zhipeng Xu, Zhenghao Liu, Zulong Chen, Qian Zhang, Zhibo Yang, Junyang Lin, Yu Gu, Ge Yu, Maosong Sun
+- **FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents** — Chiwei Zhu, Benfeng Xu, Mingxuan Du, Shaohan Wang, Xiaorui Wang, Zhendong Mao, Yongdong Zhang
+- **StealthGraph: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation** — Huawei Zheng, Xinqi Jiang, Sen Yang, Shouling Ji, Yingcai Wu, Dazhen Deng
+- **Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search** — Wentao Shi, Zichun Yu, Fuli Feng, Xiangnan He, Chenyan Xiong
+- **DeReA: Improving Idiom Translation with Detect-Retrieve-Arbitrate Reasoning** — Rongqing Jiang, Xuebo Liu
+- **Don’t Be Misled by Style: A Style-Adaptive Reranker for Capturing Effective Knowledge in Retrieval-Augmented Generation** — Ruwen Zhang, Bo Liu, Shengxiang Zhang, Yida Chen, Hantao Zhao, Ding Ding, Jiahui Jin, Jiuxin Cao
+- **Text2Tabular – Reconstructing Tabular Research Data from Scientific Publications** — Jonas Gottal, Florian Matthes
+- **In-depth Research Impact Summarization through Fine-Grained Temporal Citation Analysis** — Hiba Arnaout, Noy Sternlicht, Tom Hope, Iryna Gurevych
+- **LAFaCT: Attribution-based Localization and Focused Sequential Analysis of Fact-Critical Tokens for Hallucination Detection** — Xin Wang, Jiahao Li, Licheng Zhang, Zhendong Mao
+- **STEM: Structure-Tracing Evidence Mining for Knowledge Graphs-Driven Retrieval-Augmented Generation** — Peng Yu, En Xu, Bin Chen, Haibiao Chen, Yinfei Xu
+- **LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues** — Fanyu Wang, Xiaoxi Kang, Paul Burgess, Aashish Srivastava, Chetan Arora, Adnan Trakic, Lay-Ki Soon, Md Khalid Hossain, Lizhen Qu
+- **AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering** — Taolin Zhang, Dongyang Li, Chen Chen, Qizhou Chen, Jiuheng Wan, Xiaofeng He, Chengyu Wang, Richang Hong
+- **From Completion to Editing: Unlocking Context-Aware Code Infilling via Search-and-Replace Instruction Tuning** — Jiajun Zhang, Zeyu Cui, Jiaxi Yang, Lei Zhang, Yuheng Jing, Zeyao Ma, Tianyi Bai, Zilei Wang, Qiang Liu, Liang Wang, Binyuan Hui, Junyang Lin
+- **ARK: Answer-Centric Retriever Tuning via KG-augmented Curriculum Learning** — Jiawei Zhou, Hang Ding, Haiyun Jiang
+- **A Survey of Large Language Model-Based Search Agents** — Yunjia Xi, Jianghao Lin, Yongzhao Xiao, Zheli Zhou, Rong Shan, Te Gao, Jiachen Zhu, Weiwen Liu, Yong Yu, Weinan Zhang
+- **InferenceDynamics: Adaptive LLM Routing through Structured Capability and Knowledge Profiling** — Haochen Shi, Tianshi Zheng, Weiqi Wang, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song
+- **ReportLogic: Evaluating Logical Quality in Deep Research Reports** — Jujia Zhao, Zhaoxin Huan, Zihan Wang, Xiaolu Zhang, Jun Zhou, Suzan Verberne, Zhaochun Ren
+- **MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution** — Zihan Wu, Jie Xu, Yun Peng, Chun Yong Chong, Xiaohua Jia
+- **Visual Attention Reasoning via Hierarchical Search and Self-Verification** — Wei Cai, Jian Zhao, Yuchen Yuan, Tianle Zhang, Ming Zhu, Haichuan Tang, Xuelong Li
+- **KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning** — Jingjiang Liu, Jia Zhu, Hanghui Guo, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu
+- **TRACE: Traversal Retrieval-Augmented Chain of Evidence for Document Understanding** — Liqi He, Zuchao Li, Hao Huang, Ping Wang
+- **FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph** — Xiang Li, Penglei Sun, Wanyun Zhou, Zikai Wei, Yongqi Zhang, Xiaowen Chu
+- **DREAM: Deep Research Evaluation with Agentic Metrics** — Elad Ben Avraham, ChangHao Li, Ron Dorfman, Roy Ganz, Oren Nuriel, Amir Dudai, Aviad Aberdam, Noah Flynn, Elman Mansimov, Aditya Kalyanpur, Ron Litman
+- **GKnow: Measuring the Entanglement of Gender Bias and Factual Gender** — Leonor Veloso, Hinrich Schütze
+- **Reinforcing Agentic Search Via Reward Density Optimization** — Kun Luo, Hongjin Qian, Zheng Liu, Ziyi Xia, Shitao Xiao, Zhao Cao, Siqi Bao, Jun Zhao, Kang Liu
+- **Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration** — Zijun Liu, Zhennan Wan, Peng Li, Ming Yan, Fei Huang, Yang Liu
+- **OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory** — Jinze Li, Yang Zhang, Xin Yang, Jiayi Qu, Jinfeng Xu, Shuo Yang, Junhua Ding, Edith Cheuk-Han Ngai
+- **Masked by Consensus: Disentangling Privileged Knowledge in LLM Correctness** — Tomer Ashuach, Liat Ein-Dor, Shai Gretz, Yoav Katz, Yonatan Belinkov
+- **Reasoning with Ontology Graph: Toward Type-Constrained Knowledge Graph Question Answering** — Yongxue Shan, Jie Peng, Zixuan Dong, Fei Hu, Xiaodong Wang
+- **All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection** — Yuechen Jiang, Zhiwei Liu, Yupeng Cao, Yueru He, Ziyang Xu, Chen Xu, Zhiyang Deng, Prayag Tiwari, Xi Chen, Alejandro Lopez-Lira, Jimin Huang, Junichi Tsujii, Sophia Ananiadou
+- **ODUTQA-MDC: A Task for Open-Domain Underspecified Tabular QA with Multi-turn Dialogue-based Clarification** — Zhensheng Wang, Zhanteng Lin, Wenmian Yang, Kun Zhou, Yiquan Zhang, Weijia Jia
+- **Learning from Contrasts: Synthesizing Reasoning Paths from Diverse Search Trajectories** — Peiyang Liu, Zhirui Chen, Xi Wang, Di Liang, Youru Li, Zhi Cai, Wei Ye
+- **Improving Retrieval-Augmented Generation without Taxonomy-based Error Categorization** — Gongbo Zhang, Yifan Peng, Chunhua Weng
+- **CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval** — Jiahui Geng, Fengyu Cai, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Alexander Pretschner, Heinz Koeppl, Fakhri Karray
+- **Lifting Optimized Binaries to Canonical Compiler IR via Structure-Aware Retrieval and Iterative Verification** — Xiaoao Zhu, Jie Ren, Zhiqiang Li, Jie Zheng, Zhanyong Tang, Zheng Wang
+- **Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs** — Haoyue Liu, Zhichao Wang, Yongxin Guo, Haoran Shou, Xiaoying Tang
+- **Exploring Layer Activation Dynamic of CoT via Knowledge Probe** — Chuanxin Zhang, Jiajun Liu, Yao He, Wenjun Ke, Peng Wang, Yankun Le, Sirui Liu, Zhaoyu Yang
+- **LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection** — Cheng Xu, Changhong Jin, Yingjie Niu, Nan Yan, Yuke Mei, Shuhao Guan, Liming Chen, Tahar Kechadi
+- **Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation** — Pingzhi Tang, Yiding Wang, Muhan Zhang
+- **Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation** — Wei Zhou, Bolei Ma, Annemarie Friedrich, Mohsen Mesgar
+- **Capability Decomposition for Unified Information Extraction via Hierarchical Mixture-of-Experts** — Jing Zhou, Peng Wang, Wenjun Ke, Jiajun Liu, Yao He
+- **A Scalable Multi-LLM Collaboration System with Retrieval-based Selection and Exploration-Exploitation-Driven Enhancement** — Shengji Tang, Jianjian Cao, Weihao Lin, Jiale Hong, Bo Zhang, Shuyue Hu, Lei Bai, Tao Chen, Wanli Ouyang, Peng Ye
+- **Making Large Language Models Efficient Dense Retrievers** — Yibin Lei, Shwai He, Ang Li, Andrew Yates
+- **Rethinking Table Pruning in TableQA: From Sequential Revisions to Gold Trajectory-Supervised Parallel Search** — Yu Guo, Shenghao Ye, Shuangwu Chen, Zijian Wen, Tao Zhang, Qirui Bai, Dong Jin, Yunpeng Hou, Huasen He, Jian Yang, Xiaobin Tan
+- **RoboFailRing: Retrieval-Augmented and Language Grounding Failure Detection for VLM-enabled Robotic Manipulation** — Chenduo Ying, Linkang Du, Yuanchao Shu, Peng Cheng
+- **DORA: A Dual-Objective Reinforcement Learning Framework for Effective and Efficient Multimodal Agentic Search** — Guangming Qin, Yuhao Deng, Yukun Zhao, Zhenyang Li, Junfeng Wang, Dawei Yin, Ye Yuan, Guoren Wang, Yizhou Yan, Chengliang Chai, Lei Cao
+- **Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision** — Bingsen Chen, Boyan Li, Ping Nie, Yuyu Zhang, Xi Ye, Chen Zhao
+- **Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation** — Yuhao Wang, Ruiyang Ren, Yucheng Wang, Wayne Xin Zhao, Jing Liu, Hua Wu, Haifeng Wang
+- **Can Factual Opinions Be Edited (Manipulated) in Large Language Models?** — Yuanpu Cao, Ziyi Yin, Fenglong Ma, Jinghui Chen
+- **How Tokenization Limits Phonological Knowledge Representation in Language Models and How to Improve Them** — Disen Liao, Freda Shi
+- **When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models** — Francesco Ortu, Zhijing Jin, Diego Doimo, Alberto Cazzaniga
+- **When Identity Skews Debate: Anonymization for Bias-Reduced Multi-Agent Reasoning** — Hyeong Kyu Choi, Jerry Zhu, Sharon Li
+- **ReFEree: Reference-Free and Fine-Grained Method for Evaluating Factual Consistency in Real-World Code Summarization** — Suyoung Bae, CheolWon Na, Jaehoon Lee, Yumin Lee, YunSeok Choi, Jee-Hyong Lee
+- **SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression** — Yiqiao Jin, Kartik Sharma, Vineeth Rakesh, Yingtong Dou, Menghai Pan, Mahashweta Das, Srijan Kumar
+- **MATCH: Modulating Attention via In‑Context Retrieval for Long‑Context Transformers** — Mafizur Rahman, Lijun Qian
+- **LiveCLKTBench: Towards Reliable Evaluation of Cross-Lingual Knowledge Transfer in Multilingual LLMs** — Linrui Ma, Chun Hei Lo, Xinyu Wang, Peng Lu, Xihao Yuan, Hanting Chen, Kai Han, Xinghao Chen, Chengjun Zhan, Hanlin xu, Yichun Yin, Lifeng Shang, Feng Wen, Boxing Chen, Yufei Cui
+- **CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs** — Shachar Don-Yehiya, Asaf Yehudai, Leshem Choshen, Omri Abend
+- **Autonomous Knowledge Graph Exploration with Adaptive Breadth-Depth Retrieval** — Priyaranjan Pattnayak, Apoorv Bhatia
+- **Retrieval Heads are Dynamic** — Zhongxing Zhang, Emily K. Vraga, Jisu Huh, Jaideep Srivastava
+- **Model Internal Sleuthing: Finding Lexical Identity and Inflectional Features in Modern Language Models** — Shuang Liu, Ruijia Zhang, Ruoyun Ma, Yujia Deng, Lanyi Zhu, Jiayu Li, Zelong Li, Zhibin Shen, Mengnan Du
+- **DMRetriever: A Family of Models for Improved Text Retrieval in Disaster Management** — Michael Li, Nishant Subramani
+- **Language Models Don’t Know What You Want: Evaluating Personalization in Deep Research Needs Real Users** — Rajen Chatterjee, Xintong Li, Paisarn Charoenpornsawat, Allen Lee
+- **MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs** — Yi Lin, Yihao Ding, Yonghui Wu, Yifan Peng
+- **Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph** — Tianyang Xu, Marcelo Sandoval-Castaneda, Karen Livescu, Greg Shakhnarovich, Kanishka Misra
+- **RExBench: Can coding agents autonomously implement AI research extensions?** — Lingxiao Guan, Yuanhao Huang, Jie Liu
+- **Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation** — Ruiyao Xu, Mihir Parmar, Tiankai Yang, Zhengyu Hu, Yue Zhao, Kaize Ding
+- **ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios** — Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Chen Chen, Dongjie Wang, Zijun Yao
+- **LOKA: Conflict-Aware LLM Knowledge Update with Adaptive Knowledge Memory** — Yilun Zhu, Yuan Zhuang, Nikhita Vedula, Dushyanta Dhyani, Shaoyuan Xu, Moyan Li, Mohsen Bayati, Bryan Wang, Shervin Malmasi
+- **PubMed Reasoner: Dynamic Reasoning-based Retrieval for Evidence-Grounded Biomedical Question Answering** — Dayu Wang, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, Deguo Xia, Jizhou Huang
+- **GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion** — Yiqing Zhang, Xiaozhong Liu, Fabricio Murai
+- **Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection** — Arash Asgari, Huan Wu, Amirreza Naziri, Mojtaba Kolahdouzi, Laleh Seyyed-Kalantari
+- **Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering** — Shangbin Feng, Wenxuan Ding, Alisa Liu, Zifeng Wang, Weijia Shi, Yike Wang, Shannon Zejiang Shen, Xiaochuang Han, Hunter Lang, Chen-Yu Lee, Tomas Pfister, Yejin Choi, Yulia Tsvetkov
+- **CaseFacts: A Benchmark for Legal Fact-Checking and Precedent Retrieval** — Ziyue Yan, Hongying Zan, Xinglin Lyu, Hongfei Xu
+- **SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion** — Avinash Amballa, Yashas Malur Saidutta, Chi-Heng Lin, Vivek Kulkarni, Srinivas Chappidi
+- **DiZiNER: Disagreement-guided Instruction Refinement via Simulating Pilot Annotation for Zero-shot Named Entity Recognition** — Wenxuan Xu, Arvind Pillai, Subigya Nepal, Amanda Collins, Daniel Mackin, Michael Heinz, Tess Griffin, Nicholas Jacobson, Andrew Campbell
+- **PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical Register Indexing** — Wen Huang, Yuchen Mao, Yanmin Qian
+- **LCR-RAG: Enhancing Logical Consistency in Retrieval-Augmented Generation via Neuro-symbolic Reinforcement Learning** — Yulong Wang, Yifei Fu, Jiayi Gao
+- **HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering** — Taehyeon Kim, Hyunsoo Lee, Youngsoo Jang, Moontae Lee
+- **Improving Autoformalization Using Direct Dependency Retrieval** — Fan Li, Yu Gu, Zhigang Wang, Fangling Leng, Zhenghao Liu, Ge Yu
+- **Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering** — Junru Song, Hengzhe Jin, Yucong Huang, Tingsong Jiang, Weien Zhou, Feifei Wang, Yang Yang, Ying Wen, Wen Yao
+- **Soft Orthogonal Low-Rank Adaptation for Knowledge Sharing in Large Language Model Continual Learning** — Lin Mu, Haiyang Wang, Li Ni, Lei Sang, Zhize Wu, Peiquan Jin, Yiwen Zhang
+- **ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering** — Yulong Wang, Siyu Zhao
+- **Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search** — Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Sumitra Ganesh
+- **SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation** — Wu Li, Yigeng Zhou, Zesheng Shi, Yequan Wang, Min Zhang, Jing Li
+- **Learning to Select: Query-Aware Adaptive Dimension Selection for Dense Retrieval** — Atsuki Yamaguchi, Maggie Mi, Nikolaos Aletras
+- **REG: Retrieval via Emotion Similarity for Guiding Empathetic Dialogue Generation** — Xinglang Zhan, Yunyao Zhang, ZeLiang Chen, Junqing Yu, Wei Yang, Zikai Song
+- **Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations** — Atsuki Yamaguchi, Terufumi Morishita, Aline Villavicencio, Nikolaos Aletras
+- **FACTrial: Factorized Clinical Contrastive Training for Scalable Patient-Trial Retrieval** — Geonhui Jang, Dongyoon Han, YoungJoon Yoo
+- **Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism** — Zhiyu Cao, Peifeng Li, Qiaoming Zhu
+- **Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering** — Yuhao Shen, Tianyu Liu, Junyi Shen, Jinyang Wu, Quan Kong, Huan Li, Cong Wang
+- **Identity-Robust Language Model Generation via Content Integrity Preservation** — Jiuyun Jiang, Yuecheng Hong, Bo Yang, Jin Yang, Guangxin Jiang, Xiaomeng Guo, Guang Xiao
+- **Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation** — Zeguan Xiao, Siqing Li, Yong Wang, Xuetao Wei, Jian Yang, Yun Chen, Guanhua Chen
+- **NOSE: Neural Olfactory-Semantic Embedding with Tri-Modal Orthogonal Contrastive Learning** — Xuanbai Ren, Luoda Tan, Pei Liu, Tengfei Ma, Xiangzheng Fu, Longyue Wang, Yiping Liu, Xiangxiang Zeng
+- **HiGoE: Hierarchical Graph of Evidence to Enhance Retrieval-Augmented Generation for Long-context Summarization** — Weitao Ma, Xiaocheng Feng, Lei Huang, Xiachong Feng, Zhanyu Ma, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He, Bing Qin
+- **STK-Adapter: Incorporating Evolving Graph and Event Chain for Temporal Knowledge Graph Extrapolation** — Cong Huy Nguyen, Son Dinh Nguyen, Guanlin Li, Tuan Dung Nguyen, Aditya Narayan Sankaran, Mai Huy Thong, Thanh Trung Nguyen, Mai Hong Son, Reza Farahbakhsh, Phi Le Nguyen, Noel Crespi
+- **Why LLMs Hallucinate on Structured Knowledge: A Mechanistic Analysis of Reasoning over Linearized Representations** — Mengzhuo Chen, Junjie Wang, Fangwen Mu, Yawen Wang, Zhe Liu, Huanxiang Feng, Qing Wang
+- **Benchmarking and Enabling Efficient Chinese Medical Retrieval via Asymmetric Encoders** — Shanghao Li, Jinda Han, Yibo Wang, Yuanjie Zhu, Zihe Song, Langzhou He, Kenan Kamel A Alghythee, Philip S. Yu
+- **CAKE: Causal-Guided Adaptive Knowledge Editing for LLMs** — Angqing Jiang, Jianlyu Chen, Zhefang, Yongcan Wang, Xinpeng Li, Keyu Ding, Defu Lian
+- **RARE: Redundancy-Aware Retrieval Evaluation Framework for High-Similarity Corpora** — Zhen Yang, Mingyang Zhang, Feng Chen, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen
+- **Zero-Shot Multimodal Retrieval with Multi-Scale Contextual Representations** — Shichen Li, Zhouyang Wang, Zhongqing Wang, Peifeng Li
+- **THOR: A Theta-Gamma Hierarchical Oscillatory Reasoning Framework for Multi-hop QA** — Shuyao Xiao, Shengling Wang, Ke Chao
+- **R^3AG: Retriever Routing for Retrieval-Augmented Generation** — Tian Lan, Yiqian Yang, Qianghuai Jia, Li Zhu, Hui Jiang, Hang Zhu, Weihua Luo, Longyue Wang
+- **ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation** — Rui Qian, Chuanhang Deng, Qiang Huang, Jian Xiong, Mingxuan Li, Yingbo Zhou, Wei Zhai, Jintao Chen, Dejing Dou
+- **Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval** — Tong Zhao, Yutao Zhu, Yucheng Tian, Zhicheng Dou
+- **AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora** — Gibson Nkhata, Uttamasha Anjally Oyshi, Quan Mai, Susan Gauch
+- **Unveiling the Unknown: Open-Set Entity Typing via Two-Stage Generation** — Shun Zou, Yong Wang, Zehui Chen, Lin Chen, Chongyang Tao, Feng Zhao, Xiangxiang Chu
+- **Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards** — Jonggeun Lee, Woojung Song, Jongwook Han, Haesung Pyun, Yohan Jo
+- **Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality** — Hongbo Jin, Kuanwei Lin, Wenhao Zhang, Yichen Jin, Ge Li
+- **Fisher-Driven Adaptive Locating for Knowledge Editing in Large Language Models** — Mengyu Bu, Yang Feng
+- **Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification** — Yeji Park, Jiwon Tark, Taesik Gong
+- **FlowSearch: Advancing Deep Research with Dynamic Structured Knowledge Flow** — Yangyi Fang, Haolin Shi
+- **TamEdit: Trajectory-Aware Meta-Learning for Specificity-Preserving Continual Knowledge Editing** — Yilun Liu, Chunguang Zhao, Mengyao Piao, Lingqi Miao, Shimin Tao, Minggui He, Chenxin Liu, Zhang Li, Mahongxia, Jiaxin Guo, Chen Liu, Liqun Deng, Jiansheng Wei, Xiaojun Meng, Fanyi Du, Daimeng Wei, Yanghua Xiao
+- **Query-Aware Knowledge Retrieval via Hyperbolic Structuring** — Xiaoyuan Li, Keqin Bao, Yubo Ma, Moxin Li, Wenjie Wang, Rui Men, Yichang Zhang, Fuli Feng, Dayiheng Liu
+- **ATIR: Towards Audio-Text Interleaved Contextual Retrieval** — Wenhan Liu, Xinyu Ma, Weiwei Sun, Yutao Zhu, Yuchen Li, Dawei Yin, Zhicheng Dou
+- **MAGIC: Deep Geometric Evolution with Structural Consensus for Temporal Knowledge Graph Reasoning** — Jeffrey George Wang, Jason Wang, Marvin Li, Seth Neel
+- **Efficient Prior-Guided Reasoning for Robust Retrieval-Augmented Generation under Conflicts** — Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao
+- **Bit-by-Bit: Progressive QAT Strategy with Outlier Channel Splitting for Stable Low-Bit LLMs** — Yujia Fu, Heming Zhong, Dan Huang, Yutong Lu
+- **BrowseComp-Plus: A Fair and Disentangled Evaluation Benchmark for Deep Search Agents** — Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Yian Wang, Qingyun Li, Yu Qiao, Zun Wang, Zichen DingBowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Yian Wang, Qingyun Li, Yu Qiao, Zun Wang, Zichen Ding
+- **LinkQA: Synthesizing Diverse QA from Multiple Seeds Strongly Linked by Knowledge Points** — Jiawei Chen, Yang Yang, Chao Yu, Yu Tian, Zhi Cao, Xue Yang, Linghao Li, Hang Su, Zhaoxia Yin
+- **Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval** — Xuemiao Zhang, Can Ren, Chengying Tu, Rongxiang Weng, Hongfei Yan, Jingang Wang, Xunliang Cai
+- **MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits** — Baixuan Li, Jialong Wu, Wenbiao Yin, Kuan Li, Zhongwang Zhang, Huifeng Yin, Zhengwei Tao, Liwen Zhang, Pengjun Xie, Jingren Zhou, Yong Jiang, Wentao Zhang, Zhiqiang Gao
+- **How Training Data Shapes the Use of Parametric and In-Context Knowledge in Language Models** — Tianwei Lan, Jiaqi Wu, Zeming Liu, Zhaoxin Fan, Haifeng Wang, Yuhang Guo
+- **Learning What to Ignore: Mitigating Negative Transfer in Medical Knowledge Fusion via Clinical Task-Adaptive Selection** — Junhong Lai, Shuzhong Lai, Yanhao Yu, Wanlin Chen, Chenyu Yan, Haifeng Li, Lin Yao, Yueming Wang
+- **AutoGraph-R1: End-to-End Reinforcement Learning for Knowledge Graph Construction** — Hao Gu, Lujun Li, Hao Wang, Lei Wang, Zheyu Wang, Bei Liu, Jiacheng Liu, Qiyuan Zhu, Sirui Han, Yike Guo
+- **Experience Retrieval-Augmentation with Electronic Health Records Enables Accurate Discharge QA** — Zhaohan Zhang, Ziquan Liu, Ioannis Patras
+- **ASTRA: Adaptive Semantic Tree Reasoning Architecture for Complex Table Question Answering** — Jinhong Jeong, Junghun Park, Youngjae Yu
+- **Mnemis: Dual-Route Retrieval on Hierarchical Graphs for Long-Term LLM Memory** — Bosi Wen, Yilin Niu, Cunxiang Wang, Xiaoying Ling, Ying Zhang, Pei Ke, Hongning Wang, Minlie Huang
+- **When TableQA Meets Noise: A Dual Denoising Framework for Complex Questions and Large-scale Tables** — KiJung Seo, Sehun Lim, Taeuk Kim
+- **Knowledge Beyond Language: Bridging the Gap in Multilingual Machine Unlearning Evaluation** — Xianzhen Luo, Wenzhen Zheng, Qingfu Zhu, Rongyi Zhang, Houyi Li, Siming Huang, YuanTao Fan, Wanxiang Che
+- **AT²PO: Agentic Turn-based Policy Optimization via Tree Search** — Shenghao Ye, Yu Guo, Dong Jin, Yuxiang Wang, Yikai Shen, Yunpeng Hou, Shuangwu Chen, Jian Yang, Xiaofeng Jiang
+- **KoCo: Conditioning Language Model Pre-training on Knowledge Coordinates** — Junkai Chen, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, Xin Zhou, Xing Hu, David Lo
+- **Attention as Selector: Unlocking VLM Attention for Long Document Page Retrieval** — San Kim, Gary Lee
+- **TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval** — Minfeng Zhu, Linxin Bao, Wei Chen, Linchao Zhu
+- **WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models** — Mingxiang Tao, Yu Tian, Wenxuan Tu, Yue Yang, Xue Yang, Xiangyan Tang
+- **Learning to Edit Knowledge via Instruction-based Chain-of-Thought Prompting** — Mingming Sun, Runze Jiang, Zhu zhangchenxi, Minlong Peng, Yunfeng Cai
+- **BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?** — Tianle Chen, Pengyu Cheng, Qiyuan Zhu, Jiacheng Wang, Bei Liu, Hao Gu, Ruijie Shen, Xiaofeng Hou, Sirui Han, Jiacheng Liu
+- **DFAMS: Dynamic-flow guided Federated Alignment based Multi-prototype Search** — Jian Xiong, Jingbo Zhou, Jingyong Ye, Qiang Huang, Dejing Dou
+- **Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents** — Junho Park, Dohoon Kim, Taesup Moon
+- **WebSynthesis: World Model-Guided Monte Carlo Tree Search for Efficient WebAgent Trajectory Synthesis** — Yingfeng Luo, Ziqiang Xu, Yuxuan Ouyang, MuRun Yang, DingYang Lin, Kaiyan Chang, Tong Zheng, Bei Li, Peinan Feng, Quan Du, Tong Xiao, JingBo Zhu
+- **Chart-MRAG: Benchmarking Multimodal Retrieval Augmented Generation on Chart-based Documents** — Xin Huang, Yan Hu, Yuejiao Gong, Xinglin Zhang
+- **AIRCoder: Adaptive Integration of Multi-dimensional Retrieval for Repository-level Code Completion** — Sua Lee, Sanghee Park, Jinbae Im
+- **Enhancing Agentic Textual Graph Retrieval with Synthetic Stepwise Supervision** — Di Zhang, Xun Wu, Shaohan Huang, Lingjie Jiang, Yaru Hao, Li Dong, Zewen Chi, Zhifang Sui, Furu Wei
+- **Cognitive Scaffold: From Fluid Context to Crystallized Memory for Long-Horizon DeepResearch Agents** — Chuanqi Shi, Miao Gao, Zhiqiang Gao
+- **Learning to Think on Hypergraph: HyperCoT for Structure-Guided N-ary Knowledge Graph Completion** — Hao Wang, Ziyi Ni, Huacan Wang, Pin Lyu, Lei Sha
+- **Re³: Relevance &amp; Recency Retrieval for Mitigating Temporal Hallucination** — Zeng You, Yaofo Chen, Qiuwu Chen, Ying Sun, Shuhai Zhang, Yingjian Li, Yaowei Wang, Mingkui Tan
+- **TeCES: Collaborative Geometric Knowledge Representation Framework under Evolving Fact Snapshots** — Zhihui Chen, Kai He, Qingyuan Lei, Bin Pu, Jian Zhang, Yuling Xu, Mengling Feng
+- **MicroC-KT: Modeling Community Effect via Learning Micro-Environment for Evidence-Grounded Explainable Knowledge Tracing** — Xu Zhang, Hao Li, Zhichao Lu
+- **Temp-R1: A Unified Autonomous Agent for Complex Temporal KGQA via Reverse Curriculum Reinforcement Learning** — Jiawei Cao, Jie Ouyang, Mingyue Cheng, Zhaomeng Zhou, Chunli Liu, Yupeng Li, Zirui Liu, Shijin Wang
+- **S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA** — Jiujiang Guo, Zhengliang Guo, Kai Wang, Meiyang Wang, Dehua Peng, Shaozu Yuan, Chengyin Hu, Shuan Ai, Yiwei Wei
+- **Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation** — Zhaoyan Gong, Zhiqiang Liu, Songze Li, Xiaoke Guo, Yuanxiang Liu, Xinle Deng, Zhizhen Liu, Lei Liang, Huajun Chen, Wen Zhang
+- **Reliable Evaluation Protocol for Low-Precision Retrieval** — Qianchi Zhang, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng
+- **VisRet: Visualization Improves Knowledge-Intensive Text-to-Image Retrieval** — Yanli Wang, Yanlin Wang, Bowen Zhang, Yiwei Zhang, Daya Guo, Jiachi Chen, Hongyu Zhang, Zibin Zheng
+- **Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection** — Jingjie Zeng, Huayang Li, Liang Yang, Yuanyuan Sun, Shaowu Zhang, Hongfei Lin
+- **SAFE-QAQ: End-to-End Slow-Thinking Audio-Text Fraud Detection via Reinforcement Learning** — Yanxu Mao, Peipei Liu, Tiehan Cui, Congying Liu, Mingzhe Xing, Datao You
+- **CIRAG: Construction–Integration Retrieval and Adaptive Generation for Multi-hop Question Answering** — Siran Liu, Guoxia Wang, Sa Wang, Jinle Zeng, Haoyang Xie, Siyu Lou, Jiabin Yang, Dianhai Yu, Haifeng Wang, Chao Yang
+- **Beyond Scaling: Measuring and Predicting the Upper Bound of Knowledge Retention in Language Model Pre-Training** — Arun Ramachandran, Govindarajan R, Murali Annavaram, Prakash Raghavendra
+- **TrendFact: A Benchmark Towards Hotspot Perception in Automatic Fact-Checking** — Yan Liu, Feng Zhang, Zhanyu Ma, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He, Han Liu, Yangdong Deng
+- **MPBoCo: Multimodal Prompt-based Boundary-enhanced Continual Framework for Joint Entity and Relation Extraction** — Zhewen Tan, Wenhan Yu, Jianfeng Si, Tongxin Liu, Kaiqi Guan, Huiyan Jin, Jiawen Tao, Xiaokun Yuan, Duohe Ma, Lin Sun, Tong Yang, Xiangzheng Zhang
+- **SGVEF-LOOP: Coverage-Guided Progressive Topological Exploration and Fact-Grounded Metamorphic Evaluation for MCP Agents** — Rhea Kapur, Robert Hawkins, Elisa Kreiss
+- **Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation** — Xilai Ma, Liye Zhao, Weijun Yao, Haibing Di, Wenya Wang, Jing Li
+- **Extending First-Order Logic for Factual Reasoning over Knowledge Graphs** — Jinliang Liu, Jiale Bai, Shaoning Zeng
+- **ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering** — Hao Zhou, Tianhao Li, Zhijun Wang, Shuaijie She, Linjuan Wu, Hao-Ran Wei, Baosong Yang, Jiajun Chen, Shujian Huang
+- **Attention Weights as an Indicator: Analyzing and Improving Document Utilization in Retrieval-Augmented Generation** — Seonjeong Hwang, Hyounghun Kim, Gary Lee
+- **DR-Arena: an Automated Evaluation Framework for Deep Research Agents** — Jing Jin, Yuhan Song, Wen Luo, Houfeng Wang
+- **CaRL-EM: Cost-Aware Reinforcement Learning for Entity Matching with LLMs** — Yuyi Zhang, Junle Liu, Peirong Zhang, Jianliang Liu, Zhenhua Yang, Lianwen Jin
+- **ToMMeR - Efficient Entity Mention Detection from Large Language Models** — Ao Sun, Xiaoyu Wang, Zhe Tan, Yu Li, Jiachen Zhu, Yuheng Jia, Shu Su
+- **Trust Within? Seek Beyond? Knowledge Boundary Aware Policy Optimization for Agentic Search** — Zhiheng Zhang, Yuanzhe Zhang, Bohan Yu, Daojian Zeng, Kang Liu, Jun Zhao
+- **RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension** — Aoyuan Jiang, Liang Hong, Haoxuan Liu, Rui Wang
+- **CompTab: A Comprehensive Benchmark for Real-World TableQA with Complex Reasoning and Irregular Tables** — Aafiya Hussain, Gaurav Srivastava, Alvi Ishmam, Zaber Hakim, Chris Thomas
+- **Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding** — Tao Feng, Xinke Jiang, Xinyan Hu, Yonggang Zhang, Zhen Tao, Wentao Zhang, Boyang Liu, Wenhao Jiang, Chao Wu
+- **Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos** — Yelin Chen, Fanjin Zhang, Suping Sun, Yunhe Pang, Yuanchun Wang, Jian Song, Xiaoyan Li, Lei Hou, Shu Zhao, Jie Tang, Juanzi Li
+- **Calibrated? Not for Everyone: How Sexual Orientation and Religious Markers Distort LLM Accuracy and Confidence in Medical QA** — Zhiyu Shen, Ziming Wu, Fuming Lai, ShaobingLian, Yanghui Rao
+- **Collaboration of Fusion and Independence: Hypercomplex-driven Robust Multi-Modal Knowledge Graph Completion** — Fengying Ye, Shanshan Wang, Lidia S. Chao, Derek F. Wong
+- **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution** — Zhiyu Shen, Jiyuan Liu, Yunhe Pang, Yanghui Rao, Fu Lee Wang, Jianxing Yu
+- **Semantic Hardness Is Not Visual Hardness: Sign-Aware Hard Negative Mining for Sign Language Retrieval** — Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang
+- **KoCo-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?** — Nicholas Moratelli, Christopher Davis, Leonardo F. R. Ribeiro, Bill Byrne, Gonzalo Iglesias
+- **FactVerse: A Benchmark for Factual Consistency in Interleaved Image–Text Generation** — Hao-Xiang Xu, Chong Deng, Jiaqing Liu, Wen Wang, Qian Chen, Lujia Bao, Xiangang Li, Zhen-Hua Ling
+- **It’s High Time: A Survey of Temporal Question Answering** — Yucheng Wang, Shen Yang, Jifan Yu, Haoxuan Li, Joy Jia Yin Lim, Daniel Zhang-Li, Huiqin LIU, Lei Hou, Juanzi Li, Bin Xu
+- **LLMs as Knowledge Graph Refiners: Mitigating Factual Inconsistencies in Generative Knowledge Extraction** — Dawei Wang, Di Zhao, Xinyuan Liu, Marci Chi Ma, Xiaoyang Liu, Chengming Zhou, Gary Ushaw, Richard Davison
+- **Mitigating Structural Knowledge Collapse in Domain-Specific LLMs via Morpheme-Aware KV-Aggregation** — Shuai Dong, Siyuan Wang, Xingyu Liu, Chenglin Li, Haowen Hou, Zhongyu Wei
+- **Zero-shot Jianzi Recognition as Structured Visual Information Extraction in Open Compositional Symbolic Systems** — Pengna Li, Kangyi Wu, Shaoqing Xu, Fang Li, Lin Zhao, Long Chen, Zhi-Xin Yang, Nanning Zheng
+- **Whose Facts Win? LLM Source Preferences under Knowledge Conflicts** — Donghyun Kim, Hyeongjun Yang, Seokju Hwang, Kyong-Ho Lee, Chanhee Lee
+- **Temporal Evidence Chain for Temporal Knowledge Graph Question Answering with Large Language Models** — Jakob Schuster, Vagrant Gautam, Katja Markert
+- **GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval** — Shihao Liu, Xiaofei Zhou, Bo Wang, Geyuan Zhang
+- **HiChunk: Evaluating and Enhancing Retrieval Augmented Generation with Hierarchical Chunking** — Zhihao Shuai, Yiyun Chen, Maolin Ma, Yutong Chen, Hanjia Qiu, Jing Xu, Ziye Chen, Weikai Yang
+- **Can LLMs Act as Historians? Evaluating Historical Research Capabilities of LLMs via the Chinese Imperial Examination** — Jiayi Zhang, Shu Yang, Junchao Wu, Derek F. Wong, Di Wang
+- **Spectral Characterization and Mitigation of Sequential Knowledge Editing Collapse** — Youngji Roh, Hyunjin Cho, Jaehyung Kim
+- **Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation** — Chao Xue, Yao Wang, Mengqiao Liu, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, Shuang Liang, Minlong Peng, Flora D. Salim
+- **Compressing LLM Knowledge into Graph Representations for Text-attributed Graphs Learning** — Tingyu Wu, Zhisheng Chen, Ziyan Weng, Shuhe Wang, Shuo Zhang, Sen Hu, Silin Wu, Qizhen Lan, Huacan Wang, Ronghao Chen
+- **End-to-End Optimization of LLM-Driven Multi-Agent Search Systems via Heterogeneous-Group-Based Reinforcement Learning** — Federico Ravenda, Seyed Ali Bahrainian, Daniele Montagnani, Antonietta Mira, Andrea Raballo
+- **CPR-RAG: Clinical Prior-Regularized Retrieval for Anatomy-Aware 3D CT Report Generation** — Junjun Pan, Yixin Liu, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan
+- **EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment** — Eric Onyame, Akash Ghosh, Subhadip Baidya, Sriparna Saha, Xiuying Chen, Chirag Agarwal
+- **QuantumQA: Enhancing Scientific Reasoning via Physics-Consistent Dataset and Verification-Aware Reinforcement Learning** — Janvijay Singh, Dilek Hakkani-Tür
+- **The “Knowledge–Behavior Gap” in Cultural Taboo Safety of Large Language Models** — Yixuan Nan, Xixun Lin, Yanmin Shang, Ge Zhang, Zheng Fang, Fang Fang, Yanan Cao
+- **MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection** — Bingbing Wang, Zhengda Jin, Bin Liang, Wenjie Li, Jing Li, Ruifeng Xu, Min Zhang
+- **Disentangling Reasoning Logic to Resolve Explicit Knowledge Conflicts** — Haibo Tong, Zeyang Yue, Feifei Zhao, Erliang Lin, Lu Jia, Ruolin Chen, Yinqian Sun, Qian Zhang, Yi Zeng
+- **When Does Mixing Help? Analyzing Query Embedding Interpolation in Multilingual Dense Retrieval** — Xianda Zheng, Zijian Huang, Meng-Fen Chiang, Jiamou Liu, Yuan Fang, Michael Witbrock, Kaiqi Zhao
+- **Piece of Table: A Divide-and-Conquer Approach for Selecting Subtables in Table Question Answering** — Fangyuan Li, Pengfei Li, Shijie Wang, Junqi Gao, Jianxing Liu, Biqing Qi, Yuqiang Li
+- **QA-MoE: Towards a Continuous Reliability Spectrum with Quality-Aware Mixture of Experts for Robust Multimodal Sentiment Analysis** — Chau Minh Pham, Jenna Russell, Dzung Pham, Mohit Iyyer
+- **Enhancing LLM-based Search Agents via Contribution Weighted Group Relative Policy Optimization** — Chenxi Lin, Zhuoren Jiang, Kaisong Song, Yiquan Wu
+- **Optimizing User Profiles via Contextual Bandits for Retrieval-Augmented LLM Personalization** — Ziwen Xu, Chenyan WU, Hengyu Sun, Haiwen Hong, Mengru Wang, Yunzhi Yao, Longtao Huang, Hui Xue, Shumin Deng, Zhixuan Chu, Huajun Chen, Ningyu Zhang
+- **Teaching Language Models to Check Grounded Claim Factuality with Human Test-Taking Strategies** — Yunbo Long, Yuhan Liu, Liming Xu
+- **Stress Testing Factual Consistency Metrics for Long-Document Summarization** — Yuxuan Ye, Raul Santos-Rodriguez, Edwin Simpson
+- **LLM-Generated Text May Harm Your Retrieval! A Robust Detection Strategy for Retrieval-Augmented Generation** — Lingrui Mei, Shenghua Liu, Yiwei Wang, Yuyao Ge, Baolong Bi, Jiayu Yao, Jun Wan, Ziling Yin, Jiafeng Guo, Xueqi Cheng
+- **The Retrieval Bottleneck: Scaling Laws for Reinforcement Learning in RAG** — Zhiyan Hou, Haiyun Guo, Haokai Ma, Yandu Sun, Yonghui Yang, Jinqiao Wang
+- **Generating then Refining for Reliable Knowledge Base Question Answering** — Zhaoheng Huang, Yutao Zhu, Ji-Rong Wen, Zhicheng Dou
+- **StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall** — Qihang Ai, Pi Bu, Yue Cao, Yingyao Wang, Jihao Gu, Jingxuan Xing, Zekun Zhu, Wei Jiang, Zhicheng Zheng, Jun Song, Yuning Jiang
+- **RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation** — Kai Wei, Yuwen Cui, Kehan Shen, Hua Wei, Guangjing Wang
+- **Behavior Knowledge Merge in Reinforced Agentic Models** — Tianhui Zhang, Bei Peng, Danushka Bollegala
+- **MARS²: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation** — Sathvik Nair, Byung-Doh Oh
+- **AdabNER: Arabic Digital Archive Books with Nested Entity Recognition** — Yihang Yao, Guangtao Zeng, Raina Wu, Yang Zhang, Ding Zhao, Zhang-Wei Hong, Chuang Gan
+- **Quantifying and Improving the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data** — Aya Mourad, Mustafa Jarrar
+- **Beyond Static Artifacts: An Evolutionary Framework for Synthetic Claim Generation** — Mohsen Hariri, Michael Hinczewski, Jing Ma, Vipin Chaudhary
+- **VC-Inspector: Advancing Reference-free Evaluation of Video Captions with Factual Analysis** — Cheng Wang, Qin Liu, Wenxuan Zhou, Muhao Chen
+- **Defense Against Knowledge Poisoning Attack on GraphRAG** — Parker Riley, Daniel Deutsch, Mara Finkelstein, Colten DiIanni, Juraj Juraska, Markus Freitag
+- **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Knowledge Poisoning Attacks** — Ayoub Hammal, Pierre Zweigenbaum, Caio Corro
+- **IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering** — Havva Alizadeh Noughabi, Fattane Zarrinkalam, Ali Dehghantanha
+- **MMSciCode: Real-world Evaluation of Multilingual Multi-Discipline Scientific Research Coding** — Taicheng Guo, Hai Wang, ChaoChun Liu, Mohsen Golalikhani, Xin Chen, Xiangliang Zhang, Chandan K. Reddy
+- **ART: Attention Replacement Technique to Improve Factuality in LLMs** — Sizhe Wang, Ziqi Xu, Claire Najjuuko, Charles Alba, Chenyang Lu
+- **GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents** — Viraaji Mothukuri, Reza M. Parizi
+- **DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality** — Gauri Kambhatla, Sanjana Gautam, Angela Zhang, Alexander Liu, Ravi Srinivasan, Junyi Jessy Li, Matthew Lease
+- **ClaimDB: A Fact Verification Benchmark over Large Structured Data** — Yunzhe Wang, Runhui Xu, Kexin Zheng, Tianyi Zhang, Jayavibhav Kogundi, Soham Hans, Volkan Ustun
+- **New Terms, New Toxicity: Consensus-based Chinese Neologism Toxicity Detection via Search-Augmented LLMs** — Shangjian Yin, Zhouxing Shi
+- **L2Dir: Integrating  L₂-Norm and Directional Alignment for Unsupervised Contrastive Representation Learning in Multimodal Retrieval** — Zhaofen Wu, Hanrong Zhang, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang
+- **TrustTable: A Neuro-Symbolic Auditing Framework for Faithful Table QA** — Chenyang Gu, Jiahao Cheng, Meicong Zhang, Pujun Zheng, Jinquan Zheng, Guoxiu He
+- **Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation** — Zongmin Li, Jian Su, Farah Benamara, Aixin Sun
+- **KG-ViP: Bridging Knowledge Grounding and Visual Perception in Multi-modal LLMs for Visual Question Answering** — Jingyao Liu
+- **Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation** — Zhiyang Li, Ao Ke, Yukun Cao, Xike Xie
+- **TIGER: Text-Informed Generalized Enzyme-Reaction Retrieval** — Yanbin Yin, Kun Zhou, Zhen Wang, Xiangdong Zhang, Yifei Shao, Shibo Hao, Yi Gu, Jieyuan Liu, Somanshu Singla, Tianyang Liu, Eric P. Xing, Zhengzhong Liu, Haojian Jin, Zhiting Hu
+- **Debate-of-Thoughts: Resolving Knowledge Conflicts in LLMs Through Internal Deliberation** — Wenrui Liao, Weihong Du, Yi Li, Hongru Liang, Wenqiang Lei
+- **GenomeQA: Benchmarking General Large Language Models for Genome Sequence Understanding** — Guocong Li, Qirui Hu, Ping Wang, Guofeng Zhang, Jian Wu, Hongxia Xu
+- **LLM-Powered Benchmark Factory: Reliable, Generic, and Efficient** — Michael Ginn, Lindia Tjuatja, Enora Rice, Ali Marashian, Maria Valentini, Jasmine Xu, Graham Neubig, Alexis Palmer
+- **COSMOS: Connectivity-Oriented Submodular Maximization for Optimal Subgraph Retrieval** — Chengye Wang, Lin Fu, Zexi Kuang, Yilun Zhao
+- **Structured Semantic Information Helps Retrieve Better Examples for In-Context Learning Applied to Few-Shot Relation Extraction** — Runxuan Liu, Xianhao Ou, Xinyan Ma, Jiyuan Wang, Jiafeng Liang, Jiaqi Li, Tao He, Zheng Chu, Rongchuan Mu, Zekun Wang, Baoxin Wang, Dayong Wu, Ming Liu, Shijin Wang, Guoping Hu, Bing Qin
+- **Knowledge-driven Augmentation and Retrieval for Integrative Temporal Adaptation** — Pengfeng Li, Chen Huang, Chaoqun Hao, Hongyao Chen, Xiao-Yong Wei, Wenqiang Lei, See-Kiong Ng
+- **PICTURE: Enhancing Theory-of-Mind in Large Language Models by Revealing, Not Hiding, Characters’ Lack of Knowledge** — Tianyi Men, Zhuoran Jin, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+- **Flow-Based Page Unique Semantic Mapping Architecture for Document Visual Question Answering** — Songhao Wu, Ang Lv, Ruobing Xie, Xingwu Sun, Di Wang, Rui Yan, Yankai Lin
+- **LangSAE Editing: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal** — Ziping Ye, Gourab Dey, Christos Christodoulopoulos, Charith Peris, Anil Ramakrishna, Weitong Ruan, Aram Galstyan, Kai-Wei Chang, Rahul Gupta, Ninareh Mehrabi
+- **Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation** — Jialiang Guo, Fucheng Xiong, Xu He, Haodong Zhao, Xingyang Li, Ke Zeng, Xunliang Cai
+- **Towards Explainable Diagnosis: A Self-learned Explanatory Knowledge Base Approach** — Khotso Selialia, Antoine Nzeyimana, Fatima M. Anwar
+- **Joint Knowledge Base Completion and Question Answering by Combining Large Language Models and Small Language Models** — Dongqi Huang, Tong Zhou, Zhuoran Jin, Shenghui Shi, Yujiao Mao, Kang Liu, Jun Zhao, Yubo Chen
+- **Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems** — Taiwei Shi, Zhuoer Wang, Longqi Yang, Ying-Chun Lin, Zexue He, Mengting Wan, Pei Zhou, Sujay Kumar Jauhar, Sihao Chen, Shan Xia, Hongfei Zhang, Jieyu Zhao, Xiaofeng Xu, Xia Song, Jennifer Neville
+- **Verbal-R3: Verbal Reranker as the Missing Bridge between Retrieval and Reasoning** — Zhuoyue Gao, Xiaohui Wang, Xiaocui Yang, Wen Zhang, Daling Wang, Shi Feng, Yifei Zhang
+- **MTR-Suite: A Framework for Evaluating and Synthesizing Conversational Retrieval Benchmarks** — Jiale Cheng, Yusen Liu, Xinyu Zhang, Yulin Fei, Wenyi Hong, Ruiliang Lyu, Weihan Wang, Zhe Su, Xiaotao Gu, Xiao Liu, Yushi Bai, Jie Tan, Hongning Wang, Minlie Huang
+- **Beyond Markovian Forgetfulness: Episodic Memory for Reasoning-Intensive Retrieval** — Juhyeong Kim, Gyunyeop Kim, Sangwoo Kang
+- **Adaptive Retrieval for Reasoning** — Anda Cao, Zhuo Gou, Yi Wang, Kaixuan Chen, Yu Wang, Can Wang, Mingli Song, Jie Song
+- **ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution** — Xuefei Wang, Haoyu Tang, Tianyuan Liang, Zhibin Wang, Yupeng Hu, Weili Guan
+- **LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning** — Jongho Kim, Jaeyoung Kim, Seung-won Hwang, Jihyuk Kim, Yu Jin Kim, Moontae Lee
+- **TH-RAG : Topic-Based Hierarchical Knowledge Graphs for Robust Multi-hop Reasoning in Graph-based RAG Systems** — Shouzheng Huang, Meishan Zhang, Baotian Hu, Min Zhang
+- **Execution as Verification: Fine-Grained Self-Correcting Reasoning for Complex KBQA** — Xinwei Li, Li Lin, Hui Jiao, Li Yao, Tien-Tsin Wong, Hanqian Wu
+- **Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities** — Minghan Zhang, Zhen Yang, Haodong Zou, Jie Chen, Zhen Duan, Shu Zhao
+- **Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting** — Jiashuo Wang, Duan Jiawen, Jian Wang, Kaitao Song, Chunpu Xu, Johnny K. W. Ho, Fenggang Yu, Johan F. Hoorn, Wenjie Li
+- **CheckRLM: Effective Knowledge–Thought Coherence Checking in Retrieval-Augmented Reasoning** — Jędrzej Warczyński, Ondrej Dusek, Mateusz Lango
+- **CAMEC: Complexity-Aware Multi-Expert Collaboration for Reliable Chinese Medical Question Answering** — Yuma Ichikawa, Naoya Takagi, Takumi Nakagawa, Yuzi Kanazawa, Akira Sakai
+- **Frame-Semantic Knowledge Injection for Event-Level Inference in LLMs** — Zhengpeng Shi, Yanpeng Zhao, Jianqun Zhou, Yuxuan Wang, Qinrong Cui, Wei Bi, Songchun Zhu, Bo Zhao, Zilong Zheng
+- **QuDAR: Query-Wise Dual-Perspective Adaptive Retrieval** — Zhihao Luo, Wentao Yan, Jingyu Gong, Min Wang, Zhizhong Zhang, Xuhong Wang, Yuan Xie, Xin Tan
+- **SPARKLE: A Structured and Plug-and-play Agentic Retrieval Policy for Adaptive RAG Models** — Hao Wu
+- **SciCoQA: Quality Assurance for Scientific Paper–Code Alignment** — Tinnakit Udsa, Can Udomcharoenchaikit, Patomporn Payoungkhamdee, Sarana Nutanong, Norrathep Rattanavipanon
+- **ReTraceQA: Evaluating Reasoning Traces of Small Language Models in Commonsense Question Answering** — Fengying Ye, Yanming Sun, Runzhe Zhan, Lidia S. Chao, Zheqi Zhang, Derek F. Wong
+- **MemCoRL: Alternating Co-Optimization of Memory Retrieval and Utilization via Collaborative Reinforcement Learning** — Yumeng Fu, Weitao Huang, Junjie Wu, Hao Teng, Meishan Zhang, Bingquan Liu
+- **Fast and Accurate Fisher-Guided Quantization via Efficient Kronecker Factorization** — Yilong Chen, Junyuan Shang, Yuchen Feng, Zhenyu Zhang, Naibin Gu, Ziqi Wang, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang
+- **REAL: REtrieval-reAsoning and Logic-constructed Attention Behaviors for Long-Context KV Cache Compression** — Yixiao Zhou, Dongzhou Cheng, Zhiliang Wu, Yi Yang, Yu Cheng, Hehe Fan
+- **HowToNarrate: A General-Domain Benchmark for Synchronized Video Narration with External Knowledge** — Mengjie Li, Yuan Feng, Xike Xie, William J. Song
+- **Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs’ Hallucinations** — Jinrui Wang, Zhenfeng Gao, Wendan Wang, Huili Wang, Zichen Qin, Linjie Zhu, Hongke Fu, Shangguang Wang, Tao Qi
+- **REaR : Retrieve, Expand and Refine for Effective Multitable Retrieval** — Di Wu, Jiaxin Fan, Chloe Gu, Guanbo Wang, Wei Yin, Wenhao Li, Bo Jin
+- **Beyond Experience Retrieval: Learning to Generate Utility-Optimized Structured Experience for Frozen LLMs** — Meiqi Chen, Fandong Meng, Jie Zhou
+- **KnowRL: Exploring Knowledgeable Reinforcement Learning for Factuality** — Bowei Zhang, Hanbing Liu, Qixin Tian, Siyu Chen, Ziyuan Wang, Qi Qi
+- **ASTRA: An Automated Framework for Strategy Discovery, Retrieval, and Evolution for Jailbreaking LLMs** — Shaofan Liu, Guoqiang Zhang, Shihan Dou, Huiyuan Zheng, Yiming Zhou, Junjie Ye, Shaowen Wang, Shichun Liu, Jiazheng Zhang, Tao Gui, Qi Zhang, Xuanjing Huang
+- **MedEinst: Benchmarking the Einstellung Effect in Medical LLMs through Counterfactual Differential Diagnosis** — Difan Jiao, Yilun Liu, Ye Yuan, Zhenwei Tang, Linfeng Du, Haolun Wu, Ashton Anderson
+- **Decoding-Unlearning: Fact Forgetting via Entropy-Guided Inference** — Shijia Lu, Fumiyo Fukumoto, Xiaoxi Huang, Yoshimi Suzuki
+- **Measuring Social Bias in Vision-Language Models with Face-Only Counterfactuals from Real Photos** — Yushuo Zheng, Huiyu Duan, Zicheng Zhang, Yucheng Zhu, Xiongkuo Min, Guangtao Zhai
+- **KASER: Knowledge-Aligned Student Error Simulator for Open-Ended Coding Tasks** — Manyi Zhang, Ji-Fu Li, Zhongao Sun, Haoli Bai, Hui-Ling Zhen, Zhenhua Dong, Xianzhi Yu
+- **Revisiting Evaluation of Question Answering Systems in Low-Resource Indic Languages: Bridging Human and Metric Alignment** — Woody Haosheng Gan, Deqing Fu, Julian Asilis, Ollie Liu, Vatsal Sharan, Robin Jia, Willie Neiswanger
+- **Afri-MCQA: Multimodal Cultural Question Answering for African Languages** — Kensuke Okada, Yui Furukawa, Kyosuke Bunji
+- **Structure Guided Retrieval-Augmented Generation for Factual Queries** — Junbo Qi, Yi Zhang, Hanchu Ni, Che Liu, Ruilin Yang, Zhiming Yao, Xiancong Ren, Liangjian Wen, Wei Ge, Yuya Ieiri, Osamu Yoshie, Yong Dai, Xiaozhu Ju
+- **MirrorQA: Benchmarking Multimodal LLMs on Mirror-Orientation Reasoning** — Eunseon Seong, Harim Lee, Dahye Kim, Changhyun Kim, Dong-Kyu Chae
+- **M³-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering** — Marc Brinner, Sina Zarrieß
+- **Knowledge-to-Verification: Exploring RLVR for LLMs in Knowledge-Intensive Domains** — Jihang Jin, Ronghao Chen, Hao Zhang, Ziyan Liu, Huacan Wang, Qi Ye, Jingping Liu
+- **Mind Reader: Latent User Demand-Guided Content Optimization for Generative Search Engine** — Ashley Lewis, Andrew Perrault, Eric Fosler-Lussier, Michael White
+- **Retrieval-Augmented Defense: Adaptive and Controllable Jailbreak Prevention for Large Language Models** — Zhonghang Yuan, Zhefan Wang, Fang Hu, Zihong Chen, Jinzhe Li, Gang Li, Jie Ying, Huanjun Kong, Songyang Zhang, Nanqing Dong
+- **Deep-Reporter: Deep Research for Grounded Multimodal Long-Form Generation** — Alessandro Corona Mendozza, Anders Søgaard
+- **Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks** — Tianjian Liu, Fanqi Wan, Jiajian Guo, Xiaojun Quan
+- **How Do Inpainting Artifacts Propagate to Language?** — Yifan Song, Wenxuan Shi, Brian Bailey, Tal August
+- **Failure Modes in Multi-Hop QA: The Weakest Link Effect and the Recognition Bottleneck** — Pratham Yashwante, Davit Abrahamyan, Shresth Grover, Sukruth Rao
+- **VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking** — Peyman Baghershahi, Gregoire Fournier, Pranav Nyati, Sourav Medya
+- **A Survey of Reasoning-Intensive Retrieval: Progress and Challenges** — Jiajun Zhang, Yuying Li, Zhixun Li, Xingyu Guo, Jingzhuo Wu, Leqi Zheng, Yiran Yang, Jianke Zhang, Qingbin Li, Shannan Yan, Changguo Jia, Junfei Wu, Zilei Wang, Qiang Liu, Liang Wang
+- **LOGICAL-COMMONSENSEQA: A Benchmark for Logical Commonsense Reasoning** — Saujas Vaduguru, Yilun Hua, Yoav Artzi, Daniel Fried
+- **Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework** — Yiyang Wei, Tingyu Song, Siyue Zhang, Yilun Zhao
+- **Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams** — Komal Kumar, Aman Chadha, Salman Khan, Fahad Shahbaz Khan, Hisham Cholakkal
+- **LogosKG: Hardware-Optimized Scalable and Interpretable Knowledge Graph Retrieval** — Yifeng Ding, Hung Le, Songyang Han, Kangrui Ruan, Zhenghui Jin, Varun Kumar, Zijian Wang, Anoop Deoras
+- **GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs** — Sheriff Issaka, Keyi Wang, Yinka Ajibola, Oluwatumininu Samuel-Ipaye, Zhaoyi Zhang, Nicte Aguillon Jimenez, Evans Kofi Agyei, Abraham Lin, Rohan Ramachandran, Sadick Abdul Mumin, Faith Nchifor, Mohammed Shuraim, Erick Rosas Gonzalez, Lieqi Liu, Sylvester Kpei, Jemimah Osei, Carlene Ajeneza, Persis Boateng, Prisca Adwoa Dufie Yeboah, Saadia Gabriel
+- **BioHiCL: Hierarchical Multi-Label Contrastive Learning for Biomedical Retrieval with MeSH Labels** — Muhammad Umer Sheikh, Khawar shehzad, Salman Khan, Fahad Shahbaz Khan, Muhammad Haris Khan
+- **Uncertainty-Aware Test-Time Search for Optimization Problem Solving** — Mert Inan, Malihe Alikhani, Anthony Sicilia
+- **GUIDE: Towards Scalable Advising for Research Ideas** — Radin Shayanfar, Chu Fei Luo, Rohan Bhambhoria, Samuel Dahan, Xiaodan Zhu
+- **HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference** — Yue Yang, Fan Yang, Yu Bai, Hao Wang
+- **ViLL-E: Video LLM Embeddings for Retrieval** — Zhiyuan Shi, Qibo Qiu, Feng Xue, Zhonglin Jiang, Li Yu, Jian Jiang, Xiaofei He, Wenxiao Wang
+- **LEAF: Knowledge Distillation of Text Embedding Models with Teacher-Aligned Representations** — Rui Li, Shuang Cao
+- **Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety** — Kunal Samanta, Faisal Shohan, Amine Trabelsi, Richard Khoury
+- **Understanding the Behaviors of Environment-aware Information Retrieval** — Weiyang Huang, Xuefeng Bai, Kehai Chen, Xinyang Chen, Yibin Chen, Weili Guan, Min Zhang
+- **Knowledge Vector of Logical Reasoning in Large Language Models** — Md Asiful Islam, Mihai Surdeanu
+- **Investigating Counterfactual Unfairness in LLMs towards Identities through Humor** — Ruifeng Yuan, Wanxing Chang, Weiwei Cao, Bowen Shi, Zhongyu Wei, Ling Zhang, Jianpeng Zhang
+- **POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering** — Zheng Luo, T Pranav Kutralingam, Ogochukwu N. Okoani, Wanpeng Xu, Hua Wei, Xiyang Hu
+- **INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs** — Zhiheng Xi, Dingwen Yang, Jiaqi Liu, Jixuan Huang, Jixuan Huang, Honglin Guo, Baodai Huang, Tinggang Chen, Qi Zhang, Zhonghang Lu, Chenyu Liu, Jiajun Sun, Jiazheng Zhang, Dingwei Zhu, Xin Guo, Junzhe Wang, Zhihao Zhang, Yuming Yang, Junjie Ye, Minghe Gao, Dongrui Liu, Jiaming Ji, Guohao Li, Tao Gui, Qi Zhang, Xuanjing Huang
+- **Temporal Leakage in Search-Engine Date-Filtered Web Retrieval: A Retrospective Forecasting Case Study** — Geonwoo Hong, Taehwan Kim
+- **HSGraphAgent: Knowledge-Graph-Guided Large Language Models for Harmonized System Code Classification** — Ali El Lahib, Ying-Jieh Xia, Zehan Li, Yuxuan Wang, Xinyu Pi
+- **Don’t Corrupt the Fact: A Trustworthy RAG Watermarking Framework based on Dual Factual Shield** — Jianzhe Chai, Yu Zhe, Jun Sakuma
+- **How Long Reasoning Chains Influence LLMs’ Judgment of Answer Factuality** — Ryoma Kumon, Hitomi Yanaka
+- **PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts** — Minzhu Tu, Shiyu Ni, Keping Bi
+- **Diagnosing and Remedying Representation Deficiencies for Deterministic Reasoning in KGQA** — *T
+- **Explaining Sources of Uncertainty in Automated Fact-Checking** — Shengjie Li, Vincent Ng
+- **Evaluating Structure-Aware Retrieval and Safety in Statute-Centric Legal QA** — Le Zhou, Feng Yao, Fengcai Qiao, Bo Xu, Fangyuan Wang, Boyan Xu
+- **SURE or Not? Investigating Semantic Understanding in Dense Retrieval Models** — Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, Linjian Meng, Jing Huo, Yang Gao
+- **Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing** — Xin Gao, Ruiyi Zhang, Meixi Du, Peijia Qin, Pengtao Xie
+- **FactCorrector: A Graph-Inspired Approach to Long-Form Factuality Correction of Large Language Models** — Erle Zhu, Dazhi Jiang, Yuan Wang, Xujun Li, Jiale Cheng, Yuxian Gu, Yilin Niu, Aohan Zeng, Jie Tang, Minlie Huang, Hongning Wang
+- **What Makes AI Research Replicable? Executable Knowledge Graphs as Scientific Knowledge Representations** — Xingyu Sui, Yanyan Zhao, Yulin Hu, Jiahe Guo, Weixiang Zhao, Bing Qin
+- **Factual Retrieval in LLMs Is a Redundant, Distributed and Non-Contiguous Process** — Lillian Sun, Martin Pawelczyk, Zhenting Qi, Aounon Kumar, Himabindu Lakkaraju
+- **Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact** — Pedro Calais, Janderson Santos, Anisio Lacera, Wagner Meira Jr.
+- **DREAM-S: Speculative Decoding with Searchable Drafting and Target-Aware Refinement for Multimodal Generation** — Alejandro Hernández-Cano, Alexander Hägele, Allen Hao Huang, Angelika Romanou, Antoni-Joan Solergibert, Barna Pásztor, Bettina Messmer, Dhia Garbaya, Eduard Frank Ďurech, Ido Hakimi, Juan Garcia Giraldo, Mete Ismayilzada, Negar Foroutan, Skander Moalla, Tiancheng Chen, Vinko Sabolčec, Yixuan Xu, Michael Aerni, Badr AlKhamissi, Inés Altemir Marinas, Mohammad Hossein Amani, Matin Ansaripour, Ilia Badanin, Harold Benoit, Emanuela Boros, Nicholas John Browning, Fabian Bösch, Maximilian Böther, Niklas Canova, Camille Challier, Clément Charmillot, Jonathan Coles, Jan Milan Deriu, Arnout Devos, Lukas Drescher, Daniil Dzenhaliou, Maud Ehrmann, Dongyang Fan, Simin Fan, Silin Gao, Miguel Gila, María Grandury, Diba Hashemi, Alexander Miserlis Hoyle, Jiaming Jiang, Mark Klein, Andrei Kucharavy, Anastasiia Kucherenko, Frederike Lübeck, Roman Machacek, Theofilos Ioannis Manitaras, Andreas Marfurt, Kyle Matoba, Simon Matrenok, Henrique Mendonça, Fawzi Roberto Mohamed, Syrielle Montariol, Luca Mouchel, Sven Najem-Meyer, Jingwei Ni, Gennaro Oliva, Matteo Pagliardini, Elia Palme, Andrei Panferov, Léo Paoletti, Marco Passerini, Ivan Pavlov, Auguste Poiroux, Kaustubh Ponkshe, Nathan Ranchin, Javier Rando, Mathieu Sauser, Jakhongir Saydaliev, Mukhammadali Sayfiddinov, Marian Schneider, Stefano Schuppli, Marco Scialanga, Andrei Semenov, Kumar Shridhar, Raghav Singhal, Anna Sotnikova, Alexander Sternfeld, Ayush Kumar Tarun, Paul Teiletche, Jannis Vamvas, Xiaozhe Yao, Hao Zhao, Alexander Ilic, Ana Klimovic, Andreas Krause, Caglar Gulcehre, David Rosenthal, Elliott Ash, Florian Tramèr, Joost VandeVondele, Livio Veraldi, Martin Rajman, Thomas C. Schulthess, Torsten Hoefler, Antoine Bosselut, Martin Jaggi, Imanol Schlag
+- **Revisiting Non-Verbatim Memorization in Large Language Models: The Role of Entity Surface Forms** — Long Trieu, Hieu Phi, Makoto Miwa
+- **ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks** — Shuyu Zhang, Yifan Wei, Jialuo Yuan, Xinru Wang, Yanmin Zhu, Bin Li, Yujie Liu
+- **Awakening Dormant Experts:Counterfactual Routing to Mitigate MoE Hallucinations** — Nabil Ibtehaz, Daisuke Kihara
+- **KARL: Reinforcement Learning for LLM Agents on Multi-Turn Knowledge-Intensive Agentic Tasks** — Jianyuan Zhong, Zeju Li, Zhijian Xu, Xiangyu Wen, Kezhi Li, Qiang Xu
+- **FIGMA: Towards FIne-Grained Music retrievAl** — Xuyang Zhi, Peilun Zhou, Chengqiang Lu, Hang Lv, Yiwei Liang, Rongyang Zhang, Yan Gao, Yi Wu, Yao Hu, Hongchao Gu, Defu Lian, Hao Wang, Enhong Chen
+- **Diving into the Decoding Space of Non-Autoregressive Models via Lexically Constrained Search** — Nishit Anand, Ashish Seth, Sreyan Ghosh, Dinesh Manocha, Ramani Duraiswami
+- **Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics** — YongKang Liu, Xingle Xu, Ercong Nie, Zijing Wang, Shi Feng, Daling Wang, Qian Li, Hinrich Schuetze
+- **MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation** — Kutay Acar, Gülşen Eryiğit

@@ -1,0 +1,280 @@
+---
+title: 'ACL 2026 — Efficiency & Inference'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Efficiency & Inference
+**268 papers**
+
+- **Your Inference Request Will Become a Black Box: Confidential Inference for Cloud-based Large Language Models** — Chung-ju Huang, Huiqiang Zhao, Yuanpeng He, Lijian Li, Wenpin Jiao, Zhi Jin, PeixuanChen, Leye Wang
+- **CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models** — Shengli Zhou, Xiangchen Wang, Guanhua Chen, Feng Zheng
+- **Your Reasoning Model Knows What Counts: Self-Guided Chain-of-Thought Pruning for Efficient Reasoning** — Zi-Ao Ma, Xian-Ling Mao, Tian Lan, Chen Xu, Zhijing Wu
+- **Efficient Provably Secure Linguistic Steganography via Range Coding** — Ruiyi Yan, Yugo Murawaki
+- **RoBSA: RoPE-based Blockwise Sparse Multi-head Latent Attention** — Xinyu Shi, Kairong Luo, Zhen Zheng, Wenguang Chen
+- **Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs** — Zifeng Cheng, Lingyun Qian, Zhiwei Jiang, Cong Wang, Yafeng Yin, Fei Shen, Ao Zhou, Qing Gu
+- **CachePrune: Teaching LLMs What Not to Follow via KV-Cache Editing** — Rui Wang, Junda Wu, Yu Xia, Tong Yu, Ruiyi Zhang, Ryan Rossi, Subrata Mitra, Lina Yao, Julian McAuley
+- **Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning** — Shuyao Xu, Cheng Peng, Jiangxuan Long, Weidi Xu, Wei Chu, Yuan Qi
+- **ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval** — David H. Yang, Yuxuan Zhu, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
+- **Explicit Trait Inference for Multi-Agent Coordination** — Suhaib Abdurahman, Etsuko Ishii, Katerina Margatina, Divya Bhargavi, Monica Sunkara, Yi Zhang
+- **CRISP: Persistent Concept Unlearning via Sparse Autoencoders** — Tomer Ashuach, Dana Arad, Aaron Mueller, Martin Tutek, Yonatan Belinkov
+- **LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification** — Penghui Yang, Cunxiao Du, Fengzhuo Zhang, Haonan Wang, Tianyu Pang, Chao Du, Bo An
+- **Mechanistic Interpretability Should Prioritize Feature Consistency in Sparse Autoencoders** — Xiangchen Song, Aashiq Muhamed, Yujia Zheng, Lingjing Kong, Zeyu Tang, Mona T. Diab, Virginia Smith, Kun Zhang
+- **EquivPruner: Boosting Efficiency and Quality in LLM-Based Search via Action Pruning** — Jiawei Liu, Qisi Chen, Jianshu Zhang, Quan Liu, Defu Lian
+- **LEASH: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model** — Yanhao Li, Lu Ma, Jiaran Zhang, Lexiang Tang, Wentao Zhang, Guibo Luo
+- **Two-Stage Regularization-Based Structured Pruning for LLMs** — Mingkuan Feng, Jinyang Wu, Siyuan Liu, Shuai Zhang, Hongjian Fang, Ruihan Jin, Feihu Che, Pengpeng Shao, Zhengqi Wen, Jianhua Tao
+- **SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization** — Wenxi Chen, Ruiqi Yan, Yushen Chen, Zhikang Niu, Ziyang Ma, Xiquan Li, Yuzhe Liang, Hanlin Wen, Shunshun Yin, Ming Tao, Xinsheng Wang, Xie Chen
+- **Optimizing Length Compression in Large Reasoning Models** — Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou
+- **Sparse Feature Coactivation Reveals Causal Semantic Modules in Large Language Models** — Ruixuan Deng, Xiaoyang Hu, Miles Gilberti, Shane Storks, Aman Taxali, Mike Angstadt, Chandra Sripada, Joyce Chai
+- **Mitigating Context Interference for Reliable and Efficient Search Agents** — Boyang XUE, Bin Wu, Shuofei Qiao, Sheng Wang, Rui Wang, Yiming Du, Hongru WANG, Jeff Z. Pan, Emine Yilmaz, Kam-Fai Wong, Aldo Lipani
+- **Saber: Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model in Code Generation** — Yihong Dong, Zhaoyu Ma, Xue Jiang, Zhiyuan Fan, Jiaru Qian, Yongmin Li, Jianha Xiao, Zhi Jin, Ge Li
+- **Debiased Orthogonal Boundary-Driven Efficient Noise Mitigation** — Hao Li, Jiayang Gu, Jingkuan Song, An Zhang, Lianli Gao
+- **Compressing then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding** — Da Li, Yuxiao Luo, Keping Bi, Jiafeng Guo, Wei Yuan, Biao Yang, Yan Wang, Fan Yang, Tingting Gao, Guorui Zhou
+- **SAGE: Sparse Adaptive Guidance for Dependency-Aware Tabular Data Generation** — Shuo Yang, Zheyu Zhang, Bardh Prenkaj, Gjergji Kasneci
+- **Native Hybrid Attention for Efficient Sequence Modeling** — Jusen Du, Jiaxi Hu, Zhang Tao, Weigao Sun, Yu Cheng
+- **Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods** — Chenfei Liao, Wensong Wang, Zichen Wen, Xu Zheng, Yiyu Wang, Haocong He, Yuanhuiyi Lyu, Lutao Jiang, Xin Zou, Yuqian Fu, Bin Ren, Linfeng Zhang, Xuming Hu
+- **Efficient Low-Resource Language Adaptation via Multi-Source Dynamic Logit Fusion** — Chen Zhang, Jiuheng Lin, Zhiyuan Liao, Yansong Feng
+- **Multi-Granularity Semantic Revision for Large Language Model Distillation** — Xiaoyu Liu, Yun Zhang, Wei Li, Simiao Li, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, Yunhe Wang
+- **AgentOCR: Reimagining Agent History via Optical Self-Compression** — Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
+- **Miner: Mining Intrinsic Mastery for Data-Efficient RL in Large Reasoning Models** — Shuyang Jiang, Yuhao Wang, Ya Zhang, Yanfeng Wang, Yu Wang
+- **TiKMiX: Efficient Semi-Dynamic Data Mixture via Data Influence for LLM Pre-training** — Yifan Wang, Binbin Liu, Fengze Liu, Yuanfan Guo, Jiyao Deng, Xuecheng Wu, Weidong Zhou, Xiaohuan Zhou, Taifeng Wang
+- **OCP: Outlier-Centric Probing for Dynamic Structured Pruning of LLMs** — Yang Ji, Ying Sun
+- **UniSpec: Training-Free Speculative Decoding for Robust LLM Acceleration Across Languages and Hardware** — Do Dinh Truong, Le Nguyen Khang, Nguyen Le Minh
+- **Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search** — Wentao Shi, Zichun Yu, Fuli Feng, Xiangnan He, Chenyan Xiong
+- **Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration** — Linhao Zhong, Linyu Wu, Wen Wang, Yuling Xi, Chenchen Jing, Jiaheng Zhang, Hao Chen, Chunhua Shen
+- **Calibrating Inference Time Alignment with Sequence-level Risk Accumulation** — Shanwen Tan, Ziyang Dong, Wei Ju, Yiwei Fu, Hao Wu, Kun Wang, Yifan Wang, Ziyue Qiao
+- **SharedRequest: Privacy-Preserving Model‑Agnostic Inference for Large Language Models** — Peihua Mai, Xuanrong Gao, Youlong Ding, Xianglong Du, Wei Liu, Yan Pang
+- **Efficient Learned Data Compression via Dual-Stream Feature Decoupling** — Huidong Ma, Xinyan Shi, Hui Sun, Xiaofei Yue, Xiaoguang Liu, Gang Wang, Wentong Cai
+- **MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning** — Tao Zhang, Ziqian Zeng, Hao Peng, Huiping Zhuang, Cen Chen
+- **When KV Cache Reuse Fails in Multi-Agent Systems: Cross-Candidate Interaction is Crucial for LLM Judges** — Sichu Liang, Zhenglin Wang, Chujiajia, Pengfei Xia, Hui Zang, Deyu Zhou
+- **Reducing Token Redundancy in LVLMs: A Systematic Review of Token Pruning Methods** — Hanzhang Yuan, Mengxuan Hu, Wenhao Zhang, Tianlong Wang, Zhongliang Zhou, Jiasen Lu, Sheng Li
+- **Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models** — Nianyi Lin, Jiajie Zhang, Lei Hou, Juanzi Li
+- **S2O: Early Stopping for Sparse Attention via Online Permutation** — Yu Zhang, Songwei Liu, Chenqian Yan, Sheng Lin, Beichen Ning, Fangmin Chen, Xing Wang
+- **HCSpec: Two-Tier Horizontal Cascade Speculative Decoding for High-Efficiency Large Language Model Inference** — Yizhou Zhang, Siming Chen, Hao Ye, Erhu Feng
+- **EfficientLLM: Unified Pruning-Aware Pretraining for Auto-Designed Compact Language Models** — Xingrun Xing, Zheng Liu, Shitao Xiao, Boyan Gao, Yiming Liang, Haokun Lin, Xianlin Zeng, Guoqi Li, Jiajun Zhang
+- **Dual Activation-Weight Sparsity: A Training-Free Framework for Efficient Large Language Model Compression** — Luoyang Sun, Guangyan Li, Cheng Deng, Haifeng Zhang, Jian Zhao, Yongqiang Tang, Wensheng Zhang, Jun Wang
+- **HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding** — Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu
+- **InferenceDynamics: Adaptive LLM Routing through Structured Capability and Knowledge Profiling** — Haochen Shi, Tianshi Zheng, Weiqi Wang, Baixuan Xu, Chunyang Li, Chunkit Chan, Tao Fan, Yangqiu Song
+- **ARCQuant: Boosting NVFP4 Quantization with Augmented Residual Channels for LLMs** — Haoqian Meng, Yilun Luo, Yafei Zhao, Wenyuan Liu, Peng Zhang, Xindian Ma
+- **Revisiting Model Interpolation for Efficient Reasoning** — Taiqiang Wu, Runming Yang, Tao Liu, Jiahao Wang, Ngai Wong
+- **SCVQ: Sparse-Compensated Vector Quantization for Large Language Models** — Zixuan Zhou, Yujun Diao, Zicheng Kong, Dehua Ma, Zhenbo Xu, Pei Pei Li, Zhaofeng He
+- **Efficient KL Divergence Estimation via Truncated Top-K Integration for Large Language Models** — Xinyuan Wang, Luozhijie Jin, Bo Wang, Yuan Li, Zhangyue Yin, Xipeng Qiu
+- **ContrastKV: Robust KV Cache Eviction via Contrastive Signal Fusion for Multi-Query Generalization** — Xingchi Chen, Peiyuan Zong, Ziqiang Gao, Qing Li, Yong Jiang, Fa Zhu, Hui Li
+- **VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models** — Huawei Ji, Yuanhao Sun, Yuan Jin, Cheng Deng, Jiaxin Ding, Luoyi Fu, Xinbing Wang
+- **Alloc-MoE: Budget-Aware Expert Activation Allocation for Efficient Mixture-of-Experts Inference** — Baihui Liu, Kaiyuan Tian, Wei Wang, Zhaoning Zhang, Linbo Qiao, Dongsheng Li
+- **Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs** — Libo Zhang, Zhaoning Zhang, Wangyang Hong, Peng Qiao, Dongsheng Li
+- **When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors** — Chenghao Yang, Yuning Zhang, Zhoufutu Wen, Tao Gong, Jiaheng Liu, Qi Chu, Nenghai Yu
+- **Distilling Large Embeddings via Hyperspherical Householder Quantization** — Yihang Wang, Bin Wu, Yueyang Su, Tianfu Zhang, Yiqi Du, Lei Yu, Jiafeng Guo, Xueqi Cheng
+- **InstructDiff: Domain-Adaptive Data Selection via Contrastive Entropy for Efficient LLM Fine-Tuning** — Junyou Su, He Zhu, Xiao Luo, Liyu Zhang, Hong-Yu Zhou, Yun Chen, Peng Li, Yang Liu, Guanhua Chen
+- **Jakiro: Boosting Speculative Decoding via Decoupled MoE** — Haiduo Huang, Fuwei Yang, Zhenhua Liu, Pengju Ren
+- **GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models** — Ziyang Wang, Jiangfeng Xiao, Chuan Xiao, Ruoxiang Li, Rui Mao, Jianbin Qin
+- **Sherry: Hardware-Efficient 1.25-Bit Ternary Quantization via Fine-grained Sparsification** — Hong Huang, Decheng Wu, Qiangqiang Hu, Guanghua Yu, Jinhai Yang, Jianchen Zhu, Xue Liu, Dapeng Wu
+- **Forest Before Trees: Latent Superposition for Efficient Visual Reasoning** — Yubo Wang, Juntian Zhang, Yichen Wu, Yankai Lin, Nils Lukas, Yuhan Liu
+- **Beyond Pedagogical Principles: Multi-Horizon Preference Optimization for Efficient Socratic Tutoring** — Xin Shi, Chao Zhang, Yifan Zhu, Xueqiao Zhang, Yawei Luo
+- **Protecting Language Models Against Unauthorized Distillation through Trace Rewriting** — Xinhang Ma, William Yeoh, Ning Zhang, Yevgeniy Vorobeychik
+- **Just Pass Twice: Efficient Token Classification with LLMs for Zero-Shot NER** — Ahmed Ewais, Ahmed Hashish, Amr Ali
+- **Evolving Sparsity: Leveraging Token Importance Dynamics for Efficient LLM Decoding with Sparse Attention** — Ruizi Han, Miao Zhang, Ziyue Qiao, Liqiang Nie
+- **From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents** — Niu Lian, Yuting Wang, Hanshu Yao, Jinpeng Wang, Bin Chen, Yaowei Wang, Min Zhang, Shu-Tao Xia
+- **Efficient Test-Time Scaling of Multi-Step Reasoning by Probing Internal States of Large Language Models** — Ekaterina Fadeeva, Tianyi Wu, Mubashara Akhtar, Jiaheng Zhang, Elliott Ash, Markus Leippold, Timothy Baldwin, See-Kiong Ng, Artem Shelmanov, Mrinmaya Sachan
+- **Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing** — Lingkun Long, Yushi Huang, Shihao Bai, Ruihao Gong, Jun Zhang, Ao Zhou, Jianlei Yang
+- **RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents** — Jize Wang, Han Wu, Zhiyuan You, Yiming Song, Yijun Wang, Zifei Shan, Yining Li, Songyang Zhang, Xinyi Le, Cailian Chen, Xinping Guan, Dacheng Tao
+- **From Form to Logic: Masked Reconstruction and Reasoning Distillation for Short Video Fake News Detection** — Qingyan Wang, Lianwei Wu, Botao Wang, Kang Wang, Yaxiong Wang
+- **Making Large Language Models Efficient Dense Retrievers** — Yibin Lei, Shwai He, Ang Li, Andrew Yates
+- **HeteroSpec: Leveraging Contextual Heterogeneity for Efficient Speculative Decoding** — Siran Liu, Yang Ye, Qianchao Zhu, Zane Cao, Yongchao He
+- **Rethinking Table Pruning in TableQA: From Sequential Revisions to Gold Trajectory-Supervised Parallel Search** — Yu Guo, Shenghao Ye, Shuangwu Chen, Zijian Wen, Tao Zhang, Qirui Bai, Dong Jin, Yunpeng Hou, Huasen He, Jian Yang, Xiaobin Tan
+- **HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference** — Bowen Zeng, Feiyang Ren, Jun Zhang, Xiaoling Gu, Ke Chen, Lidan Shou, Huan Li
+- **A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Task** — Shuzheng Si, Haozhe Zhao
+- **Vista-LLM: Decoupled Query-Guided Visual Token Pruning for Efficient Long-Video Large Language Models** — Zhenyu Li, Zuchao Li, Ping Wang, Lefei Zhang, Haojun Ai
+- **DORA: A Dual-Objective Reinforcement Learning Framework for Effective and Efficient Multimodal Agentic Search** — Guangming Qin, Yuhao Deng, Yukun Zhao, Zhenyang Li, Junfeng Wang, Dawei Yin, Ye Yuan, Guoren Wang, Yizhou Yan, Chengliang Chai, Lei Cao
+- **Learning While Staying Curious: Entropy-Preserving Supervised Fine-Tuning via Adaptive Self-Distillation for Large Reasoning Models** — Hao Wang, Hao Gu, Hongming Piao, Kaixiong Gong, Yuxiao Ye, Xiangyu Yue, Sirui Han, Yike Guo, Dapeng Wu
+- **SpiderFlow: Efficient Topology-Aware Scheduling for LLM Training Across Decentralized GPU Clusters** — Zihan Chang, Shuibing He, Bo Zhou, Sheng Xiao, Siling Yang, Rui Wang, Zhe Pan
+- **Prune as You Generate: Online Rollout Pruning for Faster and Better RLVR** — Haobo Xu, Sirui Chen, Ruizhong Qiu, Yuchen Yan, Chen Luo, Monica Cheng, Jingrui He, Hanghang Tong
+- **Powerful Training-Free Membership Inference Against Fine-Tuned Autoregressive Language Models** — David Ilić, David Stanojević, Kostadin Cvejoski
+- **Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction** — Yuanfei Wang, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
+- **SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression** — Yiqiao Jin, Kartik Sharma, Vineeth Rakesh, Yingtong Dou, Menghai Pan, Mahashweta Das, Srijan Kumar
+- **For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs** — Wenlong Deng, Qi Zeng, Jiaming Zhang, Minghui Chen, Zixin Ding, Christos Thrampoulidis, Boying Gong, Xiaoxiao Li
+- **Find Your Optimal Teacher: Personalized Data Synthesis via Router-Guided Multi-Teacher Distillation** — Hengyuan Zhang, Shiping Yang, Xiao Liang, Chenming Shang, Yuxuan Jiang, Chaofan Tao, Jing Xiong, Hayden Kwok-Hay So, Ruobing Xie, Angel X. Chang, Ngai Wong
+- **Bridging the Memorization-Utilization Gap: Near-Lossless Context Compression via Reinforcement Learning** — k
+- **AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs** — Zechen Li, Baiyu Chen, Hao Xue, Flora D. Salim
+- **MedVerse: Efficient and Reliable Medical Reasoning via DAG-Structured Parallel Execution** — Mohit Raghavendra, Anisha Gunjal, Bing Liu, Yunzhong He
+- **Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning** — Jianwen Chen, Xinyu Yang, Peng Xia, Arian Azarang, Yueh Z Lee, Gang Li, Hongtu Zhu, Yun Li, Beidi Chen, Huaxiu Yao
+- **Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning** — Ziyuan Yang, Wenxuan Ding, Shangbin Feng, Yulia Tsvetkov
+- **Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems** — Nishant Balepur, Atrey Desai, Rachel Rudinger
+- **Guided by Gut: Efficient Test-Time Scaling with Reinforced Intrinsic Confidence** — Tiejin Chen, Huaiyuan Yao, Jia Chen, Evangelos E. Papalexakis, Hua Wei
+- **Label and Explanation Variation in LLM-Based Annotation: a Case Study in Natural Language Inference** — Harshavardhana T Gowda, Daniel C Comstock, Lee M. Miller
+- **Student Guides Teacher: Weak-to-Strong Inference via Spectral Orthogonal Exploration** — Jonathan Cook, Tim Rocktäschel, Jakob Nicolaus Foerster, Dennis Aumiller, Alex Wang
+- **GS-Quant: Granular Semantic and Generative Structural Quantization for Knowledge Graph Completion** — Yiqing Zhang, Xiaozhong Liu, Fabricio Murai
+- **Subject-level Inference for Realistic Text Anonymization Evaluation** — Mingfei Lu, Yi Zhang, Mengjia Wu, Yue Feng
+- **SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion** — Avinash Amballa, Yashas Malur Saidutta, Chi-Heng Lin, Vivek Kulkarni, Srinivas Chappidi
+- **From Inheritance to Saturation: Disentangling the Evolution of Visual Redundancy for Architecture-Aware MLLM Inference Acceleration** — Akshith Reddy Putta, Jacob Devasier, Chengkai Li
+- **ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning** — Yiming Huang, Zhenbo Shi, Xincheng Wen, Jichuan Zeng, Cuiyun Gao, Peiyi Han, Chuanyi Liu
+- **Immediate Inference: The Missing Foundation in Large Language Model Logical Reasoning** — Lin Zhong, Renjin Zhu, Shujuan Ma, Jinhao Cui, Lingzhi Wang, Hao Chen, Qing Liao
+- **Efficiently Learning To Reason or Not to Reason: Root-token Policy Optimization for Adaptive Thinking** — Wenxiang Zheng, Guo Tang, Shixin Jiang, Liangyu Huo, Xiyuan Zhang, Jian Xie, Ming Liu
+- **Towards Efficient and Effective Diffusion Language Model Inference via Semantic-Aware Adaptive Denoising** — Jie Huang, Xin Liao, Junjie Wang, Mingyang Li, Wenshuo Wang, Ziyou Jiang, Shoubin Li, Qing Wang
+- **Long-Chain Reasoning Distillation via Adaptive Prefix Alignment** — Yun He, Wenzhe Li, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Xiaoliang Peng, Beibin Li, Shengjie Bi, Shishir G Patil, Qi Qi, Shengyu Feng, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Kumar Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Hassan Awadalla, Manaal Faruqui
+- **Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling** — Zhenghao Liu, Zhuoyang Wu, Xinze Li, Yukun Yan, Shuo Wang, Zulong Chen, Yu Gu, Ge Yu, Maosong Sun
+- **Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory** — Ziqi Wang, Xingzhou Lou, Meiqi Wu, Zhengqi Wen, Junge Zhang
+- **FineSteer: A Unified Framework for Fine-Grained Inference-Time Steering in Large Language Models** — Zizhen Li, Chuanhao Li, Yibin Wang, Jianwen Sun, Yukang Feng, Jiaxin Ai, Fanrui Zhang, Mingzhu Sun, Yifei Huang, Kaipeng Zhang
+- **ToolPRM: Fine-Grained Inference Scaling of Structured Outputs for Function Calling** — Xinyu Li, Kexi Chen, Jiajie Shen, Ying Zheng, Hong Lu, Jin Zhao, Xin Wang
+- **SpecCache: Speculative KV Cache Reuse for Efficient RAG Serving** — Chaoren Wang, Heng Lu, Xueyao Zhang, Shujie LIU, Yan Lu, Jinyu Li, Zhizheng Wu
+- **Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning** — XuanrenChen, Chongyang Tao, Tao Shen, Shuai Ma
+- **Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism** — Zhiyu Cao, Peifeng Li, Qiaoming Zhu
+- **BWLA: Breaking the Barrier of W1AX Post-Training Quantization for LLMs** — Xinda Wang, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Jialin Liu, Chenzhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao
+- **Causal-ESC: Reliable Policy Learning for Emotional Support Conversation via Causal Inference** — Miao Zhang, Kelly Chen, Mehrab Tanjim, Rumi Chunara
+- **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring** — Zihang Liu, Zhouhua Fang, Hui Liu, Zhiwei Liu, Yong Li, Haishuai Wang
+- **Distillation Traps and Guards: A Calibration Knob for LLM Distillability** — Qiyuan Chen, Hongsen Huang, Jiahe Chen, Qian Shao, Jintai Chen, Hongxia Xu, Renjie Hua, Chuan Ren, Jian Wu
+- **Benchmarking and Enabling Efficient Chinese Medical Retrieval via Asymmetric Encoders** — Shanghao Li, Jinda Han, Yibo Wang, Yuanjie Zhu, Zihe Song, Langzhou He, Kenan Kamel A Alghythee, Philip S. Yu
+- **Merlin’s Whisper: Enabling Efficient Reasoning in Large Language Models via Black-box Persuasive Prompting** — Shuyang Hou, Yi Hu, Muhan Zhang
+- **Mem²Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation** — Jiajie Zhang, Xin Lv, Ling Feng, Lei Hou, Juanzi Li
+- **From AR to Diffusion: Efficiently Adapting Large Language Models with Strictly Causal and Elastic Horizons** — Pengyue Jia, Yingyi Zhang, Xiangyu Zhao, Sharon Li
+- **MoA: Heterogeneous Mixture of Adapters for Parameter-Efficient Fine-Tuning of Large Language Models** — Muhammad Dehan Al Kautsar, Saeed Almheiri, Momina Ahsan, Bilal Elbouardi, Younes Samih, Sarfraz Ahmad, Amr Keleg, Omar El Herraoui, Kareem Elzeky, Abed Alhakim Freihat, Mohamed Anwar, Zhuohan Xie, Junhong Liang, Mohammad Rustom Al Nasar, Preslav Nakov, Fajri Koto
+- **Beyond the Context Window: Scaling Agentic RL via End-to-end Optimized Context Compression** — Jiani Huang, Shijie Wang, Liang-Bo Ning, Wenqi Fan, Li Qing
+- **Controllable LLM Reasoning via Sparse Autoencoder‑Based Steering** — Ming Zhang, Yujiong Shen, Jingyi Deng, Yuhui Wang, Huayu Sha, Kexin Tan, Qiyuan Peng, Yue Zhang, Junzhe Wang, Shichun Liu, Yueyuan Huang, Jingqi Tong, Changhao Jiang, Yilong Wu, Zhihao Zhang, Mingqi Wu, Mingxu Chai, Zhiheng Xi, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang
+- **Profiling-Free Mixed-Precision Quantization for MoE LLMs via Fuzzy Rule Interpolation** — Yida Cai, Ranjuexiao Hu, Huiyuan Xie, Chenyang Li, Yun Liu, Yuxiao Ye, Zhenghao Liu, Weixing Shen, Zhiyuan Liu
+- **WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning** — Chuang Zhou, Junnan Dong, Yilin Xiao, Shengyuan Chen, Su Dong, Di Yin, Xing Sun, Zhaozhuo Xu, Xiao Huang
+- **Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning** — Junjie Wang, Zequn Xie, Dan Yang, Jie Feng, Yue Shen, Duolin Sun, Meixiu Long, Yihan Jiao, Zhehao Tan, Jian Wang, Peng Wei, Jinjie Gu
+- **Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions** — Weihua Zheng, Zhengyuan Liu, Tanmoy Chakraborty, Weiwen Xu, Xiaoxue Gao, Bryan Chen Zhengyu Tan, Bowei Zou, Chang Liu, Yujia Hu, Xing Xie, Xiaoyuan Yi, Jing Yao, Chaojun Wang, Long Li, Rui Liu, Huiyao Liu, Koji Inoue, Ryuichi Sumida, Tatsuya Kawahara, Fan Xu, Lingyu Ye, Wei Tian, Dongjun Kim, Jimin Jung, Jaehyung Seo, Nadya YukiWangsajaya, Pham Minh Duc, Ojasva Saxena, Palash Nandi, Xiyan Tao, Wiwik Karlina, Tuan Luong, Keertana Arun Vasan, Roy Ka-Wei Lee, Nancy F. Chen
+- **SelFusion: Self-distillation for Diffusion Language Models** — Tong Zhao, Chenghao Zhang, Yutao Zhu, Zhicheng Dou
+- **CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models** — Hyeongsoo Lim, Jin Young Kim, Eun Seo Seo, Min Ho Jang, Ji Won Yoon
+- **MACS: Modality-Aware Capacity Scaling for Efficient Multimodal MoE Inference** — Xin Guo, Zhiheng Xi, Yiwen Ding, Yitao Zhai, Xiaowei Shi, Xunliang Cai, Tao Gui, Qi Zhang, Xuanjing Huang
+- **Efficient Prior-Guided Reasoning for Robust Retrieval-Augmented Generation under Conflicts** — Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao
+- **FLARE: Fine-Grained Length-Aware Routing for Resource-Efficient Heterogeneous LLM Serving** — Hao Sun, Yu Song, Teng Shiyu, Ziwei Niu, Yen-wei Chen
+- **RST-Guarder: Enhancing Long-Context Robustness for Safeguards via RST Parsing and Probabilistic Inference** — Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Sahel Sharifymoghaddam, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Hosna Oyarhoseini, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin
+- **Debiasing Reward Models via Causally Motivated Inference-Time Intervention** — Hui Wu, Chao Xu, Jianghui Wang, Ziqiong Liu, Dong Li, Yiwei Dai, Emad Barsoum
+- **SADA: Bridging In-Context Learning and Fine-Tuning via State-Aligned Distillation Adapters** — Ailiang Lin, Zhuoyun Li, Yusong Wang, Kotaro Funakoshi, Manabu Okumura
+- **Anti-Length Shift: Dynamic Outlier Truncation for Training Efficient Reasoning Models** — Rui Song, Lida Shi, Ruihua Qi, Yingji Li, Hao Xu
+- **BTC-LLM: Efficient Sub-1-Bit LLM Quantization via Learnable Transformation and Binary Codebook** — Jiaxuan Wang, Yulan Hu, Wenjin Yang, Zheng Pan, Xin Li, Lan-Zhe Guo
+- **GrACE: A Generative Approach to Better Confidence Elicitation and Efficient Test-Time Scaling in Large Language Models** — Yao Yao, Manwen Liao, Weitian Zhang, Zuchao Li, Hai Zhao
+- **When Is Thinking Enough? Early Exit via Sufficiency Assessment for Efficient Reasoning** — Yu-An Liu, Ruqing Zhang, Hongru Song, Jiafeng Guo, Yixing Fan, Xueqi Cheng
+- **See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs** — Haozhong Wang
+- **When Efficiency Meets Safety: A Benchmark Security Analysis of KV Cache Compression in Large Language Models** — Jiahuan Zhang, Shunwen Bai, Tianheng Wang, Kaiwen Guo, Zijia Song, Hanqing Wu, Guozheng Rao, Kai Han, Kaicheng Yu
+- **Adaptive Spatial and Temporal Redundancy Optimization for Efficient Reasoning in Large Language Models** — Zhaoxin Feng, Zheng CHEN, Jianfei Ma, Yip Tin Po, Emmanuele Chersoni, Bo Li
+- **Agent Newsroom: Efficient Chronological Report Generation via Dynamic Multi-Agent Collaboration** — Xiangxi Zheng, Kuang He, Jiayi Hu, Ping Yu, Rui Yan, Yuan Yao, Peng Hou, Anxiang Zeng, Alex Jinpeng Wang
+- **Collision to Cognition: Hash-Driven Graph Construction for Efficient RAG** — Hung-Ting Su, Ting-Jun Wang, Jia-Fong Yeh, Min Sun, Winston H. Hsu
+- **WebSynthesis: World Model-Guided Monte Carlo Tree Search for Efficient WebAgent Trajectory Synthesis** — Yingfeng Luo, Ziqiang Xu, Yuxuan Ouyang, MuRun Yang, DingYang Lin, Kaiyan Chang, Tong Zheng, Bei Li, Peinan Feng, Quan Du, Tong Xiao, JingBo Zhu
+- **GMFL: Efficient Global Masking for Federated LLM Fine-tuning** — Chuang Zhou, Zheng Yuan, Linhao Luo, Zhaozhuo Xu, Yilin Xiao, Junnan Dong, Siyu An, Di Yin, Xing Sun, Xiao Huang
+- **Latent-Condensed Transformer for Efficient Long Context Modeling** — Mengxue Yang, Jingming Li, Chun Yang, Jiaqi Zhu, Jiafan Li, Guanhua Zhang, Ying Li
+- **From Logical to Computational Sparsity: Structure-Aware Block-Sparse Attention for Long-Code Completion** — Minghan Li, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou
+- **Towards Privacy-Preserving Large Language Model: Text-free Inference Through Alignment and Adaptation** — Rongxin Chen, Tianyu Wu, Bingbing Xu, JiaTang Luo, Xiucheng Xu, Huawei Shen
+- **Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection** — Jingjie Zeng, Huayang Li, Liang Yang, Yuanyuan Sun, Shaowu Zhang, Hongfei Lin
+- **RRAtention: Dynamic Block Sparse Attention via Per-Head Round-Robin Shifts for Long-Context Inference** — Jiaming Leng, Yunying Bi, Chuan Qin, Zhenya Huang, Bing Yin, Haojie Ren, Yanyong Zhang, Chao Wang
+- **Pruning Unsafe Tickets: A Resource-Efficient Framework for Safer and More Robust LLMs** — Boyan Han, Yiwei Wang, Yi Song, Yujun Cai, Chi Zhang
+- **EQUIP: EQUivariant preserving In-Place updates for Efficient Token Pruning** — Rui Yin, Tianxu Han, Naen Xu, Changjiang Li, Ping He, Chunyi Zhou, Jun Wang, Zhihui Fu, Tianyu Du, Jinbao Li, Shouling Ji
+- **Efficient Paths and Dense Rewards: Probabilistic Flow Reasoning for Large Language Models** — Xiaowei Zhu, Yubing Ren, Fang Fang, Shi Wang, Yanan Cao, Li Guo
+- **ConfSpec: Efficient Step-Level Speculative Reasoning via Confidence-Gated Verification** — Xiangxu Zhang, Lei Li, Yanyun Zhou, Xiao Zhou, Yingying Zhang, Xian Wu
+- **Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning** — Xiping Li, Jianghong Ma
+- **Stability Implies Redundancy: Delta Attention Selective Halting for Efficient Long-Context Prefilling** — Chenyang Shao, Sijian Ren, Fengli Xu, Yong Li
+- **A Data-Efficient Path to Multilingual LLMs: Language Expansion via Post-training PARAMΔ Integration into Upcycled MoE** — Dawei Zhu, Rui Meng, Jiefeng Chen, Sujian Li, Tomas Pfister, Jinsung Yoon
+- **Question Tells You Where the Answer Is: Intention-aware Long-Context KV Cache Compression** — Bruce W. Lee, Yeongheon Lee, Hyunsoo Cho
+- **LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models** — Viet-Thanh Pham, Lizhen Qu, Thuy-Trang Vu, Gholamreza Haffari, Dinh Phung
+- **CuMA: Aligning LLMs with Sparse Cultural Values via Demographic-Aware Mixture of Adapters** — Yixuan Wang, Yue Huang, Hong Qian, Yunzhao Wei, Yifei Ding, Wenkai Wang, Zhi Liu, Zhongjing Huang, Aimin Zhou, Jiajun Guo
+- **ToMMeR - Efficient Entity Mention Detection from Large Language Models** — Ao Sun, Xiaoyu Wang, Zhe Tan, Yu Li, Jiachen Zhu, Yuheng Jia, Shu Su
+- **Efficient Hyperparameter Optimization for LLM Reinforcement Learning** — Seonjeong Hwang, Jun Seo, Hyounghun Kim, Gary Lee
+- **Learning More from Less: Exploiting Counterfactuals for Data-Efficient Chart Understanding** — Tao Feng, Xinke Jiang, Xinyan Hu, Yonggang Zhang, Zhen Tao, Wentao Zhang, Boyang Liu, Wenhao Jiang, Chao Wu
+- **Semantically Comprehensive Token Pruning in LVLMs via Maximizing Concept Coverage** — Xiang Wang, Zongtao Yang, Zhuojian Hong, Shuhao Zhang, Wei Wei
+- **Difference in Task Performance on Sparse Speech Representations** — Libo Sun, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
+- **GMSA: Enhancing Context Compression via Group Merging and Layer Semantic Alignment** — Jaeho Han, Jisoo Yang, Hyeondong Woo, Mingyu Jeon, Sunjae Yoon, Junyeong Kim
+- **Learn Like Humans: Use Meta-cognitive Reflection for Efficient Self-Improvement** — Mahi Luthra, Jiayi Shen, Maxime Poli, Angelo Ortiz Tandazo, Yosuke Higuchi, Youssef Benchekroun, Martin Gleize, Charles-Eric Saint-James, Dongyan Lin, Phillip Rust, Angel Villar, Surya Parimi, Vanessa Stark, Rashel Moritz, Juan Pino, Yann LeCun, Emmanuel Dupoux
+- **Think Faster Than Words: Efficient LLM Chain-of-Thought Reasoning via Dynamic Shortcut Decoding** — Charlotte Noel, Nicholas Asher, Olivier Gouvert, Farah Benamara, Julie Hunter
+- **SDAR-VL: Stable and Efficient Block-wise Diffusion for Vision-Language Understanding** — Xinmeng Hou, Bohao Qu, Wuqi Wang, Peiliang Gong, Qing Guo, Yang Liu
+- **N-GLARE: An Non-Generative Latent Representation-Efficient LLM Safety Evaluator** — Fan Liu, Yanhao Wang, Min Zhang, Zhikang Chen, Zeyuan Li, Lewei He, Jiahui Pan
+- **Exploring and Distilling Multi-Dimensional Clues for Interpretable Social Bot Detection** — Zheyu Lin, Jirui Yang, Yukui Qiu, Hengqi Guo, Yubing Bao, Yao Guan
+- **Systematicity between Forms and Meanings across Languages Supports Efficient Communication** — Yirui Qi, Xiaoming Zhang, Ruilin Zeng, Mengyao Liu, Ziyi Zhou, Dezhuang Miao, Bingyu Yan, Zhenyu Guan
+- **On the (In-)Security of the Shuffling Defense in the Transformer Secure Inference** — Dong Yan, Jian Liang, Yanbo Wang, Shuo Lu, Ran He, Tieniu Tan
+- **LaCo: Layer-wise Compensation for Pruned Large Language Models** — Yi Han, Haiqi Lu, Lizi Liao, Shuhan Zhou, Yuanxing Liu, Weinan Zhang, Ting Liu
+- **GLIER: Generative Legal Inference and Evidence Ranking for Legal Case Retrieval** — Shihao Liu, Xiaofei Zhou, Bo Wang, Geyuan Zhang
+- **Calibrated Speculative Decoding: Frequency-Guided Candidate Selection for Efficient Inference** — Alessio Cocchieri, Luca Ragazzi, Giuseppe Tagliavini, Gianluca Moro
+- **Less Languages, Less Tokens: An Efficient Unified Logic Cross-lingual Chain-of-Thought Reasoning Framework** — Ruihan Chen, Qiming Li, Xiaocheng Feng, Weihong Zhong, Xiaoliang Yang, Yuxuan Gu, Zekun Zhou, Yunfei Lu, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
+- **Think Better, Not Longer: Token-Level Marginal Utility for Efficient Reasoning in Large Reasoning Models** — Shunwen Bai, Jiahuan Zhang, Haoran Huang, Yurun Wang, Jiale liu, Yanxi Wu, Ningzhe Yu, Yudong Gao, Mingjun Cheng
+- **AgentSlimming: Towards Efficient and Cost-Aware Multi-Agent Systems** — Yucheng Zhou, Junwei Sheng, Qianning Wang, Jianbing Shen
+- **SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation** — Ying He, Sihang Jiang, Xingzhou Chen, Zhouhong Gu, Yiwei Gu, Minggui HE, Shimin Tao, Hongxia Ma, Yanghua Xiao
+- **ReasoningGuard: Safeguarding Large Reasoning Models with Inference-time Safety Aha Moments** — Weihai Lu, Zhejun Zhao, Yanshu Li, Huan He
+- **VecInfer: Efficient LLM Inference with Low-Bit KV Cache via Outlier-Suppressed Vector Quantization** — Venkata S Govindarajan, Laura Biester
+- **MTA: Multi-Granular Trajectory Alignment for Large Language Model Distillation** — Abdellah El Mekki, Samar M. Magdy, Houdaifa Atou, Ruwa AbuHweidi, Baraah Qawasmeh, Omer Nacar, Thikra Al-hibiri, Razan Saadie, Hamzah Alsayadi, Nadia Ghezaiel Hammouda, Alshima Alkhazimi, Aya Hamod, Al-Yas Al-Ghafri, Wesam El-Sayed, Asila Al sharji, Mohamad Ballout, Anas Belfathi, Karim Ghaddar, Serry Sibaee, Alaa Aoun, Areej Asiri, Lina Abureesh, Ahlam Bashiti, Majdal Yousef, Abdulaziz Hafiz, Yehdih Mohamed, Emira Hamedtou, Brakehe Brahim, Rahaf Alhamouri, Youssef Nafea, Aya El Aatar, Walid Al-Dhabyani, Emhemed Hamed, Sara Shatnawi, Fakhraddin Alwajih, Khalid Elkhidir, Ashwag Alasmari, Abdurrahman Gerrio, Omar Alshahri, AbdelRahim A. Elmadany, Ismail Berrada, Amir Azad Adli Alkathiri, Fadi A Zaraket, Mustafa Jarrar, Yahya Mohamed El Hadj, Hassan Alhuzali, Muhammad Abdul-Mageed
+- **TALAS: Teacher-Anchored Layer Alignment with Adaptive Sharpness-Aware Minimization for Embedding Distillation** — Parker Seegmiller, Joseph Gatto, Sarah E. Greer, Ganza Belise Isingizwe, Rohan Ray, Timothy E. Burdick, Sarah Masud Preum
+- **SRA: Span Representation Alignment for Large Language Model Distillation** — Bingxian Wu, Yu Zhang, Zonghao Guo, Tang Liu, Chen Qian, Yuxiang Lu, Xingbo Du, Yanghao Li, Yidan Zhang, Chi Chen, Ling Yao, Maosong Sun, Chenghu Zhou
+- **LoPT: Lossless Parallel Tokenization Acceleration for Long Context Inference of Large Language Model** — Hengwei Liu, Haoyuan Ma, Qingqing Lyu, Daoxin Zhang, Yao Hu, Yongliang Shen, Yin Zhang, Weiming Lu
+- **SSSD: Simply-Scalable Speculative Decoding** — Zhuowei Chen, Liwei Chen, Christian Schunn, Raquel Coelho, Xiang Lorraine Li
+- **IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering** — Havva Alizadeh Noughabi, Fattane Zarrinkalam, Ali Dehghantanha
+- **Skill-Aware Data Selection and Fine-Tuning for Data-Efficient Reasoning Distillation** — Guan Wang, Xuehai Tang, Biyu Zhou, Jizhong Han, Songlin Hu
+- **SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models** — Wei-Cheng Tseng, Xuanru Zhou, Mingyue Huo, Yiwen Shao, Hao Zhang, Dong Yu
+- **What Deserves Memory: Adaptive Memory Distillation for LLM Agents** — Huangming Xu, Fu Zhang, Zhixuan Yang, Lu Zhang, Jingwei Cheng
+- **CaBSALLM: Efficient Context-Aware Batch Annotation of Conversational Streams with Large Language Models** — Khanh Chi Le, Linghe Wang, Minhwa Lee, Ross Volkov, Luan Tuyen Chau, Dongyeop Kang
+- **Lizard: An Efficient Linearization Framework for Large Language Models** — Mohammadsadegh Abolhasani, Reza Mousavi, Paul Jen-Hwa Hu
+- **Octopus: Gated Selective Attention for Memory-Bounded Long-Context Inference in Large Language Models** — Juwei Yue, Chuanrui Hu, Jiawei Sheng, Zuyi Zhou, Wenyuan Zhang, Tingwen Liu, Li Guo, Yafeng Deng
+- **LBLLM: Lightweight Binarization of Large Language Models via Three-Stage Distillation** — Linxuan Du, Guangquan Xue, Xiaobo Liang, Qipeng Huang, Yuyang Ding, Xinyu Shi, Yijun Zhang, Ji Qi, Wenpeng Zhu, Juntao Li, Min Zhang
+- **From Local to Global: Revisiting Structured Pruning Paradigms for Large Language Models** — Pengfei He, Shaowei Wang, Tse-Hsun Chen, Muhammad Asaduzzaman
+- **LLM-Powered Benchmark Factory: Reliable, Generic, and Efficient** — Michael Ginn, Lindia Tjuatja, Enora Rice, Ali Marashian, Maria Valentini, Jasmine Xu, Graham Neubig, Alexis Palmer
+- **Attn-GS: Attention-Guided Context Compression for Efficient Personalized LLMs** — Siqi Fan, Xiusheng Huang, Yiqun Yao, Xuezhi Fang, Kang Liu, Peng Han, Shuo Shang, Aixin Sun, Yequan Wang
+- **LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning** — Haosen Wang, Jing Xiao, Chaochao Duf, Xiaowang Zhang, Zhiyong Feng
+- **Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation** — Jialiang Guo, Fucheng Xiong, Xu He, Haodong Zhao, Xingyang Li, Ke Zeng, Xunliang Cai
+- **SpecMind: Cognitively Inspired, Interactive Multi-Turn Framework for Postcondition Inference** — Haoyue Zhang, Hualei Zhang, Xiaosong Ma, Jie Zhang, Song Guo
+- **PaT: Planning-after-Trial for Efficient Test-Time Code Generation** — Linqing Chen, Hanmeng Zhong, Wentao Wu, Peng Zhou
+- **Glyph: Scaling Context Windows via Visual-Text Compression** — Guoyan Liang
+- **Evolutionary Negative Module Pruning for Better LoRA Merging** — Junhao Ruan, Abudukeyumu Abudula, Bei Li, Yongjing Yin, Xinyu Liu, Kechen Jiao, Xin Chen, Jingang Wang, Xunliang Cai, Tong Xiao, JingBo Zhu
+- **Resonating with RoPE: Spectral Quantization for High-Fidelity Key Cache Compression** — Dohyeon Lee, Yeonseok Jeong, Seung-won Hwang
+- **Efficient Process Reward Modeling via Contrastive Mutual Information** — JungHyoun Kim, Soohyeong Kim, SeokJun Hwang, JeongHyeon Park, YongSuk Choi
+- **MARD: Module-Aware Reasoning Distillation for Language Models with Adaptive Supervision** — Nakyung Lee, Sangwoo Hong, Jungwoo Lee
+- **Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities** — Minghan Zhang, Zhen Yang, Haodong Zou, Jie Chen, Zhen Duan, Shu Zhao
+- **Mitigating Over-Refusal in Aligned Large Language Models via Inference-Time Activation Energy** — Kaiyi Zhang, Ang Lv, Jinpeng Li, Yongbo Wang, Feng Wang, Haoyuan Hu, Rui Yan
+- **Theory-optimal Quantization Based on Flatness** — Pranjal Chitale, Varun Gumma, Sanchit Ahuja, Prashant Kodali, Manan Uppadhyay, Deepthi Sudharsan, Sunayana Sitaram
+- **PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation** — Liangbo Ning, Yuchen Zhu, Heqing Huang, Xin Wang, Yi Chang, Qing Li, Wenqi Fan
+- **CoMeT: Collaborative Memory Transformer for Efficient Long Context Modeling** — Siyuan Li, Yunjia Wu, Yiyong Xiao, Pingyang Huang, Peize Li, Ruitong Liu, Yan Wen, Te Sun
+- **Frame-Semantic Knowledge Injection for Event-Level Inference in LLMs** — Zhengpeng Shi, Yanpeng Zhao, Jianqun Zhou, Yuxuan Wang, Qinrong Cui, Wei Bi, Songchun Zhu, Bo Zhao, Zilong Zheng
+- **BEFT: Bias-Efficient Fine-Tuning of Language Models in Low-Data Regimes** — Tim Baumgärter, Iryna Gurevych
+- **Fast and Accurate Fisher-Guided Quantization via Efficient Kronecker Factorization** — Yilong Chen, Junyuan Shang, Yuchen Feng, Zhenyu Zhang, Naibin Gu, Ziqi Wang, Tingwen Liu, Shuohuan Wang, Yu Sun, Hua Wu, Haifeng Wang
+- **One Refiner to Unlock Them All: Inference-Time Reasoning Elicitation via Reinforcement Query Refinement** — Adrián Gude, Roi Santos-Rios, Francis Bond, Dan Flickinger, Carlos Gómez-Rodríguez, Olga Zamaraeva
+- **Can Reasoning Path still be Effective as Input? Bridging Post-Reasoning to Chain-of-Thought Compression** — Feihao Fang, My T. Thai, Yuanyuan Lei
+- **REAL: REtrieval-reAsoning and Logic-constructed Attention Behaviors for Long-Context KV Cache Compression** — Yixiao Zhou, Dongzhou Cheng, Zhiliang Wu, Yi Yang, Yu Cheng, Hehe Fan
+- **From Where Words Come: Efficient Regularization of Code Tokenizers Through Source Attribution** — Dan Shi, Zhuowen Han, Simon Ostermann, Renren Jin, Josef van Genabith, Deyi Xiong
+- **Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment** — Pavel Chizhov, Egor Bogomolov, Ivan P. Yamshchikov
+- **Black-Box Membership Inference Attacks for Video Training Data in Multimodal Large Language Models** — Woody Haosheng Gan, William Barr Held, Diyi Yang
+- **Robust Membership Inference for Large Language Models under Adversarial Generative Corruption** — Xuancheng Li, Haitao Li, Yujia Zhou, Yiqun Liu, Qingyao Ai
+- **PDTrim: Targeted Pruning for Prefill-Decode Disaggregation in Inference** — Hyunjung Joo, GyeongTaek Lee
+- **AttnPO: Attention-Guided Process Supervision for Efficient Reasoning** — Zhenguang Wang, Bo Li, Wenhui Tan, Peng Cao, Yang Wang, Jia Duan, Fei Wang, Osmar Zaiane
+- **Decoding-Unlearning: Fact Forgetting via Entropy-Guided Inference** — Shijia Lu, Fumiyo Fukumoto, Xiaoxi Huang, Yoshimi Suzuki
+- **Global Adaptive Momentum Meets Local Personalized Perturbation: Efficient Federated LLM Fine-Tuning with Zeroth-Order Gradients** — Wenting Chen, Zhongrui Zhu, Guolin Huang, Wenxuan Wang
+- **Benchmarking Post-Training Quantization of Large Language Models under Microscaling Floating Point Formats** — Jingwen Pu, Mingjun Shi, Xinrui Ren, Yizhe Wang, Xinyu Zhang, Zhaokun Wang, Kun She
+- **Too Long, Do Re-weighting for Efficient LLM Reasoning Compression** — Bo Lv, Jingbo Sun, Jianwei Lv, Chen Tang, Shaojie Zhang, Nayu Liu, Guoxin Yu, Zihao Li, Qichao Zhang, Dongbin Zhao, Ping Luo, Yue Yu
+- **TAIGR: Towards Modeling Influencer Content on Social Media via Structured, Pragmatic Inference** — Anuj Kumar, Satyadev Ahlawat, Yamuna Prasad, Virendra Singh
+- **Data-efficient Targeted Token-level Preference Optimization for LLM-based Text-to-Speech** — Mutian Bao, Qiuyi Qi, Tian Liang, Jinjian Zhang, Wei Zhou, Ming Kong, Linjian Mo, Qiang Zhu
+- **MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning** — Yinuo Xu, Veronica Derricks, Allison Earl, David Jurgens
+- **The Pitfalls of KV Cache Compression** — Mitodru Niyogi, Eric Gaussier, Arnab Bhattacharya
+- **Success and Cost Elicit Convention Formation for Efficient Communication** — Sajib Acharjee Dip, Adrika Zafor, Bikash Kumar Paul, Uddip Acharjee Shuvo, Muhit Islam Emon, Xuan Wang, Liqing Zhang
+- **A BERTology View of LLM Orchestrations: Token- and Layer-Selective Probes for Efficient Single-Pass Classification** — Farima Fatahi Bayat, Pouya Pezeshkpour, Estevam Hruschka
+- **ACBQ: Adaptive Cross-Block Quantization of Large Language Models** — Alvin Chen, Rohan Das, Dananjay Srinivas, Alexandra Barry, Maksim Seniw, Maria Pacheco
+- **JW-SVD: Bridging the Cross-Modal Mismatch in Post-Training MLLM Compression** — Bryan R. Christ, Penelope Molitz, Beau LeBlond, Zachary Gottesman, Jonathan Kropko, Thomas Hartvigsen
+- **Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation** — Linlin Yu, Xujiang Zhao, Dong Li, Yanchi Liu, Wei Cheng, Zhengzhang Chen, Chen Zhao, Feng Chen, Haifeng Chen
+- **TokenTiming: A Dynamic Alignment Method for Universal Speculative Decoding Model Pairs** — Huizi Cui, Huan Ma, Qilin Wang, Yuhang Gao, Changqing Zhang
+- **AdapShot: Adaptive Many-Shot In-Context Learning with Semantic-Aware KV Cache Reuse** — Yijie Hao, Lingjie Chen, Ali Emami, Joyce C. Ho
+- **HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference** — Yue Yang, Fan Yang, Yu Bai, Hao Wang
+- **Sparse-RL: Breaking the Memory Wall in LLM Reinforcement Learning via Stable Sparse Rollouts** — Wenxuan Wang, Zizhan Ma, Guo Yu, Yiu-Fai Cheung, Meidan Ding, Jie Liu, Wenting Chen, Linlin Shen
+- **Simple Agents, Biased Judges: Efficient Multi-Party Dialogue Generation &amp; The Evaluation Gap** — Iseo Kim, Eunjin Hong, Juae Kim
+- **EdgeFormer: Latency-Aware Collaborative Multi-Head Attention of Transformer Inference in Edge Networks** — Rohit Gupta, Jayakrishnan Unnikrishnan, Fan Fei, Sheng Liu, Son Tran, Mubarak Shah
+- **LEAF: Knowledge Distillation of Text Embedding Models with Teacher-Aligned Representations** — Rui Li, Shuang Cao
+- **MIND: From Passive Mimicry to Active Reasoning through Capability-Aware Multi-Perspective CoT Distillation** — Shuo Yang, Caren Han, Xueqi Ma, Yan Li, Mohammad Reza Ghasemi Madani, Eduard Hovy
+- **MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization** — Jin Cui, Jiaqi Guo, Jiepeng Zhou, Ruixuan Yang, Jiayi Lu, Jiajun Xu, Jiangcheng Song, Boran Zhao, Pengju Ren
+- **Programming over Thinking: Efficient and Robust Multi-Constraint Planning** — Ziqing Wang, Yibo Wen, Abhishek Pandey, Han Liu, Kaize Ding
+- **CLAOCS-TX: Cross-Lingual Triplet Extraction with Aspect-Opinion-Aware Code-Switched Prompting and LLM-Guided Contrastive Distillation** — Shunqi Mao, Chaoyi Zhang, Weidong Cai
+- **When Benchmarks Leak: Inference-Time Decontamination for LLMs** — Chi-Min Chan, Han Zhu, Chunyang Jiang, Jiaming Ji, Juntao Dai, Wei Xue, Sirui Han, Yike Guo
+- **Learning Faster with Better Tokens: Parameter-Efficient Vocabulary Adaptation for Specialized Text Summarization** — Yang Shi, Yifeng Xie, Minzhe Guo, Liangsi Lu, Mingxuan Huang, Jingchao Wang, Zhihong Zhu, Boyan Xu, Zhiqi Huang
+- **Layer-Wise High-Impact Parameter Ratio Optimization in Post-Training Quantization for Large Language Models** — Qihua Dong, Yitian Zhang, Huimin Zeng, Yizhou Wang, Jianglin Lu, Kuo Yang, Yun Fu
+- **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant** — Junfan Chen, Sizhe Wu, Richong Zhang, Chunming Hu
+- **Learning Invariant Modality Representation for Robust Multimodal Learning from a Causal Inference Perspective** — Marek Suppa, Andrej Ridzik, Daniel Hládek, Natália Kňažeková, Viktória Ondrejová
+- **Data Efficient RLVR via Off-Policy Influence Guidance** — Yandi Wang, Libin Zhan, Ziwei Huang, Tiancheng Luo, Yuxuan Jiang, Wang Dong, Leilei Gan, Jun Chen
+- **EDSD: Entropy-Driven Design for Faster Speculative Decoding** — Dasol Choi, DongGeon Lee, Brigitta Jesica Kartono, Helena Berndt, Taeyoun Kwon, Joonwon Jang, Haon Park, Hwanjo Yu, Minsuk Kahng
+- **GrAInS: Gradient-based Attribution for Inference-Time Steering of LLMs and VLMs** — Chaoyu Li, Yogesh Kulkarni, Pooyan Fazli
+- **DREAM-S: Speculative Decoding with Searchable Drafting and Target-Aware Refinement for Multimodal Generation** — Alejandro Hernández-Cano, Alexander Hägele, Allen Hao Huang, Angelika Romanou, Antoni-Joan Solergibert, Barna Pásztor, Bettina Messmer, Dhia Garbaya, Eduard Frank Ďurech, Ido Hakimi, Juan Garcia Giraldo, Mete Ismayilzada, Negar Foroutan, Skander Moalla, Tiancheng Chen, Vinko Sabolčec, Yixuan Xu, Michael Aerni, Badr AlKhamissi, Inés Altemir Marinas, Mohammad Hossein Amani, Matin Ansaripour, Ilia Badanin, Harold Benoit, Emanuela Boros, Nicholas John Browning, Fabian Bösch, Maximilian Böther, Niklas Canova, Camille Challier, Clément Charmillot, Jonathan Coles, Jan Milan Deriu, Arnout Devos, Lukas Drescher, Daniil Dzenhaliou, Maud Ehrmann, Dongyang Fan, Simin Fan, Silin Gao, Miguel Gila, María Grandury, Diba Hashemi, Alexander Miserlis Hoyle, Jiaming Jiang, Mark Klein, Andrei Kucharavy, Anastasiia Kucherenko, Frederike Lübeck, Roman Machacek, Theofilos Ioannis Manitaras, Andreas Marfurt, Kyle Matoba, Simon Matrenok, Henrique Mendonça, Fawzi Roberto Mohamed, Syrielle Montariol, Luca Mouchel, Sven Najem-Meyer, Jingwei Ni, Gennaro Oliva, Matteo Pagliardini, Elia Palme, Andrei Panferov, Léo Paoletti, Marco Passerini, Ivan Pavlov, Auguste Poiroux, Kaustubh Ponkshe, Nathan Ranchin, Javier Rando, Mathieu Sauser, Jakhongir Saydaliev, Mukhammadali Sayfiddinov, Marian Schneider, Stefano Schuppli, Marco Scialanga, Andrei Semenov, Kumar Shridhar, Raghav Singhal, Anna Sotnikova, Alexander Sternfeld, Ayush Kumar Tarun, Paul Teiletche, Jannis Vamvas, Xiaozhe Yao, Hao Zhao, Alexander Ilic, Ana Klimovic, Andreas Krause, Caglar Gulcehre, David Rosenthal, Elliott Ash, Florian Tramèr, Joost VandeVondele, Livio Veraldi, Martin Rajman, Thomas C. Schulthess, Torsten Hoefler, Antoine Bosselut, Martin Jaggi, Imanol Schlag
+- **ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks** — Shuyu Zhang, Yifan Wei, Jialuo Yuan, Xinru Wang, Yanmin Zhu, Bin Li, Yujie Liu
+- **Solve-Detect-Verify: Inference-Time Scaling with Flexible Generative Verifier** — Ning Wang, Zhanyang Liu, Taotao Zhou, Xinrui Zhang, Zongru Shao, Haojie Zhou
+- **Look Within or Beyond? A Theoretical Comparison Between Parameter-Efficient and Full Fine-Tuning** — Chenyang Huang, Osmar R. Zaïane
+- **SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression** — Zihan Zheng, Tianle Cui, Taoran Wang, Fengtao Wang, Jiahui Pan, Lewei He, Qianglong Chen
+- **Beyond Variance: Knowledge-Aware LLM Compression via Fisher-Aligned Subspace Diagnostics** — YongKang Liu, Xingle Xu, Ercong Nie, Zijing Wang, Shi Feng, Daling Wang, Qian Li, Hinrich Schuetze
+- **Reinforced Efficient Reasoning via Semantically Diverse Exploration** — Sitong Wu, Haoru Tan, Xichen Zhang, Bin Xia, Wenhu Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia
+- **Accurate and Efficient Statistical Testing for Word Semantic Breadth** — Liran Cohen, Yaniv Nemcovsky, Avi Mendelson
+- **Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures** — Kerem Zaman, Shashank Srivastava

@@ -1,0 +1,352 @@
+---
+title: 'ACL 2026 — Datasets & Benchmarks'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Datasets & Benchmarks
+**340 papers**
+
+- **Benchmarking LLM’s Capability in Reasoning over Conflicting Web References** — Yizhen Yuan, Rui Kong, Dongze Li, Yuanchun Li, Yunxin Liu
+- **MINTQA: A Multi-Hop Question Answering Benchmark for Evaluating LLMs on New and Long-tail Knowledge** — Jie He, Nan Hu, Wanqiu Long, Jiaoyan Chen, Jeff Z. Pan
+- **SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations** — Pierluigi Cassotti, Naomi Baes, Stefano De Pascale, Jáder Martins Camboim de Sá, Francesco Periti, Nick Haslam, Dirk Geeraerts, Nina Tahmasebi
+- **Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark** — Kai Zou, Ziqi Huang, Yuhao Dong, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu, Yu Qiao, Ziwei Liu
+- **VALU: A Benchmark for Video Anomaly Temporal Localization and Understanding at Multiple Semantic Levels** — Yixiao He, Menghao Zhang, Haifeng Sun, Jing Wang, Kangheng Lin, Jinghan Wang, Chenye Xu, Pengfei Ren, Qi Qi, Jingyu Wang
+- **Is EEG-to-Text Feasible in Real-World Scenarios? An In-Depth Analysis Using a Neuropsychology-Inspired Benchmark** — Zihan Zhang, Yu Bao, Xiao Ding, Tianyi Jiang, Kai Xiong
+- **SAGE: A Search-AuGmented Evaluation of Large Language Models on Free‑Form QA** — Sher Badshah, Ali Emami, Hassan Sajjad
+- **A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains** — Xianren Zhang, Shreyas Prasad, Di Wang, Qiuhai Zeng, Suhang Wang, Wenbo Yan, Mat Hans
+- **Psychological Steering in LLMs: An Evaluation of Effectiveness and Trustworthiness** — Amin Banayeeanzade, Ala N. Tak, Fatemeh Bahrani, Anahita Bolourani, Leonardo Blas, Emilio Ferrara, Jonathan Gratch, Sai Praneeth Karimireddy
+- **AraVQA: Building a New Arabic Factoid Visual Question Answering Dataset from Wikipedia** — Sultan Alrowili, Younes Samih, Abed Alhakim Freihat, Mathan Kumar Eswaran
+- **SATQuest: A Verifier for Logical Reasoning Evaluation and Reinforcement Fine-Tuning of LLMs** — Yanxiao Zhao, Yaqian Li, Zihao Bo, Rinyoichi Takezoe, Haojia Hui, Mo Guang, Lei Ren, Xiaolin Qin, Kaiwen Long
+- **MORPHOGEN: A Multilingual Benchmark for Evaluating Gender-Aware Morphological Generation** — Mehul Agarwal, Aditya Aggarwal, Arnav Goel, Medha Hira, Anubha Gupta
+- **Full-Duplex-Bench-v2: A Multi-Turn Evaluation Framework for Duplex Dialogue Systems with an Automated Examiner** — Guan-Ting Lin, Shih-Yun Shan Kuan, Jiatong Shi, Kai-Wei Chang, Siddhant Arora, Shinji Watanabe, Hung-yi Lee
+- **RealTalk-CN: A Realistic Chinese Speech Task-Oriented Dialogue Benchmark with Cross-Modal Analysis** — Enzhi Wang, Jiaming Zhou, Yuhang Jia, Aobo Kong, Qicheng Li, Yong Qin
+- **Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders** — Yupeng Hou, Jiacheng Li, Xiangjun Fu, Zhankui He, An Yan, Xiusi Chen, Julian McAuley
+- **KG-MuLQA: A Framework for KG-based Multi-Level QA Extraction and Long-Context LLM Evaluation** — Nikita Tatarinov, Vidhyakshaya Kannan, Haricharana Srinivasa, Arnav Raj, Harpreet Singh Anand, Varun Singh, Aditya Luthra, Ravij Lade, Agam Shah, Sudheer Chava
+- **A Comprehensive Survey of Process Reward Models: Data Generation, Model Construction, and Usage** — Congmin Zheng, Jiachen Zhu, Zhuoying Ou, Yuxiang Chen, Kangning Zhang, Rong Shan, Zeyu Zheng, Mengyue Yang, Jianghao Lin, Yong Yu, Weinan Zhang
+- **SDiaReward: Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness** — Jingyu Lu, Yuhan Wang, Fan Zhuo, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao
+- **Looking at Radiology Report Generation through a Causal Lens: A Survey** — Satyam Kumar, Kaustubh Shivshankar Shejole, Pushpak Bhattacharyya
+- **Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods** — Chenfei Liao, Wensong Wang, Zichen Wen, Xu Zheng, Yiyu Wang, Haocong He, Yuanhuiyi Lyu, Lutao Jiang, Xin Zou, Yuqian Fu, Bin Ren, Linfeng Zhang, Xuming Hu
+- **CodeFlowBench: A Multi-turn, Iterative Benchmark for Complex Code Generation** — Sizhe Wang, Zhengren Wang, Dongsheng Ma, Yongan Yu, Rui ling, Zhiyu li, Feiyu Xiong, Wentao Zhang
+- **Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding** — Sensen Gao, Shanshan Zhao, Xu Jiang, Lunhao Duan, Yong Xien Chng, Qing-Guo Chen, Weihua Luo, Kaifu Zhang, Jia-Wang Bian, Mingming Gong
+- **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** — Yanzhi Tian, Cunxiang Wang, Zeming Liu, Heyan Huang, Wenbo Yu, Dawei Song, Jie Tang, Yuhang Guo
+- **Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models** — Yang Liu, Hongming Li, Melissa Xiaohui Qin, Chao Huang, Qiankun Liu
+- **MedMCP-Calc: Benchmarking LLMs for Realistic Medical Calculator Scenarios via MCP Integration** — Yakun Zhu, Yutong Huang, Shengqian Qin, Zhongzhen Huang, Shaoting Zhang, Xiaofan Zhang
+- **Rethinking Meeting Effectiveness: A Benchmark and Framework for Temporal Fine-grained Automatic Meeting Effectiveness Evaluation** — Yihang Li, Chenhui Chu
+- **CEDAR: A Chinese Evaluation Dataset for Computational Argumentation** — Tian Lan, Jiang Li, Rong Yan, Feilong Bao, Weihua Wang, Guanglai Gao, Xiangdong Su
+- **MSEarth: A Multimodal Benchmark for Earth Science Phenomenon Discovery with MLLMs** — Xiangyu Zhao, Wanghan Xu, Bo Liu, Yuhao Zhou, Fenghua Ling, Ben Fei, Xiaoyu Yue, Lei Bai, Wenlong Zhang, Xiao-Ming Wu
+- **GuideDog: A Real-World Egocentric Multimodal Dataset for Blind and Low-Vision Accessibility-Aware Guidance** — Junhyeok Kim, Jaewoo Park, Junhee Park, Sangeyl Lee, Jiwan Chung, Jisung Kim, Ji Hoon Joung, Youngjae Yu
+- **Par-ITA: Benchmarking Seq2Seq and LLMs on a Human-Supervised Parallel Corpus for Italian Hyperpartisan Neutralization** — Michele Joshua Maggini, Søren Fomsgaard, Michele Maestroni, Gaël Dias, Pablo Gamallo
+- **ROSE: An Intent-Centered Evaluation Metric for NL2SQL** — Wenqi Pei, Shizheng Hou, Boyan Li, Han Chen, Zhichao Shi, Yuyu Luo
+- **Demystifying Uncertainty in LLMs: Active Calibration between Concepts and Human Evaluations** — Pengqi Li, Lizhong Ding, Zhehao Zhou, Chunhui Zhang, Jiarun Fu, Hao Li, Ye Yuan, Guoren Wang
+- **OctoBench: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding** — Deming Ding, Shichun Liu, Enhui Yang, Jiahang Lin, Ziying Chen, Shihan Dou, Honglin Guo, Weiyu Cheng, Pengyu Zhao, Chengjun Xiao, Qunhong Zeng, Qi Zhang, Xuanjing Huang, Qidi Xu, Tao Gui
+- **MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments** — Quyu Kong, Xu Zhang, Zhenyu Yang, Nolan Gao, Chen Liu, Panrong Tong, Chenglin Cai, Hanzhang Zhou, Jianan Zhang, Liangyu Chen, Zhidan Liu, Steven Hoi, Yue Wang
+- **AutoTaskEval: Towards Domain-Specific and Fine-Grained Evaluation for LLMs** — Qingqing Lyu, Linjuan Wu, Yongliang Shen, Hengwei Liu, Hao Li, Shengpei Jiang, Yin Zhang, Weiming Lu
+- **UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents** — Yifan Ji, Zhipeng Xu, Zhenghao Liu, Zulong Chen, Qian Zhang, Zhibo Yang, Junyang Lin, Yu Gu, Ge Yu, Maosong Sun
+- **Annotating Dimensions of Social Perception in Text: A Sentence-Level Dataset of Warmth and Competence** — Mutaz Ayesh, Saif M. Mohammad, Nedjma Ousidhoum
+- **Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration** — Linhao Zhong, Linyu Wu, Wen Wang, Yuling Xi, Chenchen Jing, Jiaheng Zhang, Hao Chen, Chunhua Shen
+- **MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents** — Pengxiang Zhao, Guangyi Liu, Yaozhen Liang, Weiqing He, Zhengxi Lu, WenHao Wang, Yuehao Huang, Yuxiang Chai, Zhaolu Kang, Yaxuan Guo, Hao Wang, Kexin Zhang, Liang Liu, Yong Liu
+- **HoWToBench: Holistic Evaluation for LLM’s Capability in Human-level Writing using Tree of Writing** — Andrew Zhuoer Feng, Cunxiang Wang, Yu Luo, Lin Fan, Irene Zhou, Zikang Wang, Xiaotao Gu, Jie Tang, Hongning Wang, Minlie Huang
+- **DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints** — Yinger Zhang, Shutong Jiang, Renhao Li, Jianhong Tu, Yang Su, Lianghao Deng, Xudong Guo, ChenXu Lv, Junyang Lin
+- **AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts** — Keyu Li, Junhao Shi, Yang Xiao, Mohan Jiang, Jie Sun, Yunze Wu, Dayuan Fu, Shijie Xia, Xiaojie Cai, Tianze Xu, Weiye Si, Wenjie Li, Dequan Wang, Pengfei Liu
+- **arXiv2Table: Toward Realistic Benchmarking and Evaluation for LLM-Based Literature-Review Table Generation** — Weiqi Wang, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi
+- **Responsible Evaluation of AI for Mental Health** — Hiba Arnaout, Anmol Goel, H. Andrew Schwartz, Steffen T. Eberhardt, Dana Atzil-Slonim, Gavin Doherty, Brian Schwartz, Wolfgang Lutz, Tim Althoff, Munmun De Choudhury, Hamidreza Jamalabadi, Raj Sanjay Shah, Flor Miriam Plaza-del-Arco, Dirk Hovy, Maria Liakata, Iryna Gurevych
+- **SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation** — Hui Wang, Jinghua Zhao, Yifan Yang, Shujie Liu, Junyang Chen, Yanzhe Zhang, Shiwan Zhao, Jinyu Li, Jiaming Zhou, Haoqin Sun, Yan Lu, Yong Qin
+- **Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs** — Wenrui Zhou, Mohamed Hendy, Shu Yang, Qingsong Yang, Zikun Guo, Yuyu Luo, Lijie Hu, Di Wang
+- **Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents** — Yiting Shen, Kun Li, Wei Zhou, Songlin Hu
+- **A Survey of Large Language Model-Based Search Agents** — Yunjia Xi, Jianghao Lin, Yongzhao Xiao, Zheli Zhou, Rong Shan, Te Gao, Jiachen Zhu, Weiwen Liu, Yong Yu, Weinan Zhang
+- **AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios** — Lisa Alazraki, Lihu Chen, Ana Brassard, Joe Stacey, Hossein A. Rahmani, Marek Rei
+- **Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations** — Wenrui Cai, Chengyu Wang, Junbing Yan, Jun Huang, Xiangzhong Fang
+- **Beyond Monolingual Assumptions: A Survey on Code-Switched NLP in the Era of Large Language Models across Modalities** — Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, Himanshu Beniwal, Mayank Singh
+- **From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level** — Jia Li, Yuxin Su, Michael R. Lyu
+- **RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository** — Zhiyuan Peng, Xin Yin, Pu Zhao, Fangkai Yang, Lu Wang, Ran Jia, Xu Chen, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+- **CityCube: Benchmarking Cross-view Spatial Reasoning on Vision-Language Models in Urban Environments** — Haotian Xu, Yue Hu, Zhengqiu Zhu, Chen Gao, Ziyou Wang, Junreng Rao, Wenhao Lu, Weishi Li, Quanjun Yin, Yong Li
+- **“Newspaper Eat” Means “Not Tasty”: A Taxonomy and Benchmark for Coded Language in Real-World Chinese Online Reviews** — Ruyuan Wan, Changye Li, Ting-Hao ‘Kenneth’ Huang
+- **One Battle After Another: Probing LLMs’ Limits on Multi-Turn Instruction Following with a Benchmark Evolving Framework** — Qi Jia, Ye Shen, Xiujie Song, Kaiwei Zhang, Shibo Wang, Dun Pei, Xiangyang Zhu, Guangtao Zhai
+- **Benchmarking and Learning Real-World Customer Service Dialogue** — Tianhong Gao, Jundong Shen, Jiapeng Wang, Bei Shi, Ying Ju, Junfeng Yao, Huiyu Yu
+- **DREAM: Deep Research Evaluation with Agentic Metrics** — Elad Ben Avraham, ChangHao Li, Ron Dorfman, Roy Ganz, Oren Nuriel, Amir Dudai, Aviad Aberdam, Noah Flynn, Elman Mansimov, Aditya Kalyanpur, Ron Litman
+- **ACIArena: Toward Unified Evaluation for Agent Cascading Injection** — Hengyu An, Minxi Li, Jinghuai Zhang, Naen Xu, Chunyi Zhou, Changjiang Li, Xiaogang Xu, Tianyu Du, Shouling Ji
+- **PLAWBENCH: A Rubric-Based Benchmark for Evaluating LLMs in Real-World Legal Practice** — Yuzhen Shi, Huanghai Liu, Yiran Hu, Song Gaojie, Xu Xinran, Yubo Ma, Tianyi Tang, Li Zhang, Qingjing Chen, Feng Di, Wenbo Lv, Weiheng Wu, Kexin Yang, Sen Yang, Wei Wang, Rongyao Shi, Qiu Yuanyang, Yuemeng Qi, Zhang Jingwen, Sui Xiaoyu, Yifan Chen, Zhang Yi, An Yang, Bowen Yu, Dayiheng Liu, Junyang Lin, Weixing Shen, Bing Zhao, Charles L. A. Clarke, Hu Wei
+- **Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments** — Zheng Jia, Shengbin Yue, Wei Chen, Siyuan Wang, Yidong Liu, Zejun Li, Yun Song, Zhongyu Wei
+- **Beyond Word Boundaries: A Hebrew Coreference Benchmark and an Evaluation Protocol for Morphologically Complex Text** — Refael Shaked Greenfeld, Reut Tsarfaty
+- **All That Glisters Is Not Gold: A Benchmark for Reference-Free Counterfactual Financial Misinformation Detection** — Yuechen Jiang, Zhiwei Liu, Yupeng Cao, Yueru He, Ziyang Xu, Chen Xu, Zhiyang Deng, Prayag Tiwari, Xi Chen, Alejandro Lopez-Lira, Jimin Huang, Junichi Tsujii, Sophia Ananiadou
+- **Musical Score Understanding Benchmark: Evaluating Large Language Models’ Comprehension of Complete Musical Scores** — Congren Dai
+- **Valid Survey Simulations with Limited Human Data: The Roles of Prompting, Fine-Tuning, and Rectification** — Stefan Krsteski, Giuseppe Russo, Serina Chang, Robert West, Kristina Gligorić
+- **Limited Linguistic Diversity in Embodied AI Datasets** — Selma Wanna, Agnes Luhtaru, Jonathan Salfity, Ryan Barron, Juston Moore, Cynthia Matuszek, Mitch Pryor
+- **CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval** — Jiahui Geng, Fengyu Cai, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Alexander Pretschner, Heinz Koeppl, Fakhri Karray
+- **WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics** — Chenxu Liu, Yingjie Fu, Wei Yang, Ying Zhang, Tao Xie
+- **LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection** — Cheng Xu, Changhong Jin, Yingjie Niu, Nan Yan, Yuke Mei, Shuhao Guan, Liming Chen, Tahar Kechadi
+- **BhashaSutra: A Task-Centric Unified Survey of Indian NLP Datasets, Corpora, and Resources** — Raghvendra Kuma, Devankar Raj, Sriparna Saha
+- **Table Question Answering in the Era of Large Language Models: A Comprehensive Survey of Tasks, Methods, and Evaluation** — Wei Zhou, Bolei Ma, Annemarie Friedrich, Mohsen Mesgar
+- **Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review** — Qian Ruan, Iryna Gurevych
+- **Reward Modeling for Scientific Writing Evaluation** — Furkan Şahinuç, Subhabrata Dutta, Iryna Gurevych
+- **Decoding Scientific Experimental Images: The SPUR Benchmark for Perception, Understanding, and Reasoning** — Junpeng Ding, Zichen Tang, Haihong E, Mengyuan Ji, Yang Liu, Haolin Tian, Haiyang Sun, Pengqi Sun, Yang Xu, Yichen Liu, Haocheng Gao, Zijie Xi, Ruomeng Jiang, Peizhi Zhao, Rongjin Li, Yuanze Li, Jiacheng Liu, Zhongjun Yang, Jintong Chen, Siying Lin
+- **Stereotype Bias in a Bilingual Setting: A Culturally Grounded Evaluation in Kazakhstan** — Nurkhan Laiyk, Daniil Orel, Ayana Mussabayeva, Maiya Goloburda, Kamila Kuishibekova, Liya Goloburda, Diana Turmakhan, Preslav Nakov, Yuxia Wang, Fajri Koto
+- **FinCall-Surprise: A Large Scale Multi-modal Benchmark for Earning Surprise Prediction** — Dong Shu, Yanguang Liu, Huopu Zhang, Mengnan Du
+- **FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models** — Dong Shu, Haoyang Yuan, Yuchen Wang, Yanguang Liu, Huopu Zhang, Mengnan Du
+- **From Charts to Code: A Hierarchical Benchmark for Multimodal Models** — Jiahao Tang, Henry Hengyuan Zhao, Lijian Wu, Zijian Zhang, Yifei Tao, Dongxing Mao, Yang Wan, Jingru Tan, Min Zeng, Min Li, Alex Jinpeng Wang
+- **Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation** — Katelyn Xiaoying Mei, Yi-Li Hsu, Minjoon Choi, Zongwan Cao, Chenjun Xu, Bingbing Wen, Su Lin Blodgett, Lucy Lu Wang
+- **Omni-RewardBench: Toward a Comprehensive Evaluation of Generative Reward Models Across Modalities** — Chi-Min Chan, Yujin Zhou, Pengcheng Wen, Boqin Yin, Jiaming Ji, Juntao Dai, Wei Xue, Sirui Han, Yike Guo
+- **Iterative Dual-Model Alignment for Story Evaluation** — Bruce Qin, Dan Goldwasser
+- **FinChain: A Symbolic Benchmark for Verifiable Chain-of-Thought Financial Reasoning** — Zhuohan Xie, Daniil Orel, Rushil Thareja, Dhruv Sahnan, Hachem Madmoun, Fan Zhang, Debopriyo Banerjee, Georgi Nenkov Georgiev, Xueqing Peng, Lingfei Qian, Jimin Huang, Jinyan Su, Aaryamonvikram Singh, Rui Xing, Rania Elbadry, Chen Xu, Haonan Li, Fajri Koto, Ivan Koychev, Tanmoy Chakraborty, Yuxia Wang, Salem Lahlou, Veselin Stoyanov, Sophia Ananiadou, Preslav Nakov
+- **YIELD: A Large-Scale Dataset and Evaluation Framework for Information Elicitation Agents** — Victor De Lima, Grace Hui Yang
+- **Rethinking Evaluation for LLM Hallucination Detection: A Desiderata, A New RAG-based Benchmark, New Insights** — Wenbo Chen, Veena Padmanabhan, Tootiya Giyahchi, Elaine Wong, Leman Akoglu
+- **PRIME: A Process-Outcome Alignment Benchmark for Verifiable Reasoning in Mathematics and Engineering** — Yuanhao Ding, Meimingwei Li, Esteban Garces Arias, Matthias Aßenmacher, Christian Heumann, Chongsheng ZHANG
+- **AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs** — Zechen Li, Baiyu Chen, Hao Xue, Flora D. Salim
+- **LiveCLKTBench: Towards Reliable Evaluation of Cross-Lingual Knowledge Transfer in Multilingual LLMs** — Linrui Ma, Chun Hei Lo, Xinyu Wang, Peng Lu, Xihao Yuan, Hanting Chen, Kai Han, Xinghao Chen, Chengjun Zhan, Hanlin xu, Yichun Yin, Lifeng Shang, Feng Wen, Boxing Chen, Yufei Cui
+- **VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models** — Feiteng Fang, Dingwei Chen, Xiang Huang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Xinge Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Yongbin Li
+- **ReproEvalCard: A Reporting Standard for Reproducible Evaluation of LLM Pipelines** — Vignesh Kothapalli, Ata Fatahibaarzi, Hamed Firooz, Maziar Sanjabi
+- **BenchMarker: An Education-Inspired Toolkit for Highlighting Flaws in Multiple-Choice Benchmarks** — Wei He
+- **MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs** — Yi Lin, Yihao Ding, Yonghui Wu, Yifan Peng
+- **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation** — Nicholas Edwards, Yukyung Lee, Yujun (Audrey) Mao, Yulu Qin, Sebastian Schuster, Najoung Kim
+- **ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios** — Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Chen Chen, Dongjie Wang, Zijun Yao
+- **Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets** — Leonardo Ranaldi
+- **Quantifying Metric and Model Agreement in Bias Evaluation of Large Language Models** — Jiateng Liu, Zhenhailong Wang, Xiaojiang Huang, Yingjie Li, Xiang Li, Chenlei Guo, Xing Fan, Ruhi Sarikaya, Heng Ji
+- **MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application** — Itay Yona, Amir Sarid, Michael Karasik, Yossi Gandelsman
+- **Bidirectional LMs are Better Knowledge Memorizers? A Benchmark for Real-world Knowledge Injection** — Arash Asgari, Huan Wu, Amirreza Naziri, Mojtaba Kolahdouzi, Laleh Seyyed-Kalantari
+- **From Query to Counsel: Structured Reasoning with a Multi-Agent Framework and Dataset for Legal Consultation** — Jinbiao Wei, Yilun Zhao, Kangqi Ni, Arman Cohan
+- **Subject-level Inference for Realistic Text Anonymization Evaluation** — Mingfei Lu, Yi Zhang, Mengjia Wu, Yue Feng
+- **VOYAGER: A Training Free Approach for Generating Diverse Datasets using LLMs** — Aaron Mueller, Andrew Lee, Shruti Joshi, Ekdeep Singh Lubana, Dhanya Sridhar, Patrik Reizinger
+- **CaseFacts: A Benchmark for Legal Fact-Checking and Precedent Retrieval** — Ziyue Yan, Hongying Zan, Xinglin Lyu, Hongfei Xu
+- **Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation** — Zhenwen Liang, Ruosen Li, Yujun Zhou, Linfeng Song, Dian Yu, Xinya Du, Haitao Mi, Dong Yu
+- **Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models** — Jiaju Chen, Yuxuan Lu, Xiaojie Wang, Huimin Zeng, Jing Huang, Jiri Gesi, Ying Xu, Bingsheng Yao, Dakuo Wang
+- **Tracing Logit Trajectories Across Layer Depth: Dataset-Level Explainability for Language Models** — Tong Zhang, Honglin Lin, Zhou Liu, Chong Chen, Wentao Zhang
+- **AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following** — Joongmin Shin, Gyuho Shim, Jeongbae Park, Jaehyung Seo, Heuiseok Lim
+- **PRiSM: Benchmarking Phone Realization in Speech Models** — Yilun Liu, Ruihong Qiu, Zi Huang
+- **Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks** — Xingyue Huang, Xueying Ding, Mingxuan Ju, Yozen Liu, Neil Shah, Tong Zhao
+- **Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations** — Xinhe Wang, Jin Huang, Xingjian Zhang, Tianhao Wang, Jiaqi W. Ma
+- **Beyond Value Benchmarks: Measuring Value-Structure Alignment in Large Language Models via Symmetric Q-Sorts** — Prerna Juneja, Lika Lomidze
+- **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation** — Jiaxi Bi, Tongxu Luo, Wenyu Du, Zhengyang Tang, Benyou Wang
+- **CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks** — Xv Wang, Wang Zhenyu, Guanyu Zheng, Rui Zhang
+- **When Bigger Isn’t Better: A Comprehensive Fairness Evaluation of Political Bias in Multi-News Summarisation** — Peiru Yang, Haoran Zheng, Tong Ju, Shiting Wang, Wanchun Ni, Jiajun Liu, Shangguang Wang, Yongfeng Huang, Tao Qi
+- **Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework** — Yiming Chen, Zexin Li, Xianghu Yue, Robby T. Tan, Haizhou Li
+- **Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems** — Jianwen Luo, Yongkang Jin, Yu Hong, Jianmin YAO
+- **MTAVG-Bench: A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation** — Zechen Sun, Yuyang Sun, Zecheng Tang, Juntao Li, Wenpeng Hu, Wenliang Chen, Zhunchen Luo, Guotong Geng, Min Zhang
+- **SubTokenTest: A Practical Benchmark for Real-World Sub-token Understanding** — Yanghao Zhou, Haitian Li, Rexar Lin, Heyan Huang, Jinxing Zhou, Changsen Yuan, Tian Lan, Ziqin Zhou, Yudong Li, Jiajun Xu, Jingyun Liao, YiMing Cheng, Xuefeng Chen, Xian-Ling Mao, Yousheng Feng
+- **Benchmarking and Enabling Efficient Chinese Medical Retrieval via Asymmetric Encoders** — Shanghao Li, Jinda Han, Yibo Wang, Yuanjie Zhu, Zihe Song, Langzhou He, Kenan Kamel A Alghythee, Philip S. Yu
+- **League of LLMs: A Benchmark-Free Paradigm for Mutual Evaluation of Large Language Models** — Liang Lin, Miao Yu, Moayad Aloqaily, Zhenhong Zhou, Kun Wang, Linsey Pang, Prakhar Mehrotra, Qingsong Wen
+- **RARE: Redundancy-Aware Retrieval Evaluation Framework for High-Similarity Corpora** — Zhen Yang, Mingyang Zhang, Feng Chen, Ganggui Ding, Liang Hou, Xin Tao, Ying-Cong Chen
+- **SPENCE: A Syntactic Probe for Detecting Contamination in NL2SQL Benchmarks** — Yue Fan, Hu zhang, Yunxiao Zhao, Guangjun Zhang, Hao Zhan, Ru Li, Hongye Tan, Yuanlong Wang
+- **Beyond the Last Frame: Process-aware Evaluation for Generative Video Reasoning** — Mingze Xu, Zijing Zhao, Qiming Peng, Houwen Peng, Han Hu, Zhanhui Kang, Yuxing Han
+- **HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application** — Ziyang Ling, Ronald XuMingzhai Sun
+- **Cultural Benchmarking of LLMs in Standard and Dialectal Arabic Dialogues** — Jiayu Zhang, Shuo Ye, Qilang Ye, Zihan Song, Jiajian Huang, Zitong Yu
+- **USB: A COMPREHENSIVE AND UNIFIED SAFETY EVALUATION BENCHMARK FOR MULTIMODAL LARGE LANGUAGE MODELS** — Kangning Zhang, Weiwen Liu, Wenxiang Jiao, Kounianhua Du, Yuan Lu, Weinan Zhang, Yong Yu
+- **LLMEval-Fair: A Large-Scale Longitudinal Study on Robust and Fair Evaluation of Large Language Models** — Baolin Zheng, Guanlin Chen, Qingyang Teng, Hongqiong Zhong, Yingshui Tan, Zhendong Liu, Weixun Wang, Jiaheng Liu, Jian Yang, Huiyun Jing, Jincheng Wei, Wenbo Su, Xiaoyong Zhu, Bo Zheng, Kaifu Zhang
+- **AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images** — Yi Fang, Wenjie Wang, Mingfeng Xue, Boyi Deng, Fengli Xu, Dayiheng Liu, Fuli Feng
+- **The GaoYao Benchmark: A Comprehensive Framework for Evaluating Multilingual and Multicultural Abilities of Large Language Models** — Xunjian Yin, Sitao Cheng, Yuxi Xie, Xinyu Hu, Li Lin, Xinyi Wang, Liangming Pan, William Yang Wang, Xiaojun Wan
+- **LexRel: Benchmarking Legal Relation Extraction for Chinese Civil Cases** — Haofu Yang, Jiaji Liu, Chen Huang, Faguo Wu, Wenqiang Lei, See-Kiong Ng
+- **MTR-Bench: A Comprehensive Benchmark for Multi-Turn Reasoning Evaluation** — Huachen Qi, Ruiyu Zhuo, Bowen Shi, Xiang Chang, Fei Chao, Changjing Shang, Qiang Shen
+- **Community-Aware Assessment of Social Textual Engagement and Resonance: A Human-Centric Perspective on User-Generated Content Evaluation** — Tao Wu, Jingyuan Chen, Wang Lin, Jian Zhan, Mengze Li, Fangzhou Jin, Min Zhang, Kun Kuang, Fei Wu
+- **EduBench: A Comprehensive Benchmarking Dataset for Evaluating Large Language Models in Diverse Educational Scenarios** — Tianjiao Li, Kai Zhao, Xiang Li, Yang Liu, Huyang Sun
+- **MMAC: A Multilingual, Multimodal Alignment Framework for Cultural Grounding Evaluation** — Bin Xu, Yu Bai, Huashan Sun, Yiguan Lin, Siming Liu, Xinyue Liang, Yaolin Li, Zhuangzhi Dong, Jingren Zhang, Yufan Deng, Xinyu Zou, Yang Gao, Heyan Huang
+- **Benchmarking Large Vision-Language Models on CFMME: A Comprehensive Chinese Financial Multimodal Evaluation Dataset** — Fangming Feng, Dongjie Fu, Zequn Xie, Yu Zhang, Yangyang Wu, Zhou Zhao, Tao Jin
+- **Translation or Recitation? Calibrating Evaluation Scores for Machine Translation of Extremely Low-Resource Languages** — Shaoning Sun, Mingzhu Cai, Huang He, Bingjin Chen, Siqi Bao, Yujiu Yang, Hua Wu, Haifeng Wang
+- **Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces** — Hui Liu, Bin Zou, Kecheng Chen, Jie Liu, Wenya Wang, Haoliang Li
+- **BrowseComp-Plus: A Fair and Disentangled Evaluation Benchmark for Deep Search Agents** — Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Yian Wang, Qingyun Li, Yu Qiao, Zun Wang, Zichen DingBowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Yian Wang, Qingyun Li, Yu Qiao, Zun Wang, Zichen Ding
+- **LitVISTA: A Benchmark for Narrative Orchestration in Literary Text** — Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang, Xiuqiang He, Xu Chen
+- **Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math** — Kazutoshi Shinoda, Kosuke Nishida, Kyosuke Nishida
+- **InsLogicBench: An Argumentation Logic Grounded Benchmark for Complex Insurance Claims Adjudication** — Haonan Dong, Kehan Jiang, Haoran Ye, Wenhao Zhu, Zhaolu Kang, Guojie Song
+- **A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions** — Xing Yue, Yongliang Shen, Weiming Lu
+- **Automated Creativity Evaluation of Language Models Across Open-Ended Tasks** — Jordan Meadows, Lan Zhang, Andre Freitas
+- **Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling** — Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Anh Tuan Luu, Haiteng Zhao, Qika Lin, Jun Liu
+- **From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset** — Aditya Hemant Shahane, Anuj Kumar Sirohi, Devansh Arora, Nitin Kumar, Prathosh A P, Sandeep Kumar
+- **MMTutorBench: The First Multimodal Benchmark for AI Math Tutoring** — Minsung Kim, Dong-Kyum Kim, Jea Kwon, Nakyeong Yang, Kyomin Jung, Meeyoung Cha
+- **Detoxification for LLM: From Dataset Itself** — Weijie Jiang, Gaolei He, Beibei Xiong, Jianlin Wang, Zhengfeng Yang
+- **LaoBench: A Large-Scale Multidimensional Lao Benchmark for Large Language Models** — Huilin Deng, Hongchen Luo, Yue Zhu, Long Li, Zhuoyue Chen, Xinghao Zhao, Ming Li, Chuyang Zhao, Jihai Zhang, MengChang Wang, Yang Cao, Yu Kang
+- **IF-RewardBench: Benchmarking Judge Models for Instruction-Following Evaluation** — Jian Gao, Richeng Xuan, Zhaolu Kang, Dingshi Liao, Wenxin Huang, Zongmou Huang, Yangdi Xu, Bowen Qin, Zheqi He, Xi Yang, Changjin Li, Yonghua Lin
+- **Knowledge Beyond Language: Bridging the Gap in Multilingual Machine Unlearning Evaluation** — Xianzhen Luo, Wenzhen Zheng, Qingfu Zhu, Rongyi Zhang, Houyi Li, Siming Huang, YuanTao Fan, Wanxiang Che
+- **SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios** — Dingwei Zhu, Shihan Dou, Zhiheng Xi, Senjie Jin, Guoqiang Zhang, Jiazheng Zhang, Junjie Ye, Mingxu Chai, Enyu Zhou, Ming Zhang, Yuhui Wang, Caishuang Huang, Chenhao Huang, Yunke Zhang, Yuran Wang, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang
+- **ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints** — Kyomin Hwang, Hyeonjin Kim, Sangyeon Cho, Nojun Kwak
+- **Truth or Sophistry? LoFa: A Benchmark for LLM Robustness Against Logical Fallacies** — Weicai Yan, Xinhua Ma, Wang Lin, Tao Jin
+- **JanusMM: A Benchmark for Self-Deprecation Understanding in Real-World Multimodal Conversations** — Xudong Shen, Li Yuan, Ye Chen, Xin Wu, Yi Cai, Zhiyong Wu
+- **Ascending the Infinite Ladder: Benchmarking Spatial Deformation Reasoning in Vision-Language Models** — Yuchong Chen, Bowei Zou, Yuhan Chen, Yifan Fan, Xinyu Li, Shujun Cao, Yu Hong
+- **When Efficiency Meets Safety: A Benchmark Security Analysis of KV Cache Compression in Large Language Models** — Jiahuan Zhang, Shunwen Bai, Tianheng Wang, Kaiwen Guo, Zijia Song, Hanqing Wu, Guozheng Rao, Kai Han, Kaicheng Yu
+- **GeoLaux: A Benchmark for Evaluating MLLMs’ Geometry Performance on Long-Step Problems Requiring Auxiliary Lines** — Jinhu Fu, Yan Bai, Longzhu He, Yihang Lou, Yanxiao Zhao, Li Sun, Sen Su
+- **IF-CRITIC: Towards a Fine-Grained LLM Critic for Instruction-Following Evaluation** — Leonardo Ranaldi, Federico Ranaldi
+- **Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents** — Junho Park, Dohoon Kim, Taesup Moon
+- **CUB: Benchmarking Context Utilisation Techniques for Language Models** — Bosi Wen, Yilin Niu, Cunxiang Wang, Pei Ke, Xiaoying Ling, Ying Zhang, Aohan Zeng, Hongning Wang, Minlie Huang
+- **MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge** — Yifan Zhang, Chen Huang, Yueke Zhang, Jiahao Zhang, Toby Jia-Jun Li, Collin McMillan, Kevin Leach, Yu Huang
+- **Chart-MRAG: Benchmarking Multimodal Retrieval Augmented Generation on Chart-based Documents** — Xin Huang, Yan Hu, Yuejiao Gong, Xinglin Zhang
+- **Revisiting Metric Reliability for Fine-grained Evaluation of Machine Translation and Summarization in Indian Languages** — Yuhang Li, Chenchen Zhang, Ruilin Lv, Ao Liu, Ken Deng, Yuanxing Zhang, Jiaheng Liu, Bo Zhou
+- **CogEvolve: A Multimodal Benchmark for Evaluating Relational Reasoning in Semantic Extension** — Choongwon Kang, Seungjong Sun, Hyunmin Jun, Jang Hyun Kim
+- **Reliable Evaluation Protocol for Low-Precision Retrieval** — Qianchi Zhang, Hainan Zhang, Liang Pang, Hongwei Zheng, Zhiming Zheng
+- **Inflated Excellence or True Performance? Rethinking Medical Diagnostic Benchmarks with Dynamic Evaluation** — Changhao Jiang, Ming Zhang, Yifei Cao, Junjie Ye, Xiaoran Fan, Shihan Dou, Zhiheng Xi, Jiajun Sun, Yi Dong, Yujiong Shen, Jingqi Tong, Baoyu Fan, Tao Gui, Qi Zhang, Xuanjing Huang
+- **TrendFact: A Benchmark Towards Hotspot Perception in Automatic Fact-Checking** — Yan Liu, Feng Zhang, Zhanyu Ma, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He, Han Liu, Yangdong Deng
+- **When More Words Say Less: Decoupling Length and Specificity in Image Description Evaluation** — Hongcheng Liu, Yuhao Wang, Zhe Chen, Pingjie Wang, Zhiyuan Zhu, Yixuan Hou, Yanfeng Wang, Yu Wang
+- **SGVEF-LOOP: Coverage-Guided Progressive Topological Exploration and Fact-Grounded Metamorphic Evaluation for MCP Agents** — Rhea Kapur, Robert Hawkins, Elisa Kreiss
+- **Benchmarking Egocentric Clinical Intent Understanding Capability for Medical Multimodal Large Language Models** — Zenghao Liu, Yansong Zhang
+- **ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering** — Hao Zhou, Tianhao Li, Zhijun Wang, Shuaijie She, Linjuan Wu, Hao-Ran Wei, Baosong Yang, Jiajun Chen, Shujian Huang
+- **LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations** — Bingquan Zhang, Xiaoxiao Liu, Yuchi Wang, Lei Zhou, Qianqian Xie, Benyou Wang
+- **DR-Arena: an Automated Evaluation Framework for Deep Research Agents** — Jing Jin, Yuhan Song, Wen Luo, Houfeng Wang
+- **Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models** — Jingjing Li, Yue Feng, Yuchen Guo, Jincai Huang, Wei Ji, Qi Bi, Yongri Piao, Miao Zhang, Xiaoqi Zhao, Qiang Chen, Shihao Zou, Huchuan Lu, Li Cheng
+- **Beyond Single View: A Comprehensive Benchmark for Medical Multimodal Large Language Models on Multi-Image Understanding** — Jiahe Guo, Xiangran Guo, Yulin Hu, Zimo Long, Xingyu Sui, Xuda Zhi, Yongbo Huang, Hao He, Weixiang Zhao, Yanyan Zhao, Bing Qin
+- **Neo-Classic: A Benchmark for Evaluating Linguistic-Aesthetic Reasoning in Classical Chinese Poetry** — Hongcheng Liu, Pingjie Wang, Yuhao Wang, Siqu Ou, Yanfeng Wang, Yu Wang
+- **RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension** — Aoyuan Jiang, Liang Hong, Haoxuan Liu, Rui Wang
+- **CompTab: A Comprehensive Benchmark for Real-World TableQA with Complex Reasoning and Irregular Tables** — Aafiya Hussain, Gaurav Srivastava, Alvi Ishmam, Zaber Hakim, Chris Thomas
+- **Process Reward Models Meet Planning: Generating Precise and Scalable Datasets for Step-Level Rewards** — Zeping Li, Hongru Wang, Yiwen Zhao, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai, Zhenfei Yin
+- **Benchmarking Deflection and Hallucination in Large Vision-Language Models** — Wenjie Peng, Chen Chen, Thomas Hain
+- **Bloom-Eval: A Hierarchical Evaluation Benchmark for Automatic Survey Generation Based on Bloom’s Taxonomy** — Xue Jiang, Ge Li, Jiaru Qian, Xianjie Shi, Chenjie Li, Hao Zhu, Ziyu Wang, Jielun Zhang, Zheyu Zhao, Kechi Zhang, Jia Li, Wenpin Jiao, Zhi Jin, Yihong Dong
+- **FactVerse: A Benchmark for Factual Consistency in Interleaved Image–Text Generation** — Hao-Xiang Xu, Chong Deng, Jiaqing Liu, Wen Wang, Qian Chen, Lujia Bao, Xiangang Li, Zhen-Hua Ling
+- **EIFFEL: a novel benchmark to measure bias of English heavy training on French idiomatic expressions** — Shuai Zhang, Weibo Xu, Jiahao Nie, Kecheng Huang
+- **It’s High Time: A Survey of Temporal Question Answering** — Yucheng Wang, Shen Yang, Jifan Yu, Haoxuan Li, Joy Jia Yin Lim, Daniel Zhang-Li, Huiqin LIU, Lei Hou, Juanzi Li, Bin Xu
+- **Beyond Itinerary Planning—A Real-World Benchmark for Multi-Turn and Tool-Using Travel Tasks** — Changxin Ke, Rui Zhang, Jiaming Guo, Yuanbo Wen, Li Ding, Shuo Wang, Xuyuan Zhu, Xiong Peng, Di Huang, Zidong Du, Xing Hu, Qi Guo, Yunji Chen
+- **Persona-E²: A Human-Grounded Dataset for Personality-Shaped Emotional Responses to Textual Events** — Xiang Cheng, Yulan Hu, Xiangwen Zhang, Lu Xu, Lide Tan, Zheng Pan, Xin Li, Yong Liu
+- **Culture-Aware Machine Translation in Large Language Models: Benchmarking and Investigation** — Yawen Wang, Yihan Dai, Jianming Chen, Junjie Wang, Qing Wang
+- **LongTutor: Benchmarking Large Language Models for Long-term Personalized Tutoring** — Zekun Yuan, Yangfan Ye, Xiaocheng Feng, Baohang Li, Qichen Hong, Yunfei Lu, Dandan Tu, Bing Qin
+- **GOLEMcoref: A Multilingual Coreference Dataset of Fiction** — Xuwen Zhou, Fangxin Liu, Chao Wang, Xiao Zheng, Hao Zheng, Min He, Li Jiang, Haibing Guan
+- **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** — Wensheng Lu, Keyu Chen, Zhifeng Shen, Ruizhi Qiao, Xing Sun
+- **Controllable Contamination Detection for Reliable LLM Evaluation with Statistical Guarantees** — Jiawei Li, Yang Gao, Huashan Sun, Chong Feng
+- **KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions** — Zheng Zhang, Qi Liu, Siyuan Liang, Ning Li, Zirui Hu, Weibo Gao, Rui Li, Zhenya Huang, Leszek Rutkowski, Baosheng Yu, Dacheng Tao
+- **PersonalityDBench: A Dataset for Personality Disorders - from Modeling to Controlled Generation** — Jia-Nan Li, Jian Guan, Songhao Wu, Wei Wu, Rui Yan
+- **Generating Attribution Reports for Manipulated Facial Images: A Dataset and Baseline** — Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman
+- **ArgGenBench: Benchmarking the Complex Controlled Argument Generation Capability of Large Language Models** — Luoming Hu, Liang Yang, Jingjie Zeng, Zijie Xing
+- **QuantumQA: Enhancing Scientific Reasoning via Physics-Consistent Dataset and Verification-Aware Reinforcement Learning** — Janvijay Singh, Dilek Hakkani-Tür
+- **OSCBench: Benchmarking Object State Change in Text-to-Video Generation** — Arya Shah, Deepali Mishra, Chaklam Silpasuwanchai
+- **Evaluation Pitfalls and Challenges in Multimedia Event Extraction** — Jihao Gu, Qihang Ai, Yingyao Wang, Pi Bu, Jingxuan Xing, Yue Cao, Zekun Zhu, Wei Jiang, Ziming Wang, Yingxiu Zhao, Ming-Liang Zhang, Jun Song, Yuning Jiang, Bo Zheng
+- **Attribution, Citation, and Quotation: A Survey of Evidence-based Text Generation with Large Language Models** — Philipp Seeberger, Steffen Freisinger, Tobias Bocklet, Korbinian Riedhammer
+- **Can AI-Generated Persuasion Be Detected? Persuaficial Benchmark and AI vs. Human Linguistic Differences** — Ahao Liu, Haitong Yang, Wang Chuanrong
+- **SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for Token-level Recognition of Semantic Differences Between Related Documents** — Arkadiusz Modzelewski, Paweł Golik, Anna Kołos, Giovanni Da San Martino
+- **TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems** — Haolei Xu, Haiwen Hong, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen, Weiming Lu, Yueting Zhuang
+- **How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities** — Junyi Zhou, Qiyuan Zhang, Yufei Wang, Fuyuan Lyu, Yidong Ming, Can Xu, Qingfeng Sun, Kai Zheng, Peng Kang, Xue Liu, Chen Ma
+- **RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation** — Tianyu Huang, Yida Zhao, Chuyan Zhou, Kewei Tu
+- **A Survey of Inductive Reasoning for Large Language Models** — Ziwen Xu, Kewei Xu, Haoming Xu, Haiwen Hong, Longtao Huang, Hui Xue, Ningyu Zhang, Yongliang Shen, Guozhou Zheng, Huajun Chen, Shumin Deng
+- **CogToM: A Comprehensive Theory of Mind Benchmark inspired by Human Cognition for Large Language Models** — Zelin Tan, Hejia Geng, Xiaohang Yu, Mulei Zhang, Guancheng Wan, Yifan Zhou, Qiang He, Xiangyuan Xue, Heng Zhou, Yutao Fan, Zhongzhi Li, Zaibin Zhang, Guibin Zhang, Chen Zhang, Zhenfei Yin, Philip Torr, Lei Bai
+- **CITE: Benchmarking Heterogeneous Text-Attributed Graph Models** — Sunzhu Li, Jiale Zhao, Huimin Ren, Zhenlin Wei, Yang Zhou, Jingwen Yang, Shunyu Liu, Kaike Zhang, Chen Wei
+- **SAFO: Stable Adaptive Fairness Optimization for LLM-Based Social Survey Simulation** — Dingyu Yao, Chenxu Yang, Zhengyang Tong, Zheng Lin, Wei Liu, Jian Luan, Weiping Wang
+- **GQLBench: A Large-Scale Cross-Domain, Cross-Dialect Benchmark for NL2GQL** — Zain Muhammad Mujahid, Dustin Wright, Isabelle Augenstein
+- **Alexandria: A Multi-Domain Dialectal Arabic Machine Translation Dataset for Culturally Inclusive and Linguistically Diverse LLMs** — Jieun Kim, Seoha Lim, YoungHae Choi, Sung-Bae Cho
+- **Can AI Be a Good Peer Reviewer? A Survey of Peer Review Process, Evaluation, and the Future** — Hongxin Ding, Baixiang Huang, Yue Fang, Weibin Liao, Xinke Jiang, Jinyang Zhang, Yinghao Zhu, Zheng Li, Liantao Ma, Junfeng Zhao, Yasha Wang
+- **MetaBench: A Multi-task Benchmark for Assessing LLMs in Metabolomics** — Zihan Gu, TianYi Zhang, Xinyan Zhang, Zhiyuan Wang, Han Zhang, Yuhao Wei, Jiacheng Lu, Tianyi Ma, Xingsheng ZHANG, Hua Zhang, Yue Hu
+- **RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation** — Kai Wei, Yuwen Cui, Kehan Shen, Hua Wei, Guangjing Wang
+- **The GDN-CC Dataset: Automatic Corpus Clarification for AI-enhanced Democratic Citizen Consultations** — Zhenhan Huang
+- **PIArena: A Platform for Prompt Injection Evaluation** — Wei Shao, Lingchao Zheng, Pengyu Wang, Peizhen Zheng, Jun Li, Yuwei Fan
+- **ChemReason-Bench: Benchmarking Large Language Models for Procedural Reasoning in Experimental Chemistry** — Wenjie Jacky Mo, Qin Liu, Xiaofei Wen, Dongwon Jung, Hadi Askari, Wenxuan Zhou, Zhe Zhao, Muhao Chen
+- **CL²GEC: A Multi-Discipline Benchmark for Continual Learning in Chinese Literature Grammatical Error Correction** — Yu Fu, Chen Luo, Josef Valvoda, Xin Zhang, Xuejing Lei, Xiao Pan, Hui Liu, Yue Dong
+- **CloneMem: Benchmarking Long-Term Memory for AI Clones** — Shang Qin, Jingheng Ye, Yinghui Li, Hai-Tao Zheng, Qi Li, Jinxiao Shan, Zhixing Li, Hong-Gee Kim
+- **VC-Inspector: Advancing Reference-free Evaluation of Video Captions with Factual Analysis** — Cheng Wang, Qin Liu, Wenxuan Zhou, Muhao Chen
+- **MQM Re-Annotation: A Technique for Collaborative Evaluation of Machine Translation** — Sen Hu, Zhiyu Zhang, Yuxiang Wei, Xueran Han, Zhenheng Tang, Ronghao Chen, Huacan Wang
+- **ChiKhaPo: A Large-Scale Multilingual Benchmark for Evaluating Lexical Comprehension and Generation in Large Language Models** — Yuhe Wu, Guangyu Wang, Yuran Chen, Jiatong Zhang, Yutong Zhang, Yujie Chen, Jiaming Shang, Guang Zhang, Zhuang Liu
+- **MMSciCode: Real-world Evaluation of Multilingual Multi-Discipline Scientific Research Coding** — Taicheng Guo, Hai Wang, ChaoChun Liu, Mohsen Golalikhani, Xin Chen, Xiangliang Zhang, Chandan K. Reddy
+- **GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents** — Viraaji Mothukuri, Reza M. Parizi
+- **DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality** — Gauri Kambhatla, Sanjana Gautam, Angela Zhang, Alexander Liu, Ravi Srinivasan, Junyi Jessy Li, Matthew Lease
+- **ClaimDB: A Fact Verification Benchmark over Large Structured Data** — Yunzhe Wang, Runhui Xu, Kexin Zheng, Tianyi Zhang, Jayavibhav Kogundi, Soham Hans, Volkan Ustun
+- **PluRule: A Benchmark for Moderating Pluralistic Communities on Social Media** — Yukun Huang, Leonardo F. R. Ribeiro, Momchil Hardalov, Bhuwan Dhingra, Markus Dreyer, Venkatesh Saligrama
+- **CASS: Nvidia to AMD Transpilation with Data, Models, and Benchmark** — Xiao Liang, Zhong-Zhi Li, Zhenghao Lin, Eric Hanchen Jiang, Hengyuan Zhang, Yelong Shen, Kai-Wei Chang, Ying Nian Wu, Yeyun Gong, Weizhu Chen
+- **SAHM: A Benchmark for Arabic Financial and Shari’ah-Compliant Reasoning** — Michael Theologitis, Preetam Prabhu Srikar Dammu, Chirag Shah, Dan Suciu
+- **Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures** — Zeyu Zhang, Kexuan Sun, Zheng Tang, Jens-S. Vöckler, Thien Huu Nguyen, Thuy Vu
+- **ScholaWrite: A Dataset of End-to-End Scholarly Writing** — Shiyao Cui, QingLin Zhang, Di Wang, Yida Lu, Zhexin Zhang, Jinhua Gao, Jinglin Yang, Min He, Han Qiu, Minlie Huang
+- **E2EDev: Benchmarking Large Language Models in End-to-End Software Development Task** — Hanwen Xu, Xuyao Huang, Yuzhe Liu, Zhijie Deng
+- **Business as Rulesual: A Benchmark and Framework for Business Rule Flow Modeling with LLMs** — Jinquan Zheng, Jia Yuan, Jiacheng Yao, Chenyang Gu, Pujun Zheng, Guoxiu He
+- **DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain** — Jianing Zhang, Runan Li, Honglin Pang, Ding Xia, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
+- **DefGen-Bench: A Benchmark for Chinese Criminal Defence Opinion Generation in LegalAI** — Van-Chien Nguyen, Ryan A. Rossi, Linh Ngo, Franck Dernoncourt, Thien Nguyen
+- **SMART: Evaluating LLMs’ Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark** — Nanjie Li, Xiaoyong Guo, Hao Huang, Xu Haihua, Wei Shi
+- **Decentralized Arena: Towards Democratic and Scalable Automatic Evaluation of Language Models** — Senbo Zhang, Qiqi Wang, Fanghao Lou, Guanyu Chen, Yihong Pan, Huijia Li, Qian Liu
+- **EVM-QuestBench: An Execution-Grounded Benchmark for Natural-Language Transaction Code Generation** — Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, Xuetao Ma, Hua Huang
+- **Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural Human Interaction** — Qingguo Qi, Hongyang Chen, Zhao Li
+- **GenomeQA: Benchmarking General Large Language Models for Genome Sequence Understanding** — Guocong Li, Qirui Hu, Ping Wang, Guofeng Zhang, Jian Wu, Hongxia Xu
+- **LLM-Powered Benchmark Factory: Reliable, Generic, and Efficient** — Michael Ginn, Lindia Tjuatja, Enora Rice, Ali Marashian, Maria Valentini, Jasmine Xu, Graham Neubig, Alexis Palmer
+- **LeCoDe: A Benchmark Dataset for Interactive Legal Consultation Dialogue Evaluation** — Boci Peng, Xiao Liu, Boren Hu, Yun Zhu, Xuanbo Fan, Yanwei Yue, Chunyu Yang, Yan Zhang
+- **SAD: A Large-Scale Strategic Argumentative Dialogue Dataset** — Yibo Lyu, Gongwei Chen, Rui Shao, Weili Guan, Liqiang Nie
+- **Pub-LawBench: Public-Oriented Benchmarking for LegalAI** — Kai Qin, Liangxin Liu, Yu Liang, Longzheng Wang, Yan Wang, Yueyang Zhang, Long Xia, Zhiyuan Sun, Houde Liu, Daiting Shi
+- **Diversity in Unity, Theory in Practice: Hierarchical Multitask Benchmarks for Chinese Minority Languages** — Qiaoyu Zheng, Zehan Ma, Yijing Zhang, Qiqi Wang, Huijia Li, Qian Liu
+- **Test of Time: Rethinking Temporal Signal of Benchmark Contamination** — Afrozah Nadeem, Mark Dras, Usman Naseem
+- **IGenBench: Benchmarking the Reliability of Text-to-Infographic Generation** — DongmingJiang, Yi Li, Guanpeng Li, Bingzhe Li
+- **VisAidMath: Benchmarking Visual-Aided Mathematical Reasoning** — Aijia Cheng, Kailong Wang, Ling Shi, Yongxin Zhao
+- **MTR-Suite: A Framework for Evaluating and Synthesizing Conversational Retrieval Benchmarks** — Jiale Cheng, Yusen Liu, Xinyu Zhang, Yulin Fei, Wenyi Hong, Ruiliang Lyu, Weihan Wang, Zhe Su, Xiaotao Gu, Xiao Liu, Yushi Bai, Jie Tan, Hongning Wang, Minlie Huang
+- **Beyond Static Benchmarks: Synthesizing Harmful Content via Persona-based Simulation for Robust Evaluation** — Baizhou Huang, Xiaojun Wan
+- **Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation** — Wenqi Yang, Jianjun Li, Zhibo Zhang, Mingqian Ding, Yushen Fang
+- **TaxPraBen: A Scalable Benchmark for Structured Evaluation of LLMs in Chinese Real-World Tax Practice** — Tathagata Raha, Clement Christophe, Nada Saadi, Hamza A Javed, Marco AF Pimentel, Ronnie Rajan, Praveenkumar Kanithi
+- **Tears or Cheers? Benchmarking LLMs via Culturally Elicited Distinct Affective Responses** — Gang Hu, Yating Chen, Haiyan Ding, Wang Gao, Jiajia Huang, Min Peng, Qianqian Xie, Kun Yue
+- **HumanLLM: Benchmarking and Improving LLM Anthropomorphism via Human Cognitive Patterns** — Dingling Xu, Ruobing Wang, Qingfei Zhao, Yukun Yan, Zhichun Wang, Daren Zha, Shi Yu, Zhenghao Liu, Shuo Wang, Xu Han, Maosong Sun
+- **v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound** — Yijie Chen, Yijin Liu, Fandong Meng
+- **G-IdiomAlign: A Gloss-Pivoted Benchmark for Cross-Lingual Idiom Alignment** — Joeun Kim, Seunghyouk Yoon, Xuan-Bach Le, Youngeun Nam, Doyoung Kim, Hwanjun Song, Jae-Gil Lee
+- **HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models** — Jinyuan Fang, Zaiqiao Meng, Craig Macdonald
+- **EmoS: A High‑Fidelity Multimodal Benchmark for Fine-grained Streaming Emotional Understanding** — Yilong Chen, Zitian Gao, Yihao Xiao, Jason Klein Liu, Xinyu Yang, Yifan Luo, Haoming Luo, Zhengmao Ye, Tingwen Liu, Ran Tao, Bryan Dai
+- **HowToNarrate: A General-Domain Benchmark for Synchronized Video Narration with External Knowledge** — Mengjie Li, Yuan Feng, Xike Xie, William J. Song
+- **Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment** — Pavel Chizhov, Egor Bogomolov, Ivan P. Yamshchikov
+- **False Friends or Cognates? A Cross-lingual Semantic Ambiguity Evaluation for Galician, Portuguese and Spanish** — Tom Utting, Mario Giulianelli, Arabella Sinclair
+- **A Survey of Deep Learning for Geometry Problem Solving** — Yumeng Fu, Weitao Huang, Junjie Wu, Hao Teng, Shouduo Shang, Meishan Zhang, Bingquan Liu
+- **NoisyCausal: A Benchmark for Evaluating Causal Reasoning Under Structured Noise** — Jianzhe Ma, Wenxuan Wang, Qin Jin
+- **MedEinst: Benchmarking the Einstellung Effect in Medical LLMs through Counterfactual Differential Diagnosis** — Difan Jiao, Yilun Liu, Ye Yuan, Zhenwei Tang, Linfeng Du, Haolun Wu, Ashton Anderson
+- **Market-Bench: Benchmarking Large Language Models on Economic and Trade Competition** — Sean Trott, Samuel Taylor, Cameron Jones, James Michaelov, Pamela Rivière
+- **Benchmarking Post-Training Quantization of Large Language Models under Microscaling Floating Point Formats** — Jingwen Pu, Mingjun Shi, Xinrui Ren, Yizhe Wang, Xinyu Zhang, Zhaokun Wang, Kun She
+- **GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs** — Yangfan Wang, Tianyang Sun, Chen Tang, Jie Liu, Wei Cai, Jingchi Jiang
+- **Revisiting Evaluation of Question Answering Systems in Low-Resource Indic Languages: Bridging Human and Metric Alignment** — Woody Haosheng Gan, Deqing Fu, Julian Asilis, Ollie Liu, Vatsal Sharan, Robin Jia, Willie Neiswanger
+- **UrbanGeoEval: A City-Scale Benchmark for Evaluating Large Language Models in Geospatial Reasoning** — Hao Luo, Xiao Yan, Xinyan Li, Qiming Zeng, Yuhao Lin, Shanshan Feng, Hao Wang, Jiawei Jiang
+- **GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap** — Rikuto Kotoge, Yuichi Sasaki
+- **MirrorQA: Benchmarking Multimodal LLMs on Mirror-Orientation Reasoning** — Eunseon Seong, Harim Lee, Dahye Kim, Changhyun Kim, Dong-Kyu Chae
+- **DimABSA: Building Multilingual and Multidomain Datasets for Dimensional Aspect-Based Sentiment Analysis** — Abbas Ghaddar, Ivan Kobyzev, Boxing Chen, Yufei Cui
+- **GeoRC: A Benchmark for Geolocation Reasoning Chains** — Jingping Liu, Xingchen Peng, Yan Zhou, Ziyan Liu, Jie Zhai, Ronghao Chen, Huacan Wang, Xiaofeng Jia
+- **M³-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering** — Marc Brinner, Sina Zarrieß
+- **Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents** — Jiatong Ma, Longteng Guo, Yuchen Liu, Zijia Zhao, Dongze Hao, Xuanxu Lin, Jing Liu
+- **HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human–LLM Collaborative Writing** — Hang Hu, Ziyan Liu, Rujie Wen, Ruihui Hou, Xueyan Wu, Mu Zhang, Jianxing Yu, Tong Ruan, Jingping Liu
+- **CNSL-bench: Benchmarking the Sign Language Understanding Capabilities of MLLMs on Chinese National Sign Language** — Yuanchen Bei, Tianxin Wei, Xuying Ning, Yanjun Zhao, Zhining Liu, Xiao Lin, Yada Zhu, Hendrik Hamann, Jingrui He, Hanghang Tong
+- **ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents** — Dongwook Lee, Eunwoo Song, Che Hyun Lee, Heeseung Kim, Sungroh Yoon
+- **Multimodal Safety Evaluation in Generative Agent Social Simulations** — Zhejun Zhang, Wenqing Zhou, Haozhe Xu, Lin Zhang, Lei Li
+- **Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation** — Hao Zong, CongHuYuan, Chao Bei, Wentao Chen, Huan Liu, Kaiyu Huang, Degen Huang
+- **Survey Response Generation: Generating Closed-Ended Survey Responses In-Silico with Large Language Models** — Tobias Grantner, Emanuel Sallinger, Martin Flechl
+- **Sign-Language Datasets at Scale: A Comprehensive Survey on Resources, Benchmarks, and Annotation Standards** — Binghai Wang, Yantao Liu, Yuxuan Liu, Tianyi Tang, Shenzhi Wang, Chang Gao, Chujie Zheng, Yichang Zhang, Le Yu, Shixuan Liu, Tao Gui, Qi Zhang, Xuanjing Huang, Bowen Yu, Fei Huang, Junyang Lin
+- **LLM4Cell: Taxonomy and Evaluation of LLM and Agentic Models for Single-Cell Biology** — Mingyue Huo, Yiwen Shao, Yuheng Zhang
+- **RealChart2Code: Bridging the Gap in Real-World Chart-to-Code Generation via Multi-Task Evaluation** — William Rudman, Michal Golovanevsky, Dana Arad, Yonatan Belinkov, Carsten Eickhoff, Ritambhara Singh, Kyle Mahowald
+- **VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking** — Peyman Baghershahi, Gregoire Fournier, Pranav Nyati, Sourav Medya
+- **A Survey of Reasoning-Intensive Retrieval: Progress and Challenges** — Jiajun Zhang, Yuying Li, Zhixun Li, Xingyu Guo, Jingzhuo Wu, Leqi Zheng, Yiran Yang, Jianke Zhang, Qingbin Li, Shannan Yan, Changguo Jia, Junfei Wu, Zilei Wang, Qiang Liu, Liang Wang
+- **LOGICAL-COMMONSENSEQA: A Benchmark for Logical Commonsense Reasoning** — Saujas Vaduguru, Yilun Hua, Yoav Artzi, Daniel Fried
+- **PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation** — Obed Junias, Maria Leonor Pacheco
+- **Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams** — Komal Kumar, Aman Chadha, Salman Khan, Fahad Shahbaz Khan, Hisham Cholakkal
+- **A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning** — Gagan Mundada, Rohan Surana, Nandhini Swaminathan, Bodhisattwa Prasad Majumder, Junda Wu, Julian McAuley, Zhouhang Xie
+- **HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation** — Or Shafran, Atticus Geiger, Mor Geva
+- **GCA Framework: A GCC Countries–Grounded Dataset and Agentic Pipeline for Climate Decision Support** — Mingxuan Li, Hanchen Li, Chenhao Tan
+- **Explain the Synth: Interpretable Evaluation of LLM Data Synthesis** — Tanmoy Mukherjee, Thomas Bailleux, Pierre Marquis, Zied Bouraoui
+- **Beyond the Leaderboard: Rethinking Medical Benchmarks for Large Language Models** — Junjie Liao, Huacong Tang, Zhou Ziheng, Yizhou Wang, Fangwei Zhong
+- **Simple Agents, Biased Judges: Efficient Multi-Party Dialogue Generation &amp; The Evaluation Gap** — Iseo Kim, Eunjin Hong, Juae Kim
+- **Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety** — Kunal Samanta, Faisal Shohan, Amine Trabelsi, Richard Khoury
+- **ServImage: An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services** — Wei-Chieh Huang, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Yinghui Li, Renhe Jiang, Philip S. Yu
+- **PodBench: A Comprehensive Benchmark for Instruction-Aware Audio-Oriented Podcast Script Generation** — Bingkang Shi, Jen-tse Huang, Luo Long, Tianyu Zong, Hongzhu Yi, Yuanxiang Wang, Songlin Hu, Xiaodan Zhang, Zhongjiang Yao
+- **A Survey of Large Language Models for Text-Guided Molecular Discovery: From Molecule Generation to Optimization** — Faisal Hossain Raquib, Akm Moshiur Rahman Mazumder, Md Fahim, Md Tahmid Hasan Fuad, Md Farhan Ishmam, Faria Sultana, M Ashraful Amin, Amin Ahsan Ali, Akmmahbubur Rahman
+- **OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation** — Yuchun Fan, Bei Li, PeiguangLi, Yilin Wang, Yongyu Mu, Jian Yang, Xin Chen, Rongxiang Weng, Jingang Wang, Xunliang Cai, JingBo Zhu, Tong Xiao
+- **CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation** — Yuxuan Lu, Jing Huang, Yan Han, Bingsheng Yao, Sisong Bei, Yaochen Xie, Yisi Sang, Qi He, Dakuo Wang
+- **POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering** — Zheng Luo, T Pranav Kutralingam, Ogochukwu N. Okoani, Wanpeng Xu, Hua Wei, Xiyang Hu
+- **ReTRE: Benchmarking LLM Transfer Robustness with Structure-Preserving Variants** — Yiqun Zhang, Peng Ye, Xiaocui Yang, Shi Feng, Shufei Zhang, Lei Bai, Wanli Ouyang, Shuyue Hu
+- **Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding** — Yiqun Zhang, Hao Li, Zihan Wang, Shi Feng, Xiaocui Yang, Daling Wang, Bo Zhang, Lei Bai, Shuyue Hu
+- **Automatic and Reliable Evaluation for Academic Caption-to-Figure Generation with LMMs** — Haochun Tang, Yuliang Yan, Jiahua Lu, Huaxiao Liu, Enyan Dai
+- **AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments** — Sijia Chen, Baochun Li, Di Niu
+- **INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs** — Zhiheng Xi, Dingwen Yang, Jiaqi Liu, Jixuan Huang, Jixuan Huang, Honglin Guo, Baodai Huang, Tinggang Chen, Qi Zhang, Zhonghang Lu, Chenyu Liu, Jiajun Sun, Jiazheng Zhang, Dingwei Zhu, Xin Guo, Junzhe Wang, Zhihao Zhang, Yuming Yang, Junjie Ye, Minghe Gao, Dongrui Liu, Jiaming Ji, Guohao Li, Tao Gui, Qi Zhang, Xuanjing Huang
+- **DAC-Bench: A Decision-Aware Benchmark for Compositional Mobile GUI Tasks** — Jia Deng, Junyi Li, Xin Zhao, Jinpeng Wang, Hongyu Lu, Ji-Rong Wen
+- **Benchmarking Fine-Grained Error Detection in Multimodal Reasoning** — Yuqing Zhang, Honghui Sheng, Xueyu Hu, Shengyu Zhang, Fei Wu
+- **When Benchmarks Leak: Inference-Time Decontamination for LLMs** — Chi-Min Chan, Han Zhu, Chunyang Jiang, Jiaming Ji, Juntao Dai, Wei Xue, Sirui Han, Yike Guo
+- **MMErroR: A Benchmark for Erroneous Reasoning in Vision-Language Models** — Amr Mohamed, Yang Zhang, Michalis Vazirgiannis, Guokan Shang
+- **PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts** — Minzhu Tu, Shiyu Ni, Keping Bi
+- **Revealing the Seen, Imagining the Beyond: A Survey of Image-Grounded Chain-of-Thought Reasoning in Multimodal LLMs** — Hang Lv, Hongchao Gu, Ruiqing Yang, Liangyue Li, Zulong Chen, Defu Lian, Hao Wang, Enhong Chen
+- **OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Models** — Yifei Zhu
+- **TwiUSD: A Benchmark Dataset and Structure-Aware LLM Framework for User Stance Detection** — Qiguang Chen, Chengyu Luan, Jiajun Wu, Qiming Yu, Yi Yang, Yizhuo Li, Jingqi Tong, Xiachong Feng, Libo Qin, Wanxiang Che
+- **Perception, Understanding and Reasoning: A Multimodal Benchmark for Video Fake News Detection** — Yi Feng, Chuanyi Li, Vincent Ng
+- **JARVIS or Ultron? A Survey on the Safety and Security Threats of Computer-Using Agents** — Sugyeong Eo, Heuiseok Lim
+- **SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation** — Vipul Kumar Rathore, Malik Hammad Faisal, Parag Singla, Mausam
+- **SciCustom: A Framework for Custom Evaluation of Scientific Capabilities in Large Language Models** — Kyubyung Chae, Jewon Yeom, Jeongjae Park, Seunghyun Bae, Ijun Jang, Hyunbin Jin, Jinkwan Jang, Taesup Kim
+- **LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals** — Delip Rao, Weiqiu You, Eric Wong, Chris Callison-Burch
+- **Mind’s Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs** — Sijie Mai, Shiqin Han
+- **Interpretable Coreference Resolution Evaluation Using Explicit Semantics** — Mukai Li, Linfeng Song, Zhenwen Liang, Jiahao Xu, Shansan Gong, Qi Liu, Haitao Mi, Dong Yu
+- **When High Accuracy Hides Poor Calibration: Rethinking Confidence Evaluation in Transformer-Based Text Classification with Balanced Brier Score** — Zonghai Yao, Hong Yu
+- **CxMP: A Linguistic Minimal-Pair Benchmark for Evaluating Constructional Understanding in Language Models** — Bruno Gatti, Giuliano Martinelli, Roberto Navigli
+- **From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding** — *Doc-V
+- **BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models** — Miyu Oba, Saku Sugawara
+- **Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing** — Xin Gao, Ruiyi Zhang, Meixi Du, Peijia Qin, Pengtao Xie
+- **MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events** — Tatsuki Kuribayashi, Alex Warstadt, Yohei Oseki, Ethan Gotlieb Wilcox
+- **TEA-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent** — Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran T. Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth M. Daly
+- **From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation** — Yuanyuan Wang, Dongchao Yang, Yayue Deng, Zhiyong Wu, Yiwen Guo, Helen Meng, Xixin Wu
+- **TabReX: Tabular Referenceless eXplainable Evaluation** — Michael Hardy, Yunsung Kim
+- **From Word Sequences to Behavioral Sequences: Adapting Modeling and Evaluation Paradigms for Longitudinal NLP** — Zining Liu, Yunhai Hu, Tianhua Xia, Bo Bao, Eric Sather, Vithursan Thangarasa, Saiqian Zhang
+- **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations** — Hiroyuki Deguchi, Katsuki Chousa, Yusuke Sakai
+- **Toward Robust Evaluation for Multilingual Grammatical Error Correction: Can Large Language Models Replace Human References?** — Wentao Hu, Yanbo Zhai, Xiaohui Hu, Mingkuan Zhao, Shanhong Yu, Xue Liu, Kaidong Yu, Shuangyong Song, Xuelong Li
+- **MathSight: A Benchmark Exploring Have Vision-Language Models Really Seen in University-Level Mathematical Reasoning?** — Preethi Seshadri, Samuel Cahyawijaya, Ayomide Odumakinde, Sameer Singh, Seraphina Goldfarb-Tarrant
+- **REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation** — Qin Dai, Benjamin Heinzerling, Kentaro Inui
+- **A Multilingual Social Bias Benchmark Incorporating Thinking Processes** — Yinxi Li, Yuntian Deng, Pengyu Nie
+- **NaturalGAIA: A Verifiable Benchmark and Hierarchical Framework for Long-Horizon GUI Tasks** — Anvesh Rao Vijjini, Sagar Manjunath, Snigdha Chaturvedi
+- **Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling** — Weixu Zhang, Ye Yuan, Changjiang Han, Yuxing Tian, Zipeng Sun, Linfeng Du, Jikun Kang, Hong Kang, Xue Liu, Haolun Wu
+- **Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures** — Kerem Zaman, Shashank Srivastava
+- **JurisBench: A Deep Benchmark for Assessing Large Language Models in Professional Legal Practice** — Chi-Hsiang Hsiao, Yi-Cheng Wang, Tzung-Sheng Lin, Yi-Ren Yeh, Chu-Song Chen

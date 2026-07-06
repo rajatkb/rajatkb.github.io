@@ -1,0 +1,194 @@
+---
+title: 'ACL 2026 — Trust & Safety'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Trust & Safety
+**181 papers**
+
+- **MauBERT: Universal Phonetic Inductive Biases for Few-Shot Acoustic Units Discovery** — Angelo Ortiz Tandazo, Manel Khentout, Youssef Benchekroun, Thomas Hueber, Emmanuel Dupoux
+- **Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety** — Can Jin, Rui Wu, Tong Che, Qixin Zhang, Hongwu Peng, Jiahui Zhao, Zhenting Wang, Wenqi Wei, Ligong Han, Zhao Zhang, Yuan Cao, Ruixiang Tang, Dimitris N. Metaxas
+- **Efficient Provably Secure Linguistic Steganography via Range Coding** — Ruiyi Yan, Yugo Murawaki
+- **Anchored Sliding Window: Toward Robust and Imperceptible Linguistic Steganography** — Ruiyi Yan, Shiao Meng, Yugo Murawaki
+- **SPAGBias: Uncovering and Tracing Structured Spatial Gender Bias in Large Language Models** — Binxian Su, Haoye Lou, Shucheng Zhu, Weikang Wang, Ying Liu, Dong Yu, Pengyuan Liu
+- **Identifying Bias in Machine-generated Text Detection** — Kevin Stowe, Svetlana Afanaseva, Rodolfo Raimundo, Yitao Sun, Kailash Patil
+- **Toward Secure Tuning: Mitigating Security Risks from Instruction Fine-Tuning** — Yanrui Du, Fenglei Fan, Sendong Zhao, Jiawei Cao, Ming Ma, Danyang Zhao, Shuren Qi, Ting Liu, Bing Qin
+- **Beyond Surface-Level Detection: Towards Cognitive-Driven Defense Against Jailbreak Attacks via Meta-Operations Reasoning** — Rui Pu, Chaozhuo Li, Rui Ha, Litian Zhang, Lirong Qiu, Xi Zhang
+- **Bias Fitting to Mitigate Length Bias of Reward Model in RLHF** — Kangwen Zhao, Jianfeng Cai, Jinhua Zhu, Ruopei Sun, Dongyun Xue, Wengang Zhou, Li Li, Houqiang Li
+- **Debiased Orthogonal Boundary-Driven Efficient Noise Mitigation** — Hao Li, Jiayang Gu, Jingkuan Song, An Zhang, Lianli Gao
+- **APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation** — Pengyun Zhu, Qiheng Sun, Long Wen, Yanbo Wang, Yang Cao, Junxu Liu, Deyi Xiong, Jinfei Liu, Zhibo Wang, Kui Ren
+- **Between a Rock and a Hard Place: The Tension Between Ethical Reasoning and Safety Alignment in LLMs** — Shei Pern Chua, Zhen Leng Thai, Kai Jun Teh, Xiao Li, Qibing Ren, Xiaolin Hu
+- **AFT-Tab: Adversarial Fine-Tuning for Tabular Data Synthesis with Long Text Columns** — Yuhao Zhang, Liang Yan, Shaoming Duan, Xinyu Zha, Jinhang Su, Peiyi Han, Chuanyi Liu
+- **Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation** — Dianyun Wang, Qingsen Ma, Yuhu Shang, Zhifeng Lu, Zhenbo Xu, Lechen Ning, Huijia Wu, Zhaofeng He
+- **Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization** — Xu Chu, Guanyu Wang, Zhijie Tan, Xinrong Chen, Ziyu Li, Tong Mo, Weiping Li
+- **PII-Bench: Evaluating Query-Aware Privacy Protection Systems** — Hao Shen, Zhouhong Gu, Haokai Hong, Weili Han, Hongfeng Chai
+- **Reasoning Structure Matters for Safety Alignment of Reasoning Models** — Yeonjun In, Wonjoong Kim, Sangwu Park, Chanyoung Park
+- **Retrievals Can Be Detrimental: Unveiling the Backdoor Vulnerability of Retrieval-Augmented Diffusion Models** — Hao Fang, Xiaohang Sui, Hongyao Yu, Kuofeng Gao, Jiawei Kong, Sijin Yu, Bin Chen, Shutao Xia
+- **Common to Whom? Regional Cultural Commonsense and LLM Bias in India** — Sangmitra Madhusudan, Trush Shashank More, Steph Buongiorno, Renata Dividino, Jad Kabbara, Ali Emami
+- **LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation** — Yilin Xiao, Jin Chen, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang
+- **Compete to Complete: Co-opetition Adversarial Learning for Retrieval-Augmented Generation** — Xin Liu, Yu-An Liu, Ruqing Zhang, Yixing Fan, Lixin Su, Jiafeng Guo, Xueqi Cheng
+- **LLM-VA: Resolving the Jailbreak-Overrefusal Trade-off via Vector Alignment** — Haonan Zhang, Dongxia Wang, Yi Liu, Kexin Chen, Wenhai Wang
+- **ContextLens: Modeling Imperfect Privacy and Safety Context for Legal Compliance** — Haoran Li, Yulin Chen, Huihao JING, Wenbin Hu, Tsz Ho Li, Chanhou Lou, Hong Ting Tsang, Sirui Han, Yangqiu Song
+- **QuantileMark: A Message-Symmetric Multi-bit Watermark for LLMs** — Junlin Zhu, Baizhou Huang, Xiaojun Wan
+- **Empirical Analysis of Decoding Biases in Masked Diffusion Models** — Pengcheng Huang, Tianming Liu, Zhenghao Liu, Yukun Yan, Shuo Wang, Tong Xiao, Zulong Chen, Maosong Sun
+- **On the Hidden Objective Biases of Group-based Reinforcement Learning** — Aleksandar Fontana, Marco Simoni, Giulio Rossolini, Paolo Mori, Andrea Saracino
+- **SharedRequest: Privacy-Preserving Model‑Agnostic Inference for Large Language Models** — Peihua Mai, Xuanrong Gao, Youlong Ding, Xianglong Du, Wei Liu, Yan Pang
+- **Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS** — Bingyu Yan, Xiaoming Zhang, Jinyu Hou, Chaozhuo Li, Ziyi Zhou, Yiming Hei, Litian Zhang
+- **All Languages Matter: Understanding and Mitigating  Language Bias in Multilingual RAG** — Dan Wang, Guozhao Mo, Yafei Shi, Cheng Zhang, Bo Zheng, Boxi Cao, Xuanang Chen, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun
+- **Safety-Utility Conflicts Are Not Global: Surgical Alignment via Head-Level Diagnosis** — Wang Cai, Yilin Wen, Jinchang Hou, Du Su, Guoqiu Wang, Zhonghou Lv, Chenfu Bao, Yunfang Wu
+- **Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization** — Negar Foroutan, Clara Meister, Debjit Paul, Joel Niklaus, Sina Ahmadi, Antoine Bosselut, Rico Sennrich
+- **JPU: Bridging Jailbreak Defense and Unlearning via On-Policy Path Rectification** — Xi Wang, Songlei Jian, Shasha Li, Xiaopeng Li, Zhaoye Li, Bin Ji, Baosheng Wang, Jie Yu
+- **Enhancing the Transferability of Jailbreak Attacks on Large Language Models via Exploiting Reparameterization Invariance** — Ao Wang, Xinghao Yang, Yongshun Gong, Wei Liu, Bao-di Liu, Weifeng Liu
+- **GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models** — Xiangdong Hu, Yangyang Jiang, Qin Hu, Xiaojun Jia
+- **Detecting RAG Extraction Attack via Dual-Path Runtime Integrity Game** — Yuanbo Xie, Yingjie Zhang, Yulin Li, Shouyou Song, Xiaokun Chen, Zhihan Liu, Liya Su, Tingwen Liu
+- **MirageBackdoor: A Stealthy Attack that Induces Think-Well-Answer-Wrong Reasoning** — Yizhe Zeng, Wei Zhang, Yunpeng Li, Juxin Xiao, Xiao Wang, Yuling Liu
+- **Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models** — Anmol Goel, Cornelius Emde, Sangdoo Yun, Seong Joon Oh, Martin Gubri
+- **Teach a Reward Model to Correct Itself: Reward Guided Adversarial Failure Discovery for Robust Reward Modeling** — Pankayaraj Pathmanathan, Furong Huang
+- **OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows** — Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, Fangzhi Xu, Zhangyue Yin, Kanzhi Cheng, Zehao Li, Zichen Ding, Qi Liu, Zhiyong Wu, Zhuosheng Zhang, Ben Kao, Lingpeng Kong
+- **SGT: Securing Open-Source LLMs Against Malicious Fine-tuning via Safety Guidance Trigger** — Sunguk Shin, Fangzhao Wu, Byung-Jun Lee, Meeyoung Cha, Sungwon Park
+- **GKnow: Measuring the Entanglement of Gender Bias and Factual Gender** — Leonor Veloso, Hinrich Schütze
+- **Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images** — Qishun Yang, Shu Yang, Lijie Hu, Di Wang
+- **Critical-CoT: A Robust Defense Framework against Reasoning-Level Backdoor Attacks in Large Language Models** — Vu Tuan Truong, Long Bao Le
+- **Defenses Against Prompt Attacks Learn Surface Heuristics** — Li Li, Chenxiao Yu, Zhiyu Ni, Hao Li, Charith Peris, Chaowei Xiao, Yue Zhao
+- **Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization** — Jiaqi Li, Guangming Wang, Shuntian Zheng, Minzhe Ni, Xiaoman Lu, Guanghui Ye, Yu Guan
+- **DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs** — Wenzhuo Xu, Zhipeng Wei, Zonghao Ying, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang, Quanchen Zou
+- **XOXO: Stealthy Cross-Origin Context Poisoning Attacks against AI Coding Assistants** — Adam Štorek, Mukur Gupta, Noopur Bhatt, Aditya Gupta, Janie Kim, Prashast Srivastava, Suman Jana
+- **Provably Safe Offline-to-Online RL: Decoupling Learning from Data-Driven Safety Enforcement** — Kaitong Cai, Jusheng Zhang, Keze Wang
+- **SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs** — Sihang Zhao, Kangrui Yu, Youliang Yuan, Pinjia He, Hongyi Wen
+- **AgentMark: Utility-Preserving Behavioral Watermarking for Agents** — Kaibo Huang, Jin Tan, Yukun Wei, Wanling Li, Zipei Zhang, Hui Tian, Zhongliang Yang, Linna Zhou
+- **Stereotype Bias in a Bilingual Setting: A Culturally Grounded Evaluation in Kazakhstan** — Nurkhan Laiyk, Daniil Orel, Ayana Mussabayeva, Maiya Goloburda, Kamila Kuishibekova, Liya Goloburda, Diana Turmakhan, Preslav Nakov, Yuxia Wang, Fajri Koto
+- **When Identity Skews Debate: Anonymization for Bias-Reduced Multi-Agent Reasoning** — Hyeong Kyu Choi, Jerry Zhu, Sharon Li
+- **XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts** — Jiahao Xu, Rui Hu, Olivera Kotevska, Zikai Zhang
+- **Attention Under Attack: Analog Noise Effects and Mechanistic Vulnerabilities in Transformer Models** — Bolei Ma, Yusuke Miyao
+- **Protecting Bystander Privacy via Selective Hearing in Audio LLMs** — Xinhe Shi, Qingcheng Zeng, Weihao Xuan, Linchao Zhu
+- **To Lie or Not to Lie? Investigating The Biased Spread of Global Lies by LLMs** — Xiao Zhan, Guangzhi Sun, Jose Such, Philip C. Woodland
+- **When Vision-Language Models Judge Without Seeing: Exposing Informativeness Bias** — Ibne Farabi Shihab, Sanjeda Akter, Anuj Sharma
+- **VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models** — Feiteng Fang, Dingwei Chen, Xiang Huang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Xinge Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Yongbin Li
+- **Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems** — Nishant Balepur, Atrey Desai, Rachel Rudinger
+- **CoLA: A Choice Leakage Attack Framework to Expose Privacy Risks in Subset Training** — Erel Kaplan, Tomer Bitan, Lian Ghrayeb, Le Chen, Tom Yotam, Niranjan Hasabnis, Gal Oren
+- **Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets** — Leonardo Ranaldi
+- **Quantifying Metric and Model Agreement in Bias Evaluation of Large Language Models** — Jiateng Liu, Zhenhailong Wang, Xiaojiang Huang, Yingjie Li, Xiang Li, Chenlei Guo, Xing Fan, Ruhi Sarikaya, Heng Ji
+- **Privacy-preserving Prosody Representation Learning** — Yusuke Yamauchi, Akiko Aizawa
+- **Activation-Guided Local Editing for Jailbreaking Attacks** — Xuan Xiong, Huan Liu, Li Gu, Zhixiang Chi, Yue Qiu, Yuanhao Yu, and Yang Wang
+- **Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning** — Ziyou Jiang, Mingyang Li, Junjie Wang, Yuekai Huang, Jie Huang, Zhiyuan Chang, Zhaoyang Li, Qing Wang
+- **Reference Attack: A New Cross-Modal Jailbreaking Attack against Multimodal Large Language Models** — Seungmin Lee, Jeonghwan Lee, Hyunkuk Lim, Sejoon Kim, Mingi Sung
+- **Persona-Grounded Safety Evaluation of AI Companions in Multi-Turn Conversations** — Xinhe Wang, Jin Huang, Xingjian Zhang, Tianhao Wang, Jiaqi W. Ma
+- **Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking** — Yicheng Liu, Shumin Shi, Youchao Zhou, Xingchen Zhang
+- **Dynamics of Cognitive Heterogeneity: Investigating Behavioral Biases in Multi-Stage Supply Chains with LLM-Based Simulation** — Zhixiong Zhao, Zukang Xu, Dawei Yang
+- **Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation** — Zeguan Xiao, Siqing Li, Yong Wang, Xuetao Wei, Jian Yang, Yun Chen, Guanhua Chen
+- **When Bigger Isn’t Better: A Comprehensive Fairness Evaluation of Political Bias in Multi-News Summarisation** — Peiru Yang, Haoran Zheng, Tong Ju, Shiting Wang, Wanchun Ni, Jiajun Liu, Shangguang Wang, Yongfeng Huang, Tao Qi
+- **NaturalSloth: Revisiting Denial-of-Service Attacks on Large Language Models** — Cunhang Fan, Jun Zhang, Xue Zhang, Shuai Zhang, Zhao Lv, Jianhua Tao, Zhengqi Wen
+- **Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation** — Heming Xia, Cunxiao Du, Rui Li, Chak Tou Leong, Yongqi Li, Wenjie Li
+- **Backdoor Collapse: Eliminating Unknown Threats Via Known Backdoor Aggregation In Language Models** — Shuxin Liu, Jianhao Zhang
+- **How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study** — Yifan Li, YuKai Gu, Yingqian Min, Zikang Liu, Yifan Du, Kun Zhou, Min Yang, Xin Zhao, Minghui Qiu
+- **Probing the Safety Robustness of LLMs in Latent Space** — Jie Cao
+- **USB: A COMPREHENSIVE AND UNIFIED SAFETY EVALUATION BENCHMARK FOR MULTIMODAL LARGE LANGUAGE MODELS** — Kangning Zhang, Weiwen Liu, Wenxiang Jiao, Kounianhua Du, Yuan Lu, Weinan Zhang, Yong Yu
+- **Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring** — Benteng Chen, Weida Wang, Shufei Zhang, Mingbao Lin, Min Zhang
+- **Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces** — Hui Liu, Bin Zou, Kecheng Chen, Jie Liu, Wenya Wang, Haoliang Li
+- **CheckMIABench: Firm Foundations For Membership Inference Attacks on Language Models** — Hyeongsoo Lim, Jin Young Kim, Eun Seo Seo, Min Ho Jang, Ji Won Yoon
+- **Debiasing Reward Models via Causally Motivated Inference-Time Intervention** — Hui Wu, Chao Xu, Jianghui Wang, Ziqiong Liu, Dong Li, Yiwei Dai, Emad Barsoum
+- **Steganography Beyond Pixels: Reimagining Image Steganography as Cross-Modal Linguistic Communication** — Yancui Li, Xiaoyu Zhou, Guoyi Miao, Fang Kong
+- **Agent-based Substructure Counting under Local Differential Privacy** — Ren Lijing, Denghui Zhang
+- **DEBAR: Mitigating Contextual Bias in Cross-Document Relation Extraction via Dual-Stream Decoupling** — Yicheng Ji, Jun Zhang, Jinpeng Chen, Cong Wang, Lidan Shou, Gang Chen, Huan Li
+- **InsideOut: Measuring and Mitigating Insider–Outsider Bias in Interview Script Generation** — Xiaoke Guo, Songze Li, Zhiqiang Liu, Zhaoyan Gong, Yuanxiang Liu, Huajun Chen, Wen Zhang
+- **Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models** — Pei-An Chen, Yong-Ching Liang, Jia-Fong Yeh, Hung-Ting Su, Yi-Ting Chen, Min Sun, Winston H. Hsu
+- **Safe-FedLLM: Delving into the Safety of Federated Large Language Models** — Xinyi Xu, Bingguang Hao, Yongyi Xiong, Zimo Chen, Xinchen Liu, Hongxin Guo, xuelong Wang, Silin Zhou, Shihan Dou
+- **When Efficiency Meets Safety: A Benchmark Security Analysis of KV Cache Compression in Large Language Models** — Jiahuan Zhang, Shunwen Bai, Tianheng Wang, Kaiwen Guo, Zijia Song, Hanqing Wu, Guozheng Rao, Kai Han, Kaicheng Yu
+- **Can Persona-Prompted LLMs Emulate Subgroup Values? An Empirical Analysis of Generalisability and Fairness in Cultural Alignment** — Xiaoxiao Ma, Goofing Gao, Zeyi Lu, Wenxi Jiang, Hao Fang, Hao WuBin Chen, Shutao Xia
+- **Into the Gray Zone: Domain Contexts Can Blur LLM Safety Boundaries** — Rongchuan Mu, Zexin Wang, Qianyu Wang, MingHua Ma, Zekun Wang, Ming Liu, Bing Qin
+- **PRISP: Privacy-Safe Few-Shot Personalization via Lightweight Adaptation** — Zhenxin Qin, Qiang Li, Qingzhuo Wang, Ruiyang Qin, Zhihua Wei, Wen Shen
+- **MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge** — Yifan Zhang, Chen Huang, Yueke Zhang, Jiahao Zhang, Toby Jia-Jun Li, Collin McMillan, Kevin Leach, Yu Huang
+- **SafetyMem: Adaptive Jailbreak Defense via Dual-Component Safety Memory** — Yuming Yang
+- **CrossGuard: Safeguarding MLLMs against Joint-Modal Implicit Malicious Attacks** — Bingshen Mu, Xian Shi, Xiong Wang, Hexin Liu, Jin Xu, Lei Xie
+- **Jailbreaking Multimodal Large Language Models using Multi-Clip Video** — Zhiyi Duan, Zixing Shi, Bing Jia, Qi Wang
+- **Towards Privacy-Preserving Large Language Model: Text-free Inference Through Alignment and Adaptation** — Rongxin Chen, Tianyu Wu, Bingbing Xu, JiaTang Luo, Xiucheng Xu, Huawei Shen
+- **Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors** — Pengchen Chen, Shi Chen, Qiming Ye, Xinli Chen, Xinran Li, Wei Xiang
+- **Inhibitory Attacks on Backdoor-based Fingerprinting for Large Language Models** — Zili Wei, Yilin Wang, Xiaocui Yang, Shi Feng, Weidong Bao, Daling Wang, Zihan Wang, Yifei Zhang
+- **TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment** — Xiaoyu Xu, Yulan Pan, Xiaosong Yuan, Zhihong Shen, Minghao Su, Yuanhao Su, Xiaofeng Zhang
+- **Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models** — Jingjing Li, Yue Feng, Yuchen Guo, Jincai Huang, Wei Ji, Qi Bi, Yongri Piao, Miao Zhang, Xiaoqi Zhao, Qiang Chen, Shihao Zou, Huchuan Lu, Li Cheng
+- **When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents** — Renliang Sun, Wei Cheng, Dawei Li, Haifeng Chen, Wei Wang
+- **SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models** — Minping Chen, Bowen Xiao, Du Liang, Chuxuan Zeng, Zeyi Wen
+- **You Can Have a Second Chance: Unbiased and Multi-bit Watermarking for Diffusion Language Models with Regret-based Remasking** — Chunyu Qiang, Xiaopeng Wang, Kang Yin, Yuzhe Liang, Yuxin Guo, Ziyu Zhang, Teng Ma, Tianrui Wang, Cheng Gong, Yushen CHEN, Ruibo Fu, Longbiao Wang, Jianwu Dang
+- **OASIS: Mitigating Harmful Fine-tuning Attacks on LLMs via Orthogonal and Adaptive Safety Alignment Strategy** — Kexin Ma, Haotian Wang, Shenglin Chen, Yishuai Cai, Huangyu, Ruochun Jin
+- **Fair-CCD: Mitigating Bias in Large Language Models for Tabular Classification Through Context-Contrastive Decoding** — Ziyun Zhang, Zezhou Wang, Xiaoyi Zhang, Zongyu Guo, Jiahao Li, Bin Li, Yan Lu
+- **Selective Test-Time Debiasing for CLIP via Reward Gating** — Yuchen Zhang, Yaxiong Wang, Kecheng Han, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+- **EIFFEL: a novel benchmark to measure bias of English heavy training on French idiomatic expressions** — Shuai Zhang, Weibo Xu, Jiahao Nie, Kecheng Huang
+- **N-GLARE: An Non-Generative Latent Representation-Efficient LLM Safety Evaluator** — Fan Liu, Yanhao Wang, Min Zhang, Zhikang Chen, Zeyuan Li, Lewei He, Jiahui Pan
+- **On the (In-)Security of the Shuffling Defense in the Transformer Secure Inference** — Dong Yan, Jian Liang, Yanbo Wang, Shuo Lu, Ran He, Tieniu Tan
+- **Location Not Found: Exposing Implicit Local and Global Biases in Multilingual LLMs** — Doreen Osmelak, Yang Xu, Michael Hahn, Kate McCurdy
+- **Detecting What Queries Seek: Steering LLM Safety with FFN Output Activation Monitoring** — Zehan Li, Fu Zhang, Zhijun Liu, Jingwei Cheng
+- **Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation** — Chao Xue, Yao Wang, Mengqiao Liu, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, Shuang Liang, Minlong Peng, Flora D. Salim
+- **Understanding and Mitigating Bias Inheritance in LLM-based Data Augmentation on Downstream Tasks** — Xin Guan, Zijian Li, Shen Huang, Pengjun Xie, Jingren Zhou, Jiuxin Cao
+- **Evaluating Answer Leakage Robustness of LLM Tutors against Adversarial Student Attacks** — Miaomiao Li, Hao Chen, Yang Wang, Tingyuan Zhu, Weijia Zhang, Kaijie Zhu, Kam-Fai Wong, Jindong Wang
+- **Inverting the Shield: Systematically Generating Safety Tests from Policy Specifications** — Bojun Jin, Jianzhu Bao, Yang Sun, Yice Zhang, Ruifeng Xu
+- **The “Knowledge–Behavior Gap” in Cultural Taboo Safety of Large Language Models** — Yixuan Nan, Xixun Lin, Yanmin Shang, Ge Zhang, Zheng Fang, Fang Fang, Yanan Cao
+- **TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems** — Haolei Xu, Haiwen Hong, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen, Weiming Lu, Yueting Zhuang
+- **ReasoningGuard: Safeguarding Large Reasoning Models with Inference-time Safety Aha Moments** — Weihai Lu, Zhejun Zhao, Yanshu Li, Huan He
+- **SAFO: Stable Adaptive Fairness Optimization for LLM-Based Social Survey Simulation** — Dingyu Yao, Chenxu Yang, Zhengyang Tong, Zheng Lin, Wei Liu, Jian Luan, Weiping Wang
+- **Do LLMs Know Tool Irrelevance? Demystifying Structural Alignment Bias in Tool Invocations** — Xianda Zheng, Huan Gao, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao, Shangyang Li
+- **Backdoors in RLVR: Jailbreak Backdoors in LLMs From Verifiable Reward** — Shiyu He, Minchi Kuang, Mengxian Wang, Bin Hu, Tingxiang Gu
+- **Defense Against Knowledge Poisoning Attack on GraphRAG** — Parker Riley, Daniel Deutsch, Mara Finkelstein, Colten DiIanni, Juraj Juraska, Markus Freitag
+- **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Knowledge Poisoning Attacks** — Ayoub Hammal, Pierre Zweigenbaum, Caio Corro
+- **Observations and Remedies for Large Language Model Bias in Self-Consuming Performative Loop** — Le Chen, Nuo Xu, Winson Chen, Bin Lei, Pei-Hung Lin, Dunzhi Zhou, Rajeev Thakur, Caiwen Ding, Ali Jannesari, Chunhua Liao
+- **Resolving the Security-Auditability Dilemma with Auditable Latent Chain-of-Thought Alignment** — Xue Xia, Zheyuan Yang, Arman Cohan, Yilun Zhao
+- **More Thinking, Less Talking: Internalizing Deliberative Safety into LLM Parameters** — Shuochen Chang, Tong Bai, Xiaofeng Zhang, Qianli Ma, Qingyang Liu, Zhaohe Liao, Yibo Miao, Li Niu
+- **Conjunctive Prompt Attacks in Multi-Agent LLM Systems** — Jaewoo Lee, Archiki Prasad, Justin Chen, Zaid Khan, Elias Stengel-Eskin, Mohit Bansal
+- **SMARTER: A Data-efficient Framework to Improve Toxicity Detection with Explanation via Self-augmenting Large Language Models** — Wei-Cheng Tseng, Xuanru Zhou, Mingyue Huo, Yiwen Shao, Hao Zhang, Dong Yu
+- **Confident, Calibrated, or Complicit: Safety Alignment and Ideological Bias in LLM Hate Speech Detection** — Zoher Kachwala, Bao Tran Truong, Rasika Muralidharan, Haewoon Kwak, Jisun An, Filippo Menczer
+- **New Terms, New Toxicity: Consensus-based Chinese Neologism Toxicity Detection via Search-Augmented LLMs** — Shangjian Yin, Zhouxing Shi
+- **Can LLM Safety Be Ensured by Constraining Parameter Regions?** — Guangzhen Zhao, Dechang Kong, Tongyu Wu, Zhenjiang Dong
+- **Mitigating Selection Bias in Large Language Models via Permutation-Aware GRPO** — Jianjun Zhang, Hanli Wang
+- **SAME: Safety-Aware Model Editing Guided by Safety Transformation** — Xiaoling Zhou, Mingjie Zhang, Zhemg Lee, Wei Ye, Shikun Zhang
+- **ARF-RLHF: Adaptive Reward-Following for RLHF through Emotion-Driven Self-Supervision and Trace-Biased Dynamic Optimization** — Demian Inostroza, Ekaterina Vylomova, Charles Kemp, Mae Carroll, Wanchun Li, Meladel Mistica
+- **User Perceptions vs. Proxy LLM Judges: Privacy and Helpfulness in LLM Responses to Privacy-Sensitive Scenarios** — Ronghui Yang, Jie Liu, Jiajie Zeng, Jiexin Wang, Jiuchuan Jiang, Bo An, Yi Cai, Mengchen Zhao
+- **Challenging the Explanation Based on Preceding Tokens: Discovering Transferable Non-Literal Biasing** — Subham Raj, Aman Vaibhav Jha, Mayank Anand, Sriparna Saha
+- **SWAN: Semantic Watermarking with Abstract Meaning Representation** — Harper Hua, Zhen Han, Zhengyuan Shen, Meng-Chieh Lee, Patrick Guan, Qi Zhu, Sullam Jeoung, Yueyan Chen, Yunfei Bai, Shuai Wang, Vassilis Ioannidis, Huzefa Rangwala
+- **Framing Political Bias in Multilingual LLMs Across Pakistani Languages** — Dongjun Kim, Jeongho Yoon, Chanjun Park, Heuiseok Lim
+- **SSG: Logit-Balanced Vocabulary Partitioning for LLM Watermarking** — Yuansen Liu, Yixuan Tang, Anthony Kum Hoe Tung
+- **The Side Effects of Being Smart: Safety Risks in MLLMs’ Multi-Image Reasoning** — Jiandong Shao, Raphael Tang, Crystina Zhang, Karin Sevegnani, Pontus Stenetorp, Jianfei Yang, Yao Lu
+- **From TDMA to CDMA: A Multi-bit Watermark for Diffusion Language Models** — Wei Tian, Yuhao Zhou, Man Lan
+- **FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation** — Jiawei Zhou, Chi Zhang, Xiang Feng, Qiming Zhang, Haibo Qiu, Lihuo He, Dengpan Ye, Xinbo Gao, Jing Zhang
+- **When Background Matters: Breaking Medical Vision Language Models by Transferable Attack** — Eric Hanchen Jiang, Levina Li, Frank Wan, Xiao Liang, Sophia Yin, Yuchen Wu, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu
+- **When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents** — Guibin Zhang, Haiyang Yu, Kaiming Yang, Bingli Wu, Fei Huang, Yongbin Li, Shuicheng YAN
+- **BEFT: Bias-Efficient Fine-Tuning of Language Models in Low-Data Regimes** — Tim Baumgärter, Iryna Gurevych
+- **BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks** — Xueyan Wang, Dingyi Yang, Qin Jin
+- **Black-Box Membership Inference Attacks for Video Training Data in Multimodal Large Language Models** — Woody Haosheng Gan, William Barr Held, Diyi Yang
+- **Mitigating Safety Context Amnesia in Multimodal Reasoning Models via Intent-Guided Safety Reasoning** — Thang Le, Huy Huu Nguyen, Anh Tuan Luu, Thamar Solorio, Thien Huu Nguyen
+- **Robust Membership Inference for Large Language Models under Adversarial Generative Corruption** — Xuancheng Li, Haitao Li, Yujia Zhou, Yiqun Liu, Qingyao Ai
+- **DARM: Distribution-Aware Reward Modeling by Alleviating Biases from Low Preference-Context Dependency Data** — Yuanhong Huang, Huili Wang, Xueying Bai, Jinrui Wang, Jiajun Liu, Ziqin Wang, Wanchun Ni, Shangguang Wang, Tao Qi
+- **ASTRA: An Automated Framework for Strategy Discovery, Retrieval, and Evolution for Jailbreaking LLMs** — Shaofan Liu, Guoqiang Zhang, Shihan Dou, Huiyuan Zheng, Yiming Zhou, Junjie Ye, Shaowen Wang, Shichun Liu, Jiazheng Zhang, Tao Gui, Qi Zhang, Xuanjing Huang
+- **LLM Safety From Within: Detecting Harmful Content with Internal Representations** — Baochang Ren, Shuofei Qiao, Ningyu Zhang, Da Zheng, Huajun Chen
+- **Measuring Social Bias in Vision-Language Models with Face-Only Counterfactuals from Real Photos** — Yushuo Zheng, Huiyu Duan, Zicheng Zhang, Yucheng Zhu, Xiongkuo Min, Guangtao Zhai
+- **HarDBench: A Benchmark for Draft-Based Co-Authoring Jailbreak Attacks for Safe Human–LLM Collaborative Writing** — Hang Hu, Ziyan Liu, Rujie Wen, Ruihui Hou, Xueyan Wu, Mu Zhang, Jianxing Yu, Tong Ruan, Jingping Liu
+- **Retrieval-Augmented Defense: Adaptive and Controllable Jailbreak Prevention for Large Language Models** — Zhonghang Yuan, Zhefan Wang, Fang Hu, Zihong Chen, Jinzhe Li, Gang Li, Jie Ying, Huanjun Kong, Songyang Zhang, Nanqing Dong
+- **LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety** — Fangda Ye, Kuicai Dong, Zhifei Xie, Yuxin Hu, Yihang Yin, Shurui Huang, Shikai Dong, Chen Zhang, Jianzhu Bao, Shuicheng Yan
+- **Multimodal Safety Evaluation in Generative Agent Social Simulations** — Zhejun Zhang, Wenqing Zhou, Haozhe Xu, Lin Zhang, Lei Li
+- **SafeMT: Multi-turn Safety for Multimodal Language Models** — Klaudia-Doris Thellmann, Bernhard Stadler, Michael Färber, Jens Lehmann
+- **Estimating the Black-box LLM Uncertainty with Distribution-Aligned Adversarial Distillation** — Linlin Yu, Xujiang Zhao, Dong Li, Yanchi Liu, Wei Cheng, Zhengzhang Chen, Chen Zhao, Feng Chen, Haifeng Chen
+- **AutoRAN: Automated Hijacking of Safety Reasoning in Large Reasoning Models** — Yaowenqi Liu, BingXu Meng, Rui Pan, Yuxing Liu, Jerry Huang, Jiaxuan You, Tong Zhang
+- **Simple Agents, Biased Judges: Efficient Multi-Party Dialogue Generation &amp; The Evaluation Gap** — Iseo Kim, Eunjin Hong, Juae Kim
+- **Deep Research with Open-Domain Evaluation and Multi-Stage Guardrails for Safety** — Kunal Samanta, Faisal Shohan, Amine Trabelsi, Richard Khoury
+- **FAIRGAMER: Evaluating Social Biases in LLM-Based Video Game NPCs** — Kwangwook Seo, Dongha Lee
+- **A Lightweight Explainable Guardrail for Prompt Safety** — Ruifeng Yuan, Chaohao Yuan, David Dai, Yu Rong, Hong Cheng, Hou Pong Chan, Chenghao Xiao
+- **Activation Decomposition and Steering for LLM Backdoor Remediation** — Zixuan Wang, Yuanyuan Lei
+- **Investigating Counterfactual Unfairness in LLMs towards Identities through Humor** — Ruifeng Yuan, Wanxing Chang, Weiwei Cao, Bowen Shi, Zhongyu Wei, Ling Zhang, Jianpeng Zhang
+- **Route to Rome Attack: Directing LLM Routers to Expensive Models via Adversarial Suffix Optimization** — BinChen, Yu Zhang, Hongfei Ye, Huiyang Wang, Wenxi Liu, Hongyang Chen
+- **Don’t Corrupt the Fact: A Trustworthy RAG Watermarking Framework based on Dual Factual Shield** — Jianzhe Chai, Yu Zhe, Jun Sakuma
+- **Learning from Emptiness: De-biasing Listwise Rerankers with Content-Agnostic Probability Calibration** — Franziska Weeber, Vera Neplenbroek, Jan Batzner, Sebastian Padó
+- **Adversarial Metric Learning for Fine-Grained Emotion Classification** — Derong Xu, Shuochen Liu, Pengfei Luo, Pengyue Jia, Yingyi Zhang, Yi Wen, Yimin Deng, Wenlin Zhang, Enhong Chen, Xiangyu Zhao, Tong Xu
+- **SHARP: Self-adaptive Harmful Category-aware Prompt Generation for Black-box Jailbreaking** — Fuqiang Niu, Zini Chen, Zhiyu Xie, Hu Huang, Qing Liao, Qianlong Wang, Genan Dai, Bowen Zhang
+- **JARVIS or Ultron? A Survey on the Safety and Security Threats of Computer-Using Agents** — Sugyeong Eo, Heuiseok Lim
+- **Evaluating Structure-Aware Retrieval and Safety in Statute-Centric Legal QA** — Le Zhou, Feng Yao, Fengcai Qiao, Bo Xu, Fangyuan Wang, Boyan Xu
+- **A Linguistics-Aware LLM Watermarking via Syntactic Predictability** — Jingyi Sun, Greta Warren, Irina Shklovski, Isabelle Augenstein
+- **Privacy-R1: Privacy-Aware Multi-LLM Agent Collaboration via Reinforcement Learning** — Rohit Sinha, Aditya Sanjiv Kanade, Sai Srinivas Kancheti, Vineeth N. Balasubramanian, Tanuja Ganu
+- **Jailbreak-Zero: A Path to Pareto Optimal Red Teaming for Large Language Models** — Aniket Rege, Arka Sadhu, Yuliang Li, Kejie Li, Ramya Korlakai Vinayak, Yuning Chai, Yong Jae Lee, Hyo Jin Kim
+- **What About the Scene With the Hitler Reference? HAUNT: A Framework to Probe LLMs’ Self-consistency in Closed Domains Via Adversarial Nudge** — Mohit Chandra, Siddharth Sriraman, Harneet Singh Khanuja, Yiqiao Jin, Munmun De Choudhury
+- **ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks** — Shuyu Zhang, Yifan Wei, Jialuo Yuan, Xinru Wang, Yanmin Zhu, Bin Li, Yujie Liu
+- **A Multilingual Social Bias Benchmark Incorporating Thinking Processes** — Yinxi Li, Yuntian Deng, Pengyu Nie
+- **TROJail: Trajectory-Level Optimization for Multi-Turn Large Language Model Jailbreaks with Process Rewards** — Ibne Farabi Shihab, Sanjeda Akter, Anuj Sharma

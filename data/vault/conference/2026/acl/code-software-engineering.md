@@ -1,0 +1,113 @@
+---
+title: 'ACL 2026 — Code & Software Engineering'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Code & Software Engineering
+**100 papers**
+
+- **Sense and Sensitivity: Examining the Influence of Semantic Recall on Long Context Code Understanding** — Adam Štorek, Mukur Gupta, Samira Hajizadeh, Prashast Srivastava, Suman Jana
+- **CRISP: Persistent Concept Unlearning via Sparse Autoencoders** — Tomer Ashuach, Dana Arad, Aaron Mueller, Martin Tutek, Yonatan Belinkov
+- **What is a protest anyway? Codebook conceptualization is still a first-order concern in LLM-era classification** — Andrew Halterman, Katherine Keith
+- **Mechanistic Interpretability Should Prioritize Feature Consistency in Sparse Autoencoders** — Xiangchen Song, Aashiq Muhamed, Yujia Zheng, Lingjing Kong, Zeyu Tang, Mona T. Diab, Virginia Smith, Kun Zhang
+- **CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions** — Jingwei Shi, Xinxiang Yin, Jing Huang, Jinman Zhao, Shengyu Tao
+- **SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization** — Wenxi Chen, Ruiqi Yan, Yushen Chen, Zhikang Niu, Ziyang Ma, Xiquan Li, Yuzhe Liang, Hanlin Wen, Shunshun Yin, Ming Tao, Xinsheng Wang, Xie Chen
+- **TRACE: Evaluating Execution Efficiency of LLM-Based Code Translation** — Zhihao Gong, Zeyu Sun, Dong Huang, Qingyuan Liang, Jie M. Zhang, Dan Hao
+- **Bridging Language and Items for Retrieval and Recommendation: Benchmarking LLMs as Semantic Encoders** — Yupeng Hou, Jiacheng Li, Xiangjun Fu, Zhankui He, An Yan, Xiusi Chen, Julian McAuley
+- **CODERL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment** — Xue Jiang, Yihong Dong, Mengyang Liu, Hongyi Deng, Tian Wang, Yongding Tao, Zhi Jin, Wenpin Jiao, Ge Li
+- **Saber: Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model in Code Generation** — Yihong Dong, Zhaoyu Ma, Xue Jiang, Zhiyuan Fan, Jiaru Qian, Yongmin Li, Jianha Xiao, Zhi Jin, Ge Li
+- **CodeFlowBench: A Multi-turn, Iterative Benchmark for Complex Code Generation** — Sizhe Wang, Zhengren Wang, Dongsheng Ma, Yongan Yu, Rui ling, Zhiyu li, Feiyu Xiong, Wentao Zhang
+- **VideoPro: Adaptive Program Reasoning for Long Video Understanding** — Chenglin Li, Feng Han, Yikun Wang, Ruilin Li, Shuai Dong, Haowen Hou, Haitao Li, Qianglong Chen, FengTao, Jingqi Tong, Yin Zhang, Jiaqi Wang
+- **ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch** — Zheng Liu, Honglin Lin, Xiaoyang Wang, Xin Gao, Yu Li, Mengzhang Cai, Yun Zhu, Zhanping Zhong, Qizhi Pei, Zhuoshi Pan, Xiaoran Shang, Conghui He, Bin Cui, Wentao Zhang, Lijun Wu
+- **From Completion to Editing: Unlocking Context-Aware Code Infilling via Search-and-Replace Instruction Tuning** — Jiajun Zhang, Zeyu Cui, Jiaxi Yang, Lei Zhang, Yuheng Jing, Zeyao Ma, Tianyi Bai, Zilei Wang, Qiang Liu, Liang Wang, Binyuan Hui, Junyang Lin
+- **Beyond Monolingual Assumptions: A Survey on Code-Switched NLP in the Era of Large Language Models across Modalities** — Rajvee Sheth, Samridhi Raj Sinha, Mahavir Patil, Himanshu Beniwal, Mayank Singh
+- **MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution** — Zihan Wu, Jie Xu, Yun Peng, Chun Yong Chong, Xiaohua Jia
+- **From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level** — Jia Li, Yuxin Su, Michael R. Lyu
+- **XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs** — Yitian Gong, Luozhijie Jin, Kuangwei Chen, Dong Zhang, Ruifan Deng, Xiaogui Yang, Xin Zhang, Zhaoye Fei, Qinyuan Cheng, Shimin Li, Xipeng Qiu
+- **“Newspaper Eat” Means “Not Tasty”: A Taxonomy and Benchmark for Coded Language in Real-World Chinese Online Reviews** — Ruyuan Wan, Changye Li, Ting-Hao ‘Kenneth’ Huang
+- **CodeEvo: Interaction-Driven Synthesis of Code-centric Data through Hybrid and Iterative Feedback** — Qiushi Sun, Jingyang Gong, Lei Li, Qipeng Guo, Fei Yuan
+- **CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval** — Jiahui Geng, Fengyu Cai, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Alexander Pretschner, Heinz Koeppl, Fakhri Karray
+- **Lifting Optimized Binaries to Canonical Compiler IR via Structure-Aware Retrieval and Iterative Verification** — Xiaoao Zhu, Jie Ren, Zhiqiang Li, Jie Zheng, Zhanyong Tang, Zheng Wang
+- **WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics** — Chenxu Liu, Yingjie Fu, Wei Yang, Ying Zhang, Tao Xie
+- **Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs** — Haoyue Liu, Zhichao Wang, Yongxin Guo, Haoran Shou, Xiaoying Tang
+- **Cognitive Alpha Mining via LLM-Driven Code-Based Evolution** — Fengyuan Liu, Yi Huang, Sichun Luo, Yuqi Wang, Yazheng Yang, Xinye Li, Zefa Hu, Junlan Feng, Qi Liu
+- **KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs** — Yixuan Tang, Yi Yang
+- **CODESTRUCT: Code Agents over Structured Action Spaces** — Myeongsoo Kim, Chao-Chun Hsu, Dingmin Wang, Shweta Garg, Varun Kumar, Murali Krishna Ramanathan
+- **From Charts to Code: A Hierarchical Benchmark for Multimodal Models** — Jiahao Tang, Henry Hengyuan Zhao, Lijian Wu, Zijian Zhang, Yifei Tao, Dongxing Mao, Yang Wan, Jingru Tan, Min Zeng, Min Li, Alex Jinpeng Wang
+- **ExecVerify: White-Box RL with Verifiable Stepwise Rewards for Code Execution Reasoning** — Lingxiao Tang, He Ye, Zhaoyang Chu, Muyang Ye, Zhongxin Liu, Xiaoxue Ren, Lingfeng Bao
+- **Map of Encoders – Mapping Sentence Encoders using Quantum Relative Entropy** — Gaifan Zhang, Danushka Bollegala
+- **ReFEree: Reference-Free and Fine-Grained Method for Evaluating Factual Consistency in Real-World Code Summarization** — Suyoung Bae, CheolWon Na, Jaehoon Lee, Yumin Lee, YunSeok Choi, Jee-Hyong Lee
+- **When “Correct” Is Not Safe: Can We Trust Functionally Correct Patches Generated by Code Agents?** — Saptarshi Ghosh, Tianyu Jiang
+- **ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation** — Yan Fang, Jun Chen, Yian Yao, Shuxin Zhong, Min Sun, Kaishun Wu
+- **The Path Not Taken: Duality in Reasoning about Program Execution** — Qi Li, Cheng-Long Wang, Yinzhi Cao, Di Wang
+- **SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion** — Avinash Amballa, Yashas Malur Saidutta, Chi-Heng Lin, Vivek Kulkarni, Srinivas Chappidi
+- **Taming System Complexity: Demystifying Software Engineering Agents in Diagnosing Linux Kernel Faults** — Xu Wang, Bo Wang, Yang Xiang, Yihong Tang, Dongming Zhao, Zifei Yu, Yuexian Hou
+- **DisCo_Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec** — Yifan Hu, Peiji Yang, Zhisheng Wang, Yicheng Zhong, Rui Liu
+- **Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings** — Fuyuan Liu, Dianyu Yu, He Ren, Nayu Liu, Xiaomian Kang, Delai Qiu, Fa Zhang, Genpeng Zhen, Shengping Liu, Jiaen Liang, Wei Huang, Yining Wang, Junnan Zhu
+- **StoryCoder: Narrative Reformulation for Structured Reasoning in LLM Code Generation** — Xueying Ding, Xingyue Huang, Mingxuan Ju, Liam Collins, Yozen Liu, Leman Akoglu, Neil Shah, Tong Zhao
+- **CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks** — Xv Wang, Wang Zhenyu, Guanyu Zheng, Rui Zhang
+- **DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation** — Shuyuan Zhao, Wei Chen, Weijie Zhang, Xinrui Hou, Junfeng Shen, Boyan Shi, Shengnan Guo, Youfang Lin, Huaiyu Wan
+- **Benchmarking and Enabling Efficient Chinese Medical Retrieval via Asymmetric Encoders** — Shanghao Li, Jinda Han, Yibo Wang, Yuanjie Zhu, Zihe Song, Langzhou He, Kenan Kamel A Alghythee, Philip S. Yu
+- **HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application** — Ziyang Ling, Ronald XuMingzhai Sun
+- **Aligned Multi-View Scripts for Universal Chart-to-Code Generation** — Hao Xu, rite Bo, Fausto Giunchiglia, Yingji Li, Rui Song
+- **Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality** — Hongbo Jin, Kuanwei Lin, Wenhao Zhang, Yichen Jin, Ge Li
+- **Controllable LLM Reasoning via Sparse Autoencoder‑Based Steering** — Ming Zhang, Yujiong Shen, Jingyi Deng, Yuhui Wang, Huayu Sha, Kexin Tan, Qiyuan Peng, Yue Zhang, Junzhe Wang, Shichun Liu, Yueyuan Huang, Jingqi Tong, Changhao Jiang, Yilong Wu, Zhihao Zhang, Mingqi Wu, Mingxu Chai, Zhiheng Xi, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang
+- **Causal2Vec: Improving Decoder-only LLMs as Embedding Models through a Contextual Token** — Wonduk Seo, Juhyeon Lee, Yanjun Shao, Qingshan Zhou, Seunghyun lee, Yi Bu
+- **FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean** — Chenyi Li, Xinhui Tu, Zaixiang Wang
+- **BTC-LLM: Efficient Sub-1-Bit LLM Quantization via Learnable Transformation and Binary Codebook** — Jiaxuan Wang, Yulan Hu, Wenjin Yang, Zheng Pan, Xin Li, Lan-Zhe Guo
+- **Scaling Laws for Code: A More Data-Hungry Regime** — Yang Zhao, Yangou Ouyang, Xiao Ding, Hepeng Wang, Bibo Cai, Kai Xiong, Jinglong Gao, Zhouhao Sun, Li Du, Bing Qin, Ting Liu
+- **CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution** — Chongyuan Dai, Jinpeng Hu, Hongchang Shi, Zhuo Li, Dan Guo, Xun Yang, Meng Wang
+- **EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention** — Zhirong Chen, Kaiyan Chang, Zhuolin Li, Cangyuan Li, Xinyang He, Chujie Chen, Mengdi Wang, Haobo Xu, Yinhe Han, Huawei Li, Ying Wang
+- **AIRCoder: Adaptive Integration of Multi-dimensional Retrieval for Repository-level Code Completion** — Sua Lee, Sanghee Park, Jinbae Im
+- **From Logical to Computational Sparsity: Structure-Aware Block-Sparse Attention for Long-Code Completion** — Minghan Li, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou
+- **Selective Knowledge Distillation: Fusing LLM Semantic Strengths with DNN Efficiency for Binary Code Similarity Detection** — Jingjie Zeng, Huayang Li, Liang Yang, Yuanyuan Sun, Shaowu Zhang, Hongfei Lin
+- **CoreCodeBench: Decoupling Code Intelligence via Fine-Grained Repository-Level Tasks** — Di Wu, Yixin Wan, Kai-Wei Chang
+- **Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors** — Pengchen Chen, Shi Chen, Qiming Ye, Xinli Chen, Xinran Li, Wei Xiang
+- **KoCo-Bench: Can Large Language Models Leverage Domain Knowledge in Software Development?** — Nicholas Moratelli, Christopher Davis, Leonardo F. R. Ribeiro, Bill Byrne, Gonzalo Iglesias
+- **QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization** — Zhou Ziheng, Huacong Tang
+- **EGSS: Entropy-guided Stepwise Scaling for Reliable Software Engineering** — Yuxuan Si, Zheqi Lv, Chengxi Zang, Zhengyu Chen, Fei Wu
+- **MavenCoder: Competitive Code Generation via Model Adaptive Planning Strategies and Multi-Perspective Verification Enhancement** — Guanzhong Chen, Shaoxiong Yang, Chao Li, Wei Liu, Jian Luan, Zenglin Xu
+- **Do LLMs Encode Functional Importance of Reasoning Tokens ?** — Trapoom Ukarapol, Pakhapoom Sarapat, Nut Chukamphaeng
+- **UniVocal: Unified Speech-Singing Code-Switching Synthesis** — Chenghao Zhang, Qingqing Long, Ludi Wang, Wenjuan Cui, Jianjun Yu, Yi Du
+- **RedCoder: Automated Multi-Turn Red Teaming for Code LLMs** — Pedro Ortiz Suarez, Laurie Burchell, Catherine Arnett, Rafael Mosquera-Gómez, Sara Hincapie-Monsalve, Thom Vaughan, Damian Stewart, Malte Ostendorff, Idris Abdulmumin, Vukosi Marivate, Shamsuddeen Hassan Muhammad, Atnafu Lambebo Tonja, Hend Al-Khalifa, Nadia Ghezaiel Hammouda, Verrah Otiende, Tack Hwa Wong, Jakhongir Saydaliev, Melika Nobakhtian, Muhammad Ravi Shulthan Habibi, Chalamalasetti Kranti, Carol Muchemi, Khang Nguyen, Faisal Muhammad Adam, Luis Frentzen Salim, Reem Alqifari, Cynthia Amol, Joseph Marvin Imperial, Ilker Kesen, Ahmad Mustafid, Pavel Stepachev, Leshem Choshen, David Anugraha, Hamada Nayel, Seid Muhie Yimam, Vallerie Alexandra Putra, My Chiffon Nguyen, Azmine Toushik Wasi, Gouthami Vadithya, Rob van der Goot, Lanwenn ar C’horr, Karan Dua, Andrew Yates, Mithil Bangera, Yeshil Bangera, Hitesh Laxmichand Patel, Shu Okabe, Fenal Ashokbhai Ilasariya, Dmitry Gaynullin, Genta Indra Winata, Yiyuan Li, Juan Pablo Martínez, Amit Agarwal, Ikhlasul Akmal Hanif, Raia Abu Ahmad, Esther Adenuga, Filbert Aurelian Tjiaranata, Weerayut Buaphet, Michael Anugraha, Sowmya Vajjala, Benjamin Rice, Azril Hafizi Amirudin, Jesujoba O. Alabi, Srikant Panda, Yassine Toughrai, Bruhan Kyomuhendo, Daniel Ruffinelli, Akshata A, Manuel Goulão, Ej Zhou, Ingrid Gabriela Franco Ramirez, Cristina Aggazzotti, Konstantin Dobler, Jun Kevin, Quentin Pagès, Nicholas Andrews, Nuhu Ibrahim, Mattes Ruckdeschel, Amr Keleg, Mike Zhang, Casper Muziri, Saron Samuel, Sotaro Takeshita, Kun Kerdthaisong, Luca Foppiano, Rasul Dent, Tommaso Green, Ahmad Mustapha Wali, Kamohelo Makaaka, Vicky Feliren, Inshirah Idris, Hande Celikkanat, Abdulhamid Abubakar, Jean Maillard, Benoît Sagot, Thibault Clérice, Kenton Murray, Sarah Luger
+- **MARS²: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation** — Sathvik Nair, Byung-Doh Oh
+- **Multilingual Language Models Encode Script Over Linguistic Structure** — Weijie Xu, Brian Dillon, Richard Futrell
+- **Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation** — Emily Chang, Niyati Bafna
+- **MMSciCode: Real-world Evaluation of Multilingual Multi-Discipline Scientific Research Coding** — Taicheng Guo, Hai Wang, ChaoChun Liu, Mohsen Golalikhani, Xin Chen, Xiangliang Zhang, Chandan K. Reddy
+- **Corpus-Dependent Subcharacter Encoding via HMM-Guided Code Assignment** — Ahmed Heakl, Gustavo Bertolo Stahl, Sarim Hashmi, Seung Hun Eddie Han, Mukul Ranjan, Arina Kharlamova, Salman Khan, Abdulrahman Mahmoud
+- **E2EDev: Benchmarking Large Language Models in End-to-End Software Development Task** — Hanwen Xu, Xuyao Huang, Yuzhe Liu, Zhijie Deng
+- **Gated Tree Cross-Attention for Checkpoint-Compatible Syntax Injection in Decoder-Only LLMs** — Chen Yang, Ruping Xu, Ruizhe Li, Bin Cao, Jing Fan
+- **SeDev: Structured Semantic Exploration for LLM-Driven Code Generation** — Yuxuan Zhang
+- **EVM-QuestBench: An Execution-Grounded Benchmark for Natural-Language Transaction Code Generation** — Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, Xuetao Ma, Hua Huang
+- **SLICEFORMER: Static Program Slicing Using Language Models With Dataflow-Aware Pretraining and Constrained Decoding** — Subham Raj, Aman Vaibhav Jha, Mayank Anand, Sriparna Saha
+- **TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction** — Advait Gosai, Tyler Vuong, Utkarsh Tyagi, Steven Li, Wenjia You, Miheer Bavare, Arda Uçar, Zhongwang Fang, Brian Jang, Bing Liu, Yunzhong He
+- **LeCoDe: A Benchmark Dataset for Interactive Legal Consultation Dialogue Evaluation** — Boci Peng, Xiao Liu, Boren Hu, Yun Zhu, Xuanbo Fan, Yanwei Yue, Chunyu Yang, Yan Zhang
+- **Bootstrapping Code Translation with Weighted Multilanguage Exploration** — Eojin Jeon, SangKeun Lee
+- **PaT: Planning-after-Trial for Efficient Test-Time Code Generation** — Linqing Chen, Hanmeng Zhong, Wentao Wu, Peng Zhou
+- **Frozen LLMs are Native Decoders for High-Norm Semantic Vectors** — Yinghao Tang, Xueding Liu, Boyuan Zhang, Tingfeng Lan, Yupeng Xie, Jiale Lao, Yiyao Wang, Haoxuan Li, Tingting Gao, Bo Pan, Luoxuan Weng, Xiuqi Huang, Minfeng Zhu, Yingchaojie Feng, Yuyu Luo, Wei Chen
+- **Example Quality Matters: Multi-Aspects Example Augmentation for Private Library Programming** — Weiqin Wang, Yile Wang, Kehao Chen, Hui Huang
+- **Dashboard2Code: Evaluating Multimodal Models on Reconstructing Interactive Dashboards** — YiFei Wang, Qizhi Pei, Jiangtao Feng, Yuntian Shi, Yi Duan, Lihao Wang, Lei Bai, Lijun Wu, Wei-Ying Ma, Hao Zhou
+- **Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation** — Wenqi Yang, Jianjun Li, Zhibo Zhang, Mingqian Ding, Yushen Fang
+- **CodeRipple: Wavelet-Based Detection of LLM-Generated Code** — Jun-Hak Yun, Seung-Bin Kim, Seong-Whan Lee
+- **SciCoQA: Quality Assurance for Scientific Paper–Code Alignment** — Tinnakit Udsa, Can Udomcharoenchaikit, Patomporn Payoungkhamdee, Sarana Nutanong, Norrathep Rattanavipanon
+- **From Where Words Come: Efficient Regularization of Code Tokenizers Through Source Attribution** — Dan Shi, Zhuowen Han, Simon Ostermann, Renren Jin, Josef van Genabith, Deyi Xiong
+- **PDTrim: Targeted Pruning for Prefill-Decode Disaggregation in Inference** — Hyunjung Joo, GyeongTaek Lee
+- **RealChart2Code: Bridging the Gap in Real-World Chart-to-Code Generation via Multi-Task Evaluation** — William Rudman, Michal Golovanevsky, Dana Arad, Yonatan Belinkov, Carsten Eickhoff, Ritambhara Singh, Kyle Mahowald
+- **From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models** — Mark Rothermel, Marcus Kornmann, Marcus Rohrbach, Anna Rohrbach
+- **Programming over Thinking: Efficient and Robust Multi-Constraint Planning** — Ziqing Wang, Yibo Wen, Abhishek Pandey, Han Liu, Kaize Ding
+- **ReCode: Reinforcing Code Generation with Reasoning-Process Rewards** — Zelin Li, Jia Leng, Dawei Song, Yangen Hu
+- **Late Code Chunking: A Code Chunking Strategy for Repository-Level Code Completion** — Weicong Liu, Zixuan Yang, Yibo Zhao, Xiang Li
+- **CLAOCS-TX: Cross-Lingual Triplet Extraction with Aspect-Opinion-Aware Code-Switched Prompting and LLM-Guided Contrastive Distillation** — Shunqi Mao, Chaoyi Zhang, Weidong Cai
+- **HSGraphAgent: Knowledge-Graph-Guided Large Language Models for Harmonized System Code Classification** — Ali El Lahib, Ying-Jieh Xia, Zehan Li, Yuxuan Wang, Xinyu Pi
+- **Lost in the Mix: Evaluating LLM Understanding of Code-Switched Text** — Stefano Civelli, Pietro Bernardelle, Nicolò Brunello, Gianluca Demartini
+- **LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software** — Zheng Hui, Yijiang River Dong, Sanhanat Sivapiromrat, Ehsan Shareghi, Nigel Collier
+- **OLA: Output Language Alignment in Code-Switched LLM Interactions** — Joseph Suh, Suhong Moon, Serina Chang
+- **GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities** — Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, Morunliu Yang, Wanshun CHEN, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Zhaopeng Tu, Xiaolong Li, Liefeng Bo, Min Zhang
+- **One Single Hub Text Breaks CLIP: Identifying Vulnerabilities in Cross-Modal Encoders via Hubness** — Yiwei Qin, Zhen Huang, Tiantian Mi, Weiye Si, Qipeng Guo, Siyuan Feng, Pengfei Liu
+- **TokDrift: When LLM Speaks in Subwords but Code Speaks in Grammar** — Alla Rozovskaya, Dan Roth

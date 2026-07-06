@@ -1,0 +1,281 @@
+---
+title: 'ACL 2026 — Other / Unclassified'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Other / Unclassified
+**267 papers**
+
+- **Empowering Tabular Data Preparation with Language Models: Why and How?** — Mengshi Chen, Yuxiang Sun, Tengchao Li, Jianwei Wang, Kai Wang, Xuemin Lin, Ying Zhang, Wenjie Zhang
+- **Learning Diverse Responses with Prefix-Conditioned Supervised Fine-Tuning** — Zhiyuan Fan, Guanqiao Chen, Yanyi HUANG, Mingkuan Zhao, Dadi Guo, Yi R. Fung
+- **Hybrid Autoregressive-Diffusion Model for Real-Time Sign Language Production** — Maoxiao Ye, Xinfeng Ye, Sathiamoorthy Manoharan
+- **A Game-Theoretica Negotiation Framework for Cross-Cultural Consensus** — Guoxi Zhang, Jiawei Chen, Tianzhuo Yang, Jiaming Ji, Yaodong Yang, Juntao Dai
+- **Identifying the Periodicity of Information in Natural Language** — Yulin OU, Yu Wang, Yang Xu, Hendrik Buschmeier
+- **EmoHarbor: Evaluating Personalized Emotional Support by Simulating the User’s Internal World** — Jing Ye, Lu Xiang, Yaping Zhang, Chengqing Zong
+- **Punctuation-Steered Representation Fine-Tuning** — Zheng Gong, Ying Sun, Ping Li, Yi Zheng, Zhefeng Wang
+- **J4R: Learning to Judge with Equivalent Initial State Group Relative Policy Optimization** — Austin Xu, Yilun Zhou, Xuan-Phi Nguyen, Caiming Xiong, Shafiq Joty
+- **Not All Directions Matter: Towards Structured and Task-Aware Low-Rank Model Adaptation** — Xi Xiao, Chenrui Ma, Yunbei Zhang, Chen Liu, Zhuxuanzi Wang, Yanshu Li, Lin Zhao, Guosheng Hu, Tianyang Wang, Hao Xu
+- **ReContraster: Making Your Posters Stand Out with Regional Contrast** — Peixuan Zhang, Zijian Jia, Ziqi Cai, Shuchen Weng, Si Li, Boxin Shi
+- **CARES: Context-Aware Resolution Selector for VLMs** — Moshe Kimhi, Nimrod Shabtay, Raja Giryes, Chaim Baskin, Eli Schwartz
+- **Think in Sentences: Explicit Sentence Boundaries Enhance Language Model’s Capabilities** — Zhichen Liu, Yongyuan Li, Yang Xu
+- **GenDis: Generative-Discriminative Dual-View Co-Training for Generalized Category Discovery** — Xi Chen, Chuan Qin, Jinpeng Li, Shasha Hu, Chao Wang, Hengshu Zhu, Hui Xiong
+- **DE-CLIP: Few-Shot Anomaly Detection via Difference-Guided Embedding Editing** — Yage Zhang, Yukun Jiang, Michael Backes, Yang Zhang
+- **Culinary Crossroads: A RAG Framework for Enhancing Diversity in Cross-Cultural Recipe Adaptation** — Tianyi Hu, Andrea Morales-Garzón, Jingyi Zheng, Maria Maistro, Daniel Hershcovich
+- **Splits! Flexible Sociocultural Linguistic Investigation at Scale** — Eylon Caplan, Tania Chakraborty, Dan Goldwasser
+- **Breaking the Generator Barrier: Disentangled Representation for Generalizable AI-Text Detection** — Xiao Pu, Zepeng Cheng, Lin Yuan, Yu Wu, Xiuli Bi
+- **PUPPET: Neural-Symbolic Standardized Patients for Mental Health** — Chen Xu, Yu ji, Zhenyu Lv, Yang Yi, Yizhe Yang, Luyao Ji, Chaoyi Chen, Xianyang Wang, Tian Lan, Zhihua Wang, Juan Wang, Xunde Dong, Fuze Tian, Qunxi Dong, Bin Hu
+- **AwarenessBench: Assessing Cognitive Capabilities of Language Models** — Xiaojian Li, Rongwu Xu, Tianyun Zhang, Yue Wang, Shuo Chen, Qiner Lyu, Briana Zhang, Peiran Yang, Kyle Xue Chen, Haoyuan Shi, Yu Wang, Wei Xu
+- **HOPE: Hybrid Optimized Parallel Encoding with Supervised and Unsupervised Semantic Fusion for Depression Symptom Detection** — Tu-Phuong Mai, Minh-Ha Le H., Duc-Luong Tran, Phuong-Anh Chu, Duy-Cat Can, Hoang-Quynh Le
+- **Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards** — Xinyu Tang, Yuliang Zhan, Zhixun Li, Xin Zhao, Zhenduo Zhang, Zujie Wen, Zhiqiang Zhang, Jun Zhou
+- **DIA-HARM: Dialectal Disparities in Harmful Content Detection Across 50 English Dialects** — Jason S Lucas, Matt Murtagh White, Ali Al-Lawati, Uchendu Uchendu, Adaku Uchendu, Dongwon Lee
+- **Inferring Events from Time Series using Language Models** — Mingtian Tan, Mike A Merrill, Zachary Gottesman, Tim Althoff, David Evans, Thomas Hartvigsen
+- **Big AI is Accelerating the Metacrisis: What Can We Do?** — Steven Bird
+- **Crossing the Reward Bridge: Expanding Reinforcement Learning with Verifiable Rewards Across Diverse Domains** — Yi Su, Dian Yu, Linfeng Song, Juntao Li, Haitao Mi, Zhaopeng Tu, Min Zhang, Dong Yu
+- **IMPACT: Importance-Aware Activation Space Reconstruction** — Md Mokarram Chowdhury, Daniel Agyei Asante, Ernie Chang, Yang Li
+- **CTTA-T: Continual Test-Time Adaptation for Text Understanding via Teacher-Student with a Domain-aware and Generalized Teacher** — Tianlun Liu, Zhiliang Tian, Zhen Huang, Xingzhi Zhou, Wanlong Yu, Tianle Liu, Feng Liu, Dongsheng Li
+- **EventWeave: A Dynamic Framework for Capturing Core and Supporting Events in Dialogue Systems** — Zhengyi Zhao, Shubo Zhang, Yiming Du, Bin Liang, Baojun Wang, Zhongyang Li, Binyang Li, Kam-Fai Wong
+- **G²RPO-A: Guided Group Relative Policy Optimization with Adaptive Guidance** — Yongxin Guo, Wenbo Deng, Zhenglin Cheng, Xiaoying Tang
+- **Analytical FFN-to-MoE Restructuring via Activation Pattern Analysis** — Zehua Pei, Hui-Ling Zhen, Lancheng Zou, Xianzhi Yu, Wulong Liu, Sinno Jialin Pan, Mingxuan Yuan, Bei Yu
+- **Uncovering Temporal Framing in the News** — Tarek Mahmoud, Veronika Solopova, Premtim Sahitaj, Ariana Sahitaj, Max Upravitelev, Mervat Abassy, Hana Fatima Shaikh, Neda Foroutan, Vera Schmitt, Preslav Nakov
+- **GenProve: Learning to Generate Text with Fine-Grained Provenance** — Jingxuan Wei, Xingyue Wang, Yanghaoyu Liao, Jie Dong, Yuchen Liu, Caijun Jia, Bihui Yu, Junnan Zhu
+- **Everyone is unique: Towards Behaviorally Heterogeneous Negotiation Dialogue Systems for Debt Collection** — Yuhang Yang, Kai Tang, Chao Ye, Haobo Wang, Qiqi Luo, Jinguang Zheng, Zhixin Zhang
+- **BaseCal: Unsupervised Confidence Calibration via Base Model Signals** — Hexiang Tan, Wanli Yang, Junwei Zhang, Xin Chen, Rui Tang, Du Su, Jingang Wang, Yuanzhuo Wang, Fei Sun, Xueqi Cheng
+- **Investigating the Representation of Backchannels and Fillers in Fine-tuned Language Models** — Yu Wang, Leyi Lao, Langchu Huang, Gabriel Skantze, Yang Xu, Hendrik Buschmeier
+- **The Stackelberg Speaker: Optimizing Persuasive Communication in Social Deduction Games** — Zheng Zhang, Deheng Ye, Peilin Zhao, Hao Wang
+- **Writing-RL: Advancing Long-form Writing via Adaptive Curriculum Reinforcement Learning** — Xuanyu Lei, Chenliang Li, Yuning Wu, Kaiming Liu, Weizhou Shen, Peng Li, Ming Yan, Fei Huang, Ya-Qin Zhang, Yang Liu
+- **EXCEEDS: Extracting Complex Events via Nugget-based Grid Modeling in Scientific Domain** — Yi-Fan Lu, Xian-Ling Mao, Bo Wang, Xiao Liu, Heyan Huang
+- **Heterogeneous Adaptive Policy Optimization: Tailoring Optimization to Every Token’s Nature** — Zheng Liu, Mengjie Liu, Siwei Wen, Mengzhang Cai, Bin Cui, Conghui He, Wentao Zhang
+- **Mirroring Users: Towards Building Preference-aligned User Simulator with User Feedback in Recommendation** — Tianjun Wei, Huizhong Guo, Yingpeng Du, Zhu Sun, Huang Chen, Dongxia Wang, Jie Zhang
+- **Structured Episodic Event Memory** — Zhengxuan Lu, Dongfang Li, Yukun Shi, Beilun Wang, Longyue Wang, Baotian Hu
+- **Unlocking the Potential of Diffusion Language Models through Template Infilling** — Junhoo Lee, Seungyeon Kim, Nojun Kwak
+- **Diff4TST: Masked Diffusion Language Model for Text Style Transfer** — Xinchen Ma, Gaole He, Yunshi Lan, Weining Qian
+- **DPC: Training-Free Text-to-SQL Candidate Selection via Dual-Paradigm Consistency** — Boyan Li, Ou Ocean Kun Hei, Yue Yu, Yuyu Luo
+- **Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models** — Linhao Zhong, Linyu Wu, Bozhen Fang, Tianjian Feng, Chenchen Jing, Wen Wang, Jiaheng Zhang, Hao Chen, Chunhua Shen
+- **What Makes an Ideal Quote? Recommending “Unexpected yet Rational” Quotations via Novelty** — Powei Chang, Jin Xiao, Guanglei Yue, Qianyu He, Yanghua Xiao, Deqing Yang, Jiaqing Liang
+- **RSDA: Restoring Stale Data Affinity via Dynamic Renovation Strategy for Mitigating Data Scarcity** — Yidan Liang, Jia Zhu, Weijie Shi, Hanghui Guo, Yue Cui, Jiawei Shen, Guoqing Ma, Jingjiang Liu, Qingyu Niu, Yilin Wang, Shimin Di, Jiajie Xu
+- **Ted-Tok: Maintaining an Evolving Vocabulary for Lifelong Learning** — Jiameng Huang, Zhi Zhang, Zhenyu He, Jiacheng Sun, Di He
+- **SEA-BED: How Do Embedding Models Represent Southeast Asian Languages?** — Wuttikorn Ponwitayarat, Peerat Limkonchotiwat, Raymond Ng, Jann Railey Montalan, Thura Aung, Jian Gang Ngui, Yosephine Susanto, William Chandra Tjhi, Panuthep Tasawong, Erik Cambria, Ekapol Chuangsuwanich, Sarana Nutanong
+- **LVLMs and Humans Ground Differently in Referential Communication** — Peter Zeng, Weiling Li, Amie Paige, Zhengxiang Wang, Panagiotis Kaliosis, Dimitris Samaras, Gregory Zelinsky, Susan Brennan, Owen Rambow
+- **Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs** — Zhenyu Liu, Xuanyu Zhang Yunxin Li, Qixun Teng, Shenyuan Jiang, Haolan Chen, Minjun Zhao, Fanbo Meng, Yu Xu, Yancheng He, Baotian Hu, Haizhou Li, Min Zhang
+- **Automatic Correction of Writing Anomalies in Hausa Texts** — Ahmad Mustapha Wali, Sergiu Nisioi
+- **Understanding or Memorizing? A Case Study of German Definite Articles in Language Models** — Jonathan Drechsel, Erisa Bytyqi, Steffen Herbold
+- **AdaJudge: Adaptive Multi-Perspective Judging for Reward Modeling** — Yongliang Miao, Yangyang Liang, Mengnan Du
+- **ThinkPersona: Thinking with Persona Graphs for Faithful Individualized Role-Playing** — Yichen Cai, Pei Chen, Jiayang Li, Jingya Guo, Zejian Li, Changyuan Yang, Lingyun Sun
+- **A Layer-wise Analysis of Supervised Fine-Tuning** — Qinghua Zhao, Xueling Gong, Xinyu Chen, Zhongfeng Kang, Xinlu Li
+- **Feeling Rules in Language Models: Mapping Norms of Emotional Appropriateness Across Roles, Institutions, and Intensity** — Guangrui Fan, DanDan Liu, Aznul Qalid Md Sabri, Rui Zhang, Lihu Pan
+- **When Morphology Hides in Plain Sight: Breaking the Isolation in Vietnamese and Beyond** — Anh Trac Duc Dinh, Khang Hoang Nhat Vo, Tai Tien Ta, Vinh Cong Doan, Tho Quan
+- **C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences** — Akira Kawabata, Saku Sugawara
+- **A Dual-Task Paradigm to Investigate Sentence Comprehension Strategies in Language Models** — Rei Emura, Saku Sugawara
+- **PRISM: Probabilistic Reward Model with Inherent Structural Modeling** — Yuhang Zhou, Yuchen Ni, Xiang Liu, Shihan Dou, Xutian Chen, Ge Zhang, Guangnan Ye, Yixin Cao
+- **WeightLoRA: Keep Only Necessary Adapters** — Andrey Veprikov, Vladimir Solodkin, Zyl Alexander, Andrey Savchenko, Aleksandr Beznosikov
+- **GASim: A Graph-Accelerated Hybrid Framework for Social Simulation** — Xuan Zhou, Yanhui Sun, Hantao Yao, Allen He, Yongdong Zhang, Wu Liu
+- **Investigating Cross-Modal Skill Injection: Scenarios, Methods, and Hyperparameters** — Zhiyu Xu, Lean Wang, Yuanxin Liu, Lei Li, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun
+- **The Bidirectional Process Reward Model** — Lingyin Zhang, Jun Gao, Xiaoxue Ren, Ziqiang Cao
+- **A Model of the Language Process** — Brandon Duderstadt, Hayden Helm
+- **Among Us: Language of Conspiracy Theorists on Mainstream Reddit** — Francesco Corso, Giuseppe Russo, Francesco Pierri, Gianmarco De Francisci Morales
+- **Bridging Distance and Spectral Positional Encodings via Anchor-Based Diffusion Geometry Approximation** — Zimo Yan, Zheng Xie, Runfan Duan, Chang Liu, Wumei Du
+- **Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems** — Jihao Zhao, Ding Chen, Zhaoxin Fan, Kerun Xu, Mengting Hu, Bo Tang, Feiyu Xiong, Zhiyu li
+- **Toward Consistent World Models with Multi-Token Prediction and Latent Semantic Enhancement** — Qimin Zhong, Hao Liao, Haiming Qin, Mingyang Zhou, Rui Mao, Wei Chen, Naipeng Chao
+- **Language Model as Planner and Formalizer under Constraints** — Cassie Huang, Stuti Mohan, Ziyi Yang, Stefanie Tellex, Li Zhang
+- **Anchoring Depends on Confidence and Post-Training in Language Models** — Hillary N Owusu, Naomi H Feldman
+- **Locket: Robust Feature-Locking Technique for Language Models** — Lipeng He, Vasisht Duddu, N. Asokan
+- **Closing the Spatial Execution Gap in Digital Whiteboards via Verifiable Reinforcement Learning** — Chang Liu, Benjamin Wagley, Zibo Wang, Mehmet Belviranli, Bo Wu
+- **Hyperion: Private Token Sampling with Homomorphic Encryption** — Lawrence Lim, Jiaming Liu, Vikas Kalagi, Divyakant Agrawal, Amr El Abbadi
+- **HistLens: Mapping Idea Change across Concepts and Corpora** — Yi Jing, Weiyun Qiu, Yihang Peng, Zhifang Sui
+- **Stable Signer: Hierarchical Sign Language Generative Model** — Sen Fang, Yalin Feng, Hongbin Zhong, Yanxin Zhang, Dimitris N. Metaxas
+- **AI use in American newspapers is widespread, uneven, and rarely disclosed** — Jenna Russell, Marzena Karpinska, Destiny Akinode, James Zhou, Katherine Thai, Bradley Emi, Max Spero, Mohit Iyyer
+- **The Illusion of Specialization: Unveiling the Domain-Invariant “Standing Committee” in Mixture-of-Experts Models** — Yan Wang, Yitao Xu, Nanhan Shen, Jinyan Su, Jimin Huang, Zining Zhu
+- **Evolutionary Strategies at Scale lead to Catastrophic Forgetting** — Immanuel Abdi, Akshat Gupta, Micah Mok, Alex Lu, Nicholas Lee, Gopala Anumanchipalli
+- **Generating Literature-Driven Scientific Theories at Scale** — Peter Jansen, Peter Clark, Doug Downey, Daniel S Weld
+- **Digitizing Nepal’s Written Heritage: A Comprehensive HTR Pipeline for Old Nepali Manuscripts** — Anjali Sarawgi, Esteban Garces Arias, Christof Zotter
+- **Implicit Representations of Grammaticality in Language Models** — Zhikun Xu, Xiaodong Yu, Ben Zhou, Jiang Liu, Jialian Wu, Ze Wang, Ximeng Sun, Hao Chen, Zicheng Liu
+- **Uncovering Intervention Opportunities for Suicide Prevention with Language Model Assistants** — Yingshan Susan Wang, Linlu Qiu, Zhaofeng Wu, Roger P. Levy, Yoon Kim
+- **Robertha: Eigenspectrum Regularized Attention for Robust Natural Language Understanding** — Pei-Fu Guo, Yun-Da Tsai, Chun-Chia Hsu, Kai-Xin Chen, Ya An Tsai, Kai-Wei Chang, Nanyun Peng, Mi-Yen Yeh, Shou-De Lin
+- **MetFuse: Figurative Fusion between Metonymy and Metaphor** — Linfeng Liu, Saptarshi Ghosh, Tianyu Jiang
+- **Exploring Concreteness Through a Figurative Lens** — Xiaohan Zou, Roshan Sridhar, Mohammadtaher Safarzadeh, Dan Roth
+- **Act-Adaptive Margin: Dynamically Calibrating Reward Models for Subjective Ambiguity** — Yuanxiang Liu, Songze Li, Xiaoke Guo, Zhaoyan Gong, Qifei Zhang, Huajun Chen, Wen Zhang
+- **Among Us: Measuring and Mitigating Malicious Contributions in Model Collaboration Systems** — Nishant Balepur, Malachi Hamada, Varsha Kishore, Sergey Feldman, Amanpreet Singh, Pao Siangliulue, Joseph Chee Chang, Eunsol Choi, Jordan Lee Boyd-Graber, Aakanksha Naik
+- **Function Words as Statistical Cues for Language Learning** — Hanbing Liu, Lang Cao, Yuanyi Ren, Mengyu Zhou, Haoyu Dong, Xiaojun Ma, Shi Han, Dongmei Zhang
+- **Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation** — Raoyuan Zhao, Yihong Liu, Lena Altinger, Hinrich Schuetze, Michael A. Hedderich
+- **Knowing When Not to Answer: Lightweight KB-Aligned OOD Detection for Safe RAG** — Changdae Oh, Seongheon Park, To Eun Kim, Jiatong Li, Wendi Li, Samuel Yeh, Sean Du, Hamed Hassani, Paul Bogdan, Dawn Song, Sharon Li
+- **Guidelines as Environments: A World Model Approach to Rule Following** — Amirhosein Ghasemabadi, Keith G. Mills, Baochun Li, Di Niu
+- **Prefix Parsing is Just Parsing** — Haiqing Li, Wenliang Zhong, Yinhao Wu, Hehuan Ma, Yuzhi Guo, Thao M. Dang, Junzhou Huang
+- **Sigmoid Head for Quality Estimation under Language Ambiguity** — Clemente Pasti, Andreas Opedal, Timothy J. O’ Donnel, Ryan Cotterell, Tim Vieira
+- **Domain Generalizable AI Guardrails with Augmented Policy Training** — Calvin Isch, Grace Jennings
+- **TabEmb: Joint Semantic-Structure Embedding for Table Annotation** — António Loison, Quentin Macé, Antoine Edy, Victor Xing, Tom Balough, Gabriel de Souza P. Moreira, Bo Liu, Manuel Faysse, Céline Hudelot, Gautier Viaud
+- **Text-to-Distribution Prediction with Quantile Tokens and Neighbor Context** — Lei Hsiung, Tianyu Pang, Yung-Chen Tang, Linyue Song, Tsung-Yi Ho, Pin-Yu Chen, Yaoqing Yang
+- **Mapping the Circumplex of Affect: Geometric Analysis of Emotion Representations via Hyperspherical Contrastive Learning** — Xueqing Peng, Lingfei Qian, Yan Wang, Ruoyu Xiang, Yueru He, Yang Ren, Mingyang Jiang, Vincent Jim Zhang, Yuqing Guo, Jeff Zhao, Huan He, Yi Han, Yun Feng, Yuechen Jiang, Yupeng Cao, Haohang Li, Yangyang Yu, Xiaoyu Wang, Penglei Gao, Shengyuan Lin, Keyi Wang, Shanshan Yang, Yilun Zhao, Zhiwei Liu, Peng Lu, Jerry Huang, Suyuchen Wang, Triantafillos Papadopoulos, Polydoros Giannouris, Efstathia Soufleri, Nuo Chen, Zhiyang Deng, Heming Fu, Yijia Zhao, Mingquan Lin, Meikang Qiu, Kaleb E Smith, Arman Cohan, Xiao-Yang Liu, Jimin Huang, Guojun Xiong, Alejandro Lopez-Lira, Xi Chen, Junichi Tsujii, Jian-Yun Nie, Sophia Ananiadou, Qianqian Xie
+- **All Changes May Have Invariant Principles: Improving Ever-Shifting Harmful Meme Detection via Design Concept Reproduction** — Zhuoqun Li, Xuanang Chen, Hongyu Lin, Yaojie Lu, Xianpei Han, Shanshan Jiang, Bin Dong, Le Sun
+- **REZE: Representation Regularization for Domain-adaptive Text Embedding Pre-finetuning** — Sihang Jiang, Zhiyu Lu, Keyi Wang, Jiaqing Liang, Yanghua Xiao, Xiaojun Meng, Jiansheng Wei
+- **MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences** — Xichen Zhang, Ziyi He, Yinghao Zhu, Sitong Wu, Shaozuo Yu, Meng Chu, Wenhu Zhang, Haoru Tan, Jiaya Jia
+- **Is the Attention Matrix Really the Key to Self‑Attention in Multivariate Long‑Term Time Series Forecasting?** — Chengyan Wu, Bolei Ma, Ningyuan Deng, He Yanqing, Yun Xue, Liu Xiaoyong
+- **TellWhisper: Tell Whisper Who Speaks When** — ZijianWen, Tao Zhang, Shuangwu chen, Shenghao Ye, Yu Guo, Qirui Chen, Jingxian Shuai, Yunpeng Hou, Huasen He, Jian Yang
+- **WildReward: Learning Reward Models from In-the-Wild Human Interactions** — Zhenhao Zhou, Zhuochen Huang, Yike He, Chong Wang, Jiajun Wang, Yijian Wu, Xin Peng, Yiling Lou
+- **FocalOrder: Focal Preference Optimization for Reading Order Detection** — Yuanhe Zhang, Jiayu Tian, Yibo Zhang, Shilinlu Yan, Liang Lin, Zhenhong Zhou, Li Sun, Sen Su
+- **Triviality Corrected Endogenous Reward** — Changin Choi, Wonseok Lee, Jungmin Ko, Wonjong Rhee
+- **PaTaRM: Bridging Pairwise and Pointwise Signals via Preference-Aware Task-Adaptive Reward Modeling** — Zihan Chen, Yiming Zhang, Wenxiang Geng, Zenghui Ding, Yining Sun
+- **Think Before Writing: Feature-Level Multi-Objective Optimization for Generative Citation Visibility** — Ai Jian, Jingqing Ruan, Xing Ma, Dailin Li, Weipeng Zhang, Ke Zeng, Xunliang Cai
+- **Language Reconstruction with Brain Predictive Coding from fMRI Data** — Hu Chen, Binhan Yang, Wei Shen
+- **ChatHLS: Towards Systematic Design Automation and Optimization for High-Level Synthesis** — Wenkai Wang, Xiyun Li, Hongcan Guo, Wenhao Yu, Tianqing Fang, Haitao Mi, Dong Yu, Shengyu Zhang
+- **Placing Puzzle Pieces Where They Matter: A Question Augmentation Framework for Reinforcement Learning** — Tianle Gu, Kexin Huang, Zongqi Wang, Yixu Wang, Jie Li, Xin Wang, Yang Yao, Yujiu Yang, Yan Teng, Yingchun Wang
+- **LEDOM: Reverse Language Model** — Lujia Yang, Weicai Yan, Yongbo He, Qifei Zhang, Tao Jin, Jinshan Zhang, Meng Xi, Jianwei Yin
+- **METRO: Towards Strategy Induction from Expert Dialogue Transcripts for Non-collaborative Dialogues** — Bo Zhang, Tzu-Yen Ma, Zichen Tang, Junpeng Ding, Zirui Wang, Yizhuo Zhao, Peilin Gao, Zijie Xi, Zixin Ding, Haiyang Sun, Haocheng Gao, Yuan Liu, Liangjia Wang, Yiling Huang, Yujie Wang, Yuyue Zhang, Ronghui Xi, Yuanze Li, Jiacheng Liu, Zhongjun Yang, Haihong E
+- **The Digital Dunning-Kruger Effect: Decoupling Hallucinations via Geometric Hidden-state Observation for Semantic Truthfulness** — Boyan Duan, Xiao Liang, Shuai Lu, Yaoxiang Wang, Yelong Shen, Kai-Wei Chang, Ying Nian Wu, Mao Yang, Weizhu Chen, Yeyun Gong
+- **d-TreeRPO: Towards More Reliable Policy Optimization for Diffusion Language Models** — Peichun Hua, Hao Li, Shanghao Shi, Zhiyuan Yu, Ning Zhang
+- **Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism** — Leyi Pan, Shuchang Tao, Yunpeng Zhai, Zheyu Fu, Liancheng Fang, Minghua He, Lingzhe Zhang, Zhaoyang Liu, Bolin Ding, Aiwei Liu, Lijie Wen
+- **AutoReproduce: Automatic AI Experiment Reproduction with Paper Lineage** — Lei Liu, Hao Zhu, Xiaoyan Yang, Yue Shen, Zhixuan Chu, Jian Wang, Jinjie Gu, Kui Ren
+- **Counteracting the Matthew Effect in Self-Improvement of LVLMs through Head-Tail Re-balancing** — Zijing Shi, Meng Fang, Ling Chen
+- **Template-assisted Contrastive Learning of Task-oriented Dialogue Sentence Embeddings** — Xiaowei Yuan, Ziyang Huang, Zhao Yang, Yequan Wang, Jun Zhao, Kang Liu
+- **Luring as a Proxy: Evaluating Corpus Transferability for Cybergrooming Detection** — Siming Sun, Kai Zhang, Xuejun Jiang, Wenchao Meng, Qinmin Yang
+- **MAESTRO: Meta-learning Adaptive Estimation of Scalarization Trade-offs for Reward Optimization** — Navya Gupta, Rishitej Reddy Vyalla, Avinash Anand, Chhavi Kirtani, Erik Cambria, Zhengchen Zhang, Zhengkui Wang, Timothy Liu, Aik Beng Ng, Simon See, Rajiv Ratn Shah
+- **MoEC: A Memory-Routed Mixture-of-Experts Controller for Adaptive Minecraft Control** — Xu Zhang, Xiaojun Wan
+- **MECH: A Cost-Effective Multi-Task Cascade Framework for Classroom Opinion Evolution Recognition** — Jewon Yeom, Jaewon Sok, Seonghyeon Park, Jeongjae Park, Taesup Kim
+- **Comparative Analysis of the Intrinsic Metrics for Tokenizers and their effect on Downstream Tasks for Hindi and Marathi** — Jin Liu, Yunpeng Liu, Keyi Wang, Jie Shi, Xiao Xu, Wenkang Huang, Xingzhong Xu, Xin Liang, Yanghua Xiao
+- **Comparing human and language models sentence processing difficulties on complex structures** — HaeJun Yoo, Yongseop Shin, Insung Lee, Myoung-Wan Koo, Du-Seong Chang
+- **The Proxy Presumption: From Semantic Embeddings to Valid Social Measures** — Ding Xia, Xinyue Gui, Mark Colley, Fan Gao, Zhongyi Zhou, Dongyuan Li, Renhe Jiang, Takeo Igarashi
+- **DVCQR: Dual-View Conversational Query Rewriting with Stage-wise Reinforcement Learning** — Tianxin Han, Qing Dong, Xingwei Wang, Jie Jia, Gang Wu, Bowen Yang, Fu Zhang
+- **PAR: Training-Free Positional Perturbation and Attention Recycling for Faithful OCR** — Tan Min Sen, Zachary Choy Kit Chun, Syed Ali Redha Alsagoff, Nadya Yuki Wangsajaya, Banerjee Mohor, Swaagat Bikash Saikia, Alvin Chan
+- **SAIR-Comb : A Structure-Aware Iterative Refinement Framework for Combinatorics Autoformalization** — Xuwei Tan, Yao Ma, Xueru Zhang
+- **I²B-LPO: Latent Policy Optimization via Iterative Information Bottleneck** — Yang Xiang, Yixin Ji, Ruotao Xu, Dan Qiao, Zheming Yang, Juntao Li, Min Zhang
+- **What Do Prosody and Text Convey? Characterizing How Meaningful Information is Distributed Across Multiple Channels** — Zhaoxuan Tan, Zixuan Zhang, Haoyang Wen, Zheng Li, Rongzhi Zhang, Pei Chen, Fengran Mo, Zheyuan Liu, Qingkai Zeng, Qingyu Yin, Meng Jiang
+- **ADVICE: Answer-Dependent Verbalized Confidence Estimation** — Yixin Wan, Xingrun Chen, Kai-Wei Chang
+- **Powering Verifiable Learning via Automated Evolutionary Data Synthesis** — Ziqing Zhuang, Linhai Zhang, Jiasheng Si, Deyu Zhou, Yulan He
+- **Text-Guided Multi-Scale Frequency Representation Adaptation** — Bobo Li, Rui Wu, Zibo Ji, Meishan Zhang, Hao Fei, Min Zhang, Mong-Li Lee, Wynne Hsu
+- **GeoRA: Geometry-Aware Low-Rank Adaptation for RLVR** — Zefang Zong, Dingwei Chen, Yang Li, Qi Yi, Bo Zhou, Chengming Li, Bo Qian, Peng Chen, Jie Jiang
+- **LAMCL: A Length-aware Momentum Contrastive Learning Framework for Multiscale Machine-Revised Text Detection** — Zhengyang Ai, Zikang Shan, Xiaodong Ai, Jingxian Tang, Hangkai Hu, Pinyan Lu
+- **Lingua-Graph: A Unified Representation of Cross-Task Common Substructures for Analytic Language Processing** — Xinshun Feng, Xinhao Song, Lijun Li, Gongshen Liu, Jing Shao
+- **FOREVER: Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning** — Fan Gao, Sherry T. Tong, Jiwoong Sohn, Jiahao Huang, Junfeng Jiang, Ding Xia, Piyalitt Ittichaiwong, Kanyakorn Veerakanjana, Hyunjae Kim, Qingyu Chen, Edison Marrese-Taylor, Kazuma Kobayashi, Akiko Aizawa, Irene Li
+- **TPA: Next Token Probability Attribution for Detecting Hallucinations in RAG** — Jihwan Oh, Murad Aghazada, Yooju Shin, Se-Young Yun, Taehyeon Kim
+- **Towards Stable and Effective Reinforcement Learning for Mixture-of-Experts** — Yuanfu Sun, kang Li, Dongzhe Fan, Jiajin Liu, Qiaoyu Tan
+- **Forget What Matters, Keep the Rest: Selective Unlearning of Informative Tokens** — Amir Hossein Yari, Kalmit Kulkarni, Ahmad Raza Khan, Fajri Koto
+- **Can Spectral-Clipping Enable Better Learning While Forgetting Less for Low-Rank Adaptation?** — Seunghee Koh, Sunghyun Baek, Youngdong Kim, Junmo Kim
+- **MaDS: Long-Horizon GUI Automation via Synergizing Dual-Layer Memory and Multi-Round Debate** — Zihao Yi, Zhenqing Ling, Delong Zeng, Haohao Luo, Zhe Xu, Wei Liu, Jian Luan, Wanxia Cao, Ying Shen
+- **Exons-Detect: Identifying and Amplifying Exonic Tokens via Hidden-State Discrepancy for Robust AI-Generated Text Detection** — Hang Fu, Wanli Peng, Yinghan Zhou, Jiaxuan Wu, Juan Wen, Xue Yiming
+- **Localized Low-Rank Adaptation within Clustered Parameter Subspaces** — Guanglu Sun, Xinyu Liu, Lili Liang, Yu Yang, Fei Lang, Suxia Zhu, Ming Liu
+- **Does Memory Need Graphs? A Unified Framework and Empirical Analysis for Long-Term Dialog Memory** — Shaonan Liu, Guo Yu, Xiaoling Luo, Shiyi Zheng, Jie Liu, Wenting Chen, Linlin Shen
+- **CoCoNUTS: Concentrating on Content while Neglecting Uninformative Textual Styles for AI-Generated Peer Review Detection** — Zekun Li, Jifan Yu, Haoxuan Li, Ye He, Daniel Zhang-Li, Shangqing Tu, Joy Jia Yin Lim, Yikun Jiang, Jiaxin Yuan, Yu Zhang
+- **AlphaContext: An Evolutionary Tree-based Psychometric Context Generator for Creativity Assessment** — Chaohui Guo, Michel Klein, Zhisheng Huang
+- **SOCIA-EVO: Automated Simulator Construction via Dual-Anchored Bi-Level Optimization** — Jiasen Gao, Xiaoliang Chen, Duoqian Miao, Xu Gu, Xianyong Li, Yajun Du
+- **Read As Human: Compressing Context via Parallelizable Close Reading and Skimming** — Yuetai Li, Zhangchen Xu, Fengqing Jiang, Bhaskar Ramasubramanian, Luyao Niu, Bill Yuchen Lin, Xiang Yue, Radha Poovendran
+- **Enhancing Two Steps Textual Anomaly Detection through Anisotropy Mitigation** — Qiuyi Qi, Tian Liang, Mutian Bao, Jinjian Zhang, Dongnan Liu, Wei Zhou, Linjian Mo, Ming Kong, Jie Liu, Feng Zhang, Qiang Zhu
+- **CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement** — Donghan Liu, Han Sun, Zhaohui Wang, Qin Li, Min Zhang
+- **Don’t Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction** — Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang, Ao Zhou, Qing Gu
+- **What If Consensus Lies? Selective-Complementary Reinforcement Learning at Test Time** — Shuang Cheng, Yuhua Jiang, Zineng Zhou, Dawei Liu, Tao Wang, Linfeng Zhang, Biqing Qi, Bowen Zhou
+- **Modal Dependency Parsing as Structured Prediction over Source-Cue Scope** — Chenhui Mao, Yuanting Lei, Zhixiang Wei, Ming Liang, Zhixiang Wang, Jingxuan Xu, Dajun Chen, Wei Jiang, Yong Li
+- **Learning from Near-Misses: Error-Aware Contrastive Few-Shot Learning for NL2Formula** — Minghan Li, Tianrui Lv, Chao Zhang, Guodong Zhou
+- **From Weights to Activations: Is Steering the Next Frontier of Adaptation?** — Kushal Tatariya, Artur Kulmizev, Wessel Poelman, Esther Ploeger, Marcel Bollman, Johannes Bjerva, Jiaming Luo, Heather Lent, Miryam de Lhoneux
+- **From Language to Driving: A Dual-Loop SLM-Enhanced Framework for Multi-Planner Scheduling via a Domain-Specific Language** — Simon Ostermann, Daniil Gurgurov, Tanja Baeumel, Michael A. Hedderich, Sebastian Lapuschkin, Wojciech Samek, Vera Schmitt
+- **SSA: Improving Performance With a Better Scoring Function** — Jiawei Liu, Xun Gong
+- **Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing** — Wentao Zhang, Yan Zhuang, ZhuHang Zheng, Mingfei Zhang, Jiawen Deng, Fuji Ren
+- **Expect the Unexpected? Testing the Surprisal of Salient Entities** — Xiaoyang Yi, Jing Chen, Li Peng, Yuru Bao, Jian Zhang
+- **Language Models Learn Universal Representations of Numbers and Here’s Why You Should Care** — Sungkyu yang, Kang-Min Kim, Mansu Kim
+- **Too Nice to Tell the Truth: Quantifying Agreeableness-Driven Sycophancy in Role-Playing Language Models** — Xiaoyue Lu, Xianglin Yang, Haijun Liu, Jiahao Liu, Kuntai Cai, Yan Xiao, Jin Song Dong
+- **Rethinking Entropy Interventions in RLVR: An Entropy Change Perspective** — Zhezheng Hao, Hong Wang, Jian Luo, Jianqing Zhang, Yuyan Zhou, Qiang Lin, Can Wang, Hande Dong, Jiawei Chen
+- **RubricBench: Aligning Model-Generated Rubrics with Human Standards** — Zhezheng Hao, Hong Wang, Haoyang Liu, Jian Luo, Jiarui Yu, Hande Dong, Qiang Lin, Can Wang, Jiawei Chen
+- **Dark &amp; Stormy: Modeling Humor in Sentences from the Bulwer-Lytton Fiction Contest** — Kedi Chen, Dezhao Ruan, Yuhao Dan, Yaoting Wang, Siyu Yan, Xuecheng Wu, Yinqi Zhang, Qin Chen, Jie Zhou, Liang He, Biqing Qi, Linyang Li, Qipeng Guo, Xiaoming Shi, Wei Zhang
+- **The Prosody of Emojis** — Tongyao Zhu, Chao-Ming Huang, Min-Yen Kan
+- **Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics** — Giulio Zhou, Tsz Kin Lam, Alexandra Birch, Barry Haddow
+- **Gated Differentiable Working Memory for Long-Context Language Modeling** — Linfeng Du, Ye Yuan, Zichen Zhao, Fuyuan Lyu, Emiliano Penaloza, Xiuying Chen, Zipeng Sun, Jikun Kang, Laurent Charlin, Xue Liu, Haolun Wu
+- **PASs-MoE: Mitigating Misaligned Co-drift among Router and Experts via Pathway Activation Subspaces for Continual Learning** — Jingxuan Chen, Mohammad Taher Pilehvar, Jose Camacho-Collados
+- **On the Proper Treatment of Units in Surprisal Theory** — Chengran Yang, Ting Zhang, Jinfeng Jiang, Xin Zhou, Haoye Tian, Mingzhe Du, Jieke Shi, Junkai Chen, Yikun Li, Eng Lieh Ouh, Lwin Khin Shar, David Lo
+- **Token-Level Policy Optimization: Linking Group-Level Rewards to Token-Level Aggregation via sequence-level likelihood** — Weiyang Guo
+- **De-Anonymization at Scale via Tournament-Style Attribution** — Samuel Kiegeland, Vésteinn Snæbjarnarson, Tim Vieira, Ryan Cotterell
+- **Cross-Modal Masked Compositional Concept Modeling for Enhancing Visio-Linguistic Compositionality** — Olubusayo Olabisi, Ekata Mitra, Ameeta Agrawal
+- **CO-EVO: Co-evolving Semantic Anchoring and Style Diversification for Federated DG-ReID** — Lirui Zhang, Huishuai Zhang
+- **Discovering Properties of Inflectional Morphology in Neural Emergent Communication** — Wei Li, Zhen Huang, Xinmei Tian
+- **Bayesian Social Deduction with Graph-Informed Language Models** — Fengchun Zhang, Jianwei Hu, Qiang Ma, Liuyu Xiang, Jinshan Lai, Tingxuan Huang
+- **Diagnosing Hidden Instabilities in Model Editing via Uncertainty Quantification** — Tianyi Niu, Justin Chen, Genta Indra Winata, Shi-Xiong Zhang, Supriyo Chakraborty, Sambit Sahu, Yue Zhang, Elias Stengel-Eskin, Mohit Bansal
+- **Parameter Importance is Not Static: Evolving Parameter Isolation for Supervised Fine-Tuning** — Daniel Zhang-Li, Joy Jia Yin Lim, Binglin Liu, Shangqing Tu, Zijun Yao, Hao Peng, Jifan Yu, Haoxuan Li, Zhanxin Hao, Ye He, Zekun Li, Jiangyi Wang, Lei Hou, Bin Xu, Xin Cong, Zhiyuan Liu, Huiqin Liu, Yu Zhang, Juanzi Li
+- **Leveraging Outline-Optimized Generative Interactions and Critique for Self-Refining Outlines with Reinforcement Learning** — Søren Kirkegaard Fomsgaard, Martial Pastor, Gaël Dias, Nelleke Oostdijk
+- **CommonLID: Re-evaluating State-of-the-Art Language Identification Performance on Web Data** — Pierre-Antoine Lequeu, Léo Labat, Laurène Cave, Gaël Lejeune, François Yvon, Benjamin Piwowarski
+- **Clozing the Gap: Exploring Why Language Model Surprisal Outperforms Cloze Surprisal** — Michele Marzollo, Jiawei Zhuang, Niklas Roemer, Niklas Zwingenberger, Lorenz K. Muller, Lukas Cavigelli
+- **Tailored Primitive Initialization is the Secret Key to Reinforcement Learning** — Runpeng Geng, Chenlong Yin, Yanting Wang, Ying Chen, Jinyuan Jia
+- **Mitigating Lost in Multi-turn Conversation via Curriculum RL with Verifiable Accuracy and Abstention Rewards** — Ming Li
+- **PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning** — Jiye Wang, Yu Wang, Jianbin Li, Shiduo Yang, Kenan Guo, Yuanhe Zhao
+- **Taming Extreme Tokens: Covariance-Aware GRPO with Gaussian-Kernel Advantage Reweighting** — Shiping Yang, Jie Wu, Wenbiao Ding, Ning Wu, Shining Liang, Ming Gong, Hongzhi Li, Hengyuan Zhang, Angel X Chang, Dongmei Zhang
+- **Memory efficiency and resource-rational encoding in sentence processing** — Bingxuan Li, Jeonghwan Kim, Cheng Qian, Xiusi Chen, Eitan Anzenberg, Niran Kundapur, Heng Ji
+- **RAG-on-a-Diet: A Reinforcement Learning-Based Dynamic Resource Optimization Framework for RAG** — Hyeonjeong Ha, Qiusi Zhan, Jeonghwan Kim, Dimitrios Bralios, Saikrishna sanniboina, Nanyun Peng, Kai-Wei Chang, Daniel Kang, Heng Ji
+- **The Subjectivity of Respect in Police Traffic Stops: Modeling Community Perspectives in Body-Worn Camera Footage** — Xiaoyu Luo, Yiyi Chen, Qiongxiu Li, Johannes Bjerva
+- **PRInTS: Reward Modeling for Long-Horizon Information Seeking** — Guan Wang, Biyu Zhou, Xuehai Tang, Jizhong Han, Songlin Hu
+- **Rethinking the Idiomaticity Decomposability Hypothesis: Evidence from Distributional Learning** — Lechen Zhang, Yunxiang Zhang, Wei Hu, Lu Wang
+- **KinyaProp: Fine-Grained Propaganda Annotation in Kinyarwanda** — Andrew Piper, Sil Hamilton, Haiqi Zhou, Federico Pianzola
+- **R1-RE: Cross-Domain Relation Extraction with RLVR** — Seyedali Mohammadi, Manas Gaur, Francis Ferraro
+- **DRInQ: Evaluating Conversational Implicature with Controlled Context Variation** — Rania Elbadry, Sarfraz Ahmad, Ahmed Heakl, Dani Bouch, Momina Ahsan, Muhra AlMahri, Marwa Elsaid khalil, Yuxia Wang, Salem Lahlou, Sophia Ananiadou, Veselin Stoyanov, Jimin Huang, Xueqing Peng, Preslav Nakov, Zhuohan Xie
+- **From Individual to Common: An Early Exploration of Consensus in Non-verifiable Data for Balanced Preference Optimization** — Sanjeevan Selvaganapathy, Mehwish Nasim
+- **SOAPTriage: SOAP-Guided Multi-View Clinical Text Modeling Framework for Automated ESI Prediction** — Tianyu Zong, Rui Dai, Hongzhu Yi, Yuanxiang Wang, Zhenghao Zhang, Zhenyu Guan, Yujia Yang, Bingkang Shi, Yueyang Ding, Xiangxiang Chu, Kaikui Liu, Jungang Xu
+- **From Regulatory Approvals to Patents: Cross-Domain Linking for Cardiovascular Device Traceability** — Enming Wang, Jianlei Wang
+- **Reinforcement Learning–Guided Adaptive Tuning for Out-of-Distribution Harmful Text Detection** — Xin Chen, Feng Jiang, Yiqian Zhang, Hardy Chen, Shuo Yan, Wenya Xie, Min Yang, Shujian Huang
+- **HyperMem: Hypergraph Memory for Long-Term Conversations** — Mengyu Xiang, Tinghao Chen, Boxu Han, Qiudan Li, Shu Wu, Daniel Dajun Zeng
+- **ReflectRM: Boosting Generative Reward Models via Self-Reflection within a Unified Judgment Framework** — Weisi Liu, Guangzeng Han, Xiaolei Huang
+- **SQL-Trail: Multi-Turn Reinforcement Learning with Interleaved Feedback for Text-to-SQL** — YongKang Liu, Jiayang Yu, Mingyang Wang, Yiqun Zhang, Ercong Nie, Shi Feng, Daling Wang, Kaisong Song, Hinrich Schuetze
+- **Turning Failures into Value: Negative Experience Replay for RLVR via Confidence Gating and Boundary Failure Sampling** — Yuhan Wu, Huan Zhang, Wei Cheng, Chen Shen, Jingyue Yang, Wei Hu
+- **MiniRAG: A Lightweight RAG system with Small Language Models** — Yunsheng Zeng, Yongmei Tan
+- **AG-GRPO: Answer-Guided GRPO for Masked Diffusion Language Models** — Renqi Chen, Zeyin Tao, Jianming Guo, Jingzhe Zhu, Yiheng Peng, Qingqing Sun, Tianyi Zhang, Shuai Chen
+- **Beyond Majority Voting: Towards Fine-grained and More Reliable Reward Signal for Test-Time Reinforcement Learning** — Gyunyeop Kim, Sangwoo Kang
+- **DUAL RM: Beyond Rule-based Preference Reward Modeling via Meta-Reward** — Ndapa Nakashole
+- **CE-GPPO: Coordinating Entropy via Gradient-Preserving Clipping Policy Optimization in Reinforcement Learning** — Shixuan Ma, Jiahao Li, Zhendong Mao, Quan Wang
+- **Vocabulary Hijacking in LVLMs: Unveiling Critical Attention Heads by Excluding Inert Tokens to Mitigate Hallucination** — Dingling Xu, Ruobing Wang, Qingfei Zhao, Yukun Yan, Zhichun Wang, Daren Zha, Shi Yu, Zhenghao Liu, Shuo Wang, Xu Han, Maosong Sun
+- **Confidence Should Be Calibrated More Than One Turn Deep** — Xintao Wang, Jian Yang, Weiyuan Li, Rui Xie, Jen-tse Huang, Jun Gao, Shuai Huang, Yueping Kang, Yuanli Guo, Hongwei Feng, Yanghua Xiao
+- **NaviMaster: Learning a Unified Policy for GUI and Embodied Navigation Tasks** — Shuliang Liu, Songbo Yang, Dong Fang, Sihang Jia, Yuqi Tang, Lingfeng Su, Ruoshui Peng, Yibo Yan, Xin Zou, Xuming Hu
+- **Surprisal Minimisation over Goal-directed Alternatives Predicts Production Choice in Dialogue** — Chengzhengxu Li, Xiaoming Liu, Zhaohan Zhang, Shengchao Liu, Guoxin Ma, Yu Lan, Cong Wang, Chao Shen
+- **ERCThinker: Fast-Slow Thinking for Emotion Recognition in Conversation** — Xiyao Dong, Guangsheng Cheng, YiLong Chen, Xiaojin Zhang, Kun He
+- **ConsistRM: Improving Generative Reward Models via Consistency-Aware Self-Training** — Rishita Agarwal, Himanshu Singhal, Peter Baile Chen, Manan Roy Choudhury, Dan Roth, Vivek Gupta
+- **LoRA on the Go: Instance-level Dynamic LoRA Selection and Merging** — Zhi Xu, Yun Fu
+- **Rethinking Depression Prediction from a Fine-Grained Subscore Modeling Perspective via Multi-Task Learning** — Seungeon Lee, Soumi Das, Manish Gupta, Krishna P. Gummadi
+- **FL-MSCL: A Unified Figurative Language Detection Model Driven by Multi-Type Signals and Contrastive Learning** — Xu Liu, Yan Chen, Kan Ling, Yichi Zhu, Hengrun Zhang, Guisheng Fan, Huiqun Yu
+- **Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System** — Shuaiyi Nie, Siyu DingWenyuan Zhang, Linhao Yu, Tianmeng Yang, Yao Chen, Weichong Yin, Yu Sun, Hua Wu, Tingwen Liu
+- **HiEdit: Lifelong Model Editing with Hierarchical Reinforcement Learning** — Zihan Chen, Howard H. Yang, Tony Q.S. Quek, Kai Fong Ernest Chong
+- **On-the-Fly VLA Adaptation via Test-Time Reinforcement Learning** — Weidong Tang, Jierui Li, Yueling Hou, Zihan Mei, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou, Yang You, Wangbo Zhao
+- **VISTA: Verification In Sequential Turn-based Assessment** — Johannes Kirmayr, Lukas Stappen, Elisabeth André
+- **Amadeus: Autoregressive Model with Bidirectional Attribute Modelling for Symbolic Music** — Tong Chen, Jiawei Guo, Yuxi Li, Baiming Chen, Houxing Ren, Zhiwei Zhang, Yunxiang Zhang, Hanyang Xia, Kun Liang, Zhaoran Fan
+- **FedMental: Evaluating Federated Learning for Mental Health Detection from Social Media Data** — Guangyu Yang, Jinghong Chen, Jingbiao Mei, Weizhe Lin, Bill Byrne
+- **Edit-Aware Reward Modeling for Chinese Grammatical Error Correction** — Rui Zhao, Xuewen Zhong, Xiaoyun Zheng, Jinsong Su, Yidong Chen
+- **Modeling Annotator Disagreement with Demographic-Aware Experts and Synthetic Perspectives** — Wenqi Zhang, Mengna Wang, Gangao Liu, Huixin Xu, Yiwei Jiang, Yongliang Shen, Guiyang Hou, Zhe Zheng, Hang Zhang, Xin Li, Jiajun Liu, Weiming Lu, Peng Li, Yueting Zhuang
+- **Towards A Scanpath-Conditioned Surprisal Theory: Modeling Reader Information States** — Alhim Vera, Carlos Hinojosa, Karen Sanchez, Haidar Bin Hamid, Donghoon Kim, Bernard Ghanem
+- **From log π  to π: Taming Divergence in Soft Clipping via Bilateral Decoupled Decay of Probability Gradient Weight** — Miao Li, Irina Saparina, Alexander Gurung, Mirella Lapata
+- **Linear-Time and Constant-Memory Text Embeddings Based on Recurrent Language Models** — Michael Mooney, Edmond S. L. Ho
+- **Who Plays Which Role When? Communication Role Dynamics for Peer Recognition and Team Performance Prediction** — Alex Chen, Renato Geh, Aditya Grover, Guy Van den Broeck, Daniel Mingyi Israel
+- **When in Doubt, Consult: Expert Debate for Sexism Detection via Confidence-Based Routing** — Chenchen Yuan, Zheyu Zhang, Gjergji Kasneci
+- **On the Effect of Hyperparameters in Language Modeling for Computational Linguistics** — Hyosik Moon, Eldan Cohen
+- **Wait! There’s a Way Out: A Decision Mechanism for Forecasting Conversational Derailment** — Ruoxi Ning, Yongpeng Zhu, Qingcheng Zeng, Tatsuki Kuribayashi, Freda Shi
+- **Evaluating Language Model Pluralism through In-the-wild Crowd Discussions** — Lorenzo Proietti, Roman Grundkiewicz, Matt Post
+- **Simulated Students in Tutoring Dialogues: Substance or Illusion?** — Jiyeon Kim, Hyunji Lee, Dylan Zhou, Sue Hyun Park, Seunghyun Yoon, Trung Bui, Franck Dernoncourt, Sungmin Cha, Minjoon Seo
+- **The African Languages Lab: A Collaborative Approach to Advancing Low-Resource African NLP** — Tianyu Yang, Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang
+- **Effects of Collaboration on the Performance of Interactive Theme Discovery Systems** — Yaxin Luo, Jiacheng Cui, Xiaohan Zhao, Xinyi Shang, Jiacheng Liu, Xinyue Bi, Zhaoyi Li, Zhiqiang Shen
+- **ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System** — Yuyang Liu, Jingya Wang, Liuzhenghao Lv, Yonghong Tian
+- **Credal Concept Bottleneck Models for Epistemic–Aleatoric Uncertainty Decomposition** — Yijiang River Dong, Tiancheng Hu, Zheng Hui, Caiqi Zhang, Ivan Vulić, Andreea Bobu, Nigel Collier
+- **When Personalization Tricks Detectors: The Feature-Inversion Trap in Machine-Generated Text Detection** — Yihong Dong, Xue Jiang, Yongding Tao, Huanyu Liu, Kechi Zhang, Lili Mou, Rongyu Cao, Yingwei Ma, Jue Chen, Binhua Li, Zhi Jin, Fei Huang, Yongbin Li, Ge Li
+- **SiLP: Enhancing Non-Dominant Language Capabilities with a Selective Bidirectional Language Projection Framework** — Ziqiao Xi, Shuang Liang, Qi Liu, Jiaqing Zhang, Letian Peng, Fang Nan, Meshal Nayim, Tianhui Zhang, Rishika Mundada, Lianhui Qin, Biwei Huang, Kun Zhou
+- **P-Check: Advancing Personalized Reward Model via Learning to Generate Dynamic Checklist** — Yiming Yao, Jianwei Niu, Bin Dai, Tao Ren
+- **RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems** — Lishui Fan, Yu Zhang, Mouxiang Chen, Zhongxin Liu
+- **Feeling Right vs. Being Right: How AI Sycophancy Affects Value-Laden Deliberation** — Ke Ma, Jiaqi Tang, Bin Guo, Xueting Han, Ruonan Xu, Qingfeng He, Ziheng Wang, Xu Wang, Qifeng Chen, Zhiwen Yu, Yunhao Liu
+- **Through the Magnifying Glass: Adaptive Perception Magnification for Hallucination-Free VLM Decoding** — Guanghui Ye, Huan Zhao, Qin Zhu, Fengnan Li, Jiaqi Li, Yixian Shen, Zhonghao Ren, Zhihua Jiang
+- **Beyond Fully Random Masking: Attention-Guided Denoising and Optimization for Diffusion Language Models** — Utsav Maskey, Sumit Yadav, Mark Dras, Usman Naseem
+- **GMoE: Global Mixture of Experts with Logit Propagation** — Weixin Chen, Yuhan Zhao, Jingyuan Huang, Zihe Ye, Mingxuan Ju, Tong Zhao, Neil Shah, Li Chen, Yongfeng Zhang
+- **Fine-Grained Analysis of Shared Syntactic Mechanisms in Language Models** — Hao Huang, JiaTang Luo, Ruihua Zhou, Yunpeng Li, Yuling Liu
+- **Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory** — Xingyu Wu, Yu Zhou, Kay Chen Tan
+- **On the Role of Discriminative Models in Generative Relation Extraction** — Gunjan Balde, Soumyadeep Roy, Mainack Mondal, Niloy Ganguly
+- **Legal Judgment Prediction: A Reflection on the State of the Art** — Guozheng Li, Peng Wang, Zijie Xu, Jing Zhou, Jiajun Liu, Ziyu Shang
+- **GRAD: Generalizing RAG Adaptation with Decoding** — Hyunjong Ok, Suho Yoo, Jaeho Lee
+- **Why Do More Experts Fail? A Theoretical Analysis of Model Merging** — Cui Yakun, Peng Qi, Fushuo Huo, Hang Du, Weijie Shi, Juntao Dai, Zhenghao Zhu, Sirui Han
+- **TRACE: A Corpus of Team Creative Discussions** — Ada Chen, Yongjiang Wu, Junyuan Zhang, Jingyu Xiao, Shu Yang, Jen-tse Huang, Kun Wang, Wenxuan Wang, Shuai Wang
+- **NSF-SciFy: Mining the NSF Awards Database for Scientific Claims** — Prajwal Vijay Kajare, Priyanshu Priya, Bikash Santra, Asif Ekbal
+- **Evaluating Temporal Consistency in Multi-Turn Language Models** — Lingdi Kong, Xuanang Chen, Ben He, Le Sun
+- **Overcoming Copyright Barriers in Corpus Distribution Through Non-Reversible Hashing** — Tingyu Song, Yanzhao Zhang, Mingxin Li, Zhuoning Guo, Dingkun Long, Pengjun Xie, Siyue Zhang, Yilun Zhao, Shu Wu
+- **An Information-Theoretic Foundation for the Subregular Hierarchy** — Raunak Agarwal, Markus Wenzel, Simon Baur, Jonas Zimmer, George Harvey, Jackie Ma
+- **Generalizing Trust: Weak-to-Strong Trustworthiness in Language Models** — Yujie Luo, Zhuoyun Yu, Xuehai Wang, Yuqi Zhu, Ningyu Zhang, Lanning Wei, Lun Du, Da Zheng, Huajun Chen
+- **Reviving Iterative Refinement in Diffusion-based NER with an Initializer-Restorer Approach** — Sai Srinivas Kancheti, Aditya Sanjiv Kanade, Vineeth N. Balasubramanian, Tanuja Ganu
+- **Reframing Responsibility: Framing-Aware Event Causality Identification** — Hail Hochman, Natalie Shapira, Yoav Goldberg
+- **DyBBT: Dynamic Balance via Bandit-inspired Targeting for Dialog Policy with Cognitive Dual Systems** — Jesse Zymet, Andy Luo, Swapnil Shinde, Sahil Wadhwa, Emily Chen
+- **Why Mean Pooling Works: Quantifying Second-Order Collapse in Text Embeddings** — Yuto Nishida, Naoki Shikoda, Yosuke Kishinami, Ryo Fujii, Makoto Morishita, Hidetaka Kamigaito, Taro Watanabe
+- **HalluCitation Matters: Revealing the Impact of Hallucinated References with 300 Hallucinated Papers in ACL Conferences** — Tomomasa Hara, Hiroto Kurita, Masaaki Imaizumi, Kentaro Inui, Sho Yokoi
+- **Cell-Based Representation of Relational Binding in Language Models** — Nicholas Deas, Ivan Ernesto Perez Mejia, Ellie Yang, Kathleen McKeown
+- **CIG: Measuring Conversational Information Gain in Deliberative Dialogues with Semantic Memory Dynamics** — Yuandong Wang, Yao Cui, Yuxin Zhao, Zhen Yang, Yangfu Zhu, Zhenzhou Shao
+- **TRAC: Teacher-Guided Token Reward with Adaptive Calibration for Robust Policy Optimization** — Masahiro Kaneko, Danushka Bollegala, Timothy Baldwin
+- **Follow:** — Xiqiao Xiong, Ouxiang Li, Zhuo Liu, Moxin Li, Wentao Shi, Fengbin Zhu, Qifan Wang, Fuli Feng

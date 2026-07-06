@@ -1,0 +1,295 @@
+---
+title: 'ACL 2026 — Multimodal & Vision-Language'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Multimodal & Vision-Language
+**281 papers**
+
+- **MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional Multimodal Embeddings** — Haonan Chen, Hong Liu, Yuping Luo, Liang Wang, Nan Yang, Furu Wei, Zhicheng Dou
+- **FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation** — Gen Li, Peiyu Liu
+- **Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark** — Kai Zou, Ziqi Huang, Yuhao Dong, Shulin Tian, Dian Zheng, Hongbo Liu, Jingwen He, Bin Liu, Yu Qiao, Ziwei Liu
+- **MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems** — Shuhang Chen, Hangjie Yuan, Yunqiu Xu, Pengwei Liu, Tao Feng, Jun Cen, Zeying Huang, Yi Yang
+- **XtraGPT: Context-Aware and Controllable Academic Paper Revision via Human-AI Collaboration** — Nuo Chen, Andre Lin HuiKai, Jiaying Wu, Junyi Hou, Zining Zhang, Qian Wang, Xidong Wang, Bingsheng He
+- **VALU: A Benchmark for Video Anomaly Temporal Localization and Understanding at Multiple Semantic Levels** — Yixiao He, Menghao Zhang, Haifeng Sun, Jing Wang, Kangheng Lin, Jinghan Wang, Chenye Xu, Pengfei Ren, Qi Qi, Jingyu Wang
+- **CoreGaze: Core Subgraph-Driven Visual Gaze Diffusion for Training-Free Referring Multimodal Large Language Models** — Xiaoyang Yi, Jing Chen, Yuru Bao, Jian Zhang
+- **RespiraMFM: A Multimodal Foundation Model with Contrastive Audio-Language Alignment for Respiratory Disease Identification** — Shakhrul Iman Siam, Tiantian Feng, Jiankun Zhang, Shrikanth Narayanan, Mi Zhang
+- **Leave My Images Alone: Preventing Multi-Modal Large Language Models from Analyzing Images via Visual Prompt Injection** — Zedian Shao, Hongbin Liu, Yuepeng Hu, Neil Zhenqiang Gong
+- **Act as you think: Reinforcing Consistent Reasoning in Medical Visual Question Answering** — Songtao Jiang, Yuan Wang, Ruizhe Chen, Yan Zhang, Ruilin Luo, Bohan Lei, Yeying Jin, Sibo Song, ZhiBo Yang, Jimeng Sun, Jian Wu, Zuozhu Liu
+- **Using Perspectival Words Is Harder Than Vocabulary Words for Humans —and Even More So for Multimodal Language Models** — Dota Tianai Dong, Yifan Luo, Po-Ya Angela Wang, Asli Ozyurek, Paula Rubio-Fernandez
+- **Mitigating Hallucinations in Large Vision-Language Models without Performance Degradation** — Xingyu Zhu, Junfeng Fang, Shuo Wang, Beier Zhu, Zhicai Wang, Yonghui Yang, Xiangnan He
+- **APB-V: Accelerating Long-Video Understanding via Sequence-Parallelism-aware Approximate Attention** — Yuxiang Huang, Mingye Li, Xu Han, Chaojun Xiao, Weilin Zhao, Ao Sun, Ziqi Yuan, Hao Zhou, Fandong Meng, Zhiyuan Liu
+- **AraVQA: Building a New Arabic Factoid Visual Question Answering Dataset from Wikipedia** — Sultan Alrowili, Younes Samih, Abed Alhakim Freihat, Mathan Kumar Eswaran
+- **MMCLIP: Cross-Modal Attention Masked Modelling for Medical Language-Image Pre-Training** — Biao Wu, Yutong Xie, Zeyu Zhang, Vu Minh Hieu Phan, Qi Chen, Ling Chen, Qi Wu
+- **LaMI: Augmenting Large Language Models via Late Multi-Image Fusion** — Guy Yariv, Idan Schwartz, Yossi Adi, Sagie Benaim
+- **Compressing then Matching: An Efficient Pre-training Paradigm for Multimodal Embedding** — Da Li, Yuxiao Luo, Keping Bi, Jiafeng Guo, Wei Yuan, Biao Yang, Yan Wang, Fan Yang, Tingting Gao, Guorui Zhou
+- **Open Your Model’s Eyes: Video and Context-Aware Multimodal Backchannel Prediction** — Min-Jae Kim, Jun-Yeong Moon, Mujeen Sung, Gyeong-Moon Park
+- **Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** — Joonhyung Park, Jaeyun Song, Sihwan Park, Eunho Yang
+- **Dynamic Emotion and Personality Profiling for Multimodal Deception Detection** — Li Zheng, Yanyi Luo, Hao Fei, Yuzhe Ding, Yujie Huang, Fei Li, Chong Teng, Donghong Ji
+- **Stable Language Guidance for Vision–Language–Action Models** — Zhihao Zhan, Yuhao Chen, Jiaying Zhou, Qinhan Lyu, Hao Liu, Keze Wang, Liang Lin, Guangrun Wang
+- **Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions** — Yongqi Li, Hao Lang, Tieyun Qian, Yongbin Li
+- **Are We Using the Right Benchmark: An Evaluation Framework for Visual Token Compression Methods** — Chenfei Liao, Wensong Wang, Zichen Wen, Xu Zheng, Yiyu Wang, Haocong He, Yuanhuiyi Lyu, Lutao Jiang, Xin Zou, Yuqian Fu, Bin Ren, Linfeng Zhang, Xuming Hu
+- **Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding** — Sensen Gao, Shanshan Zhao, Xu Jiang, Lunhao Duan, Yong Xien Chng, Qing-Guo Chen, Weihua Luo, Kaifu Zhang, Jia-Wang Bian, Mingming Gong
+- **Multi-Granularity Semantic Revision for Large Language Model Distillation** — Xiaoyu Liu, Yun Zhang, Wei Li, Simiao Li, Xudong Huang, Hanting Chen, Yehui Tang, Jie Hu, Zhiwei Xiong, Yunhe Wang
+- **Simple-VGC: Enhancing Visual Grounding in Multimodal Reasoning via Adaptive Tool Composition** — Ye Wang, Qianglong Chen, Siyuan Wang, Zejun Li, Shijie Guo, Zhirui Zhang, Zhongyu Wei
+- **MSEarth: A Multimodal Benchmark for Earth Science Phenomenon Discovery with MLLMs** — Xiangyu Zhao, Wanghan Xu, Bo Liu, Yuhao Zhou, Fenghua Ling, Ben Fei, Xiaoyu Yue, Lei Bai, Wenlong Zhang, Xiao-Ming Wu
+- **DPDV: Dual-Pathway and Dual-View Representation Learning for Bridging Information Asymmetry in Text-Video Retrieval** — Zequn Xie, Xin Liu, Fangming Feng, Boyun Zhang, Tao Jin
+- **G-Cap: A Game Character Caption Generator** — Yang Yang, Feng Hu, Haiming Zhang, Xu Cheng, Gui Zheng, Liang Yao, Wenqi Ren
+- **GuideDog: A Real-World Egocentric Multimodal Dataset for Blind and Low-Vision Accessibility-Aware Guidance** — Junhyeok Kim, Jaewoo Park, Junhee Park, Sangeyl Lee, Jiwan Chung, Jisung Kim, Ji Hoon Joung, Youngjae Yu
+- **Spec-o3: A Tool-Augmented Vision-Language Agent for Rare Celestial Object Candidate Vetting via Automated Spectral Inspection** — Minghui Jia, Qichao Zhang, Ali Luo, Linjing Li, Shuo Ye, Hailing Lu, Wen Hou, Dongbin Zhao
+- **Revisit What You See: Revealing Visual Semantics in Vision Tokens to Guide LVLM Decoding** — Beomsik Cho, Jaehyung Kim
+- **Editing the Moving World: Model Editing for Video LLMs** — Qian Zhang, Xinye Li, Xiaokai Wu, Junhao Xu, Zhanyue Qin, Qingbin Liu, Junxian Cai, Xi Chen, Bolin Zhang, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui
+- **Bridging the Sensory Gap: Visual Injection for Taxonomy Completion** — Yuhang Niu, Hongyuan Xu, Ciyi Liu, Bofan Wei, Jiaqi Ye, Yanlong Wen, Xiaojie Yuan
+- **UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents** — Yifan Ji, Zhipeng Xu, Zhenghao Liu, Zulong Chen, Qian Zhang, Zhibo Yang, Junyang Lin, Yu Gu, Ge Yu, Maosong Sun
+- **What’s Left Unsaid? Detecting and Correcting Misleading Omissions in Multimodal News Previews** — Fanxiao Li, Jiaying Wu, Tingchao Fu, Dayang Li, Herun Wan, Wei Zhou, Min-Yen Kan
+- **Visually-Guided Policy Optimization for Multimodal Reasoning** — Zengbin Wang, Feng Xiong, Liang Lin, Xuecai Hu, Yong Wang, Yanlin Wang, Man Zhang, Xiangxiang Chu
+- **Two Streams, One Sarcasm: Orthogonal Expert Tuning for Holistic Multimodal Sarcasm Understanding** — Diandian Guo, Cong Cao, Fangfang Yuan, Pin Xu, Cheng Hu, Zhicheng Zhang, Yu Liu, Yanbing Liu
+- **VideoPro: Adaptive Program Reasoning for Long Video Understanding** — Chenglin Li, Feng Han, Yikun Wang, Ruilin Li, Shuai Dong, Haowen Hou, Haitao Li, Qianglong Chen, FengTao, Jingqi Tong, Yin Zhang, Jiaqi Wang
+- **DART: Disambiguation-Aware Reasoning for Video-guided Machine Translation** — Boyu Guan, Chuang Han, Yang Zhao, Chengqing Zong
+- **GAMBIT: A Gamified Jailbreak Framework for Multimodal Large Language Models** — Xiangdong Hu, Yangyang Jiang, Qin Hu, Xiaojun Jia
+- **Flattery in Motion: Benchmarking and Analyzing Sycophancy in Video-LLMs** — Wenrui Zhou, Mohamed Hendy, Shu Yang, Qingsong Yang, Zikun Guo, Yuyu Luo, Lijie Hu, Di Wang
+- **Protecting multimodal large language models against misleading visualizations** — Jonathan Tonglet, Tinne Tuytelaars, Marie-Francine Moens, Iryna Gurevych
+- **HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding** — Haowei Zhang, Shudong Yang, Jinlan Fu, See-Kiong Ng, Xipeng Qiu
+- **Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do** — Zhuoran Jin, Kejian Zhu, Hongbang Yuan, Yupu Hao, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+- **Z3D: Zero-Shot 3D Visual Grounding from Images** — Nikita Drozdov, Andrey Lemeshko, Nikita Gavrilov, Anton Konushin, Danila Rukhovich, Maksim Kolodiazhnyi
+- **Is this chart lying to me? Automating the detection of misleading visualizations** — Jonathan Tonglet, Jan Zimny, Tinne Tuytelaars, Iryna Gurevych
+- **Visual Attention Reasoning via Hierarchical Search and Self-Verification** — Wei Cai, Jian Zhao, Yuchen Yuan, Tianle Zhang, Ming Zhu, Haichuan Tang, Xuelong Li
+- **VFA: Empoweing Multilingual MLLMs via Vision-Free Adaptation** — Yixia Li, Yaqing Shi, Zhiwen Ruan, Dongdong Zhang, Lingjie Jiang, Shaohan Huang, Yun Chen, Guanhua Chen, Furu Wei
+- **KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning** — Jingjiang Liu, Jia Zhu, Hanghui Guo, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu
+- **CityCube: Benchmarking Cross-view Spatial Reasoning on Vision-Language Models in Urban Environments** — Haotian Xu, Yue Hu, Zhengqiu Zhu, Chen Gao, Ziyou Wang, Junreng Rao, Wenhao Lu, Weishi Li, Quanjun Yin, Yong Li
+- **VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models** — Huawei Ji, Yuanhao Sun, Yuan Jin, Cheng Deng, Jiaxin Ding, Luoyi Fu, Xinbing Wang
+- **UMMF: Protecting Copyright of Large Vision-Language Models through Unlearning-based Multimodal Memorization Fingerprint** — Xiaofan Zheng, Xinghao Wang, Xiaojun Wan
+- **SGPVT: Self-Generated Proximal Visual Tokens for Mitigating Proximal Collateral Damage in MLLM Unlearning** — Jiaqi Li, Zhijing Zhang, Jiahui Geng, Sheng Bi, Chuanyi Zhang, Fan Liu, Guilin Qi
+- **“I See What You Did There”: Can Large Vision-Language Models Understand Multimodal Puns?** — Naen Xu, Jiayi Sheng, Changjiang Li, Chunyi Zhou, Yuyuan Li, Tianyu Du, Jun Wang, Zhihui Fu, Jinbao Li, Shouling Ji
+- **Sparrow: Text-Anchored Window Attention with Visual-Semantic Glimpsing for Speculative Decoding in Video LLMs** — Libo Zhang, Zhaoning Zhang, Wangyang Hong, Peng Qiao, Dongsheng Li
+- **MT³: A Synergistic Multi-Task RL Framework for Specializing MLLMs in Text Image Machine Translation** — Zhaopeng Feng, Yupu Liang, Shaosheng Cao, Jiayuan Su, Jiahan Ren, zhijie Zhou, Wenxuan Huang, Jian Wu, Zuozhu Liu
+- **FineLAP: Taming Heterogeneous Supervision for Fine-grained Language-Audio Pretraining** — Xiquan Li, Xuenan Xu, Ziyang Ma, Wenxi Chen, Haolin He, Qiuqiang Kong, Xie Chen
+- **MuSe: Multi-Stage Graph Reasoning via Vision-Language Models** — Guanyu Wang, Xu Chu, Zhijie Tan, Xinrong Chen, Tong Mo, Weiping Li
+- **From Experts to Bases: Orthogonal Subspace Mixture for Continual Multimodal Instruction Tuning** — Pei Chen, Xilai Wang, Qixu Shi, Zejian Li, Lingyun Sun
+- **Unified Thinker: A General Reasoning Core for Image Generation** — Sashuai Zhou, Qiang Zhou, Jijin Hu, Hanqing Yang, Yue Cao, Junpeng Ma, Yinchao Ma, Jun Song, Tiezheng Ge, Cheng Yu, Bo Zheng, Zhou Zhao
+- **Visual and Memory–Augmented Soccer Commentary Generation** — Haoran Sun, Natthawut Kertkeidkachorn, Kiyoaki Shirai
+- **Visual Self-Fulfilling Alignment: Shaping Safety-Oriented Personas via Threat-Related Images** — Qishun Yang, Shu Yang, Lijie Hu, Di Wang
+- **EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal Ultrasound Intelligence** — Chaoyin She, Ruifang Lu, Lida Chen, Wei Wang, Qinghua Huang
+- **How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study** — Zhen Yang, Ping Jian, Zhongbin Guo, Zuming Zhang, Chengzhi Li, Yonghong Deng, Xinyue Zhang, Wenpeng Lu
+- **Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization** — Jiaqi Li, Guangming Wang, Shuntian Zheng, Minzhe Ni, Xiaoman Lu, Guanghui Ye, Yu Guan
+- **Vector Calligrapher: Generating Scalable Vector Graphics via Structured Linguistic Supervision** — Bo Zhou, Xikang Chen, Yan Gong, Yin Zhang
+- **DMN: A Compositional Framework for Jailbreaking Multimodal LLMs with Multi-Image Inputs** — Wenzhuo Xu, Zhipeng Wei, Zonghao Ying, Deyue Zhang, Dongdong Yang, Xiangzheng Zhang, Quanchen Zou
+- **ProgressLM: Towards Progress Reasoning in Vision-Language Models** — Jianshu Zhang, Chengxuan Qian, Haosen Sun, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
+- **Forest Before Trees: Latent Superposition for Efficient Visual Reasoning** — Yubo Wang, Juntian Zhang, Yichen Wu, Yankai Lin, Nils Lukas, Yuhan Liu
+- **From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents** — Niu Lian, Yuting Wang, Hanshu Yao, Jinpeng Wang, Bin Chen, Yaowei Wang, Min Zhang, Shu-Tao Xia
+- **MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching** — Changle Qu, Sunhao Dai, Hengyi Cai, Jun Xu, Shuaiqiang Wang, Dawei Yin
+- **Diffusion-CAM: Faithful Visual Explanations for dMLLMs** — Haomin Zuo, Yidi Li, Luoxiao Yang, Xiaofeng Zhang
+- **From Form to Logic: Masked Reconstruction and Reasoning Distillation for Short Video Fake News Detection** — Qingyan Wang, Lianwei Wu, Botao Wang, Kang Wang, Yaxiong Wang
+- **Decoding Scientific Experimental Images: The SPUR Benchmark for Perception, Understanding, and Reasoning** — Junpeng Ding, Zichen Tang, Haihong E, Mengyuan Ji, Yang Liu, Haolin Tian, Haiyang Sun, Pengqi Sun, Yang Xu, Yichen Liu, Haocheng Gao, Zijie Xi, Ruomeng Jiang, Peizhi Zhao, Rongjin Li, Yuanze Li, Jiacheng Liu, Zhongjun Yang, Jintong Chen, Siying Lin
+- **Rethinking Table Pruning in TableQA: From Sequential Revisions to Gold Trajectory-Supervised Parallel Search** — Yu Guo, Shenghao Ye, Shuangwu Chen, Zijian Wen, Tao Zhang, Qirui Bai, Dong Jin, Yunpeng Hou, Huasen He, Jian Yang, Xiaobin Tan
+- **HybridKV: Hybrid KV Cache Compression for Efficient Multimodal Large Language Model Inference** — Bowen Zeng, Feiyang Ren, Jun Zhang, Xiaoling Gu, Ke Chen, Lidan Shou, Huan Li
+- **Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents** — Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
+- **Vista-LLM: Decoupled Query-Guided Visual Token Pruning for Efficient Long-Video Large Language Models** — Zhenyu Li, Zuchao Li, Ping Wang, Lefei Zhang, Haojun Ai
+- **Scaling Law for Multimodal Large Language Model Supervised Fine-Tuning** — YiFan Zhang, Tao Yu, Feng Li, Chaoyou Fu, Yibo Hu, Kun Wang, Qingsong Wen, Zhang Zhang, Liang Wang, Rong Jin
+- **CrochetBench: Can Vision-Language Models Move from Describing to Doing in Crochet Domain?** — Peiyu Li, Xiaobao Huang, Ting Hua, Nitesh V Chawla
+- **DORA: A Dual-Objective Reinforcement Learning Framework for Effective and Efficient Multimodal Agentic Search** — Guangming Qin, Yuhao Deng, Yukun Zhao, Zhenyang Li, Junfeng Wang, Dawei Yin, Ye Yuan, Guoren Wang, Yizhou Yan, Chengliang Chai, Lei Cao
+- **Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision** — Bingsen Chen, Boyan Li, Ping Nie, Yuyu Zhang, Xi Ye, Chen Zhao
+- **FinChart-Bench: Benchmarking Financial Chart Comprehension in Vision-Language Models** — Dong Shu, Haoyang Yuan, Yuchen Wang, Yanguang Liu, Huopu Zhang, Mengnan Du
+- **From Charts to Code: A Hierarchical Benchmark for Multimodal Models** — Jiahao Tang, Henry Hengyuan Zhao, Lijian Wu, Zijian Zhang, Yifei Tao, Dongxing Mao, Yang Wan, Jingru Tan, Min Zeng, Min Li, Alex Jinpeng Wang
+- **Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning** — Jiacheng Hua, Yishu Yin, Yuhang Wu, Tai Wang, Yifei Huang, Miao Liu
+- **UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision** — Zhen Fang, Ruiyan Han, XinYu Sun, Yuchen Ma, Ziheng Wang, Yu Zeng, Zehui Chen, Lin Chen, Wenxuan Huang, Wei-Jie Xu, Yi Cao, Feng Zhao
+- **Why Multimodal In-Context Learning Lags Behind? Unveiling the Inner Mechanisms and Bottlenecks** — Yu Wang, Sharon Li
+- **When Seeing Overrides Knowing: Disentangling Knowledge Conflicts in Vision-Language Models** — Francesco Ortu, Zhijing Jin, Diego Doimo, Alberto Cazzaniga
+- **Believing without Seeing: Quality Scores for Contextualizing Vision-Language Model Explanations** — Keyu He, Tejas Srinivasan, Brihi Joshi, Xiang Ren, Jesse Thomason, Swabha Swayamdipta
+- **MONETA: Multimodal Industry Classification through Geographic Information with Multi Agent Systems** — Arda Yüksel, Gabriel Thiem, Susanne Walter, Patrick Felka, Gabriela Alves Werb, Ivan Habernal
+- **SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding** — Yiqiao Jin, Rachneet Kaur, Zhen Zeng, Sumitra Ganesh, Srijan Kumar
+- **When Vision-Language Models Judge Without Seeing: Exposing Informativeness Bias** — Ibne Farabi Shihab, Sanjeda Akter, Anuj Sharma
+- **VIGNETTE: Socially Grounded Bias Evaluation for Vision-Language Models** — Feiteng Fang, Dingwei Chen, Xiang Huang, Ting-En Lin, Yuchuan Wu, Xiong Liu, Xinge Ye, Ziqiang Liu, Haonan Zhang, Liang Zhu, Hamid Alinejad-Rokny, Min Yang, Yongbin Li
+- **SynthAgent: Adapting Web Agents with Synthetic Supervision** — Joaquín Polonuer, Lucas Vittor, Iñaki Arango, Ayush Noori, David A. Clifton, Luciano Del Corro, Marinka Zitnik
+- **More Than Meets the Eye: Measuring the Semiotic Gap in Vision-Language Models via Semantic Anchorage** — Yuping Lin, Zitao Li, Yue Xing, Pengfei He, Yingqian Cui, Yaliang Li, Bolin Ding, Jingren Zhou, Jiliang Tang
+- **LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding** — Kai Yin, Xiangjue Dong, Chengkai Liu, Allen Lin, Lingfeng Shi, Ali Mostafavi, James Caverlee
+- **Listening Like Humans: Semantics-Guided Noise-Robust Multimodal Speech Recognition** — Xiulin Yang, Heidi Getz, Ethan Wilcox
+- **Cross-Modal Taxonomic Generalization in (Vision-) Language Models** — Ilias Triantafyllopoulos, Renyi Qu, Salvatore Giorgi, Brenda Curtis, Lyle Ungar, João Sedoc
+- **MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application** — Itay Yona, Amir Sarid, Michael Karasik, Yossi Gandelsman
+- **Putting Captions to the Test: Evaluating Video Caption Quality through Multiple-Choice Question Answering** — Shangbin Feng, Wenxuan Ding, Alisa Liu, Zifeng Wang, Weijia Shi, Yike Wang, Shannon Zejiang Shen, Xiaochuang Han, Hunter Lang, Chen-Yu Lee, Tomas Pfister, Yejin Choi, Yulia Tsvetkov
+- **SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes** — Zizhen Wang, Bo Feng, Zhengfeng Lai, Shiyu Li, Yang Lu, Meng Cao, Ping Huang, Simon Wang
+- **From Inheritance to Saturation: Disentangling the Evolution of Visual Redundancy for Architecture-Aware MLLM Inference Acceleration** — Akshith Reddy Putta, Jacob Devasier, Chengkai Li
+- **LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models** — Tianci Liu, Ran Xu, Tony Yu, Ilgee Hong, Carl Yang, Tuo Zhao, Haoyu Wang
+- **Reference Attack: A New Cross-Modal Jailbreaking Attack against Multimodal Large Language Models** — Seungmin Lee, Jeonghwan Lee, Hyunkuk Lim, Sejoon Kim, Mingi Sung
+- **SAGE: Synergistic Adaptive Gating of Experts for Hateful Video Detection** — Yongxuan Wu, Xixun Lin, He Zhang, Nan Sun, Kun Wang, Chuan Zhou, Shirui Pan, Yanan Cao
+- **HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering** — Taehyeon Kim, Hyunsoo Lee, Youngsoo Jang, Moontae Lee
+- **Seeing No Evil: Blinding Large Vision-Language Models to Safety Instructions via Adversarial Attention Hijacking** — Yicheng Liu, Shumin Shi, Youchao Zhou, Xingchen Zhang
+- **ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering** — Yulong Wang, Siyu Zhao
+- **Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering** — Yuhao Shen, Tianyu Liu, Junyi Shen, Jinyang Wu, Quan Kong, Huan Li, Cong Wang
+- **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring** — Zihang Liu, Zhouhua Fang, Hui Liu, Zhiwei Liu, Yong Li, Haishuai Wang
+- **MVP: Enhancing Video Large Language Models via Self-supervised Masked Video Prediction** — Hongchao Jiang, Yiming Chen, Yushi Cao, Hung-yi Lee, Robby T. Tan
+- **Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling** — Zhengxi Lu, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
+- **MTAVG-Bench: A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation** — Zechen Sun, Yuyang Sun, Zecheng Tang, Juntao Li, Wenpeng Hu, Wenliang Chen, Zhunchen Luo, Guotong Geng, Min Zhang
+- **Zero-Shot Multimodal Retrieval with Multi-Scale Contextual Representations** — Shichen Li, Zhouyang Wang, Zhongqing Wang, Peifeng Li
+- **Beyond the Last Frame: Process-aware Evaluation for Generative Video Reasoning** — Mingze Xu, Zijing Zhao, Qiming Peng, Houwen Peng, Han Hu, Zhanhui Kang, Yuxing Han
+- **VideoCuRL: Video Curriculum Reinforcement Learning with Orthogonal Difficulty Decomposition** — Xue Zhang, Yunlong Liang, Fandong Meng, Songming Zhang, Kaiyu Huang, Yufeng Chen, Xu Jinan, Jie Zhou
+- **Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning** — Zihao Cheng, Zeming Liu, YingyuShan, Xinyi Wang, Xiangrong Zhu, Yunpu Ma, Hongru Wang, Yuhang Guo, Wei Lin
+- **GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models** — Jiachen Qian
+- **Measure Twice, Click Once: Co-evolving Proposer and Visual Critic via Reinforcement Learning for GUI Grounding** — Xiangyu Ma, Teng Xiao, Zuchao Li, Lefei Zhang
+- **Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification** — Yeji Park, Jiwon Tark, Taesik Gong
+- **USB: A COMPREHENSIVE AND UNIFIED SAFETY EVALUATION BENCHMARK FOR MULTIMODAL LARGE LANGUAGE MODELS** — Kangning Zhang, Weiwen Liu, Wenxiang Jiao, Kounianhua Du, Yuan Lu, Weinan Zhang, Yong Yu
+- **AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images** — Yi Fang, Wenjie Wang, Mingfeng Xue, Boyi Deng, Fengli Xu, Dayiheng Liu, Fuli Feng
+- **MMAC: A Multilingual, Multimodal Alignment Framework for Cultural Grounding Evaluation** — Bin Xu, Yu Bai, Huashan Sun, Yiguan Lin, Siming Liu, Xinyue Liang, Yaolin Li, Zhuangzhi Dong, Jingren Zhang, Yufan Deng, Xinyu Zou, Yang Gao, Heyan Huang
+- **Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring** — Benteng Chen, Weida Wang, Shufei Zhang, Mingbao Lin, Min Zhang
+- **BoYaEval: Evaluating Multimodal Large Language Models on Understanding Ancient Chinese Musical Scores** — Xingchen Zou, Yuhao Yang, Zheng Chen, Xixuan Hao, Yiqi chen, Chao Huang, Yuxuan Liang
+- **Benchmarking Large Vision-Language Models on CFMME: A Comprehensive Chinese Financial Multimodal Evaluation Dataset** — Fangming Feng, Dongjie Fu, Zequn Xie, Yu Zhang, Yangyang Wu, Zhou Zhao, Tao Jin
+- **MACS: Modality-Aware Capacity Scaling for Efficient Multimodal MoE Inference** — Xin Guo, Zhiheng Xi, Yiwen Ding, Yitao Zhai, Xiaowei Shi, Xunliang Cai, Tao Gui, Qi Zhang, Xuanjing Huang
+- **MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents** — Minsik Oh, Jiwei Li, Guoyin Wang
+- **Steganography Beyond Pixels: Reimagining Image Steganography as Cross-Modal Linguistic Communication** — Yancui Li, Xiaoyu Zhou, Guoyi Miao, Fang Kong
+- **Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval** — Xuemiao Zhang, Can Ren, Chengying Tu, Rongxiang Weng, Hongfei Yan, Jingang Wang, Xunliang Cai
+- **Enhancing Multimodal Large Language Models for Ancient Chinese Character Evolution Analysis via Glyph-Driven Fine-Tuning** — Samuel Joseph Amouyal, Aya Meltzer-Asscher, Jonathan Berant
+- **See2Refine: Vision-Language Feedback Improves LLM-Based eHMI Action Designers** — Phun-Bench
+- **BiMol-Diff: A Unified Diffusion Framework for Molecular Generation and Captioning** — Jaewook Lee, Myeong-Cheol Kang, Jong-hun Shin
+- **PEAP: Proactive Embodied Action Sequence Planning with Joint Understanding of Vision and Audio Perception** — Erum Mushtaq, Anil Ramakrishna, Satyapriya Krishna, Sattvik Sahai, Prasoon Goyal, Kai-Wei Chang, Tao Zhang, Rahul Gupta
+- **MMTutorBench: The First Multimodal Benchmark for AI Math Tutoring** — Minsung Kim, Dong-Kyum Kim, Jea Kwon, Nakyeong Yang, Kyomin Jung, Meeyoung Cha
+- **VIB-Probe: Detecting and Mitigating Hallucinations in Vision-Language Models via Variational Information Bottleneck** — Eunsu Kim, Junyeong Park, Juhyun Oh, Kiwoong Park, Seyoung Song, A. Seza Doğruöz, Alice Oh, Najoung Kim
+- **See the Forest for the Trees: Loosely Speculative Decoding via Visual-Semantic Guidance for Efficient Inference of Video LLMs** — Haozhong Wang
+- **VRPO: Rethinking Value Modeling for Robust RL under Noisy Supervision in LLM Post-Training** — He Du, Bowen Li, Aijun Yang, Siyang He, Qipeng Guo, Kai Chen, Dacheng Tao
+- **Looking Beyond the One: Operationalizing and Eliciting Visual Ambiguity in VLLMs** — Yudong Li, Jiawei Cai, Linlin Shen
+- **JanusMM: A Benchmark for Self-Deprecation Understanding in Real-World Multimodal Conversations** — Xudong Shen, Li Yuan, Ye Chen, Xin Wu, Yi Cai, Zhiyong Wu
+- **Ascending the Infinite Ladder: Benchmarking Spatial Deformation Reasoning in Vision-Language Models** — Yuchong Chen, Bowei Zou, Yuhan Chen, Yifan Fan, Xinyu Li, Shujun Cao, Yu Hong
+- **TEMA: Anchor the Image, Follow the Text for Multi-Modification Composed Image Retrieval** — Minfeng Zhu, Linxin Bao, Wei Chen, Linchao Zhu
+- **Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement** — Qiming Li, Xiaocheng Feng, Yixuan Ma, Ruihan Chen, Zihe Tong, Zekai Ye, Xiachong Feng, Libo Qin, Haoyu Ren, Kun Chen, Yunfei Lu, Dandan Tu, Bing Qin
+- **VLN-NF: Feasibility-Aware Vision-and-Language Navigation with False-Premise Instructions** — Yu Tian, Jie Xing, Ziming Li, Jiang Li, Zehua Duo, Tian Lan, Xu Liu, Guanglai Gao, Xiangdong Su
+- **EyeMulator: Improving Code Language Models by Mimicking Human Visual Attention** — Zhirong Chen, Kaiyan Chang, Zhuolin Li, Cangyuan Li, Xinyang He, Chujie Chen, Mengdi Wang, Haobo Xu, Yinhe Han, Huawei Li, Ying Wang
+- **Chart-MRAG: Benchmarking Multimodal Retrieval Augmented Generation on Chart-based Documents** — Xin Huang, Yan Hu, Yuejiao Gong, Xinglin Zhang
+- **ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding** — Yunfan Yang, Cuiling Lan, Jitao Sang, Yan Lu
+- **Enhancing Agentic Textual Graph Retrieval with Synthetic Stepwise Supervision** — Di Zhang, Xun Wu, Shaohan Huang, Lingjie Jiang, Yaru Hao, Li Dong, Zewen Chi, Zhifang Sui, Furu Wei
+- **Jailbreaking Multimodal Large Language Models using Multi-Clip Video** — Zhiyi Duan, Zixing Shi, Bing Jia, Qi Wang
+- **CogEvolve: A Multimodal Benchmark for Evaluating Relational Reasoning in Semantic Extension** — Choongwon Kang, Seungjong Sun, Hyunmin Jun, Jang Hyun Kim
+- **VisRet: Visualization Improves Knowledge-Intensive Text-to-Image Retrieval** — Yanli Wang, Yanlin Wang, Bowen Zhang, Yiwei Zhang, Daya Guo, Jiachi Chen, Hongyu Zhang, Zibin Zheng
+- **Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition** — Jeongho Yoon, Chanhee Park, Yongchan Chun, Hyeonseok Moon, Heuiseok Lim
+- **Beyond Surface Features: Advancing Medical Vision-Language Alignment via Dynamic Evidence-Guided Preference Optimization** — Lingyue Fu, Hao Guan, Bolun Zhang, Haowei Yuan, Yaoming Zhu, Lin Qiu, ZongYu Wang, Xuezhi Cao, Xunliang Cai, Weiwen Liu, Weinan Zhang, Yong Yu
+- **Cat-MoD: Accelerating Multimodal Alignment via Caption Token Guided Asymmetric Mixture-of-Depths** — Wai Man Si, Mingjie Li, Michael Backes, Yang Zhang
+- **MPBoCo: Multimodal Prompt-based Boundary-enhanced Continual Framework for Joint Entity and Relation Extraction** — Zhewen Tan, Wenhan Yu, Jianfeng Si, Tongxin Liu, Kaiqi Guan, Huiyan Jin, Jiawen Tao, Xiaokun Yuan, Duohe Ma, Lin Sun, Tong Yang, Xiangzheng Zhang
+- **When More Words Say Less: Decoupling Length and Specificity in Image Description Evaluation** — Hongcheng Liu, Yuhao Wang, Zhe Chen, Pingjie Wang, Zhiyuan Zhu, Yixuan Hou, Yanfeng Wang, Yu Wang
+- **AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning** — Jiahao Xiong, Yihe Liu, Xianming Hu, Hongbo Zhao, Nuoyi Chen, Jie Zhang, Kai Zhang
+- **Benchmarking Egocentric Clinical Intent Understanding Capability for Medical Multimodal Large Language Models** — Zenghao Liu, Yansong Zhang
+- **DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding** — Yuanzhen Hao, Desheng Wu
+- **LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models** — Viet-Thanh Pham, Lizhen Qu, Thuy-Trang Vu, Gholamreza Haffari, Dinh Phung
+- **Beyond Single View: A Comprehensive Benchmark for Medical Multimodal Large Language Models on Multi-Image Understanding** — Jiahe Guo, Xiangran Guo, Yulin Hu, Zimo Long, Xingyu Sui, Xuda Zhi, Yongbo Huang, Hao He, Weixiang Zhao, Yanyan Zhao, Bing Qin
+- **Video-MMMU: Evaluating Knowledge Acquisition from Multidisciplinary Professional Videos** — Yelin Chen, Fanjin Zhang, Suping Sun, Yunhe Pang, Yuanchun Wang, Jian Song, Xiaoyan Li, Lei Hou, Shu Zhao, Jie Tang, Juanzi Li
+- **Towards Fine-grained Audio Captioning with Multimodal Contextual Fusion** — Kairui Hu, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
+- **MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning** — Sheng Chen, Zhe Tang, Weixing Zhang, Fei Yang, Yuanyuan Wang, Tianlin Li, Yang Liu
+- **VCORE: Variance-Controlled Optimization-based Reweighting for Chain-of-Thought Supervision** — Bohan Lin, Kuo Yang, Zelin Tan, Yingchuan Lai, Chen Zhang, Guibin Zhang, Xinlei Yu, Miao Yu, Xu Wang, Yudong Zhang, Yang Wang
+- **VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation Agents** — Zhuoshi Pan, Qizhi Pei, Yu Li, Zinan Tang, Qiyao Sun, H. Vicky Zhao, Conghui He, Lijun Wu
+- **Semantic Hardness Is Not Visual Hardness: Sign-Aware Hard Negative Mining for Sign Language Retrieval** — Xuan Gong, Senmiao Wang, Hanbo Huang, Ruoyu Sun, Shiyu Liang
+- **Benchmarking Deflection and Hallucination in Large Vision-Language Models** — Wenjie Peng, Chen Chen, Thomas Hain
+- **MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs** — Jiayu Tang, Guowei Peng, Qiuhao Xie, Yuning Yang, Xiurui Xie, Guisong Liu
+- **Cultivating Forensic Reasoning for Generalizable Multimodal Manipulation Detection** — Pierre Fihey, Matthieu Labeau, Pavlo Mozharovskyi
+- **FactVerse: A Benchmark for Factual Consistency in Interleaved Image–Text Generation** — Hao-Xiang Xu, Chong Deng, Jiaqing Liu, Wen Wang, Qian Chen, Lujia Bao, Xiangang Li, Zhen-Hua Ling
+- **Latent Attention Denoising: A Training-Free Energy-Based Framework for Mitigating Hallucinations in Vision-Language Models** — Yubo Shan, Kun Zhang, Qiming Xu, Liping Cao, Yingying Cao, Jian Zhang, Yu Wang, Jingyuan Li, Yuanzhuo Wang
+- **SDAR-VL: Stable and Efficient Block-wise Diffusion for Vision-Language Understanding** — Xinmeng Hou, Bohao Qu, Wuqi Wang, Peiliang Gong, Qing Guo, Yang Liu
+- **DIXITWORLD: Evaluating Multimodal Abductive Reasoning in Vision-Language Models with Multi-Agent Dixit Gameplay** — Xinyu Chen, Peifeng Li, Qiaoming Zhu
+- **MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation** — Priyanshu Mahato, Aniket Santosh Mishra, Kripabandhu Ghosh
+- **Interleaved Latent Visual Reasoning with Selective Perceptual Modeling** — Weicheng Lin, Yi Zhang, Jiawei Dang, Liang-Jie Zhang
+- **Think before Go: Hierarchical Reasoning for Image-goal Navigation** — Yunxiang Mo, Tianshi Zheng, Qing Zong, Jiayu Liu, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song
+- **Zero-shot Jianzi Recognition as Structured Visual Information Extraction in Open Compositional Symbolic Systems** — Pengna Li, Kangyi Wu, Shaoqing Xu, Fang Li, Lin Zhao, Long Chen, Zhi-Xin Yang, Nanning Zheng
+- **Generating Attribution Reports for Manipulated Facial Images: A Dataset and Baseline** — Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman
+- **Beyond the Panorama: Training-Free Hierarchical Perception-Reasoning for Fine-Grained Vision in MLLMs** — Jingchun Lian, Lingyu Liu, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+- **OSCBench: Benchmarking Object State Change in Text-to-Video Generation** — Arya Shah, Deepali Mishra, Chaklam Silpasuwanchai
+- **MirrorCAPTCHA: Wild CAPTCHA, Wild Distribution, Wild Web-based Platform Meet Multimodal LLM Agents** — Xiaoquan Yi, Haixing Wu, Haozhao Wang, Yichen Li, Yuhua Li, Rui Zhang, Ruixuan Li
+- **Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts** — Gorjan Radevski, Kiril Gashteovski, Giwon Hong, Carolin Lawrence, Goran Glavaš
+- **MIND Your Reasoning: A Meta-Cognitive Intuitive-Reflective Network for Dual-Reasoning in Multimodal Stance Detection** — Ishan Kavathekar, Hemang Jain, Ameya Rathod, Ponnurangam Kumaraguru, Tanuja Ganu
+- **QA-MoE: Towards a Continuous Reliability Spectrum with Quality-Aware Mixture of Experts for Robust Multimodal Sentiment Analysis** — Chau Minh Pham, Jenna Russell, Dzung Pham, Mohit Iyyer
+- **Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision** — Akriti Jain, Anish Mulay, Divyansh Verma, Aishani Pandey, Pritika Ramu, Aparna Garimella
+- **Diagnosing Spatial Consistency across Perspectives and Viewpoints in Large Vision-Language Models** — Yangyi Li, Chenxu Zhao, Mengdi Huai
+- **Multimodal Large Language Models for Multi-Subject In-Context Image Generation** — Yoonji Kim, Jieun Kim, Yujin Jeong, Sung-Bae Cho
+- **VC-Inspector: Advancing Reference-free Evaluation of Video Captions with Factual Analysis** — Cheng Wang, Qin Liu, Wenxuan Zhou, Muhao Chen
+- **MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Knowledge Poisoning Attacks** — Ayoub Hammal, Pierre Zweigenbaum, Caio Corro
+- **Follow the Flow: On Information Flow Across Textual Tokens in Text-to-Image Models** — Ziqin Luo, Yihao Quan, Xiaofeng Zhang, Xiaosong Yuan, Chen Shen
+- **Evaluating Visual Narrative Coherence in Story Visualization via Diversified Storylines** — Guy Kaplan, Michael Toker, Yuval Reif, Yonatan Belinkov, Roy Schwartz
+- **Improving the Distributional Alignment of LLMs using Supervision** — Maggie Mi, Golzar Atefi, Atsuki Yamaguchi, Felix Gers, Aline Villavicencio, Nafise Sadat Moosavi
+- **GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents** — Viraaji Mothukuri, Reza M. Parizi
+- **L2Dir: Integrating  L₂-Norm and Directional Alignment for Unsupervised Contrastive Representation Learning in Multimodal Retrieval** — Zhaofen Wu, Hanrong Zhang, Fulin Lin, Wujiang Xu, Xinran Xu, Yankai Chen, Henry Peng Zou, Shaowen Chen, Weizhi Zhang, Xue Liu, Philip S. Yu, Hongwei Wang
+- **CityVG: Contrastive Fine-Tuning and Reward-Based Chain-of-Thought Reasoning for Zero-Shot City-Scale 3D Visual Grounding** — Van Chien Nguyen, Huy Nguyen, Ruiyi Zhang, Hanieh Deilamsalehy, Puneet Mathur, Viet Lai, Haoliang Wang, Jayakumar Subramanian, Ryan A. Rossi, Trung Bui, Nikos Vlassis, Franck Dernoncourt, Thien Huu Nguyen
+- **Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation** — Zongmin Li, Jian Su, Farah Benamara, Aixin Sun
+- **KG-ViP: Bridging Knowledge Grounding and Visual Perception in Multi-modal LLMs for Visual Question Answering** — Jingyao Liu
+- **SOAR: Supervision from Observation for Agentic Reinforcement Learning** — Weiqing Luo, Zongye Hu, Xiao Wang, Zhiyuan Yu, Haofeng Zhang, Ziyi Huang
+- **Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation** — Zhiyang Li, Ao Ke, Yukun Cao, Xike Xie
+- **ARF-RLHF: Adaptive Reward-Following for RLHF through Emotion-Driven Self-Supervision and Trace-Biased Dynamic Optimization** — Demian Inostroza, Ekaterina Vylomova, Charles Kemp, Mae Carroll, Wanchun Li, Meladel Mistica
+- **MUSEG: Reinforcing Video Temporal Understanding via Timestamp-Aware Multi-Segment Grounding** — Siqing Song, Chuang Wang, Yong Lang, Yi Yang, Xu-Yao Zhang
+- **VideoStir: Understanding Long Videos via Spatio-Temporally Structured and Intent-Aware RAG** — Zenghao Duan, Zhiyi yin, Zhichao Shi, Liang Pang, Shaoling Jing, Zihe Huang, Jiayi Wu, Yu Yan, Jingcheng Deng, Huawei Shen, Xueqi Cheng
+- **Flow-Based Page Unique Semantic Mapping Architecture for Document Visual Question Answering** — Songhao Wu, Ang Lv, Ruobing Xie, Xingwu Sun, Di Wang, Rui Yan, Yankai Lin
+- **Probing Audio-Visual Reasoning in Multimodal Language Models through the Lens of Audio** — Terry Jingchen Zhang, Gopal Dev, Ning Wang, Max Obreiter, Wenyuan Jiang, Punya Syon Pandey, Keenan Samway, Yinya Huang, Bernhard Schölkopf, Mrinmaya Sachan, Zhijing Jin
+- **The Side Effects of Being Smart: Safety Risks in MLLMs’ Multi-Image Reasoning** — Jiandong Shao, Raphael Tang, Crystina Zhang, Karin Sevegnani, Pontus Stenetorp, Jianfei Yang, Yao Lu
+- **From Detection to Understanding: Multi-Turn Reasoning for Video Misinformation Analysis** — Sangkwon Park, Donghun Kang, Jisoo Mok, Sungroh Yoon
+- **VisAidMath: Benchmarking Visual-Aided Mathematical Reasoning** — Aijia Cheng, Kailong Wang, Ling Shi, Yongxin Zhao
+- **Glyph: Scaling Context Windows via Visual-Text Compression** — Guoyan Liang
+- **DiVE: Decoupling Intra-layer Visual Evidence for Mitigating Hallucinations in Large Vision-Language Models** — Zerui Chen, Qinggang Zhang, Zhishang Xiang, Zhimin Wei, Linfeng Gao, Xiao Huang, Zhihong Zhang, Jinsong Su
+- **MARD: Module-Aware Reasoning Distillation for Language Models with Adaptive Supervision** — Nakyung Lee, Sangwoo Hong, Jungwoo Lee
+- **Dashboard2Code: Evaluating Multimodal Models on Reconstructing Interactive Dashboards** — YiFei Wang, Qizhi Pei, Jiangtao Feng, Yuntian Shi, Yi Duan, Lihao Wang, Lei Bai, Lijun Wu, Wei-Ying Ma, Hao Zhou
+- **Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation** — Wenqi Yang, Jianjun Li, Zhibo Zhang, Mingqian Ding, Yushen Fang
+- **When Background Matters: Breaking Medical Vision Language Models by Transferable Attack** — Eric Hanchen Jiang, Levina Li, Frank Wan, Xiao Liang, Sophia Yin, Yuchen Wu, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu
+- **ImmersiveTTS: Environment-Aware Text-to-Speech with Multimodal Diffusion Transformer and Domain-Specific Representation Alignment** — Nikita Afonin, Nikita Andriianov, Vahagn Hovhannisyan, Nikhil Bageshpura, Kyle Liu, Kevin Zhu, Sunishchal Dev, Ashwinee Panda, Oleg Rogov, Elena Tutubalina, Alexander Panchenko, Mikhail Seleznyov
+- **Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering** — Yukang Wu, Xiyuan Jia, Jiayi Wu, HongChen Yu, Yuhan Qiu, Wu Guohua
+- **v-HUB: A Benchmark for Video Humor Understanding from Vision and Sound** — Yijie Chen, Yijin Liu, Fandong Meng
+- **EmoS: A High‑Fidelity Multimodal Benchmark for Fine-grained Streaming Emotional Understanding** — Yilong Chen, Zitian Gao, Yihao Xiao, Jason Klein Liu, Xinyu Yang, Yifan Luo, Haoming Luo, Zhengmao Ye, Tingwen Liu, Ran Tao, Bryan Dai
+- **HowToNarrate: A General-Domain Benchmark for Synchronized Video Narration with External Knowledge** — Mengjie Li, Yuan Feng, Xike Xie, William J. Song
+- **Black-Box Membership Inference Attacks for Video Training Data in Multimodal Large Language Models** — Woody Haosheng Gan, William Barr Held, Diyi Yang
+- **Mitigating Safety Context Amnesia in Multimodal Reasoning Models via Intent-Guided Safety Reasoning** — Thang Le, Huy Huu Nguyen, Anh Tuan Luu, Thamar Solorio, Thien Huu Nguyen
+- **Figure It Out: Improve the Frontier of Reasoning with Executable Visual States** — Yupeng Qi, Ziyu Lyu, Lixin Cui, Lu Bai, Feng Xia
+- **AttnPO: Attention-Guided Process Supervision for Efficient Reasoning** — Zhenguang Wang, Bo Li, Wenhui Tan, Peng Cao, Yang Wang, Jia Duan, Fei Wang, Osmar Zaiane
+- **Measuring Social Bias in Vision-Language Models with Face-Only Counterfactuals from Real Photos** — Yushuo Zheng, Huiyu Duan, Zicheng Zhang, Yucheng Zhu, Xiongkuo Min, Guangtao Zhai
+- **Textual Steering Vectors Can Improve Visual Understanding in Multimodal Large Language Models** — Haodong Chen, Qiang Huang, Jiaqi Zhao, Qiuping Jiang, Xiaojun Chang, Jun Yu
+- **Afri-MCQA: Multimodal Cultural Question Answering for African Languages** — Kensuke Okada, Yui Furukawa, Kyosuke Bunji
+- **E-ViC: Reasoning Beyond Text via Embodied Visual Chain for Spatial Intelligence** — Lei Yang, Leiyu Pan, Bojian Xiong, Renren Jin, Shaowei Zhang, Yue chen, Ling Shi, Jiang Zhou, Junru Wu, Zhen Wang, Jianxiang Peng, Juesi Xiao, Tianyu Dong, Zhuowen Han, Zhuo Chen, Yuqi Ren, Deyi Xiong
+- **MessToClean: Evidence-Grounded Structure-Preserving Reconstruction for Real-World Degraded Exam Paper Images** — Nishanth Sridhar Nakshatri, Eylon Caplan, Rajkumar Pujari, Dan Goldwasser
+- **GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap** — Rikuto Kotoge, Yuichi Sasaki
+- **Emotion-Wheel-Guided Audio-Referred Text Representation for Multimodal Emotion Recognition in Conversation** — Jiayi Tuo, Cheng Tang, Zihan Wang, Chenyue Zhou, Yao Li, Yanbiao Ma, Chao Wang, Wei Dai, Mingxuan Wang, Shitong Qin, Ziwei Zhao
+- **LongVideoAgent: Multi-Agent Reasoning with Long Videos** — Milan Miletic, Julie Kallini, Ekaterina Shutova
+- **MirrorQA: Benchmarking Multimodal LLMs on Mirror-Orientation Reasoning** — Eunseon Seong, Harim Lee, Dahye Kim, Changhyun Kim, Dong-Kyu Chae
+- **Tiny Scales, Great Challenges: The Limits of Multimodal LLMs in Scale Recognition** — Mohit Talreja, Joshua Diao, Jim James, Radu Casapu, Tejas Santanam, Ethan Mendes, Alan Ritter, Wei Xu, James Hays
+- **M³-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering** — Marc Brinner, Sina Zarrieß
+- **Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents** — Jiatong Ma, Longteng Guo, Yuchen Liu, Zijia Zhao, Dongze Hao, Xuanxu Lin, Jing Liu
+- **Beyond Static Alignment: Adaptive Arbitration for Semantic Incongruence in Semi-Supervised Multimodal Sentiment Analysis** — Yilin Li, Xiaojun Wan
+- **The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form–Meaning Mapping** — Gang Cheng, Haibo Jin, Wenbin Zhang, Haohan Wang, Jun Zhuang
+- **From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation** — Huicong Li, Xiangbo Ji, Wei Wu
+- **Deep-Reporter: Deep Research for Grounded Multimodal Long-Form Generation** — Alessandro Corona Mendozza, Anders Søgaard
+- **Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks** — Tianjian Liu, Fanqi Wan, Jiajian Guo, Xiaojun Quan
+- **Multimodal Safety Evaluation in Generative Agent Social Simulations** — Zhejun Zhang, Wenqing Zhou, Haozhe Xu, Lin Zhang, Lei Li
+- **SafeMT: Multi-turn Safety for Multimodal Language Models** — Klaudia-Doris Thellmann, Bernhard Stadler, Michael Färber, Jens Lehmann
+- **Lightweight and Faithful Visual Condition Checking in Behavior Trees via Expert-Regularized Reinforcement Learning** — Bishwamittra Ghosh, Soumi Das, Till Speicher, Qinyuan Wu, Mohammad Aflah Khan, Deepak Garg, Krishna P. Gummadi, Evimaria Terzi
+- **Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition** — Anwar Alajmi, Gabriele Pergola
+- **Mechanisms of Prompt-Induced Hallucination in Vision–Language Models** — Meiru Zhang, Zaiqiao Meng, Nigel Collier
+- **VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking** — Peyman Baghershahi, Gregoire Fournier, Pranav Nyati, Sourav Medya
+- **AV-Dialog: Spoken Dialogue Models with Audio-Visual Input** — Yuming Yang, Mingyoung Lai, Wanxu Zhao, Xiaoran Fan, Zhiheng Xi, Mingqi Wu, Chiyue Huang, Jun Zhao, Haijun Lv, Tong Jian, Yunhua Zhou, Yicheng Zou, Qipeng Guo, Tao Gui, Qi Zhang, Xuanjing Huang
+- **A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning** — Gagan Mundada, Rohan Surana, Nandhini Swaminathan, Bodhisattwa Prasad Majumder, Junda Wu, Julian McAuley, Zhouhang Xie
+- **ViLL-E: Video LLM Embeddings for Retrieval** — Zhiyuan Shi, Qibo Qiu, Feng Xue, Zhonglin Jiang, Li Yu, Jian Jiang, Xiaofei He, Wenxiao Wang
+- **Locate and Explain: Joint Multimodal Emotion Cause Extraction and Summarization in Conversation** — Robin Vujanic, Thomas Rückstieß
+- **ServImage: An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services** — Wei-Chieh Huang, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Yinghui Li, Renhe Jiang, Philip S. Yu
+- **FAIRGAMER: Evaluating Social Biases in LLM-Based Video Game NPCs** — Kwangwook Seo, Dongha Lee
+- **Response-G1: Explicit Scene Graph Modeling for Proactive Streaming Video Understanding** — Seungmin OhEunseok Lee
+- **POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering** — Zheng Luo, T Pranav Kutralingam, Ogochukwu N. Okoani, Wanpeng Xu, Hua Wei, Xiyang Hu
+- **Do MLLMs Capture How Interfaces Guide User Behavior? A Benchmark for Multimodal UI/UX Design Understanding** — Yiqun Zhang, Hao Li, Zihan Wang, Shi Feng, Xiaocui Yang, Daling Wang, Bo Zhang, Lei Bai, Shuyue Hu
+- **Automatic and Reliable Evaluation for Academic Caption-to-Figure Generation with LMMs** — Haochun Tang, Yuliang Yan, Jiahua Lu, Huaxiao Liu, Enyan Dai
+- **INFACT: A Diagnostic Benchmark for Induced Faithfulness and Factuality Hallucinations in Video-LLMs** — Zhiheng Xi, Dingwen Yang, Jiaqi Liu, Jixuan Huang, Jixuan Huang, Honglin Guo, Baodai Huang, Tinggang Chen, Qi Zhang, Zhonghang Lu, Chenyu Liu, Jiajun Sun, Jiazheng Zhang, Dingwei Zhu, Xin Guo, Junzhe Wang, Zhihao Zhang, Yuming Yang, Junjie Ye, Minghe Gao, Dongrui Liu, Jiaming Ji, Guohao Li, Tao Gui, Qi Zhang, Xuanjing Huang
+- **When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models** — Yangjunqi, Yuecong Min, Jie Zhang, Shiguang Shan, Xilin CHEN
+- **Benchmarking Fine-Grained Error Detection in Multimodal Reasoning** — Yuqing Zhang, Honghui Sheng, Xueyu Hu, Shengyu Zhang, Fei Wu
+- **SciMDR: Advancing Scientific Multimodal Document Reasoning** — Parisa Rabbani, Priyam Sahoo, Ruben Mathew, Aishee Mondal, Harshita Ketharaman, Nimet Beyza Bozdag, Dilek Hakkani-Tür
+- **VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning** — Ziyu Chen, Yilun Zhao, Chengye Wang, Rilyn R. Han, Manasi Patwardhan, Arman Cohan
+- **I2E: From Image Pixels to Actionable Interactive Environments for Text-Guided Image Editing** — Qiang Xia, Zijian Zhang, Ao Wang, Wenhan Wang, Xiangyu Wang, Jian Li
+- **MMErroR: A Benchmark for Erroneous Reasoning in Vision-Language Models** — Amr Mohamed, Yang Zhang, Michalis Vazirgiannis, Guokan Shang
+- **Revealing the Seen, Imagining the Beyond: A Survey of Image-Grounded Chain-of-Thought Reasoning in Multimodal LLMs** — Hang Lv, Hongchao Gu, Ruiqing Yang, Liangyue Li, Zulong Chen, Defu Lian, Hao Wang, Enhong Chen
+- **OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Models** — Yifei Zhu
+- **Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning** — Cuong Pham, Anh Dung Hoang, Cuong C. Nguyen, Trung Le, Gustavo Carneiro, Thanh-Toan Do
+- **Does RLVR Extend Reasoning Boundaries? Investigating Capability Expansion in Vision-Language Models** — Yifan Wang, Shiyu Li, Peiming Li, Xiaochen Yang, Zheng Wei, Yang Tang
+- **Perception, Understanding and Reasoning: A Multimodal Benchmark for Video Fake News Detection** — Yi Feng, Chuanyi Li, Vincent Ng
+- **Learning Invariant Modality Representation for Robust Multimodal Learning from a Causal Inference Perspective** — Marek Suppa, Andrej Ridzik, Daniel Hládek, Natália Kňažeková, Viktória Ondrejová
+- **Mind’s Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs** — Sijie Mai, Shiqin Han
+- **CEBC: Conformal Evidence-Bounded Control for Low-Hallucination Vision–Language Generation** — Syed Md Mukit Rashid, Abdullah Al Ishtiaq, Kai Tu, Yilu Dong, Tianwei Wu, Ali Ranjbar, Tianchang Yang, Najrin Sultana, Shagufta Mehnaz, Syed Rafiul Hussain
+- **Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing** — Xin Gao, Ruiyi Zhang, Meixi Du, Peijia Qin, Pengtao Xie
+- **From Words to Pixels: A Comprehensive Survey on Large Language Models in Visual Segmentation** — Yuanyuan Wang, Dongchao Yang, Yayue Deng, Zhiyong Wu, Yiwen Guo, Helen Meng, Xixin Wu
+- **Agentic Very Long Video Understanding** — Christos Ziakas, Nicholas Loo, Nishita Jain, Alessandra Russo
+- **Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs** — Juhyun Oh, Haneul Yoo, Faiz Ghifari Haznitrama, Alice Oh
+- **DREAM-S: Speculative Decoding with Searchable Drafting and Target-Aware Refinement for Multimodal Generation** — Alejandro Hernández-Cano, Alexander Hägele, Allen Hao Huang, Angelika Romanou, Antoni-Joan Solergibert, Barna Pásztor, Bettina Messmer, Dhia Garbaya, Eduard Frank Ďurech, Ido Hakimi, Juan Garcia Giraldo, Mete Ismayilzada, Negar Foroutan, Skander Moalla, Tiancheng Chen, Vinko Sabolčec, Yixuan Xu, Michael Aerni, Badr AlKhamissi, Inés Altemir Marinas, Mohammad Hossein Amani, Matin Ansaripour, Ilia Badanin, Harold Benoit, Emanuela Boros, Nicholas John Browning, Fabian Bösch, Maximilian Böther, Niklas Canova, Camille Challier, Clément Charmillot, Jonathan Coles, Jan Milan Deriu, Arnout Devos, Lukas Drescher, Daniil Dzenhaliou, Maud Ehrmann, Dongyang Fan, Simin Fan, Silin Gao, Miguel Gila, María Grandury, Diba Hashemi, Alexander Miserlis Hoyle, Jiaming Jiang, Mark Klein, Andrei Kucharavy, Anastasiia Kucherenko, Frederike Lübeck, Roman Machacek, Theofilos Ioannis Manitaras, Andreas Marfurt, Kyle Matoba, Simon Matrenok, Henrique Mendonça, Fawzi Roberto Mohamed, Syrielle Montariol, Luca Mouchel, Sven Najem-Meyer, Jingwei Ni, Gennaro Oliva, Matteo Pagliardini, Elia Palme, Andrei Panferov, Léo Paoletti, Marco Passerini, Ivan Pavlov, Auguste Poiroux, Kaustubh Ponkshe, Nathan Ranchin, Javier Rando, Mathieu Sauser, Jakhongir Saydaliev, Mukhammadali Sayfiddinov, Marian Schneider, Stefano Schuppli, Marco Scialanga, Andrei Semenov, Kumar Shridhar, Raghav Singhal, Anna Sotnikova, Alexander Sternfeld, Ayush Kumar Tarun, Paul Teiletche, Jannis Vamvas, Xiaozhe Yao, Hao Zhao, Alexander Ilic, Ana Klimovic, Andreas Krause, Caglar Gulcehre, David Rosenthal, Elliott Ash, Florian Tramèr, Joost VandeVondele, Livio Veraldi, Martin Rajman, Thomas C. Schulthess, Torsten Hoefler, Antoine Bosselut, Martin Jaggi, Imanol Schlag
+- **LOTUS: Evolving Multimodal Unlearning via Hyperbolic Entailment and Lorentz Transport** — Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe
+- **MathSight: A Benchmark Exploring Have Vision-Language Models Really Seen in University-Level Mathematical Reasoning?** — Preethi Seshadri, Samuel Cahyawijaya, Ayomide Odumakinde, Sameer Singh, Seraphina Goldfarb-Tarrant
+- **REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation** — Qin Dai, Benjamin Heinzerling, Kentaro Inui
+- **MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation** — Kutay Acar, Gülşen Eryiğit

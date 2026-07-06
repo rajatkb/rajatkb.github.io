@@ -1,0 +1,457 @@
+---
+title: 'ACL 2026 — Reasoning & Theorem Proving'
+date: '2026-07-06'
+tags:
+  - conference
+  - acl
+  - '2026'
+  - nlp
+draft: false
+---
+
+## Reasoning & Theorem Proving
+**448 papers**
+
+- **OctoTools: A Multi-Agent Framework with Extensible Tools for Complex Reasoning** — Pan Lu, Bowen Chen, Sheng Liu, Rahul Thapa, Joseph Boen, James Zou
+- **Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4** — Chengwu Liu, Yichun Yin, Ye Yuan, Jiaxuan Xie, Botao Li, Siqi Li, Jianhao Shen, Yan Xu, Lifeng Shang, Ming Zhang
+- **Benchmarking LLM’s Capability in Reasoning over Conflicting Web References** — Yizhen Yuan, Rui Kong, Dongze Li, Yuanchun Li, Yunxin Liu
+- **SLR: Automated Synthesis for Scalable Logical Reasoning** — Lukas Helff, Ahmad Omar, Felix Friedrich, Antonia Wüst, Hikaru Shindo, Rupert Mitchell, Tim Woydt, Patrick Schramowski, Wolfgang Stammer, Kristian Kersting
+- **CAPruner: Conceptual-Adjacent Scene Graph Pruner for Enhancing 3D Spatial Reasoning of Large Language Models** — Shengli Zhou, Xiangchen Wang, Guanhua Chen, Feng Zheng
+- **Your Reasoning Model Knows What Counts: Self-Guided Chain-of-Thought Pruning for Efficient Reasoning** — Zi-Ao Ma, Xian-Ling Mao, Tian Lan, Chen Xu, Zhijing Wu
+- **ImReasoner: Improving Memory-based Language Models for Reasoning-in-a-Haystack Tasks** — Ching-Yun Ko, Payel Das, Sihui Dai, Georgios Kollias, Subhajit Chaudhury, Aurelie C. Lozano, Pin-Yu Chen
+- **Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety** — Can Jin, Rui Wu, Tong Che, Qixin Zhang, Hongwu Peng, Jiahui Zhao, Zhenting Wang, Wenqi Wei, Ligong Han, Zhao Zhang, Yuan Cao, Ruixiang Tang, Dimitris N. Metaxas
+- **ReEx-SQL: Reasoning with Execution-Aware Reinforcement Learning for Text-to-SQL** — Yaxun dai, Wenxuan Xie, Xialie Zhuang, Tianyu Yang, Ziyi Liu, Haiqin Yang, Yiying Yang, Yuhang Zhao, Pingfu Chao, Wenhao Jiang
+- **MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search** — Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao
+- **MathFlow: Enhancing the Perceptual Flow of MLLMs for Visual Mathematical Problems** — Shuhang Chen, Hangjie Yuan, Yunqiu Xu, Pengwei Liu, Tao Feng, Jun Cen, Zeying Huang, Yi Yang
+- **ReasonEmbed: Enhanced Text Embeddings for Reasoning-Intensive Document Retrieval** — Jianlyu Chen, Junwei Lan, Chaofan Li, Defu Lian, Zheng Liu
+- **Logic Matters in Lightweight Hallucination Classification for RAG System** — Ningyuan Yang, Kaizhu Huang
+- **Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning** — Shuyao Xu, Cheng Peng, Jiangxuan Long, Weidi Xu, Wei Chu, Yuan Qi
+- **ZoomR: Memory Efficient Reasoning through Multi-Granularity Key Value Retrieval** — David H. Yang, Yuxuan Zhu, Mohammad Mohammadi Amiri, Keerthiram Murugesan, Tejaswini Pedapati, Subhajit Chaudhury, Pin-Yu Chen
+- **Psychological Steering in LLMs: An Evaluation of Effectiveness and Trustworthiness** — Amin Banayeeanzade, Ala N. Tak, Fatemeh Bahrani, Anahita Bolourani, Leonardo Blas, Emilio Ferrara, Jonathan Gratch, Sai Praneeth Karimireddy
+- **Act as you think: Reinforcing Consistent Reasoning in Medical Visual Question Answering** — Songtao Jiang, Yuan Wang, Ruizhe Chen, Yan Zhang, Ruilin Luo, Bohan Lei, Yeying Jin, Sibo Song, ZhiBo Yang, Jimeng Sun, Jian Wu, Zuozhu Liu
+- **Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning** — Houxing Ren, Mingjie Zhan, Zimu Lu, Ke Wang, Yunqiao Yang, Haotian Hou, Hongsheng Li
+- **SATQuest: A Verifier for Logical Reasoning Evaluation and Reinforcement Fine-Tuning of LLMs** — Yanxiao Zhao, Yaqian Li, Zihao Bo, Rinyoichi Takezoe, Haojia Hui, Mo Guang, Lei Ren, Xiaolin Qin, Kaiwen Long
+- **From Data-Centric to Sample-Centric: Enhancing LLM Reasoning via Progressive Optimization** — Xinjie Chen, Minpeng Liao, Guoxin Chen, Chengxi Li, Biao Fu, Kai Fan, Xinggao Liu
+- **ChatR1: Reinforcement Learning for Conversational Reasoning and Retrieval Augmented Question Answering** — Simon Lupart, Mohammad Aliannejadi, Evangelos Kanoulas
+- **MORPHOGEN: A Multilingual Benchmark for Evaluating Gender-Aware Morphological Generation** — Mehul Agarwal, Aditya Aggarwal, Arnav Goel, Medha Hira, Anubha Gupta
+- **Coordinating Search-Informed Reasoning and Reasoning-Guided Search in Claim Verification** — Qisheng Hu, Quanyu Long, Wenya Wang
+- **LightReasoner: Can Small Language Models Teach Large Language Models Reasoning?** — Jingyuan Wang, Yankai Chen, Zhonghang Li, Chao Huang
+- **OneRec-Think: In-Text Reasoning for Generative Recommendation** — Zhanyu Liu, Shiyao Wang, Xingmei Wang, Rongzhou Zhang, Jiaxin Deng, Honghui Bao, Jinghao Zhang, Wuchao Li, Pengfei Zheng, Xiangyu Wu, Yifei Hu, Qigen Hu, Xinchen Luo, Lejian Ren, Zixing Zhang, Qianqian Wang, Kuo Cai, Yunfan Wu, Hongtao Cheng, Zexuan Cheng, Lu Ren, Huanjie Wang, Yi Su, Ruiming Tang, Kun Gai, Guorui Zhou
+- **Beyond Surface-Level Detection: Towards Cognitive-Driven Defense Against Jailbreak Attacks via Meta-Operations Reasoning** — Rui Pu, Chaozhuo Li, Rui Ha, Litian Zhang, Lirong Qiu, Xi Zhang
+- **EMCEE: Improving Multilingual Capability of LLMs via Bridging Knowledge and Reasoning with Extracted Synthetic Multilingual Context** — Hamin Koo, Jaehyung Kim
+- **LEASH: Adaptive Length Penalty and Reward Shaping for Efficient Large Reasoning Model** — Yanhao Li, Lu Ma, Jiaran Zhang, Lexiang Tang, Wentao Zhang, Guibo Luo
+- **Beyond Examples: Towards Automated Thought-level In-Context Reasoning for Large Language Models** — Jinyang Wu, Mingkuan Feng, Shuai Zhang, Feihu Che, Zhengqi Wen, Chonghua Liao, Ling Yang, Haoran Luo, Zheng Lian, Jianhua Tao
+- **CriticLean: Critic-Guided Reinforcement Learning for Mathematical Formalization** — Zhongyuan Peng, Yifan Yao, Kaijing Ma, Shuyue Guo, Yizhe Li, Yichi Zhang, Chenchen Zhang, Yifan Zhang, Zhouliang Yu, Luming Li, Minghao Liu, Yihang Xia, Jiawei Shen, Yuchen Wu, Yixin Cao, Zhaoxiang Zhang, Wenhao Huang, Jiaheng Liu, Ge Zhang
+- **CiPO: Counterfactual Unlearning for Large Reasoning Models through Iterative Preference Optimization** — Junyi Li, Yongqiang Chen, Ningning Ding
+- **Optimizing Length Compression in Large Reasoning Models** — Zhengxiang Cheng, Dongping Chen, Mingyang Fu, Tianyi Zhou
+- **Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics** — Jinu Lee, Kyoung-Woon On, Simeng Han, Arman Cohan, Julia Hockenmaier
+- **COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context** — Guangya Wan, Mingyang Ling, Xiaoqi Ren, Rujun Han, Sheng Li, Zizhao Zhang
+- **BracketRank: Large Language Model Document Ranking via Reasoning-based Competitive Elimination** — Abdelrahman Abdallah, Mohammed Ali, Bhawna Piryani, Adam Jatowt
+- **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning** — Bo Li, Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye
+- **Between a Rock and a Hard Place: The Tension Between Ethical Reasoning and Safety Alignment in LLMs** — Shei Pern Chua, Zhen Leng Thai, Kai Jun Teh, Xiao Li, Qibing Ren, Xiaolin Hu
+- **Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models** — Yang Liu, Hongming Li, Melissa Xiaohui Qin, Chao Huang, Qiankun Liu
+- **RADO: Reasoning Audit-Driven Optimization for Rigorous Reasoning in High-Stakes Domains** — Zhijie Tan, Xu Chu, Guanyu Wang, Ziyu Li, Weiping Li, Tong Mo
+- **D²Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning** — Kangcheng Luo, Tinglang Wu, Yansong Feng
+- **Simple-VGC: Enhancing Visual Grounding in Multimodal Reasoning via Adaptive Tool Composition** — Ye Wang, Qianglong Chen, Siyuan Wang, Zejun Li, Shijie Guo, Zhirui Zhang, Zhongyu Wei
+- **Look Less, Reason More: Rollout-Guided Adaptive Pixel-Space Reasoning** — Xuchen Li, Xuzhao Li, Jiahui Gao, Renjie Pi, Shiyu Hu, Wentao Zhang
+- **PILOT: Planning via Internalized Latent Optimization Trajectories for Large Language Models** — Haoyu Zheng, Yun Zhu, Yuqian Yuan, Bo Yuan, Wenqiao Zhang, Siliang Tang, Jun Xiao
+- **Miner: Mining Intrinsic Mastery for Data-Efficient RL in Large Reasoning Models** — Shuyang Jiang, Yuhao Wang, Ya Zhang, Yanfeng Wang, Yu Wang
+- **Reasoning Structure Matters for Safety Alignment of Reasoning Models** — Yeonjun In, Wonjoong Kim, Sangwu Park, Chanyoung Park
+- **LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation** — Yilin Xiao, Jin Chen, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang
+- **Modeling Human-Like Cognition for Stance Detection: Integrating Intuitive Judgment and Analytical Reasoning** — Zhaodan Zhang, Jin Zhang, Jiafeng Guo, Xueqi Cheng
+- **Logical Consistency as a Bridge: Improving LLM Hallucination Detection via Label Constraint Modeling between Responses and Self-Judgments** — Hao Mi, Qiang Sheng, Shaofei Wang, Beizhe Hu, Yifan Sun, Zhengjia Wang, Hengqi Zeng, Yang Li, Danding Wang, Juan Cao
+- **TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs** — Ziyi Wang, Chen Zhang, Wenjun Peng, Qi Wu, Xinyu Wang
+- **DeReA: Improving Idiom Translation with Detect-Retrieve-Arbitrate Reasoning** — Rongqing Jiang, Xuebo Liu
+- **Visually-Guided Policy Optimization for Multimodal Reasoning** — Zengbin Wang, Feng Xiong, Liang Lin, Xuecai Hu, Yong Wang, Yanlin Wang, Man Zhang, Xiangxiang Chu
+- **From “Aha Moments” to Controllable Thinking: Toward Meta-Cognitive Reasoning in LRMs via Decoupled Reasoning and Control** — Rui Ha, Rui Pu, Chaozhuo Li, Li Sun, Sen Su
+- **Metaphor Reasoning is Meta-reasoning** — Qianyu He, Junting Lu, Yikai Zhang, Siyu Yuan, Xiaojun Meng, Jiansheng Wei, Jiaqing Liang, Yanghua Xiao
+- **SeLaR: Selective Latent Reasoning in Large Language Models** — Renyu Fu, Guibo Luo
+- **STRIDE-ED: A Strategy-Grounded Stepwise Reasoning Framework for Empathetic Dialogue Systems** — Hongru Ji, Yuyin Fan, Meng Zhao, Xianghua Li, Lianwei Wu, Chao Gao
+- **Planning-Guided Tutoring with Assessment-Driven Memory for Pedagogical LLM Tutors** — Zechen Li, Qiannan Zhu, Mei Wang, Jia Li, Hua Huang
+- **MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning** — Tao Zhang, Ziqian Zeng, Hao Peng, Huiping Zhuang, Cen Chen
+- **Beyond Timestamps: Bridging Forward and Backward Reasoning in Temporal Numerical and Relational Understanding** — Xinying Qian, Ying Zhang, Xuhui Sui, Yu Zhao, Baohang Zhou, Jeff Z. Pan
+- **Reasoning Over Space: Enabling Geographic Reasoning for LLM-Based Generative Next POI Recommendation** — Dongyi Lv, Qiuyu Ding, Heng-Da Xu, Zhaoxu Sun, Zhi Wang, Feng Xiong, Mu Xu
+- **ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration** — Yifei Chen, Guanting Dong, Zhicheng Dou
+- **DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints** — Yinger Zhang, Shutong Jiang, Renhao Li, Jianhong Tu, Yang Su, Lianghao Deng, Xudong Guo, ChenXu Lv, Junyang Lin
+- **Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning** — QishengSu, Shiting Huang, Zhen Fang, Ziyan Chen, Zehui Chen, Feng Zhao
+- **VideoPro: Adaptive Program Reasoning for Long Video Understanding** — Chenglin Li, Feng Han, Yikun Wang, Ruilin Li, Shuai Dong, Haowen Hou, Haitao Li, Qianglong Chen, FengTao, Jingqi Tong, Yin Zhang, Jiaqi Wang
+- **ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch** — Zheng Liu, Honglin Lin, Xiaoyang Wang, Xin Gao, Yu Li, Mengzhang Cai, Yun Zhu, Zhanping Zhong, Qizhi Pei, Zhuoshi Pan, Xiaoran Shang, Conghui He, Bin Cui, Wentao Zhang, Lijun Wu
+- **LePREC: Reasoning as Classification over Structured Factors for Assessing Relevance of Legal Issues** — Fanyu Wang, Xiaoxi Kang, Paul Burgess, Aashish Srivastava, Chetan Arora, Adnan Trakic, Lay-Ki Soon, Md Khalid Hossain, Lizhen Qu
+- **DART: Disambiguation-Aware Reasoning for Video-guided Machine Translation** — Boyu Guan, Chuang Han, Yang Zhao, Chengqing Zong
+- **SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks** — Tianyi Wang, Yixia Li, Long Li, Yibiao Chen, Shaohan Huang, Yun Chen, Peng Li, Yang Liu, Guanhua Chen
+- **ChessArena: A Chess Testbed for Evaluating Strategic Reasoning Capabilities of Large Language Models** — Jincheng Liu, Sijun He, Jingjing Wu, Xiangsen Wang, Yang Chen, Zhaoqi Kuang, Siqi Bao, Yuan Yao
+- **Do Not Step Into the Same River Twice: Learning to Reason from Trial and Error** — Chenming Tang, Hsiu-Yuan Huang, Weijie Liu, Clive Bai, Saiyong Yang, Yunfang Wu
+- **Dynamic Long Context Reasoning over Compressed Memory via End-to-End Reinforcement Learning** — Zhuoen Chen, Dongfang Li, Meishan Zhang, Baotian Hu, Min Zhang
+- **The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination** — Chenlong Yin, Zeyang Sha, Shiwen Cui, Changhua Meng, Zechao Li
+- **AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios** — Lisa Alazraki, Lihu Chen, Ana Brassard, Joe Stacey, Hossein A. Rahmani, Marek Rei
+- **Reasoning with OmniThought: A Large CoT Dataset with Verbosity and Cognitive Difficulty Annotations** — Wenrui Cai, Chengyu Wang, Junbing Yan, Jun Huang, Xiangzhong Fang
+- **ReportLogic: Evaluating Logical Quality in Deep Research Reports** — Jujia Zhao, Zhaoxin Huan, Zihan Wang, Xiaolu Zhang, Jun Zhou, Suzan Verberne, Zhaochun Ren
+- **Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do** — Zhuoran Jin, Kejian Zhu, Hongbang Yuan, Yupu Hao, Pengfei Cao, Yubo Chen, Kang Liu, Jun Zhao
+- **Revisiting Model Interpolation for Efficient Reasoning** — Taiqiang Wu, Runming Yang, Tao Liu, Jiahao Wang, Ngai Wong
+- **MirageBackdoor: A Stealthy Attack that Induces Think-Well-Answer-Wrong Reasoning** — Yizhe Zeng, Wei Zhang, Yunpeng Li, Juxin Xiao, Xiao Wang, Yuling Liu
+- **Gained in Translation: Privileged Pairwise Judges Enhance Multilingual Reasoning** — Lintang Sutawika, Gokul Swamy, Steven Wu, Graham Neubig
+- **From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level** — Jia Li, Yuxin Su, Michael R. Lyu
+- **Dissecting Failure Dynamics in Large Language Model Reasoning** — Wei Zhu, Jian Zhang, Lixing Yu, Kun Yue, Zhiwen Tang
+- **Visual Attention Reasoning via Hierarchical Search and Self-Verification** — Wei Cai, Jian Zhao, Yuchen Yuan, Tianle Zhang, Ming Zhu, Haichuan Tang, Xuelong Li
+- **LearnerCoMPASS: Intelligent Tutoring System with Dynamic Cognitive Diagnosis and Multi-Model Path Planning** — Ziji Sheng, Guiyao Tie, Weidong Wang, Pan Zhou, Daizong Liu
+- **KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning** — Jingjiang Liu, Jia Zhu, Hanghui Guo, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu
+- **CityCube: Benchmarking Cross-view Spatial Reasoning on Vision-Language Models in Urban Environments** — Haotian Xu, Yue Hu, Zhengqiu Zhu, Chen Gao, Ziyou Wang, Junreng Rao, Wenhao Lu, Weishi Li, Quanjun Yin, Yong Li
+- **Empathy in Diversity: Personalized Depression and Anxiety Therapy via Dialogue State Tracking and Patient-Aware Planning** — Xinwei Yang, Junyi Fan, Yuqing Liu, Jiaxuan Wang, Jiashuai Zhang, Hongru Liang, Wenqiang Lei, Yao Song
+- **PAM: Enhancing General Alignment of Large Reasoning Models through Priority-Aware Metacognition** — Zhihao Xu, Fuzhen Yang, Liang Lin, Xiting Wang
+- **MuSe: Multi-Stage Graph Reasoning via Vision-Language Models** — Guanyu Wang, Xu Chu, Zhijie Tan, Xinrong Chen, Tong Mo, Weiping Li
+- **Where and What: Reasoning Dynamic and Implicit Preferences in Situated Conversational Recommendation** — Dongding Lin, Jian Wang, Yongqi Li, Wenjie Li
+- **Mind the (DH) Gap! A Contrast in Risky Choices Between Reasoning and Conversational LLMs** — Luise Ge, Yongyan Zhang, Yevgeniy Vorobeychik
+- **Beyond Single-View Detection: A Dual-Space Reasoning Framework for Interpretable Harmful Meme Understanding** — Wenqing Hou, Hongkui Tu, Ye Wang, Yue Zhang, Yuying Liu, Dong Zhu, Liqun Gao, Bin Zhou
+- **Unified Thinker: A General Reasoning Core for Image Generation** — Sashuai Zhou, Qiang Zhou, Jijin Hu, Hanqing Yang, Yue Cao, Junpeng Ma, Yinchao Ma, Jun Song, Tiezheng Ge, Cheng Yu, Bo Zheng, Zhou Zhao
+- **Beyond Word Boundaries: A Hebrew Coreference Benchmark and an Evaluation Protocol for Morphologically Complex Text** — Refael Shaked Greenfeld, Reut Tsarfaty
+- **Reasoning with Ontology Graph: Toward Type-Constrained Knowledge Graph Question Answering** — Yongxue Shan, Jie Peng, Zixuan Dong, Fei Hu, Xiaodong Wang
+- **Critical-CoT: A Robust Defense Framework against Reasoning-Level Backdoor Attacks in Large Language Models** — Vu Tuan Truong, Long Bao Le
+- **Learning from Contrasts: Synthesizing Reasoning Paths from Diverse Search Trajectories** — Peiyang Liu, Zhirui Chen, Xi Wang, Di Liang, Youru Li, Zhi Cai, Wei Ye
+- **Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning** — Qiao Liang, Yuke Zhu, Chao Ge, Lei Yang, Ying Shen, Bo Zheng, Sheng Guo
+- **ProgressLM: Towards Progress Reasoning in Vision-Language Models** — Jianshu Zhang, Chengxuan Qian, Haosen Sun, Haoran Lu, Dingcheng Wang, Letian Xue, Han Liu
+- **Forest Before Trees: Latent Superposition for Efficient Visual Reasoning** — Yubo Wang, Juntian Zhang, Yichen Wu, Yankai Lin, Nils Lukas, Yuhan Liu
+- **SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning** — Lichao Wang, Zhaoxing Ren, Tianzhuo Yang, Jiaming Ji, Chi Harold Liu, Yaodong Yang, Juntao Dai
+- **Efficient Test-Time Scaling of Multi-Step Reasoning by Probing Internal States of Large Language Models** — Ekaterina Fadeeva, Tianyi Wu, Mubashara Akhtar, Jiaheng Zhang, Elliott Ash, Markus Leippold, Timothy Baldwin, See-Kiong Ng, Artem Shelmanov, Mrinmaya Sachan
+- **Why Do Emotions Change? Appraisal-Guided Reasoning for Emotion–Cause Triplet Extraction in Conversations** — Qiao Liang, Ying Shen, Yao Liu, Tiantian Chen, Lin Zhang
+- **MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching** — Changle Qu, Sunhao Dai, Hengyi Cai, Jun Xu, Shuaiqiang Wang, Dawei Yin
+- **Reasoning Gets Harder for LLMs Inside A Dialogue** — Ivan Kartáč, Mateusz Lango, Ondřej Dušek
+- **Deriving Character Logic from Storyline as Codified Decision Trees** — Letian Peng, Kun Zhou, Longfei Yun, Yupeng Hou, Jingbo Shang
+- **From Form to Logic: Masked Reconstruction and Reasoning Distillation for Short Video Fake News Detection** — Qingyan Wang, Lianwei Wu, Botao Wang, Kang Wang, Yaxiong Wang
+- **UR²: Unify RAG and Reasoning through Reinforcement Learning** — Weitao Li, Boran Xiang, Xiaolong Wang, Jingyi Ren, Ante Wang, Zhinan Gou, Weizhi Ma, Yang Liu
+- **Mathematical Proof as a Litmus Test: Revealing Failure Modes of Advanced Large Reasoning Models** — Dadi Guo, Jiayu Liu, Zhiyuan Fan, Zhitao He, Haoran Li, Yuxin Li, Yumeng Wang, Yi R. Fung
+- **CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents** — Jiayu Liu, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung
+- **Decoding Scientific Experimental Images: The SPUR Benchmark for Perception, Understanding, and Reasoning** — Junpeng Ding, Zichen Tang, Haihong E, Mengyuan Ji, Yang Liu, Haolin Tian, Haiyang Sun, Pengqi Sun, Yang Xu, Yichen Liu, Haocheng Gao, Zijie Xi, Ruomeng Jiang, Peizhi Zhao, Rongjin Li, Yuanze Li, Jiacheng Liu, Zhongjun Yang, Jintong Chen, Siying Lin
+- **Interleaved Tool-Call Reasoning for Protein Function Understanding** — Chuanliu Fan, Zicheng Ma, Huanran Meng, Aijia Zhang, Wenjie Du, Jun Zhang, Ziqiang Cao, Guohong Fu
+- **GLARE: Agentic Reasoning for Legal Judgment Prediction** — Xinyu Yang, Chenlong Deng, Zhicheng Dou
+- **Answering the Wrong Question: Reasoning Trace Inversion for Abstention in LLMs** — Abinitha Gourabathina, Inkit Padhi, Manish Nagireddy, Subhajit Chaudhury, Prasanna Sattigeri
+- **Learning While Staying Curious: Entropy-Preserving Supervised Fine-Tuning via Adaptive Self-Distillation for Large Reasoning Models** — Hao Wang, Hao Gu, Hongming Piao, Kaixiong Gong, Yuxiao Ye, Xiangyu Yue, Sirui Han, Yike Guo, Dapeng Wu
+- **Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning** — Jiacheng Hua, Yishu Yin, Yuhang Wu, Tai Wang, Yifei Huang, Miao Liu
+- **ExecVerify: White-Box RL with Verifiable Stepwise Rewards for Code Execution Reasoning** — Lingxiao Tang, He Ye, Zhaoyang Chu, Muyang Ye, Zhongxin Liu, Xiaoxue Ren, Lingfeng Bao
+- **Mitigating Legal Hallucinations via Symbolic Constraints and Analogical Precedents** — Zixuan Huang, Yanxiang Ma, Luhan Wang, Yunke Wang, Duo Shi, Chang Xu
+- **How Tokenization Limits Phonological Knowledge Representation in Language Models and How to Improve Them** — Disen Liao, Freda Shi
+- **From Answers to Arguments: Toward Trustworthy Clinical Diagnostic Reasoning with Toulmin-Guided Curriculum Goal-Conditioned Learning** — Chen Zhan, Xiaoyu Tan, Gengchen Ma, Yu-Jie Xiong, Xiaoyan Jiang, Xihe Qiu
+- **DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing** — Qian Cao, Yahui Liu, Wei Bi, Yi Zhao, Ruihua Song, Xiting Wang, Ruiming Tang, Guorui Zhou, Han Li
+- **Discovery and Reinforcement of Tool-Integrated Reasoning Chains via Rollout Trees** — Kun Li, Zenan Xu, Junan Li, Zengrui Jin, Jinghao Deng, Zexuan Qiu, Bo Zhou
+- **When Identity Skews Debate: Anonymization for Bias-Reduced Multi-Agent Reasoning** — Hyeong Kyu Choi, Jerry Zhu, Sharon Li
+- **DisCal: Distribution-Aware Calibration for Mathematical Reasoning Under Character-Level Noisy Inputs** — Bo Zhang, Jiawei Zhang, Cong Gao, Bingxu Han, Minghao Hu, Jun Zhang, Yunbo Cao, Zhunchen Luo, Wen Yao, Guotong Geng, Zhong Wang
+- **FinChain: A Symbolic Benchmark for Verifiable Chain-of-Thought Financial Reasoning** — Zhuohan Xie, Daniil Orel, Rushil Thareja, Dhruv Sahnan, Hachem Madmoun, Fan Zhang, Debopriyo Banerjee, Georgi Nenkov Georgiev, Xueqing Peng, Lingfei Qian, Jimin Huang, Jinyan Su, Aaryamonvikram Singh, Rui Xing, Rania Elbadry, Chen Xu, Haonan Li, Fajri Koto, Ivan Koychev, Tanmoy Chakraborty, Yuxia Wang, Salem Lahlou, Veselin Stoyanov, Sophia Ananiadou, Preslav Nakov
+- **Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts** — Riyang Bao, Cheng Yang, Dazhou Yu, Zhexiang Tang, Gengchen Mai, Liang Zhao
+- **Too Correct to Learn: Reinforcement Learning on Saturated Reasoning Data** — Zhenwen Liang, Yujun Zhou, Sidi Lu, Xiangliang Zhang, Haitao Mi, Dong Yu
+- **PRIME: A Process-Outcome Alignment Benchmark for Verifiable Reasoning in Mathematics and Engineering** — Yuanhao Ding, Meimingwei Li, Esteban Garces Arias, Matthias Aßenmacher, Christian Heumann, Chongsheng ZHANG
+- **ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents** — Yujan Ting, Xu Tang, Terrence Chen, Weijing Huang
+- **Reliable Use of Lemmas via Eligibility Reasoning and Section‑Aware Reinforcement Learning** — Xiangfeng Wang, Hangyu Guo, Yanlin Lai, Mitt Huang, Liang Zhao, Chengyuan Yao, Yinmin Zhang, Qi Han, Xiaoxiao Ren, Chun Yuan, Tong Xu, Zheng Ge, Xiangyu Zhang, Daxin Jiang
+- **MalruleLib: Large-Scale Executable Misconception Reasoning with Step Traces for Modeling Student Thinking in Mathematics** — Jaspreet Ranjit, Hyundong Justin Cho, Claire J. Smerdon, Yoonsoo Nam, Myles Phung, Jonathan May, John R. Blosnich, Swabha Swayamdipta
+- **MedVerse: Efficient and Reliable Medical Reasoning via DAG-Structured Parallel Execution** — Mohit Raghavendra, Anisha Gunjal, Bing Liu, Yunzhong He
+- **STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning** — Saptarshi Ghosh, Tianyu Jiang
+- **Hallucination Detection in LLMs with Topological Divergence on Attention Graphs** — Juntong Ni, Shiyu Wang, Qi He, Ming Jin, Wei Jin
+- **CoG: Controllable Graph Reasoning via Relational Blueprints and Failure-Aware Refinement over Knowledge Graphs** — Shachar Don-Yehiya, Asaf Yehudai, Leshem Choshen, Omri Abend
+- **BiMind: A Dual-Head Reasoning Model with Attention-Geometry Adapter for Incorrect Information Detection** — Chahat Raj, Bowen Wei, Aylin Caliskan, Antonios Anastasopoulos, Ziwei Zhu
+- **Test-Time Reasoners Are Strategic Multiple-Choice Test-Takers** — Zhivar Sourati, Zheng Wang, Marianne Menglin Liu, Yazhe Hu, Mengqing Guo, Sujeeth Bharadwaj, Kyu J. Han, Tao Sheng, Sujith Ravi, Morteza Dehghani, Dan Roth
+- **Not All Tokens Matter: Towards Efficient LLM Reasoning via Token Significance in Reinforcement Learning** — Ziyuan Yang, Wenxuan Ding, Shangbin Feng, Yulia Tsvetkov
+- **MediEval: A Unified Medical Benchmark for Patient-Contextual and Knowledge-Grounded Reasoning in LLMs** — Yi Lin, Yihao Ding, Yonghui Wu, Yifan Peng
+- **The Path Not Taken: Duality in Reasoning about Program Execution** — Qi Li, Cheng-Long Wang, Yinzhi Cao, Di Wang
+- **APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI** — Nicolas Bougie, Gian Maria Marconi, Xiaotong Ye, Narimasa Watanabe
+- **PubMed Reasoner: Dynamic Reasoning-based Retrieval for Evidence-Grounded Biomedical Question Answering** — Dayu Wang, Jiaye Yang, Weikang Li, Jiahui Liang, Yang Li, Deguo Xia, Jizhou Huang
+- **From Query to Counsel: Structured Reasoning with a Multi-Agent Framework and Dataset for Legal Consultation** — Jinbiao Wei, Yilun Zhao, Kangqi Ni, Arman Cohan
+- **SceneAlign: Aligning Multimodal Reasoning to Scene Graphs in Complex Visual Scenes** — Zizhen Wang, Bo Feng, Zhengfeng Lai, Shiyu Li, Yang Lu, Meng Cao, Ping Huang, Simon Wang
+- **Your Reasoning Model is Secretly a Reward Model - Optimization-Free Verification from Experience** — George Ma, Anurag Koul, Qi Chen, Yawen Wu, Sachit Kuhar, Yu Yu, Aritra Sengupta, Varun Kumar, Murali Krishna Ramanathan
+- **Challenging the Boundaries of Reasoning: An Olympiad-Level Math Benchmark for Large Language Models** — Jiaju Chen, Yuxuan Lu, Xiaojie Wang, Huimin Zeng, Jing Huang, Jiri Gesi, Ying Xu, Bingsheng Yao, Dakuo Wang
+- **Free Energy-Driven Reinforcement Learning with Adaptive Advantage Shaping for Unsupervised Reasoning in LLMs** — Siun Kim, Hyung-Jin Yoon
+- **ETR: Entropy Trend Reward for Efficient Chain-of-Thought Reasoning** — Yiming Huang, Zhenbo Shi, Xincheng Wen, Jichuan Zeng, Cuiyun Gao, Peiyi Han, Chuanyi Liu
+- **Immediate Inference: The Missing Foundation in Large Language Model Logical Reasoning** — Lin Zhong, Renjin Zhu, Shujuan Ma, Jinhao Cui, Lingzhi Wang, Hao Chen, Qing Liao
+- **LCR-RAG: Enhancing Logical Consistency in Retrieval-Augmented Generation via Neuro-symbolic Reinforcement Learning** — Yulong Wang, Yifei Fu, Jiayi Gao
+- **Efficiently Learning To Reason or Not to Reason: Root-token Policy Optimization for Adaptive Thinking** — Wenxiang Zheng, Guo Tang, Shixin Jiang, Liangyu Huo, Xiyuan Zhang, Jian Xie, Ming Liu
+- **Long-Chain Reasoning Distillation via Adaptive Prefix Alignment** — Yun He, Wenzhe Li, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Xiaoliang Peng, Beibin Li, Shengjie Bi, Shishir G Patil, Qi Qi, Shengyu Feng, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Kumar Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Hassan Awadalla, Manaal Faruqui
+- **TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only** — Shaoqi Wang, Lu Yu, Siwei Lou, Feng Yan, Chunjie Yang, Qing Cui, Jun Zhou
+- **Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks** — Xingyue Huang, Xueying Ding, Mingxuan Ju, Yozen Liu, Neil Shah, Tong Zhao
+- **Model-Based Imaginative Planning for Embodied Agents** — Shikhar Bharadwaj, Chin-Jou Li, Yoonjae Kim, Kwanghee Choi, Eunjung Yeo, Ryan Soh-Eun Shim, Hanyu Zhou, Brendon Boldt, Karen Rosero, Kalvin Chang, Darsh Agrawal, Keer Xu, Chao-Han Huck Yang, Jian Zhu, Shinji Watanabe, David R. Mortensen
+- **Semantic-Aware Logical Reasoning via a Semiotic Framework** — Jingru Li, Wei Ren, Tianqing Zhu
+- **Calibration-Aware Policy Optimization for Reasoning LLMs** — Jiali Chen, DingBa Fu, Xusen Hei, Yuhang Liu, Yiyang Chen, Jiayuan Xie, Wenqi Fan, Yi Cai
+- **Branch-and-Browse: Efficient and Controllable Web Exploration with Tree-Structured Reasoning and Action Memory** — Ziqi Wang, Xingzhou Lou, Meiqi Wu, Zhengqi Wen, Junge Zhang
+- **ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering** — Yulong Wang, Siyu Zhao
+- **Curing Miracle Steps in LLM Mathematical Reasoning with Rubric Rewards** — Yitong Wang, Xue Han, WenChun Gao, Qian Hu, Jiahui Wang, Ziqing Wang, Lijun Mei, Junlan Feng
+- **Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search** — Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Sumitra Ganesh
+- **Closing the Modality Reasoning Gap for Speech Large Language Models** — Jianghao Lin, Yuanyuan Shi, Xin Peng, Renjie Ding, Hairui Wang, Yuxuan Peng, Bizhe Bai, Weixi Song, Fengshuo Bai, Huacan Chai, Weinan Zhang, Fei Huang, Ying Wen
+- **Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning** — Tenghao Huang, Kung-Hsiang Huang, Prafulla Kumar Choubey, Yilun Zhou, Muhao Chen, Jonathan May, Chien-Sheng Wu
+- **Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations** — Atsuki Yamaguchi, Terufumi Morishita, Aline Villavicencio, Nikolaos Aletras
+- **StoryCoder: Narrative Reformulation for Structured Reasoning in LLM Code Generation** — Xueying Ding, Xingyue Huang, Mingxuan Ju, Liam Collins, Yozen Liu, Leman Akoglu, Neil Shah, Tong Zhao
+- **ODL-TempLLM: Ontology-Guided and Description Logic-Reasoned Temporal Reasoning with LLMs** — Ya Su, Hu zhang, Dan Qiao, YuJie Wang, Yunxiao Zhao, Yue Fan, Shike Li, Ru Li, Hongye Tan
+- **Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning** — XuanrenChen, Chongyang Tao, Tao Shen, Shuai Ma
+- **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation** — Jiaxi Bi, Tongxu Luo, Wenyu Du, Zhengyang Tang, Benyou Wang
+- **Progressive Multimodal Search and Reasoning for Knowledge-Intensive Visual Question Answering** — Yuhao Shen, Tianyu Liu, Junyi Shen, Jinyang Wu, Quan Kong, Huan Li, Cong Wang
+- **RFS-Guard: Detecting Reasoning Hallucinations via Cross-Phase Routing Focus in Large Reasoning Models** — Xinda Wang, Zhengxu Hou, Yangshijie Zhang, Bingren Yan, Jialin Liu, Chenzhuo Zhao, Zhibo Yang, Bin-Bin Yang, Feng Xiao
+- **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring** — Zihang Liu, Zhouhua Fang, Hui Liu, Zhiwei Liu, Yong Li, Haishuai Wang
+- **Stratagem: Learning Transferable Reasoning via Trajectory-Modulated Game Self-Play** — Masato Mita, Taiga Someya, Ryo Yoshida, Yohei Oseki
+- **HTMR: Hybrid Token Masking Reinforcement Learning with Verifiable Rewards for Event Argument Extraction with Multi-Perspective Reasoning** — Weixiao Zhan, Yongcheng Jing, Leszek Rutkowski, Dacheng Tao
+- **Why LLMs Hallucinate on Structured Knowledge: A Mechanistic Analysis of Reasoning over Linearized Representations** — Mengzhuo Chen, Junjie Wang, Fangwen Mu, Yawen Wang, Zhe Liu, Huanxiang Feng, Qing Wang
+- **Merlin’s Whisper: Enabling Efficient Reasoning in Large Language Models via Black-box Persuasive Prompting** — Shuyang Hou, Yi Hu, Muhan Zhang
+- **Less is More: Improving LLM Reasoning with Minimal Test-Time Intervention** — Hanwen Shen, Ting Ying, Jiajie Lu, Shanshan Wang
+- **Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration** — Hanjun Cho, Jay-Yoon Lee
+- **The Paradox of Outcome Optimization: A Causal Information-Theoretic Bound on Reasoning Shortcuts in LLMs** — Yuanjian Xu, Tianze Sun, Changwei Xu, XinLong Zhao, Jianing Hao, Ran Chen, Yang Liu, Ruijie Xu, Stephen Chen, Guang Zhang
+- **ReEfBench: Quantifying the Reasoning Efficiency of LLMs** — Zikang Liu, Peilan Xu
+- **Beyond the Last Frame: Process-aware Evaluation for Generative Video Reasoning** — Mingze Xu, Zijing Zhao, Qiming Peng, Houwen Peng, Han Hu, Zhanhui Kang, Yuxing Han
+- **THOR: A Theta-Gamma Hierarchical Oscillatory Reasoning Framework for Multi-hop QA** — Shuyao Xiao, Shengling Wang, Ke Chao
+- **How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study** — Yifan Li, YuKai Gu, Yingqian Min, Zikang Liu, Yifan Du, Kun Zhou, Min Yang, Xin Zhao, Minghui Qiu
+- **AnchorSeg: Language Grounded Query Banks for Reasoning Segmentation** — Zhexin Zhang, Xian Qi Loye, Victor Shea-Jay Huang, Junxiao Yang, Qi Zhu, Shiyao Cui, Fei Mi, Lifeng Shang, Yingkang Wang, Hongning Wang, Minlie Huang
+- **Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning** — Congchi Yin, Ziyi Ye, Piji Li
+- **Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning** — Zihao Cheng, Zeming Liu, YingyuShan, Xinyi Wang, Xiangrong Zhu, Yunpu Ma, Hongru Wang, Yuhang Guo, Wei Lin
+- **GeoArena: Evaluating Open-World Geographic Reasoning in Large Vision-Language Models** — Jiachen Qian
+- **ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning** — Runkai Li, Jia Xiong
+- **Controllable LLM Reasoning via Sparse Autoencoder‑Based Steering** — Ming Zhang, Yujiong Shen, Jingyi Deng, Yuhui Wang, Huayu Sha, Kexin Tan, Qiyuan Peng, Yue Zhang, Junzhe Wang, Shichun Liu, Yueyuan Huang, Jingqi Tong, Changhao Jiang, Yilong Wu, Zhihao Zhang, Mingqi Wu, Mingxu Chai, Zhiheng Xi, Shihan Dou, Tao Gui, Qi Zhang, Xuanjing Huang
+- **Tailoring Diagnostic Modeling to Individual Learners: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction** — Yi Yu, Liuyi Yao, Yuexiang Xie, Qingquan Tan, Jiaqi Feng, Yaliang Li, Libing Wu
+- **MTR-Bench: A Comprehensive Benchmark for Multi-Turn Reasoning Evaluation** — Huachen Qi, Ruiyu Zhuo, Bowen Shi, Xiang Chang, Fei Chao, Changjing Shang, Qiang Shen
+- **Step-GRPO: Internalizing Dynamic Early Exit for Efficient Reasoning** — Junjie Wang, Zequn Xie, Dan Yang, Jie Feng, Yue Shen, Duolin Sun, Meixiu Long, Yihan Jiao, Zhehao Tan, Jian Wang, Peng Wei, Jinjie Gu
+- **Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems** — Yueheng Mao, Min Yu, Gengwang Li, Jianguo Jiang, Gang Li, Meng Zhang, Zhen Xu, Weiqing Huang, Ming Liu
+- **ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability** — Ryan Saklad, Aman Chadha, Oleg Pavlov, Raha Moraffah
+- **MAGIC: Deep Geometric Evolution with Structural Consensus for Temporal Knowledge Graph Reasoning** — Jeffrey George Wang, Jason Wang, Marvin Li, Seth Neel
+- **Efficient Prior-Guided Reasoning for Robust Retrieval-Augmented Generation under Conflicts** — Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao
+- **MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents** — Minsik Oh, Jiwei Li, Guoyin Wang
+- **IRIS: Interleaved Reinforcement with Incremental Staged Curriculum for Cross-Lingual Mathematical Reasoning** — Shiying Fan, Mareike Bassenge, Martin Steinebach
+- **Learning from Cognition: Enhancing RL Efficiency for LLM Reasoning via Hierarchical Metacognitive Decomposition and Refinement** — Binxing Xu, Hao Gu, Lujun Li, Hao Wang, Bei Liu, Jiacheng Liu, Qiyuan Zhu, Xintong Yang, Chao Li, Sirui Han, Yike Guo
+- **EpiCaR: Knowing What You Don’t Know Matters for Better Reasoning in LLMs** — Mingzhe Lu, Yiwen Wang, Yanbing Liu, Qi You, Chong Liu, Ruize Qin, Haoyu Dong, Wenyu Zhang, JiaRui Zhang, Yue Hu, Yunpeng Li
+- **Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier Math** — Kazutoshi Shinoda, Kosuke Nishida, Kyosuke Nishida
+- **NeuReasoner: Towards Explainable, Controllable, and Unified Reasoning via Mixture-of-Neurons** — Shrey Pandit, Austin Xu, Xuan-Phi Nguyen, Yifei Ming, Caiming Xiong, Shafiq Joty
+- **Red Teaming Large Reasoning Models** — Yuting Zhang, Kai Wang, Wei Ni, Ying Zhang, Wenjie Zhang
+- **InsLogicBench: An Argumentation Logic Grounded Benchmark for Complex Insurance Claims Adjudication** — Haonan Dong, Kehan Jiang, Haoran Ye, Wenhao Zhu, Zhaolu Kang, Guojie Song
+- **SPIO: Ensemble and Selective Strategies via LLM-Based Multi-Agent Planning in Automated Data Science** — Shagun Dwivedi, Kaushik Gopalan
+- **Anti-Length Shift: Dynamic Outlier Truncation for Training Efficient Reasoning Models** — Rui Song, Lida Shi, Ruihua Qi, Yingji Li, Hao Xu
+- **CamoQuery: Language-Guided Reasoning Camouflaged Object Segmentation** — Wenhao Gao, Tianlong Wang, Wei Jia, Linhao Zhang, Aiwei Liu, Miao Fan, Zhou Xiao
+- **Make LLMs See Like Investigators, Not Just Think More: The Role of Structured Analysis in Investigative Reasoning** — Jungmin Lee, Peizhuo Lv, Yeonjoon Lee
+- **MUR: Momentum Uncertainty guided Reasoning for Large Language Models** — Shidong Yang, Ziyu Ma, Tongwen Huang, Yiming Hu, Yong Wang, Xiangxiang Chu
+- **PEAP: Proactive Embodied Action Sequence Planning with Joint Understanding of Vision and Audio Perception** — Erum Mushtaq, Anil Ramakrishna, Satyapriya Krishna, Sattvik Sahai, Prasoon Goyal, Kai-Wei Chang, Tao Zhang, Rahul Gupta
+- **Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling** — Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Anh Tuan Luu, Haiteng Zhao, Qika Lin, Jun Liu
+- **MMTutorBench: The First Multimodal Benchmark for AI Math Tutoring** — Minsung Kim, Dong-Kyum Kim, Jea Kwon, Nakyeong Yang, Kyomin Jung, Meeyoung Cha
+- **Are they lovers or friends? Evaluating LLMs’ Social Reasoning in English and Korean Dialogues** — Hong Ting Tsang, Jiaxin Bai, Haoyu Huang, Qiao Xiao, Tianshi Zheng, Baixuan Xu, Shujie Liu, Yangqiu Song
+- **When Is Thinking Enough? Early Exit via Sufficiency Assessment for Efficient Reasoning** — Yu-An Liu, Ruqing Zhang, Hongru Song, Jiafeng Guo, Yixing Fan, Xueqi Cheng
+- **ASTRA: Adaptive Semantic Tree Reasoning Architecture for Complex Table Question Answering** — Jinhong Jeong, Junghun Park, Youngjae Yu
+- **LegalChainReasoner: Grounding Criminal Judicial Opinion Generation via Structured Legal Chains** — ChenZhuo Zhao, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
+- **Beyond Meta-Reasoning: Metacognitive Consolidation for Self-Improving LLM Reasoning** — Zhixuan Yang, Fu Zhang, Huangming Xu, Jingwei Cheng
+- **ADAPT: Benchmarking Commonsense Planning under Unspecified Affordance Constraints** — Kyomin Hwang, Hyeonjin Kim, Sangyeon Cho, Nojun Kwak
+- **Truth or Sophistry? LoFa: A Benchmark for LLM Robustness Against Logical Fallacies** — Weicai Yan, Xinhua Ma, Wang Lin, Tao Jin
+- **SHAPE: Stage-aware Hierarchical Advantage via Potential Estimation for LLM Reasoning** — Jiaying Zhang, Lei Shi, Jiguo Li, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He
+- **Ascending the Infinite Ladder: Benchmarking Spatial Deformation Reasoning in Vision-Language Models** — Yuchong Chen, Bowei Zou, Yuhan Chen, Yifan Fan, Xinyu Li, Shujun Cao, Yu Hong
+- **WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models** — Mingxiang Tao, Yu Tian, Wenxuan Tu, Yue Yang, Xue Yang, Xiangyan Tang
+- **Good Arguments Against the People Pleasers: How Reasoning Mitigates (Yet Masks) LLM Sycophancy** — Kangyang Luo, Yuzhuo Bai, Shuzheng Si, Cheng Gao, Zhitong Wang, Yingli Shen, Wenhao Li, Zhu Liu, Yufeng Han, Jiayi Wu, Cunliang Kong, Maosong Sun
+- **FoE: Forest of Errors Makes the First Solution the Best in Large Reasoning Models** — Rui Wang, Ce Zhang, Jun-Yu Ma, Jianshu Zhang, Hongru WANG, Yi Chen, Boyang XUE, Tianqing Fang, Zhisong Zhang, Hongming Zhang, Haitao Mi, Dong Yu, Kam-Fai Wong
+- **Adaptive Spatial and Temporal Redundancy Optimization for Efficient Reasoning in Large Language Models** — Zhaoxin Feng, Zheng CHEN, Jianfei Ma, Yip Tin Po, Emmanuele Chersoni, Bo Li
+- **AAPO: Enhancing the Reasoning Capabilities of LLMs with Advantage Margin** — Bryan Chen Zhengyu Tan, Zhengyuan Liu, Xiaoyuan Yi, Jing Yao, Xing Xie, Nancy F. Chen, Roy Ka-Wei Lee
+- **Outcome-Grounded Advantage Reshaping for Fine-Grained Credit Assignment in Mathematical Reasoning** — Kehan Jiang, Haonan Dong, Zhaolu Kang, Zhengzhou Zhu, Guojie Song
+- **PARIF: Pushing the Pareto Frontier of Instruction Following and Reasoning with Curriculum Reinforcement Learning** — Ziheng Li, Liu Kang, Feng Xiao, Luxi Xing, Qingyi Si, Zhuoran Li, Weikang Gong, Deqing Yang, Yanghua Xiao, Hongcheng Guo
+- **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** — Fengqing Jiang, Yichen Feng, Yuetai Li, Luyao Niu, Basel Alomair, Radha Poovendran
+- **MED-COREASONER: Reducing Language Disparities in Medical Reasoning via Language-Informed Co-Reasoning** — Yumeng Fu, Jiayin Zhu, Lingling Zhang, Wenjun Wu, Bo Zhao, Shaoxuan Ma, Yushun Zhang, Jun Liu
+- **Psyche-R1: Towards Reliable Psychological LLMs through Unified Empathy, Expertise, and Reasoning** — Qiming Li, Xiaocheng Feng, Yixuan Ma, Ruihan Chen, Zihe Tong, Zekai Ye, Xiachong Feng, Libo Qin, Haoyu Ren, Kun Chen, Yunfei Lu, Dandan Tu, Bing Qin
+- **Agentic Oversight via Dialectic Reasoning** — Ki Sen Hung, Xi Yang, Chang Liu, Haoran Li, Kejiang Chen, Changxuan Fan, Tsun On Kwok, Weiming Zhang, Xiaomeng Li, Yangqiu Song
+- **Agent Newsroom: Efficient Chronological Report Generation via Dynamic Multi-Agent Collaboration** — Xiangxi Zheng, Kuang He, Jiayi Hu, Ping Yu, Rui Yan, Yuan Yao, Peng Hou, Anxiang Zeng, Alex Jinpeng Wang
+- **MedForge: Interpretable Medical Deepfake Detection via Forgery-aware Reasoning** — Wen Luo, Guangyue Peng, Wei Li, Shaohang Wei, Feifan Song, Liang Wang, Nan Yang, Xingxing Zhang, Jing Jin, Furu Wei, Houfeng Wang
+- **From Logical to Computational Sparsity: Structure-Aware Block-Sparse Attention for Long-Code Completion** — Minghan Li, Junjie Zou, Xinxuan Lv, Chao Zhang, Guodong Zhou
+- **CogEvolve: A Multimodal Benchmark for Evaluating Relational Reasoning in Semantic Extension** — Choongwon Kang, Seungjong Sun, Hyunmin Jun, Jang Hyun Kim
+- **Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents** — Shize Zhou, Peiyu Liu, Lirong Fu, Tong Ye, Wenhai Wang
+- **Reasoning Fails Where Step Flow Breaks** — Fan Zhang, Shiming Fan, Hua Wang
+- **Efficient Paths and Dense Rewards: Probabilistic Flow Reasoning for Large Language Models** — Xiaowei Zhu, Yubing Ren, Fang Fang, Shi Wang, Yanan Cao, Li Guo
+- **ConfSpec: Efficient Step-Level Speculative Reasoning via Confidence-Gated Verification** — Xiangxu Zhang, Lei Li, Yanyun Zhou, Xiao Zhou, Yingying Zhang, Xian Wu
+- **SGVEF-LOOP: Coverage-Guided Progressive Topological Exploration and Fact-Grounded Metamorphic Evaluation for MCP Agents** — Rhea Kapur, Robert Hawkins, Elisa Kreiss
+- **MentalSeek-Dx: Towards Progressive Hypothetico-Deductive Reasoning for Real-world Psychiatric Diagnosis** — Siran Liu, Zane Cao, Yongchao He
+- **AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning** — Jiahao Xiong, Yihe Liu, Xianming Hu, Hongbo Zhao, Nuoyi Chen, Jie Zhang, Kai Zhang
+- **Data Pollination: An Emergent Ecological Process Driving AI Population Evolution** — Xiao Sun
+- **Extending First-Order Logic for Factual Reasoning over Knowledge Graphs** — Jinliang Liu, Jiale Bai, Shaoning Zeng
+- **Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning** — Xiping Li, Jianghong Ma
+- **LLM Reasoning as Trajectories: Step-Specific Representation Geometry and Correctness Signals** — Weipeng Jiang, Xiaoyu Zhang, Juan Zhai, Shiqing Ma, Chao Shen, Yang Liu
+- **The Evolution of Thought: Tracking LLM Overthinking via Reasoning Dynamics Analysis** — Yujie Chen, Tailai Chen, Yifeng Gao, Zoe Wanying He, Yijue Xu, Shaobo Wang, Linfeng Zhang
+- **ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering** — Hao Zhou, Tianhao Li, Zhijun Wang, Shuaijie She, Linjuan Wu, Hao-Ran Wei, Baosong Yang, Jiajun Chen, Shujian Huang
+- **PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning** — Yiwen Gao, Ruochen Zhao, Yang Deng, Wenxuan Zhang
+- **Stop When Enough: Adaptive Early-Stopping for Chain-of-Thought Reasoning** — Lei Wei, Xiao Peng, TT, Guannan Zhang, Chenhao Jiang, Hongyu Li, Lanbo Lin, Yuanwu Xu, Jiayao Liu, Kesu Wang, Bin Wang
+- **When Seeing Is not Enough: Revealing the Limits of Active Reasoning in MLLMs** — Jiahe Guo, Xiangran Guo, Yulin Hu, Zimo Long, Xingyu Sui, Xuda Zhi, Yongbo Huang, Hao He, Weixiang Zhao, Yanyan Zhao, Bing Qin
+- **Neo-Classic: A Benchmark for Evaluating Linguistic-Aesthetic Reasoning in Classical Chinese Poetry** — Hongcheng Liu, Pingjie Wang, Yuhao Wang, Siqu Ou, Yanfeng Wang, Yu Wang
+- **Achieving Multi-Hop Calculation and Safe Abstention in Financial Numerical Reasoning by Metric Graph Constrained LLMs** — Wangtao Sun, Haotian Xu, Huanxuan Liao, Xuanqing Yu, Zhongtao Jiang, Shizhu He, Jun Zhao, Kang Liu
+- **CompTab: A Comprehensive Benchmark for Real-World TableQA with Complex Reasoning and Irregular Tables** — Aafiya Hussain, Gaurav Srivastava, Alvi Ishmam, Zaber Hakim, Chris Thomas
+- **OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning** — Zhen Yang, Wei Du, Jie Wang, Wenze Zhou, Xiangfeng Meng, Zhengyang Wang, Suping Sun, Ziwei Du, Haodong Zou, Jie Chen, Yongbin Liu, Shicheng Tan, Jiahao Ying, Shu Zhao
+- **MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal Mathematical Reasoning** — Sheng Chen, Zhe Tang, Weixing Zhang, Fei Yang, Yuanyuan Wang, Tianlin Li, Yang Liu
+- **Process Reward Models Meet Planning: Generating Precise and Scalable Datasets for Step-Level Rewards** — Zeping Li, Hongru Wang, Yiwen Zhao, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai, Zhenfei Yin
+- **REST: Stress Testing Large Reasoning Models by Asking Multiple Problems at Once** — Raffaele Pisano, Roberto Navigli
+- **Temporal Sampling for Forgotten Reasoning in LLMs** — Chonghan Qin, Xiachong Feng, Weitao Ma, Xiaocheng Feng, Lingpeng Kong
+- **Cultivating Forensic Reasoning for Generalizable Multimodal Manipulation Detection** — Pierre Fihey, Matthieu Labeau, Pavlo Mozharovskyi
+- **Think Faster Than Words: Efficient LLM Chain-of-Thought Reasoning via Dynamic Shortcut Decoding** — Charlotte Noel, Nicholas Asher, Olivier Gouvert, Farah Benamara, Julie Hunter
+- **Beyond Itinerary Planning—A Real-World Benchmark for Multi-Turn and Tool-Using Travel Tasks** — Changxin Ke, Rui Zhang, Jiaming Guo, Yuanbo Wen, Li Ding, Shuo Wang, Xuyuan Zhu, Xiong Peng, Di Huang, Zidong Du, Xing Hu, Qi Guo, Yunji Chen
+- **DIXITWORLD: Evaluating Multimodal Abductive Reasoning in Vision-Language Models with Multi-Agent Dixit Gameplay** — Xinyu Chen, Peifeng Li, Qiaoming Zhu
+- **Interleaved Latent Visual Reasoning with Selective Perceptual Modeling** — Weicheng Lin, Yi Zhang, Jiawei Dang, Liang-Jie Zhang
+- **Think before Go: Hierarchical Reasoning for Image-goal Navigation** — Yunxiang Mo, Tianshi Zheng, Qing Zong, Jiayu Liu, Baixuan Xu, Yauwai Yim, Chunkit Chan, Jiaxin Bai, Yangqiu Song
+- **CLARity: Reasoning Consistency Alone Can Teach Reinforced Experts** — Yuzhe Zhang, Feiran Liu, Yi Shan, Xinyi Huang, Xin Yang, Yueqi Zhu, Xuxin Cheng, Cao Liu, Ke Zeng, Terry Jingchen Zhang, Wenyuan Jiang
+- **Learning from Mistakes: Negative Reasoning Samples Enhance Out-of-Domain Generalization** — Ricardo Rei, Nuno M. Guerreiro, José Pombal, João Alves, Pedro Teixeirinha, Amin Farajian, André F. T. Martins
+- **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** — Wensheng Lu, Keyu Chen, Zhifeng Shen, Ruizhi Qiao, Xing Sun
+- **CoVerRL: Breaking the Consensus Trap in Label-Free Reasoning via Generator-Verifier Co-Evolution** — Andreas van Cranenburgh, Xiaoyan Yang, Alvanita, Cecilia Nicole Di Domenico, Maria Ferragud, Arianna Graciotti, Byungjun Kim, Seonyeong Park, Noa Visser Solissa, Xiaoyu Zhou, Federico Pianzola
+- **Less Languages, Less Tokens: An Efficient Unified Logic Cross-lingual Chain-of-Thought Reasoning Framework** — Ruihan Chen, Qiming Li, Xiaocheng Feng, Weihong Zhong, Xiaoliang Yang, Yuxuan Gu, Zekun Zhou, Yunfei Lu, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
+- **One Cognitive Loop Is Enough: SODA unlocks Pure-Text Spatial Reasoning in Large Language Models** — Lirong Gao, Zeqing Wang, Yuyan Cai, Jiayi Deng, Yanmei Gu, Yiming Zhang, Jia Zhou, Yanfei Zhang, Junbo Zhao
+- **Think Better, Not Longer: Token-Level Marginal Utility for Efficient Reasoning in Large Reasoning Models** — Shunwen Bai, Jiahuan Zhang, Haoran Huang, Yurun Wang, Jiale liu, Yanxi Wu, Ningzhe Yu, Yudong Gao, Mingjun Cheng
+- **Communicating in Emergent Language with an Induced Morphological Phrasebook** — Omar Naim, Swarnadeep Bhar, Jerome Bolte, Nicholas Asher
+- **Towards Interpretable Tabular Reasoning: Enhancing LLM Reasoning on Tabular Data with Pre-Constructed Logic Graph** — Mengxiao Zhu, Haixu Chen, Jiu Sha, Jie Liu, Ge Shi
+- **Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation** — Lirong Gao, Zewei Yu, Zhongrui Yin, Qi Zhang, Yuke Zhu, Bo Zheng, Haobo Wang, Junbo Zhao, Gang Chen, Sheng Guo
+- **MavenCoder: Competitive Code Generation via Model Adaptive Planning Strategies and Multi-Perspective Verification Enhancement** — Guanzhong Chen, Shaoxiong Yang, Chao Li, Wei Liu, Jian Luan, Zenglin Xu
+- **Evidence-Augmented Policy Optimization with Reward Co-Evolution for Long-Context Reasoning** — Yongshi Ye, Biao Fu, Chongxuan Huang, Yidong Chen, Xiaodong Shi
+- **Beyond the Panorama: Training-Free Hierarchical Perception-Reasoning for Fine-Grained Vision in MLLMs** — Jingchun Lian, Lingyu Liu, Yaxiong Wang, Yujiao Wu, Lianwei Wu, Li Zhu, Zhedong Zheng
+- **CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning** — Jessica Lin, Amir Zeldes
+- **Do LLMs Encode Functional Importance of Reasoning Tokens ?** — Trapoom Ukarapol, Pakhapoom Sarapat, Nut Chukamphaeng
+- **EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment** — Eric Onyame, Akash Ghosh, Subhadip Baidya, Sriparna Saha, Xiuying Chen, Chirag Agarwal
+- **QuantumQA: Enhancing Scientific Reasoning via Physics-Consistent Dataset and Verification-Aware Reinforcement Learning** — Janvijay Singh, Dilek Hakkani-Tür
+- **ReCreate: Reasoning and Creating Domain Agents Driven by Experience** — Sirry Chen, Jieyi Wang, Wei Chen, Zhongyu Wei
+- **Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing** — Michelle Wastl, Jannis Vamvas, Rico Sennrich
+- **Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning** — Wenhao Yuan, Chenchen Lin, Jian Chen, Jinfeng Xu, Xuehe Wang, Edith Cheuk-Han Ngai
+- **MIND Your Reasoning: A Meta-Cognitive Intuitive-Reflective Network for Dual-Reasoning in Multimodal Stance Detection** — Ishan Kavathekar, Hemang Jain, Ameya Rathod, Ponnurangam Kumaraguru, Tanuja Ganu
+- **A Survey of Inductive Reasoning for Large Language Models** — Ziwen Xu, Kewei Xu, Haoming Xu, Haiwen Hong, Longtao Huang, Hui Xue, Ningyu Zhang, Yongliang Shen, Guozhou Zheng, Huajun Chen, Shumin Deng
+- **Disentangling Reasoning Logic to Resolve Explicit Knowledge Conflicts** — Haibo Tong, Zeyang Yue, Feifei Zhao, Erliang Lin, Lu Jia, Ruolin Chen, Yinqian Sun, Qian Zhang, Yi Zeng
+- **ReasoningGuard: Safeguarding Large Reasoning Models with Inference-time Safety Aha Moments** — Weihai Lu, Zhejun Zhao, Yanshu Li, Huan He
+- **WIST: Web-Grounded Iterative Self-Play Tree for Domain-Targeted Reasoning Improvement** — YuFei Shi, Qian Chen, Wen Wang, Xiangang Li, Zhen-Hua Ling, Yang Ai
+- **Evo-PI: Aligning Medical Reasoning via Evolving Principle-Guided Supervision** — Akriti Jain, Anish Mulay, Divyansh Verma, Aishani Pandey, Pritika Ramu, Aparna Garimella
+- **SeCuRepair: Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework** — Zhuofeng Li, Yi Lu, Dongfu Jiang, Haoxiang Zhang, Yuyang Bai, Chuan Li, Yu Wang, Shuiwang Ji, Jianwen Xie, Yu Zhang
+- **Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective** — Jianqi Gao, Hang Yu, Jian Cao, Ranran Bu, Jinghua Tang, Nengjun Zhu, Yonggang Zhang
+- **RLSeek: Evidence-Grounded Reasoning for RAG Hallucination Detection** — Xingyu Lin, Yilin Wen, Du Su,Jinchang Hou, En Wang, Wenbin Liu, Zhonghou Lv, Chenfu Bao
+- **Injecting Context via Situation Working Memory for Logical Reasoning with LLMs** — Xin Sun, Di Wu, Sijing Qin, Isao Echizen, Abdallah El Ali, Saku Sugawara
+- **Quantifying and Understanding Uncertainty in Large Reasoning Models** — Pham Khanh Chi, Quoc Phong Dao, Thuat Nguyen, Linh Ngo Van, Trung Le, Thanh Hong Nguyen
+- **The Personalization Trap: How User Memory Alters Emotional Reasoning in LLMs** — Parker Seegmiller, Sarah Masud Preum
+- **Schoenfeld’s Anatomy of Mathematical Reasoning by Language Models** — Jonas Mayer Martins, Jaap Jumelet, Viola Priesemann, Lisa Beinborn
+- **Enhanced Reasoning for Biomedical Document-Level Relation Extraction via a Novel Cascade Language Model Framework** — Ming Li
+- **Synthetic Data Generation for Training Diversified Commonsense Reasoning Models** — Haohua Song, Wenhao Gu, Zhijing Li, Yunwen Yu, Tiantian Zhu, Xiao Yang, Zexuan Zhu
+- **Rethinking Expert Trajectory Utilization in LLM Post-training for Mathematical Reasoning** — Xiangchi Yuan, Dachuan Shi, Chunhui Zhang, Zheyuan Liu, Shenglong Yao, Soroush Vosoughi, Wenke Lee
+- **ChemReason-Bench: Benchmarking Large Language Models for Procedural Reasoning in Experimental Chemistry** — Wenjie Jacky Mo, Qin Liu, Xiaofei Wen, Dongwon Jung, Hadi Askari, Wenxuan Zhou, Zhe Zhao, Muhao Chen
+- **How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients** — Mehrzad Samadi, Aleksander Ficek, Sean Narenthiran, Siddhartha Jain, Wasi Uddin Ahmad, Somshubra Majumdar, Vahid Noroozi, Boris Ginsburg
+- **Ranking Reasoning LLMs under Test-Time Scaling** — Ming Li
+- **PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations** — Yeqing Teng, Jiasheng Si, Shuxia Lin, Linhai Zhang, Weiyu Zhang, Wenpeng Lu, Deyu Zhou, Xiaoming Wu
+- **IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering** — Havva Alizadeh Noughabi, Fattane Zarrinkalam, Ali Dehghantanha
+- **Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention** — Tanmay Parekh, Ella Hofmann-Coyle, Shuyi Wang, Sachith Sri Ram Kothur, Srivas Prasad, Yunmo Chen
+- **Skill-Aware Data Selection and Fine-Tuning for Data-Efficient Reasoning Distillation** — Guan Wang, Xuehai Tang, Biyu Zhou, Jizhong Han, Songlin Hu
+- **Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability** — Huy Nghiem, Advik Sachdeva, Hal Daumé III
+- **What Makes a Good Curriculum? Disentangling the Effects of Data Ordering on LLM Mathematical Reasoning** — Runpeng Dai, Tong Zheng, Run Yang, Kaixian Yu, Hongtu Zhu
+- **SAHM: A Benchmark for Arabic Financial and Shari’ah-Compliant Reasoning** — Michael Theologitis, Preetam Prabhu Srikar Dammu, Chirag Shah, Dan Suciu
+- **Confident, Calibrated, or Complicit: Safety Alignment and Ideological Bias in LLM Hate Speech Detection** — Zoher Kachwala, Bao Tran Truong, Rasika Muralidharan, Haewoon Kwak, Jisun An, Filippo Menczer
+- **MoRI: Learning Motivation-Grounded Reasoning for Scientific Ideation in Large Language Models** — Yutong Gao, Qinglin Meng, Yuan Zhou, Liangming Pan
+- **TPS-Bench: Evaluating AI Agents’ Tool Planning &amp; Scheduling Abilities in Compounding Tasks** — Kunpeng Kang, Shuaimin Li, Kaiyuan Zhang, Luyang Zhang, Jiasheng Si, Bing Xu, Kehai Chen, Muyun Yang, Wenpeng Lu
+- **CityVG: Contrastive Fine-Tuning and Reward-Based Chain-of-Thought Reasoning for Zero-Shot City-Scale 3D Visual Grounding** — Van Chien Nguyen, Huy Nguyen, Ruiyi Zhang, Hanieh Deilamsalehy, Puneet Mathur, Viet Lai, Haoliang Wang, Jayakumar Subramanian, Ryan A. Rossi, Trung Bui, Nikos Vlassis, Franck Dernoncourt, Thien Huu Nguyen
+- **Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers** — Feng Jiang, Zhiyu Lin, Yiyang Liu, Liumeng Xue, Fan Bu, Yuhao Du, Xiangying Chen, Benyou Wang, Haizhou Li
+- **DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain** — Jianing Zhang, Runan Li, Honglin Pang, Ding Xia, Zhou Zhu, Qian Zhang, Chuntao Li, Xi Yang
+- **SMART: Evaluating LLMs’ Mathematical Reasoning via a Human Cognitive Process-Inspired Benchmark** — Nanjie Li, Xiaoyong Guo, Hao Huang, Xu Haihua, Wei Shi
+- **HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation** — Pei Yang, Wanyi Chen, Ke Wang, Lynn Ai, Eric Yang, Tianyu Shi
+- **Graph Reasoning Paradigm: Structured and Symbolic Reasoning with Topology-Aware Reinforcement Learning for Large Language Models** — Honghao Fu, Miao Xu, Yiwei Wang, Dailing Zhang, Jun Liu, Yujun Cai
+- **METER: Evaluating Multi-Level Contextual Causal Reasoning in Large Language Models** — Shenglai Zeng, Tianqi Zheng, Chuan Tian, Dante Everaert, Yau-Shian Wang, Yupin Huang, Michael J. Morais, Rohit Patki, Jinjin Tian, Xinnan Dai, Kai Guo, Monica Xiao Cheng, Hui Liu
+- **Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning** — Yixin Bu, Runze Xia, Guanyun Zou, Yupeng Ji, Hongliang Dai, Haodong Liu, Piji Li
+- **LazyEviction: Lagged KV Eviction with Attention Pattern Observation for Efficient Long Reasoning** — Haosen Wang, Jing Xiao, Chaochao Duf, Xiaowang Zhang, Zhiyong Feng
+- **Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection** — Cuong Chi Le, Minh V.T. Pham, Tung D. Vu, Van Duc Cuong, Phan Nhật Huy, Phan Nhat Hoang, Tien N. Nguyen
+- **CʜAIRO: Contextual Hierarchical Analogical Induction and Reasoning Optimization for LLMs** — Yihua Zhu, Qianying Liu, Jiaxin Wang, Fei Cheng, Chaoran Liu, Akiko Aizawa, Sadao Kurohashi, Hidetoshi Shimodaira
+- **An Existence Proof for Neural Language Models That Can Explain Garden-Path Effects via Surprisal** — Kazuki Tsutsukawa
+- **Probing Audio-Visual Reasoning in Multimodal Language Models through the Lens of Audio** — Terry Jingchen Zhang, Gopal Dev, Ning Wang, Max Obreiter, Wenyuan Jiang, Punya Syon Pandey, Keenan Samway, Yinya Huang, Bernhard Schölkopf, Mrinmaya Sachan, Zhijing Jin
+- **Reasoning Hijacking: The Fragility of Reasoning Alignment in Large Language Models** — Ryo Yoshida, Shinnosuke Isono, Taiga Someya, Yohei Oseki, Tatsuki Kuribayashi
+- **PaT: Planning-after-Trial for Efficient Test-Time Code Generation** — Linqing Chen, Hanmeng Zhong, Wentao Wu, Peng Zhou
+- **Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems** — Taiwei Shi, Zhuoer Wang, Longqi Yang, Ying-Chun Lin, Zexue He, Mengting Wan, Pei Zhou, Sujay Kumar Jauhar, Sihao Chen, Shan Xia, Hongfei Zhang, Jieyu Zhao, Xiaofeng Xu, Xia Song, Jennifer Neville
+- **The Side Effects of Being Smart: Safety Risks in MLLMs’ Multi-Image Reasoning** — Jiandong Shao, Raphael Tang, Crystina Zhang, Karin Sevegnani, Pontus Stenetorp, Jianfei Yang, Yao Lu
+- **Verbal-R3: Verbal Reranker as the Missing Bridge between Retrieval and Reasoning** — Zhuoyue Gao, Xiaohui Wang, Xiaocui Yang, Wen Zhang, Daling Wang, Shi Feng, Yifei Zhang
+- **R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling** — Wang Zhangyi, Bingnan Yu, Jiexiang Xu, Li Zongze
+- **From Detection to Understanding: Multi-Turn Reasoning for Video Misinformation Analysis** — Sangkwon Park, Donghun Kang, Jisoo Mok, Sungroh Yoon
+- **VisAidMath: Benchmarking Visual-Aided Mathematical Reasoning** — Aijia Cheng, Kailong Wang, Ling Shi, Yongxin Zhao
+- **Beyond Markovian Forgetfulness: Episodic Memory for Reasoning-Intensive Retrieval** — Juhyeong Kim, Gyunyeop Kim, Sangwoo Kang
+- **CSRP: Chain-of-Thought Reasoning for Chinese Text Correction via Reinforcement Learning with Efficiency-Aware Rewards** — Xiaobo Liang, Wanfu Wang, Qipeng Huang, Yuyang Ding, Zecheng Tang, Yixin Ji, Qianben Chen, Zhe Zhao, Kehai Chen, Juntao Li, Min Zhang
+- **Adaptive Retrieval for Reasoning** — Anda Cao, Zhuo Gou, Yi Wang, Kaixuan Chen, Yu Wang, Can Wang, Mingli Song, Jie Song
+- **On Emergent Social World Models — Evidence for Functional Integration of Theory of Mind and Pragmatic Reasoning in Language Models** — Yuhao Li, Haifeng Sun, Xuesong Zhang, Shu Yao, Haoyu Zheng, Yvchuan wang, Huazheng Wang, Zirui Zhuang, Qi Qi, Jianxin Liao, Jingyu Wang
+- **LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning** — Jongho Kim, Jaeyoung Kim, Seung-won Hwang, Jihyuk Kim, Yu Jin Kim, Moontae Lee
+- **TH-RAG : Topic-Based Hierarchical Knowledge Graphs for Robust Multi-hop Reasoning in Graph-based RAG Systems** — Shouzheng Huang, Meishan Zhang, Baotian Hu, Min Zhang
+- **R³: End-to-End Reasoning-based Planning for Multi-step Retrosynthesis via Reinforcement Learning** — Huije Lee, Jisu Shin, Hoyun Song, Changgeon Ko, Jong C. Park
+- **Execution as Verification: Fine-Grained Self-Correcting Reasoning for Complex KBQA** — Xinwei Li, Li Lin, Hui Jiao, Li Yao, Tien-Tsin Wong, Hanqian Wu
+- **MARD: Module-Aware Reasoning Distillation for Language Models with Adaptive Supervision** — Nakyung Lee, Sangwoo Hong, Jungwoo Lee
+- **Revealing Procedural Reasoning Structures in Chain-of-Thought Training via Span-Level Gradient Organization** — Tianhao Niu, Ziyu Han, Qiguang Chen, Shiqi Zhou, Baocai Shan, Hengjie Fang, Qingfu Zhu, Wanxiang Che
+- **StepHint: Multi-level Stepwise Hints Enhance Reinforcement Learning to Reason** — Rikuto Kotoge, Mai Nishimura, Jiaxin Ma
+- **Think How to Think: Mitigating Overthinking with Autonomous Difficulty Cognition in Large Reasoning Models** — Gautam Siddharth Kashyap, Mark Dras, Usman Naseem
+- **Foresight Optimization for Strategic Reasoning in Large Language Models** — Akash Ghosh, Subhadip Baidya, Sriparna Saha, Xiuying Chen
+- **CheckRLM: Effective Knowledge–Thought Coherence Checking in Retrieval-Augmented Reasoning** — Jędrzej Warczyński, Ondrej Dusek, Mateusz Lango
+- **FLAIR: Steering LLM Mathematical Problem Solving based on A Fuzzy-Logic-AssIsted Reasoner** — Zhaohan Zhang, Chengzhengxu Li, Xiaoming Liu, Chao Shen, Ziquan Liu, Ioannis Patras
+- **Trait Activation in Silicon: A Situation-Aware Framework for Psychologically Grounded Role-Playing** — Timon Ziegenbein, Maja Stahl, Henning Wachsmuth
+- **ImpRIF: Stronger Implicit Reasoning Leads to Better Complex Instruction Following** — Zuolong Li, Pingyu Wu, Xianwen Huang, Tianyi Wei, Wenbo Zhou
+- **ReTraceQA: Evaluating Reasoning Traces of Small Language Models in Commonsense Question Answering** — Fengying Ye, Yanming Sun, Runzhe Zhan, Lidia S. Chao, Zheqi Zhang, Derek F. Wong
+- **JoPR: Joint Emotion Perception and Reasoning for Conversational Emotion Recognition** — Yuancheng Yang, Lin Yang, Xu Wang, Chao Tong, Haihua Yang
+- **Discovering a Shared Logical Subspace: Steering LLM Logical Reasoning via Alignment of Natural-Language and Symbolic Views** — Guanqun Bi, Zhoufu Liu, Zhuang Chen, Dazhen Wan, Xiyao Xiao, Minlie Huang
+- **One Refiner to Unlock Them All: Inference-Time Reasoning Elicitation via Reinforcement Query Refinement** — Adrián Gude, Roi Santos-Rios, Francis Bond, Dan Flickinger, Carlos Gómez-Rodríguez, Olga Zamaraeva
+- **Can Reasoning Path still be Effective as Input? Bridging Post-Reasoning to Chain-of-Thought Compression** — Feihao Fang, My T. Thai, Yuanyuan Lei
+- **REAL: REtrieval-reAsoning and Logic-constructed Attention Behaviors for Long-Context KV Cache Compression** — Yixiao Zhou, Dongzhou Cheng, Zhiliang Wu, Yi Yang, Yu Cheng, Hehe Fan
+- **Mitigating Safety Context Amnesia in Multimodal Reasoning Models via Intent-Guided Safety Reasoning** — Thang Le, Huy Huu Nguyen, Anh Tuan Luu, Thamar Solorio, Thien Huu Nguyen
+- **On-policy Reinforcement Fine-tuning with Offline reward for Multi-step Embodied Planning** — Marta Vázquez Abuín, Jose Camacho-Collados, Marcos Garcia
+- **Figure It Out: Improve the Frontier of Reasoning with Executable Visual States** — Yupeng Qi, Ziyu Lyu, Lixin Cui, Lu Bai, Feng Xia
+- **NoisyCausal: A Benchmark for Evaluating Causal Reasoning Under Structured Noise** — Jianzhe Ma, Wenxuan Wang, Qin Jin
+- **Chain-of-Thought as a Lens: Evaluating Structured Reasoning Alignment between Human Preferences and Large Language Models** — Yu Liang, Liangxin Liu, Longzheng Wang, Yan Wang, Yueyang Zhang, Long Xia, Zhiyuan Sun, Daiting Shi
+- **AttnPO: Attention-Guided Process Supervision for Efficient Reasoning** — Zhenguang Wang, Bo Li, Wenhui Tan, Peng Cao, Yang Wang, Jia Duan, Fei Wang, Osmar Zaiane
+- **Language Statistics and False Belief Reasoning: Evidence from 41 Open-Weight LMs** — Sunil Kumar Maurya, Xin Liu
+- **Too Long, Do Re-weighting for Efficient LLM Reasoning Compression** — Bo Lv, Jingbo Sun, Jianwei Lv, Chen Tang, Shaojie Zhang, Nayu Liu, Guoxin Yu, Zihao Li, Qichao Zhang, Dongbin Zhao, Ping Luo, Yue Yu
+- **Assessing the Belief Consistency of Large Language Models on the Logical Conversation Process** — Zhong-Zhi Li, Xiao Liang, Zihao Tang, Lei Ji, Peijie Wang, Haotian Xu, Xing W, Haizhen Huang, Weiwei Deng, Yeyun Gong, Zhijiang Guo, Fei Yin, Cheng-Lin Liu
+- **AdaMix: Adaptive Mixing for Short and Long Reasoning Adapters** — Tomoki Tsujimura, Matīss Rikters, Masaki Asada, Shusaku Egami, Tatsuya Ishigaki, Ken Yano, Hiroya Takamura
+- **UrbanGeoEval: A City-Scale Benchmark for Evaluating Large Language Models in Geospatial Reasoning** — Hao Luo, Xiao Yan, Xinyan Li, Qiming Zeng, Yuhao Lin, Shanshan Feng, Hao Wang, Jiawei Jiang
+- **E-ViC: Reasoning Beyond Text via Embodied Visual Chain for Spatial Intelligence** — Lei Yang, Leiyu Pan, Bojian Xiong, Renren Jin, Shaowei Zhang, Yue chen, Ling Shi, Jiang Zhou, Junru Wu, Zhen Wang, Jianxiang Peng, Juesi Xiao, Tianyu Dong, Zhuowen Han, Zhuo Chen, Yuqi Ren, Deyi Xiong
+- **GROKE: Vision-Free Navigation Instruction Evaluation via Graph Reasoning on OpenStreetMap** — Rikuto Kotoge, Yuichi Sasaki
+- **LongVideoAgent: Multi-Agent Reasoning with Long Videos** — Milan Miletic, Julie Kallini, Ekaterina Shutova
+- **Scaling Reasoning, Losing Control: Evaluating Instruction Following in Large Reasoning Models** — Farzad Shami, Subhrasankha Dey, Nico Van de Weghe, Henrikki Tenkanen
+- **MirrorQA: Benchmarking Multimodal LLMs on Mirror-Orientation Reasoning** — Eunseon Seong, Harim Lee, Dahye Kim, Changhyun Kim, Dong-Kyu Chae
+- **GeoRC: A Benchmark for Geolocation Reasoning Chains** — Jingping Liu, Xingchen Peng, Yan Zhou, Ziyan Liu, Jie Zhai, Ronghao Chen, Huacan Wang, Xiaofeng Jia
+- **Thinking in Schemas: Robust Syllogistic Reasoning in LLMs** — Euntae Kim, Soomin Han, Buru Chang
+- **Embodied-Reasoner: Synergizing Visual Search, Reasoning, and Action for Embodied Interactive Tasks** — Tianjian Liu, Fanqi Wan, Jiajian Guo, Xiaojun Quan
+- **Long-Context Reasoning Through Proxy-Based Chain-of-Thought Tuning** — Junxiao Yang, Haoran Liu, Jinzhe Tu, Jiale Cheng, Zhexin Zhang, Shiyao Cui, Jiaqi Weng, Jialing Tao, Hui Xue, Hongning Wang, Han Qiu, Minlie Huang
+- **MASPO: Unifying Gradient Utilization, Probability Mass, and Signal Reliability for Robust and Sample-Efficient LLM Reasoning** — Yinuo Xu, Veronica Derricks, Allison Earl, David Jurgens
+- **Paramanu: Compact and Competitive Monolingual Language Models for Low-Resource Morphologically Rich Indian Languages** — Xiaoliang Fu, Jiaye Lin, Yangyi Fang, Binbin Zheng, Chaowen Hu, Zekai Shao, Cong Qin, Lu Pan, Ke Zeng, Xunliang Cai
+- **Outcome Accuracy is Not Enough: Aligning the Reasoning Process of Reward Models** — Han Zhu, Juntao Dai, Jiaming Ji, Haoran Li, Chengkun Cai, Pengcheng Wen, Chi-Min Chan, Boyuan Chen, Yaodong Yang, Sirui Han, Yike Guo
+- **Where Paths Split: Localized, Calibrated Control of Moral Reasoning in Large Language Models** — Weibin Li, Jintao Cheng, Xiaoyu Tang, Chi Man VONG
+- **Social Story Frames: Contextual Reasoning about Narrative Intent and Reception** — Wenqiang Wang, WenYujia, Yan Xiao, Zhifeng Chen, Yangshijie Zhang, Peng Chen, Mingbo Yang, Xiaochun Cao
+- **A Survey of Reasoning-Intensive Retrieval: Progress and Challenges** — Jiajun Zhang, Yuying Li, Zhixun Li, Xingyu Guo, Jingzhuo Wu, Leqi Zheng, Yiran Yang, Jianke Zhang, Qingbin Li, Shannan Yan, Changguo Jia, Junfei Wu, Zilei Wang, Qiang Liu, Liang Wang
+- **LOGICAL-COMMONSENSEQA: A Benchmark for Logical Commonsense Reasoning** — Saujas Vaduguru, Yilun Hua, Yoav Artzi, Daniel Fried
+- **Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment** — HyoJung Han, Nishant Balepur, Jordan Boyd-Graber, Marine Carpuat
+- **From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models** — Mark Rothermel, Marcus Kornmann, Marcus Rohrbach, Anna Rohrbach
+- **PRBench: Large-Scale Expert Rubrics for Evaluating High-Stakes Professional Reasoning** — Tuochao Chen, Bandhav Veluri, Hongyu Gong, Shyamnath Gollakota
+- **A Survey of Multimodal Mathematical Reasoning: From Perception, Alignment to Reasoning** — Gagan Mundada, Rohan Surana, Nandhini Swaminathan, Bodhisattwa Prasad Majumder, Junda Wu, Julian McAuley, Zhouhang Xie
+- **Empowering Multi-Turn Tool-Integrated Agentic Reasoning with Group Turn Policy Optimization** — Afra Feyza Akyürek, Advait Gosai, Chen Bo Calvin Zhang, Vipul Gupta, Jaehwan Jeong, Anisha Gunjal, Tahseen Rabbani, Maria Mazzone, David Randolph IV, Mohammad Mahmoudi Meymand, Gurshaan Chattha, Paula Rodriguez, Diego A. Mares Buendia, Pavit Singh, Michael Liu, Subodh Chawla, Peter Cline, Lucy Ogaz, Ernesto Gabriel Hernández Montoya, Zihao Wang, Pavi Bhatter, Marcos Ayestaran, Bing Liu, Yunzhong He
+- **EDUMATH: Generating Standards-aligned Educational Math Word Problems** — Mengfei Lan, Lecheng Zheng, Halil Kilicoglu
+- **Advancing Reasoning in Diffusion Language Models with Denoising Process Rewards** — Chengming Cui, Tianxin Wei, Ziyi Chen, Ruizhong Qiu, Zhichen Zeng, Zhining Liu, Xuying Ning, Duo Zhou, Jingrui He
+- **BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning** — Runchao Li, Yao Fu, Mu Sheng, Xianxuan Long, Haotian Yu, Kenneth Loparo
+- **Reasoning Traces Shape Outputs but Models Won’t Say So** — Mohammad Mahdi Salmani-Zarchi, Zahra Rahimi, Heshaam Faili, Mohammad Javad Dousti
+- **AutoRAN: Automated Hijacking of Safety Reasoning in Large Reasoning Models** — Yaowenqi Liu, BingXu Meng, Rui Pan, Yuxing Liu, Jerry Huang, Jiaxuan You, Tong Zhang
+- **ReActR: Reasoning through Error-Activated Reflection for LLM Post-Training** — Xiaoting Wu, Yi Huang, Chunyang Gao, Mengfei Guo, Jingyu Yao, Junlan Feng
+- **Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception** — Lina Sun
+- **From Trajectories to Graphs: Contract-Checked Editing for Verifier-Guided LLM Reasoning** — Sijia Luo, Xiaokang Zhang, Yuxuan Hu, Bohan Zhang, Ke Wang, Jinbo Su, Mengshu Sun, Lei Liang, Jing Zhang
+- **SAT: Balancing Reasoning Accuracy and Efficiency with Stepwise Adaptive Thinking** — Junpeng Liu, Jiuyi Li, Kaiyu Huang, Bo Jin, Degen Huang, Hui Xiong
+- **MIND: From Passive Mimicry to Active Reasoning through Capability-Aware Multi-Perspective CoT Distillation** — Shuo Yang, Caren Han, Xueqi Ma, Yan Li, Mohammad Reza Ghasemi Madani, Eduard Hovy
+- **Knowledge Vector of Logical Reasoning in Large Language Models** — Md Asiful Islam, Mihai Surdeanu
+- **SMILE-Next: Teaching Large Language Models to Detect, Classify, and Reason about Laughter** — Chenning Xu, Mao Zheng, Mingyu Zheng, Mingyang Song
+- **Programming over Thinking: Efficient and Robust Multi-Constraint Planning** — Ziqing Wang, Yibo Wen, Abhishek Pandey, Han Liu, Kaize Ding
+- **LANG: Reinforcement Learning for Multilingual Reasoning with Language-Adaptive Hint Guidance** — Lingfeng Zhong, Qiongkai Xu, Usman Naseem
+- **ReCode: Reinforcing Code Generation with Reasoning-Process Rewards** — Zelin Li, Jia Leng, Dawei Song, Yangen Hu
+- **PPA-Plan: Proactive Pitfall Avoidance for Reliable Planning in Long-Context LLM Reasoning** — Xin Deik Goh, Quanyu Long, Zhengyuan Liu, Fang Yih Chen, Wenya Wang
+- **ParaSuite: Boosting LLM Reasoning via Paradox Resolution** — Yichen Xu, Liangyu Chen, Liang Zhang, Zihao Yue, Jianzhe Ma, Wenxuan Wang, Qin Jin
+- **rSIM: Incentivizing Reasoning Capabilities of LLMs via Reinforced Strategy Injection** — Shuyu Zhang, Yujie Liu, Xinru Wang, Cheng Zhang, Yanmin Zhu, Bin Li
+- **AIPO: Adaptive Information Guided Token-Level Reinforcement Learning for Large Language Model Reasoning** — Yang Liu, Chenhui Chu
+- **DialDefer: A Framework for Detecting and Mitigating LLM Dialogic Deference** — Lipika Dewangan, Chandresh Kumar Maurya
+- **Benchmarking Fine-Grained Error Detection in Multimodal Reasoning** — Yuqing Zhang, Honghui Sheng, Xueyu Hu, Shengyu Zhang, Fei Wu
+- **Parallel Test-Time Scaling for Latent Reasoning Models** — Xuan Dong, Zhe Han, Tianhao Niu, Qingfu Zhu, Wanxiang Che
+- **SciMDR: Advancing Scientific Multimodal Document Reasoning** — Parisa Rabbani, Priyam Sahoo, Ruben Mathew, Aishee Mondal, Harshita Ketharaman, Nimet Beyza Bozdag, Dilek Hakkani-Tür
+- **Truth as a Trajectory: What Internal Representations Reveal About Large Language Model Reasoning** — Runyang You, Yongqi Li, Meng Liu, Wenjie Wang, Liqiang Nie, Wenjie Li
+- **VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning** — Ziyu Chen, Yilun Zhao, Chengye Wang, Rilyn R. Han, Manasi Patwardhan, Arman Cohan
+- **TInR: Exploring Tool-Internalized Reasoning in Large Language Models** — Wenyi Xiao, Xinchi Xu, Leilei Gan
+- **How Long Reasoning Chains Influence LLMs’ Judgment of Answer Factuality** — Ryoma Kumon, Hitomi Yanaka
+- **MMErroR: A Benchmark for Erroneous Reasoning in Vision-Language Models** — Amr Mohamed, Yang Zhang, Michalis Vazirgiannis, Guokan Shang
+- **Diagnosing and Remedying Representation Deficiencies for Deterministic Reasoning in KGQA** — *T
+- **Revealing the Seen, Imagining the Beyond: A Survey of Image-Grounded Chain-of-Thought Reasoning in Multimodal LLMs** — Hang Lv, Hongchao Gu, Ruiqing Yang, Liangyue Li, Zulong Chen, Defu Lian, Hao Wang, Enhong Chen
+- **OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Models** — Yifei Zhu
+- **Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning** — Cuong Pham, Anh Dung Hoang, Cuong C. Nguyen, Trung Le, Gustavo Carneiro, Thanh-Toan Do
+- **Does RLVR Extend Reasoning Boundaries? Investigating Capability Expansion in Vision-Language Models** — Yifan Wang, Shiyu Li, Peiming Li, Xiaochen Yang, Zheng Wei, Yang Tang
+- **Perception, Understanding and Reasoning: A Multimodal Benchmark for Video Fake News Detection** — Yi Feng, Chuanyi Li, Vincent Ng
+- **Rose-SQL: Role-State Evolution Guided Structured Reasoning for Multi-Turn Text-to-SQL** — Minghe Shen, Zhuo Zhi, Chonghan Liu, Shuo Xing, Zhengzhong Tu, Che Liu
+- **EconProver: Towards More Economical Test-Time Scaling for Automated Theorem Proving** — Changhao Lai, Rui Zhao, Xuewen Zhong, Jinsong Su, Yidong Cheng
+- **Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning** — Yiyang Gu, Junwei Yang, Junyu Luo, Ye Yuan, Bin Feng, Yingce Xia, Shufang Xie, Kaili Liu, Bohan Wu, Qi Shi, Haoran Li, Beier Xiao, Zhiping Xiao, Xiao Luo, Weizhi Zhang, Philip S. Yu, Zequn Liu, Ming Zhang
+- **EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning** — Dou Hu, Lingwei Wei, Hongjiang Xiao, Songlin Hu, Yuan Zhang
+- **From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding** — *Doc-V
+- **LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software** — Zheng Hui, Yijiang River Dong, Sanhanat Sivapiromrat, Ehsan Shareghi, Nigel Collier
+- **UniSRM: A Unified Speech Reward Model for Reasoning-Based Fine-grained Assessment** — Longkai Cheng, Ximing Wang, Jiangcai Zhu, Kailai Shao, Chao Chen, Haixiang Hu
+- **Minimal Free Resolution Guided Adaptive Tree Reasoning** — Hung Mai, Khanh Nguyen, Luong Doan, Ngan Duong, Thao Duong, Tuan Do
+- **Reasoning Is Not All You Need: Examining LLMs for Multi-Turn Mental Health Conversations** — Dezhao Tang, Meihan Liu, Yulai Tong, Guan Yuan, Qiuyan Yan
+- **Monotonic Scaffolding as a Diagnostic Lens for Legal Reasoning in LLMs** — Witold Sosnowski, Arkadiusz Modzelewski, Kinga Skorupska, Adam Wierzbicki
+- **Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs** — Juhyun Oh, Haneul Yoo, Faiz Ghifari Haznitrama, Alice Oh
+- **CHOIR: Harmonizing Structured Persona Diversity for Robust Collaborative LLM Reasoning** — Diganta Misra, Nizar Islah, Victor May, Brice Rauby, Zihan Wang, Justine Gehring, Antonio Orvieto, Muawiz Chaudhary, Eilif Muller, Irina Rish, Samira Kahou, Massimo Caccia
+- **Protein-STORY: Semantic Text-Oriented Representation Yields biologically meaningful Protein embeddings** — Tejas Anvekar, Junha Park, Aparna Garimella, Vivek Gupta
+- **ReasMark: A Robust Watermark for Attributing LLM Reasoning Under Knowledge Distillation Attacks** — Shuyu Zhang, Yifan Wei, Jialuo Yuan, Xinru Wang, Yanmin Zhu, Bin Li, Yujie Liu
+- **MathSight: A Benchmark Exploring Have Vision-Language Models Really Seen in University-Level Mathematical Reasoning?** — Preethi Seshadri, Samuel Cahyawijaya, Ayomide Odumakinde, Sameer Singh, Seraphina Goldfarb-Tarrant
+- **REVEALER: Reinforcement-Guided Visual Reasoning for Element-Level Text-Image Alignment Evaluation** — Qin Dai, Benjamin Heinzerling, Kentaro Inui
+- **ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging** — Zekun Wang, Jingjie Zeng, Yingxu Li, Liang Yang, Hongfei Lin
+- **Tackling the Root of Misinformation by Teaching Laypeople about Logical Fallacies via Socratic Questioning and Critical Argumentation** — Ming-Bin Chen, Jey Han Lau, Lea Frermann
+- **Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling** — Weixu Zhang, Ye Yuan, Changjiang Han, Yuxing Tian, Zipeng Sun, Linfeng Du, Jikun Kang, Hong Kang, Xue Liu, Haolun Wu
+- **Reinforced Efficient Reasoning via Semantically Diverse Exploration** — Sitong Wu, Haoru Tan, Xichen Zhang, Bin Xia, Wenhu Zhang, Xiaojuan Qi, Bei Yu, Jiaya Jia
+- **Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures** — Kerem Zaman, Shashank Srivastava
