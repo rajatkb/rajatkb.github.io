@@ -52,3 +52,6 @@ out/
 
 # Obsidian vault settings
 data/vault/.obsidian/
+
+# Vault watcher PID file
+.vault-watch.pid

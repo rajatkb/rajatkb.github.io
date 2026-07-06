@@ -61,6 +61,8 @@ module.exports = () => {
     basePath,
     reactStrictMode: true,
     trailingSlash: true,
+    devIndicators: false,
+    poweredByHeader: false,
     pageExtensions: ['ts', 'tsx', 'js', 'jsx', 'md', 'mdx'],
     images: {
       remotePatterns: [
