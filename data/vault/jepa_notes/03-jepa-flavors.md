@@ -14,7 +14,7 @@ This note catalogs every known variant of the Joint-Embedding Predictive Archite
 
 The taxonomy below groups variants by **research direction** rather than modality, to highlight what each variation actually changes about the core JEPA formula.
 
-For the theoretical foundations of JEPA, see [[02-ssl-theory]]. For the historical lineage leading to JEPA, see [[01-ssl-history]].
+For the theoretical foundations of JEPA, see [02-ssl-theory](/notes/jepa_notes/02-ssl-theory). For the historical lineage leading to JEPA, see [01-ssl-history](/notes/jepa_notes/01-ssl-history).
 
 ---
 

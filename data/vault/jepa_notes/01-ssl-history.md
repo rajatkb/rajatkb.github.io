@@ -513,7 +513,7 @@ JEPA is not a radical departure from SSL history — it is the **latest expressi
 3. **Scaling** — modern compute enables evaluation on ImageNet-scale tasks
 4. **Empirical validation** — the strongest demonstration yet that predicting in latent space with data-intrinsic views works at scale
 
-The next note in this series ([02-jepa-theory](02-jepa-theory.md)) dives into the theoretical framework of JEPA itself: its energy-based model framing, its approach to the collapse problem, and the theoretical claims about semantic representation learning.
+The next note in this series ([02-ssl-theory](/notes/jepa_notes/02-ssl-theory)) dives into the theoretical framework of JEPA itself: its energy-based model framing, its approach to the collapse problem, and the theoretical claims about semantic representation learning.
 
 ---
 
