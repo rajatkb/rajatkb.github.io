@@ -1,6 +1,11 @@
 ---
 title: Video Alignment in Physics Context Alignment
-tags: [video-diffusion, alignment, physics, context-alignment, research]
+tags:
+  - video-diffusion
+  - alignment
+  - physics
+  - context-alignment
+  - research
 date: 2026-06-11
 ---
 

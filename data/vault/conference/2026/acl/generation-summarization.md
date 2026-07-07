@@ -11,237 +11,239 @@ draft: false
 
 ## Generation & Summarization
 **234 papers**
+*Links not yet available — ACL proceedings pending on ACL Anthology.*
 
-- **No Reader Left Behind: Multi-Agent Summaries Everyone Can Understand** — Jimin Jung, MyoungJin Kim, Jaehyung Seo, Heuiseok Lim
-- **EASE: Entity-Aware Sub-table Generation for Real-world Multi-table QA** — Myunghoon Kang, Dahyun Jung, Suhyune Son, Seonmin Koo, Changwoo Chun, Daniel Rim, Haeyoung Kwon, Yuna Hur, Heuiseok Lim
-- **Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation** — Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, Nils Feldhus, Christin Seifert, Hinrich Schuetze, Sebastian Möller, Vera Schmitt
-- **PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation** — Jiho Choi, Seojeong Park, Seongjong Song, Hyunjung Shim
-- **FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation** — Gen Li, Peiyu Liu
-- **ReasonEmbed: Enhanced Text Embeddings for Reasoning-Intensive Document Retrieval** — Jianlyu Chen, Junwei Lan, Chaofan Li, Defu Lian, Zheng Liu
-- **ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling** — Yuxuan Jiang, Zehua Chen, Zeqian Ju, Yusheng Dai, Weibei Dou, Jun Zhu
-- **Contextual Relevance and Adaptive Sampling for LLM-Based Document Reranking** — Jerry Huang, Siddarth Madala, Cheng Niu, Julia Hockenmaier, Tong Zhang
-- **MORPHOGEN: A Multilingual Benchmark for Evaluating Gender-Aware Morphological Generation** — Mehul Agarwal, Aditya Aggarwal, Arnav Goel, Medha Hira, Anubha Gupta
-- **CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions** — Jingwei Shi, Xinxiang Yin, Jing Huang, Jinman Zhao, Shengyu Tao
-- **SDE-SQL: Enhancing Text-to-SQL Generation in Large Language Models via Self-Driven Exploration with SQL Probes** — Wenxuan Xie, Yaxun Dai, Wenhao Jiang
-- **BracketRank: Large Language Model Document Ranking via Reasoning-based Competitive Elimination** — Abdelrahman Abdallah, Mohammed Ali, Bhawna Piryani, Adam Jatowt
-- **A Comprehensive Survey of Process Reward Models: Data Generation, Model Construction, and Usage** — Congmin Zheng, Jiachen Zhu, Zhuoying Ou, Yuxiang Chen, Kangning Zhang, Rong Shan, Zeyu Zheng, Mengyue Yang, Jianghao Lin, Yong Yu, Weinan Zhang
-- **CODERL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment** — Xue Jiang, Yihong Dong, Mengyang Liu, Hongyi Deng, Tian Wang, Yongding Tao, Zhi Jin, Wenpin Jiao, Ge Li
-- **Saber: Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model in Code Generation** — Yihong Dong, Zhaoyu Ma, Xue Jiang, Zhiyuan Fan, Jiaru Qian, Yongmin Li, Jianha Xiao, Zhi Jin, Ge Li
-- **APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation** — Pengyun Zhu, Qiheng Sun, Long Wen, Yanbo Wang, Yang Cao, Junxu Liu, Deyi Xiong, Jinfei Liu, Zhibo Wang, Kui Ren
-- **Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge** — Joonhyung Park, Jaeyun Song, Sihwan Park, Eunho Yang
-- **SAGE: Sparse Adaptive Guidance for Dependency-Aware Tabular Data Generation** — Shuo Yang, Zheyu Zhang, Bardh Prenkaj, Gjergji Kasneci
-- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities** — Woongyeong Yeo, Kangsan Kim, Soyeong Jeong, Jinheon Baek, Sung Ju Hwang
-- **Looking at Radiology Report Generation through a Causal Lens: A Survey** — Satyam Kumar, Kaustubh Shivshankar Shejole, Pushpak Bhattacharyya
-- **Disco-RAG: Discourse-Aware Retrieval-Augmented Generation** — Dongqi Liu, Hang Ding, Qiming Feng, Xurong Xie, Zhucun Xue, Chengjie Wang, Jian Li, Jiangning Zhang, Yabiao Wang
-- **Guaranteeing Knowledge Integration with Joint Decoding for Retrieval-Augmented Generation** — Zhengyi Zhao, Shubo Zhang, Zezhong Wang, Yuxi Zhang, Huimin Wang, Yutian Zhao, Yefeng Zheng, Binyang Li, Kam-Fai Wong, Xian Wu
-- **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning** — Bo Li, Mingda Wang, Gexiang Fang, Shikun Zhang, Wei Ye
-- **CodeFlowBench: A Multi-turn, Iterative Benchmark for Complex Code Generation** — Sizhe Wang, Zhengren Wang, Dongsheng Ma, Yongan Yu, Rui ling, Zhiyu li, Feiyu Xiong, Wentao Zhang
-- **Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding** — Sensen Gao, Shanshan Zhao, Xu Jiang, Lunhao Duan, Yong Xien Chng, Qing-Guo Chen, Weihua Luo, Kaifu Zhang, Jia-Wang Bian, Mingming Gong
-- **Open Schrödinger’s Closed Box: Identifying Retrieval Augmented Generation in API-Accessible Large Language Model Services** — Yukun Jiang, Xinyue Shen, Michael Backes, Zheng Li, Yang Zhang
-- **AgentOCR: Reimagining Agent History via Optical Self-Compression** — Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
-- **A Theoretically Grounded Approach to Summarizing Conversation Dynamics for Forecasting the Derailment of Online Conversations** — Yingxue Fu, Anaïs Ollagnier
-- **LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation** — Yilin Xiao, Jin Chen, Qinggang Zhang, Yujing Zhang, Chuang Zhou, Longhao Yang, Lingfei Ren, Xin Yang, Xiao Huang
-- **Compete to Complete: Co-opetition Adversarial Learning for Retrieval-Augmented Generation** — Xin Liu, Yu-An Liu, Ruqing Zhang, Yixing Fan, Lixin Su, Jiafeng Guo, Xueqi Cheng
-- **What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation** — Shaomu Tan, Dawei Zhu, Ke Tran, Michael Denkowski, Sony Trenous, Bill Byrne, Leonardo Ribeiro, Felix Hieber
-- **Measuring Human Contribution in AI-Assisted Content Generation** — Yueqi Xie, Tao Qi, Jingwei Yi, Xiyuan Yang, Ryan Whalen, Junming Huang, Qian Ding, Yu Xie, Xing Xie, Fangzhao Wu
-- **ACE-Router: Generalizing History-Aware Routing from MCP Tools to the Agent Web** — Zhiyuan Yao, Zishan Xu, Yifu Guo, Zhiguang Han, Cheng Yang, Shuo Zhang, Weinan Zhang, Xingshan Zeng, Weiwen Liu
-- **UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents** — Yifan Ji, Zhipeng Xu, Zhenghao Liu, Zulong Chen, Qian Zhang, Zhibo Yang, Junyang Lin, Yu Gu, Ge Yu, Maosong Sun
-- **StealthGraph: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation** — Huawei Zheng, Xinqi Jiang, Sen Yang, Shouling Ji, Yingcai Wu, Dazhen Deng
-- **Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration** — Linhao Zhong, Linyu Wu, Wen Wang, Yuling Xi, Chenchen Jing, Jiaheng Zhang, Hao Chen, Chunhua Shen
-- **Don’t Be Misled by Style: A Style-Adaptive Reranker for Capturing Effective Knowledge in Retrieval-Augmented Generation** — Ruwen Zhang, Bo Liu, Shengxiang Zhang, Yida Chen, Hantao Zhao, Ding Ding, Jiahui Jin, Jiuxin Cao
-- **In-depth Research Impact Summarization through Fine-Grained Temporal Citation Analysis** — Hiba Arnaout, Noy Sternlicht, Tom Hope, Iryna Gurevych
-- **Is a Document Educational or Just Wikipedia-Style? — Pitfalls of Classifier-Based Quality Filtering** — Mateusz Klimaszewski, Piotr Andruszkiewicz
-- **STEM: Structure-Tracing Evidence Mining for Knowledge Graphs-Driven Retrieval-Augmented Generation** — Peng Yu, En Xu, Bin Chen, Haibiao Chen, Yinfei Xu
-- **Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement** — Hao Li, Yizheng Sun, Viktor Schlegel, Kailai Yang, Riza Batista-Navarro, Goran Nenadic
-- **arXiv2Table: Toward Realistic Benchmarking and Evaluation for LLM-Based Literature-Review Table Generation** — Weiqi Wang, Jiefu Ou, Yangqiu Song, Benjamin Van Durme, Daniel Khashabi
-- **iTAG: Inverse Design for Natural Text Generation with Accurate Causal Graph Annotations** — Wenshuo Wang, Boyu Cao, Nan Zhuang, Wei Li
-- **LiGen: Active Lipid Generation via a Molecular Language Model** — Ying Zhan, Xiuqi Tang, Yan Zhang, Xiao Tan, Dian Shen, Zhou Yu, Beilun Wang
-- **Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective** — Ziyao Xu, Cong Wang, Houfeng Wang
-- **UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity Mixture-of-Experts** — Zhenyu Liu, Yunxin Li, Xuanyu Zhang, Qixun Teng, Shenyuan Jiang, Xinyu Chen, Haoyuan Shi, Haolan Chen, Fanbo Meng, Minjun Zhao, Yu Xu, Yancheng He, Baotian Hu, Haizhou Li, Min Zhang
-- **KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning** — Jingjiang Liu, Jia Zhu, Hanghui Guo, Weijie Shi, Yue Cui, Xiaokang Jin, Yilin Wang, Qingyu Niu, Jiawei Shen, Guoqing Ma, Yidan Liang, Shimin Di, Jiajie Xu
-- **RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository** — Zhiyuan Peng, Xin Yin, Pu Zhao, Fangkai Yang, Lu Wang, Ran Jia, Xu Chen, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
-- **AGSC: Adaptive Granularity and Semantic Clustering for Uncertainty Quantification in Long-text Generation** — Guanran Luo, Wentao Qiu, Wanru Zhao, Wenhan Lv, Zhongquan Jian, Meihong Wang, Qingqiang Wu
-- **TRACE: Traversal Retrieval-Augmented Chain of Evidence for Document Understanding** — Liqi He, Zuchao Li, Hao Huang, Ping Wang
-- **Self-Reflective Generation at Test Time** — Jian Mu, Qixin Zhang, Zhiyong Wang, Menglin Yang, Shuang Qiu, Chengwei Qin, Zhongxiang Dai, Yao Shu
-- **From Past To Path: Masked History Learning for Next-Item Prediction in Generative Recommendation** — Kaiwen Wei, Kejun He, Xiaomian Kang, Jie Zhang, Yuming Yang, Li Jin, Zhenyang Li, Jiang Zhong, He Bai, Junnan Zhu
-- **Unified Thinker: A General Reasoning Core for Image Generation** — Sashuai Zhou, Qiang Zhou, Jijin Hu, Hanqing Yang, Yue Cao, Junpeng Ma, Yinchao Ma, Jun Song, Tiezheng Ge, Cheng Yu, Bo Zheng, Zhou Zhao
-- **Visual and Memory–Augmented Soccer Commentary Generation** — Haoran Sun, Natthawut Kertkeidkachorn, Kiyoaki Shirai
-- **Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data** — FengXian Dong, Zhi Zheng, Xiao Han, Wei Chen, Jingqing Ruan, Tong Xu, Yong Chen, Enhong Chen
-- **Improving Retrieval-Augmented Generation without Taxonomy-based Error Categorization** — Gongbo Zhang, Yifan Peng, Chunhua Weng
-- **WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics** — Chenxu Liu, Yingjie Fu, Wei Yang, Ying Zhang, Tao Xie
-- **EvoNarrator: Modeling Scientific Evolution for Feasible Hypothesis Generation** — Xiaoying Le, Pengfei Qian, Yuanzhao Zhai, Xu Zhang, Qian Liu, Dawei Feng, Bo Ding
-- **LLM-SLM Collaborative Framework of Idiomatic Expression Generation** — Hui Gao, Changhao Song, Peng Zhang, Jing Zhang, Chang Yang, Liuxian Ge
-- **Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review** — Qian Ruan, Iryna Gurevych
-- **Deriving Character Logic from Storyline as Codified Decision Trees** — Letian Peng, Kun Zhou, Longfei Yun, Yupeng Hou, Jingbo Shang
-- **SegTune: Structured and Fine-Grained Control for Song Generation** — Yuejiao Wang, Zihao Ji, Pengfei Cai, Xu Li, Haorui Zheng, Zewen Song, Zhongliang Liu, Chen Zhang, Pengfei Wan
-- **IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation** — Haozhi Fan, Jinhao Duan, Kaidi Xu
-- **ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents** — Tianyu Yang, Terry Ruas, Yijun Tian, Jan Philip Wahle, Daniel Kurzawe, Bela Gipp
-- **Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation** — Yuhao Wang, Ruiyang Ren, Yucheng Wang, Wayne Xin Zhao, Jing Liu, Hua Wu, Haifeng Wang
-- **Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation** — Katelyn Xiaoying Mei, Yi-Li Hsu, Minjoon Choi, Zongwan Cao, Chenjun Xu, Bingbing Wen, Su Lin Blodgett, Lucy Lu Wang
-- **Iterative Dual-Model Alignment for Story Evaluation** — Bruce Qin, Dan Goldwasser
-- **ReFEree: Reference-Free and Fine-Grained Method for Evaluating Factual Consistency in Real-World Code Summarization** — Suyoung Bae, CheolWon Na, Jaehoon Lee, Yumin Lee, YunSeok Choi, Jee-Hyong Lee
-- **MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows** — Xiquan Li, Junxi Liu, Yuzhe Liang, Zhikang Niu, Wenxi Chen, Xie Chen
-- **ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation** — Hyeong Kyu Choi, Sharon Li
-- **FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation** — Cy Xie
-- **SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression** — Yiqiao Jin, Kartik Sharma, Vineeth Rakesh, Yingtong Dou, Menghai Pan, Mahashweta Das, Srijan Kumar
-- **SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding** — Yiqiao Jin, Rachneet Kaur, Zhen Zeng, Sumitra Ganesh, Srijan Kumar
-- **LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding** — Kai Yin, Xiangjue Dong, Chengkai Liu, Allen Lin, Lingfeng Shi, Ali Mostafavi, James Caverlee
-- **ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation** — Yan Fang, Jun Chen, Yian Yao, Shuxin Zhong, Min Sun, Kaishun Wu
-- **MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation** — Abdullah Mazhar, Het Riteshkumar Shah, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar
-- **Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph** — Tianyang Xu, Marcelo Sandoval-Castaneda, Karen Livescu, Greg Shakhnarovich, Kanishka Misra
-- **Narrative License and Model Sycophancy in LLM Summaries of Scientific Work** — Tu Anh Dinh, Jan Niehues
-- **ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios** — Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Chen Chen, Dongjie Wang, Zijun Yao
-- **Decoupling Task-Solving and Output Formatting in LLM Generation** — Yuqing Yang, Qi Zhu, Zhen Han, Boran Han, Zhengyuan Shen, Shuai Wang, Vassilis N. Ioannidis, Huzefa Rangwala
-- **Analyzing and Internalizing Complex Policy Documents for LLM Agents** — Qizhuo Xie, Yunhui Liu, Yu Xing, Qianzi Hou, Xudong Jin, Tao Zheng, Tieke He
-- **Anchor: Branch-Point Data Generation for GUI Agents** — Xinliang Frederick Zhang, Anhad Mohananey, Alexandra Chronopoulou, Pinelopi Papalampidi, Somit Gupta, Tsendsuren Munkhdalai, Lu Wang, Shyam Upadhyay
-- **OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment** — Mengyang Li, Jingwen Wang, Pinlong Zhao
-- **LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models** — Tianci Liu, Ran Xu, Tony Yu, Ilgee Hong, Carl Yang, Tuo Zhao, Haoyu Wang
-- **Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning** — Ziyou Jiang, Mingyang Li, Junjie Wang, Yuekai Huang, Jie Huang, Zhiyuan Chang, Zhaoyang Li, Qing Wang
-- **SciFlow-Bench: Evaluating Structure-Aware Scientific Diagram Generation via Inverse Parsing** — Chunkit Chan, Yauwai Yim, Hongchuan Zeng, Zhiying Zou, Xinyuan Cheng, Zhifan Sun, Zheye Deng, Kawai Chung, Yuzhuo Ao, Yixiang Fan, Cheng Jiayang, Ercong Nie, Ginny Y. Wong, Helmut Schmid, Hinrich Schütze, Simon See, Yangqiu Song
-- **LCR-RAG: Enhancing Logical Consistency in Retrieval-Augmented Generation via Neuro-symbolic Reinforcement Learning** — Yulong Wang, Yifei Fu, Jiayi Gao
-- **HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering** — Taehyeon Kim, Hyunsoo Lee, Youngsoo Jang, Moontae Lee
-- **Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks** — Xingyue Huang, Xueying Ding, Mingxuan Ju, Yozen Liu, Neil Shah, Tong Zhao
-- **Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering** — Junru Song, Hengzhe Jin, Yucong Huang, Tingsong Jiang, Weien Zhou, Feifei Wang, Yang Yang, Ying Wen, Wen Yao
-- **GBV-SQL: Guided Generation and SQL2Text Back-Translation Validation for Multi-Agent Text2SQL** — Yunyao Zhang, Xinglang Zhang, Junxi Sheng, Wenbing Li, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, Zikai Song
-- **Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search** — Rachneet Kaur, Nishan Srishankar, Zhen Zeng, Sumitra Ganesh
-- **Difficulty-Controllable Cloze Question Distractor Generation** — Zixuan Weng, Jinghuai Zhang, Kunlin Cai, Ying Li, Peiran Wang, Yuan Tian
-- **REG: Retrieval via Emotion Similarity for Guiding Empathetic Dialogue Generation** — Xinglang Zhan, Yunyao Zhang, ZeLiang Chen, Junqing Yu, Wei Yang, Zikai Song
-- **DisCo_Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec** — Yifan Hu, Peiji Yang, Zhisheng Wang, Yicheng Zhong, Rui Liu
-- **Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations** — Atsuki Yamaguchi, Terufumi Morishita, Aline Villavicencio, Nikolaos Aletras
-- **Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency** — Wenxi Xu, Chuan Qin, Xi Chen, Chuyu Fang, Yuanchun Zhou, Hengshu Zhu
-- **StoryCoder: Narrative Reformulation for Structured Reasoning in LLM Code Generation** — Xueying Ding, Xingyue Huang, Mingxuan Ju, Liam Collins, Yozen Liu, Leman Akoglu, Neil Shah, Tong Zhao
-- **Discourse Coherence and Response-Guided Context Rewriting for Multi-Party Dialogue Generation** — Sebastian Kobler, Matthew Clemson, Angela Sun, Jonathan K. Kummerfeld
-- **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation** — Jiaxi Bi, Tongxu Luo, Wenyu Du, Zhengyang Tang, Benyou Wang
-- **Identity-Robust Language Model Generation via Content Integrity Preservation** — Jiuyun Jiang, Yuecheng Hong, Bo Yang, Jin Yang, Guangxin Jiang, Xiaomeng Guo, Guang Xiao
-- **Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation** — Zeguan Xiao, Siqing Li, Yong Wang, Xuetao Wei, Jian Yang, Yun Chen, Guanhua Chen
-- **When Bigger Isn’t Better: A Comprehensive Fairness Evaluation of Political Bias in Multi-News Summarisation** — Peiru Yang, Haoran Zheng, Tong Ju, Shiting Wang, Wanchun Ni, Jiajun Liu, Shangguang Wang, Yongfeng Huang, Tao Qi
-- **CAML: A Conflict-Aware Molecular Language Model Merging Framework for Multi-Constraint Molecular Generation** — Nannan Huang, Iffat Maab, Junichi Yamagishi
-- **HiGoE: Hierarchical Graph of Evidence to Enhance Retrieval-Augmented Generation for Long-context Summarization** — Weitao Ma, Xiaocheng Feng, Lei Huang, Xiachong Feng, Zhanyu Ma, Jun Xu, Jiuchong Gao, Jinghua Hao, Renqing He, Bing Qin
-- **Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework** — Yiming Chen, Zexin Li, Xianghu Yue, Robby T. Tan, Haizhou Li
-- **DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation** — Shuyuan Zhao, Wei Chen, Weijie Zhang, Xinrui Hou, Junfeng Shen, Boyan Shi, Shengnan Guo, Youfang Lin, Huaiyu Wan
-- **IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking** — Pengyun Zhu, Yuqi Ren, Zhen Wang, Lei Yang, Deyi Xiong
-- **MTAVG-Bench: A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation** — Zechen Sun, Yuyang Sun, Zecheng Tang, Juntao Li, Wenpeng Hu, Wenliang Chen, Zhunchen Luo, Guotong Geng, Min Zhang
-- **Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation** — Heming Xia, Cunxiao Du, Rui Li, Chak Tou Leong, Yongqi Li, Wenjie Li
-- **Bridging Internal Consistency and External Alignment: A Causal and Dynamic Interpretability Framework for LLM Generation** — Zhizhang Fu, Yuancheng Gu, Chenkai Hu, Hanmeng Liu, Yue Zhang
-- **R^3AG: Retriever Routing for Retrieval-Augmented Generation** — Tian Lan, Yiqian Yang, Qianghuai Jia, Li Zhu, Hui Jiang, Hang Zhu, Weihua Luo, Longyue Wang
-- **ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation** — Rui Qian, Chuanhang Deng, Qiang Huang, Jian Xiong, Mingxuan Li, Yingbo Zhou, Wei Zhai, Jintao Chen, Dejing Dou
-- **Aligned Multi-View Scripts for Universal Chart-to-Code Generation** — Hao Xu, rite Bo, Fausto Giunchiglia, Yingji Li, Rui Song
-- **Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models** — Zhihan Zhang, Lizi Liao
-- **Unveiling the Unknown: Open-Set Entity Typing via Two-Stage Generation** — Shun Zou, Yong Wang, Zehui Chen, Lin Chen, Chongyang Tao, Feng Zhao, Xiangxiang Chu
-- **Tailoring Diagnostic Modeling to Individual Learners: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction** — Yi Yu, Liuyi Yao, Yuexiang Xie, Qingquan Tan, Jiaqi Feng, Yaliang Li, Libing Wu
-- **Efficient Prior-Guided Reasoning for Robust Retrieval-Augmented Generation under Conflicts** — Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao
-- **LitVISTA: A Benchmark for Narrative Orchestration in Literary Text** — Zexu Sun, Yongcheng Zeng, Erxue Min, Heyang Gao, Bokai Ji, Dugang Liu, Xing Tang, Xiuqiang He, Xu Chen
-- **MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits** — Baixuan Li, Jialong Wu, Wenbiao Yin, Kuan Li, Zhongwang Zhang, Huifeng Yin, Zhengwei Tao, Liwen Zhang, Pengjun Xie, Jingren Zhou, Yong Jiang, Wentao Zhang, Zhiqiang Gao
-- **FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean** — Chenyi Li, Xinhui Tu, Zaixiang Wang
-- **BiMol-Diff: A Unified Diffusion Framework for Molecular Generation and Captioning** — Jaewook Lee, Myeong-Cheol Kang, Jong-hun Shin
-- **DEBAR: Mitigating Contextual Bias in Cross-Document Relation Extraction via Dual-Stream Decoupling** — Yicheng Ji, Jun Zhang, Jinpeng Chen, Cong Wang, Lidan Shou, Gang Chen, Huan Li
-- **LegalChainReasoner: Grounding Criminal Judicial Opinion Generation via Structured Legal Chains** — ChenZhuo Zhao, Xinda Wang, Pu Zhao, Yue Huang, Junting Lu, Ziqian Liu, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang
-- **InsideOut: Measuring and Mitigating Insider–Outsider Bias in Interview Script Generation** — Xiaoke Guo, Songze Li, Zhiqiang Liu, Zhaoyan Gong, Yuanxiang Liu, Huajun Chen, Wen Zhang
-- **Attention as Selector: Unlocking VLM Attention for Long Document Page Retrieval** — San Kim, Gary Lee
-- **CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution** — Chongyuan Dai, Jinpeng Hu, Hongchang Shi, Zhuo Li, Dan Guo, Xun Yang, Meng Wang
-- **Agent Newsroom: Efficient Chronological Report Generation via Dynamic Multi-Agent Collaboration** — Xiangxi Zheng, Kuang He, Jiayi Hu, Ping Yu, Rui Yan, Yuan Yao, Peng Hou, Anxiang Zeng, Alex Jinpeng Wang
-- **ChipSeek: Optimizing Verilog Generation via EDA-Integrated Reinforcement Learning** — Yifei Li, Weidong Guo, Lingling Zhang, Rongman Xu, Muye Huang, Hui Liu, Lijiao Xu, Yu Xu, Jun Liu
-- **CSPO: Alleviating Reward Ambiguity for Structured Table-to-LaTeX Generation** — Pengqian Lu, Jie Lu, Anjin Liu, Guangquan Zhang
-- **Chart-MRAG: Benchmarking Multimodal Retrieval Augmented Generation on Chart-based Documents** — Xin Huang, Yan Hu, Yuejiao Gong, Xinglin Zhang
-- **Revisiting Metric Reliability for Fine-grained Evaluation of Machine Translation and Summarization in Indian Languages** — Yuhang Li, Chenchen Zhang, Ruilin Lv, Ao Liu, Ken Deng, Yuanxing Zhang, Jiaheng Liu, Bo Zhou
-- **HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation** — Jiaxuan Wu, Wanli Peng, Hang Fu, Xue Yiming, Juan Wen
-- **Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation** — Zhaoyan Gong, Zhiqiang Liu, Songze Li, Xiaoke Guo, Yuanxiang Liu, Xinle Deng, Zhizhen Liu, Lei Liang, Huajun Chen, Wen Zhang
-- **CIRAG: Construction–Integration Retrieval and Adaptive Generation for Multi-hop Question Answering** — Siran Liu, Guoxia Wang, Sa Wang, Jinle Zeng, Haoyang Xie, Siyu Lou, Jiabin Yang, Dianhai Yu, Haifeng Wang, Chao Yang
-- **Dynamic Infilling Anchors for Format-Constrained Generation in Diffusion Large Language Models** — Peidong Wang, Zhiming Ma, Xin Dai, YongKang Liu, Shi Feng, Xiaocui Yang, Wenxing Hu, Zhihao Wang, Mingjun Pan, Li Yuan, Daling Wang
-- **Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation** — Xilai Ma, Liye Zhao, Weijun Yao, Haibing Di, Wenya Wang, Jing Li
-- **DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding** — Yuanzhen Hao, Desheng Wu
-- **Attention Weights as an Indicator: Analyzing and Improving Document Utilization in Retrieval-Augmented Generation** — Seonjeong Hwang, Hyounghun Kim, Gary Lee
-- **LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models** — Viet-Thanh Pham, Lizhen Qu, Thuy-Trang Vu, Gholamreza Haffari, Dinh Phung
-- **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation** — Ao Sun, Xiaoyu Wang, Zhe Tan, Yu Li, Jiachen Zhu, Yuheng Jia, Shu Su
-- **FusionFlow: Enabling Deep Structural Exploration for Automated Agentic Workflow Generation** — Yuncheng Hua, Sion Weatherhead, Mehdi Jafari, Hao Xue, Flora D. Salim
-- **UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions** — Zhiqiang Liu, Yichi Zhang, Mengshu Sun, Lei Liang, Wen Zhang
-- **HopWeaver: Cross-Document Synthesis of High-Quality and Authentic Multi-Hop Questions** — Gerrit Quaremba, Amy Rechkemmer, Elizabeth Black, Denny Vrandecic, Elena Simperl
-- **VerilogLAVD: LLM-Aided Pattern Generation for Verilog CWE Detection** — Xunyi Zhao, Gengze Zhou, Qi Wu
-- **Bloom-Eval: A Hierarchical Evaluation Benchmark for Automatic Survey Generation Based on Bloom’s Taxonomy** — Xue Jiang, Ge Li, Jiaru Qian, Xianjie Shi, Chenjie Li, Hao Zhu, Ziyu Wang, Jielun Zhang, Zheyu Zhao, Kechi Zhang, Jia Li, Wenpin Jiao, Zhi Jin, Yihong Dong
-- **GenesisFunc: Multi-Agent Data Generation for Accurate and Generalizable Function-Calling** — Fei Zhang, Zhe Zhao, Haibin Wen, Tianshuo Wei, Zaixi Zhang, Chao Yang, Ye Wei
-- **FactVerse: A Benchmark for Factual Consistency in Interleaved Image–Text Generation** — Hao-Xiang Xu, Chong Deng, Jiaqing Liu, Wen Wang, Qian Chen, Lujia Bao, Xiangang Li, Zhen-Hua Ling
-- **Incorporating Temporal Coherence to Cross-Document Event Coreference Resolution** — Zhengyi Li, Yakai Wang, Jingwen Leng, Kang Yang, Yu Yu, Jiaping Gui, Yu Feng, Ning Liu, Minyi Guo
-- **HiChunk: Evaluating and Enhancing Retrieval Augmented Generation with Hierarchical Chunking** — Zhihao Shuai, Yiyun Chen, Maolin Ma, Yutong Chen, Hanjia Qiu, Jing Xu, Ziye Chen, Weikai Yang
-- **PersonalityDBench: A Dataset for Personality Disorders - from Modeling to Controlled Generation** — Jia-Nan Li, Jian Guan, Songhao Wu, Wei Wu, Rui Yan
-- **Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation** — Chao Xue, Yao Wang, Mengqiao Liu, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Chenyao Lu, Lei Jiang, Yu Lu, Haibo Shi, Shuang Liang, Minlong Peng, Flora D. Salim
-- **MavenCoder: Competitive Code Generation via Model Adaptive Planning Strategies and Multi-Perspective Verification Enhancement** — Guanzhong Chen, Shaoxiong Yang, Chao Li, Wei Liu, Jian Luan, Zenglin Xu
-- **CPR-RAG: Clinical Prior-Regularized Retrieval for Anatomy-Aware 3D CT Report Generation** — Junjun Pan, Yixin Liu, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan
-- **ArgGenBench: Benchmarking the Complex Controlled Argument Generation Capability of Large Language Models** — Luoming Hu, Liang Yang, Jingjie Zeng, Zijie Xing
-- **OSCBench: Benchmarking Object State Change in Text-to-Video Generation** — Arya Shah, Deepali Mishra, Chaklam Silpasuwanchai
-- **Attribution, Citation, and Quotation: A Survey of Evidence-based Text Generation with Large Language Models** — Philipp Seeberger, Steffen Freisinger, Tobias Bocklet, Korbinian Riedhammer
-- **SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for Token-level Recognition of Semantic Differences Between Related Documents** — Arkadiusz Modzelewski, Paweł Golik, Anna Kołos, Giovanni Da San Martino
-- **RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation** — Tianyu Huang, Yida Zhao, Chuyan Zhou, Kewei Tu
-- **Frankentext: Stitching random text fragments into long-form narratives** — Yuquan Wang, Mi Zhang, Yining Wang, Geng Hong, Mi Wen, Xiaoyu You, Min Yang
-- **Decisive: Guiding User Decisions with Optimal Preference Elicitation from Unstructured Documents** — Yitong Zhu, Yuxuan Jiang, Guanxuan Jiang, Bojing Hou, Peng Yuan Zhou, Ge lin, Yuyang Wang
-- **Stress Testing Factual Consistency Metrics for Long-Document Summarization** — Yuxuan Ye, Raul Santos-Rodriguez, Edwin Simpson
-- **LLM-Generated Text May Harm Your Retrieval! A Robust Detection Strategy for Retrieval-Augmented Generation** — Lingrui Mei, Shenghua Liu, Yiwei Wang, Yuyao Ge, Baolong Bi, Jiayu Yao, Jun Wan, Ziling Yin, Jiafeng Guo, Xueqi Cheng
-- **EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution** — Yanning Su, Yuhang Zhou, Yang Fang, Sen Liu, Guangnan Ye, Hongfeng Chai
-- **HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router** — Shu Zhou, Jinman Leng, Yufei Song, Xin Wang, Tao Fan, Hao Wang
-- **ThreadSumm: Summarization of Nested Discourse Threads Using Tree of Thoughts** — Lingrui Mei, Shenghua Liu, Yiwei Wang, Baolong Bi, Ruibin Yuan, Xueqi Cheng
-- **Enhanced Reasoning for Biomedical Document-Level Relation Extraction via a Novel Cascade Language Model Framework** — Ming Li
-- **Multimodal Large Language Models for Multi-Subject In-Context Image Generation** — Yoonji Kim, Jieun Kim, Yujin Jeong, Sung-Bae Cho
-- **Synthetic Data Generation for Training Diversified Commonsense Reasoning Models** — Haohua Song, Wenhao Gu, Zhijing Li, Yunwen Yu, Tiantian Zhu, Xiao Yang, Zexuan Zhu
-- **MARS²: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation** — Sathvik Nair, Byung-Doh Oh
-- **LoVeC: Reinforcement Learning for Better Verbalized Confidence in Long-Form Generation** — Jinwei Zhang, Xucheng Liang, Yu Zhang, Ruijie Yu, Xiaokang Yang, Yaohui Jin, Yanyan Xu
-- **Anchoring the Cache: Mitigating Contextual Hallucination in KV-Compressed Long-Context Summarization** — Pengfei Li, Shijie Wang, Fangyuan Li, Yikun Fu, Kaifeng Liu, Kaiyan Zhang, Dazhi Zhang, Yuqiang Li, Biqing Qi, Bowen Zhou
-- **Beyond Static Artifacts: An Evolutionary Framework for Synthetic Claim Generation** — Mohsen Hariri, Michael Hinczewski, Jing Ma, Vipin Chaudhary
-- **ChiKhaPo: A Large-Scale Multilingual Benchmark for Evaluating Lexical Comprehension and Generation in Large Language Models** — Yuhe Wu, Guangyu Wang, Yuran Chen, Jiatong Zhang, Yutong Zhang, Yujie Chen, Jiaming Shang, Guang Zhang, Zhuang Liu
-- **Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation** — Emily Chang, Niyati Bafna
-- **Fiction Flows: A Replication and Reinterpretation of Narrative Sequentiality** — Marianne Menglin Liu, Daniel Garcia, Fjona Parllaku, Vikas Upadhyay, Fahad Shah, Dan Roth
-- **Evaluating Visual Narrative Coherence in Story Visualization via Diversified Storylines** — Guy Kaplan, Michael Toker, Yuval Reif, Yonatan Belinkov, Roy Schwartz
-- **CypherSmith: Transforming Text-to-Cypher Generation for LLMs with Synthetic Data** — Hirona Arai, Xiang Ren
-- **ATGL: An Adaptive-Threshold Global Loss for Document-level Relation Extraction** — Xiang Gao, Yuguang Yao, Qi Zhang, Kaiwen Dong, Avinash Baidya, Ruocheng Guo, Hilaf Hasson, Kamalika Das
-- **Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation** — Zongmin Li, Jian Su, Farah Benamara, Aixin Sun
-- **DefGen-Bench: A Benchmark for Chinese Criminal Defence Opinion Generation in LegalAI** — Van-Chien Nguyen, Ryan A. Rossi, Linh Ngo, Franck Dernoncourt, Thien Nguyen
-- **SeDev: Structured Semantic Exploration for LLM-Driven Code Generation** — Yuxuan Zhang
-- **EVM-QuestBench: An Execution-Grounded Benchmark for Natural-Language Transaction Code Generation** — Yujie Hou, Mei Wang, Yaoyao Zhong, Ting Zhang, Xuetao Ma, Hua Huang
-- **TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction** — Advait Gosai, Tyler Vuong, Utkarsh Tyagi, Steven Li, Wenjia You, Miheer Bavare, Arda Uçar, Zhongwang Fang, Brian Jang, Bing Liu, Yunzhong He
-- **If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs** — Weicai Long, Yusen Hou, Junning Feng, Houcheng Su, Shuo Yang, Donglin Xie, Yanlin Zhang
-- **Flow-Based Page Unique Semantic Mapping Architecture for Document Visual Question Answering** — Songhao Wu, Ang Lv, Ruobing Xie, Xingwu Sun, Di Wang, Rui Yan, Yankai Lin
-- **SWAN: Semantic Watermarking with Abstract Meaning Representation** — Harper Hua, Zhen Han, Zhengyuan Shen, Meng-Chieh Lee, Patrick Guan, Qi Zhu, Sullam Jeoung, Yueyan Chen, Yunfei Bai, Shuai Wang, Vassilis Ioannidis, Huzefa Rangwala
-- **PaT: Planning-after-Trial for Efficient Test-Time Code Generation** — Linqing Chen, Hanmeng Zhong, Wentao Wu, Peng Zhou
-- **The Role of Mixed-Language Documents for Multilingual Large Language Model Pretraining** — Chenxi Gu, Xiaoning Du, John Grundy
-- **ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation** — Yinan Liu, Dongying Lin, Sigang Luo, Xiaochun Yang, Bin Wang
-- **IGenBench: Benchmarking the Reliability of Text-to-Infographic Generation** — DongmingJiang, Yi Li, Guanpeng Li, Bingzhe Li
-- **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning** — He Geng, Yangmin Huang, Lixian Lai, Qianyun Du, Hui Chu, Zhiyang He, Jiaxue Hu, Xiaodong Tao
-- **Grammar as Control: Modular Language Generation for the Long Tail** — Tianyu Fan, Jingyuan Wang, Xubin Ren, Chao Huang
-- **LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning** — Jongho Kim, Jaeyoung Kim, Seung-won Hwang, Jihyuk Kim, Yu Jin Kim, Moontae Lee
-- **Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation** — Wenqi Yang, Jianjun Li, Zhibo Zhang, Mingqian Ding, Yushen Fang
-- **AdaDPI: Document-level Translation Adaptive Agent via Dynamic Parametric Internalization** — Jia Liu, Jiaxin Luo, Weiwen Xu, Jonathan M. Garibaldi, Xiao-Kun Wu, Yixue Hao, Min Chen
-- **Cross-Examination Framework: A Task-Agnostic Diagnostic for Information Fidelity in Text-to-Text Generation** — Jinhee Jang, Juhwan Choi, Dongjin Lee, Seunguk Yu, YoungBin Kim
-- **Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models** — Kon Woo Kim, Jin-Dong Kim, Akiko Aizawa
-- **One-step Nonautoregressive Natural Language Generation with Shortcut Flow Matching Models** — Junchao Wu, Yefeng Liu, Chenyu Zhu, Hao Zhang, Zeyu Wu, Tianqi Shi, Yichao Du, Longyue Wang, Weihua Luo, Jinsong Su, Derek F. Wong
-- **PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation** — Liangbo Ning, Yuchen Zhu, Heqing Huang, Xin Wang, Yi Chang, Qing Li, Wenqi Fan
-- **More Aligned, Less Diverse? Analyzing the Grammar and Lexicon of Two Generations of LLMs** — Baichuan Huang, Ananth Balashankar, Amir Aminifar
-- **Structure Guided Retrieval-Augmented Generation for Factual Queries** — Junbo Qi, Yi Zhang, Hanchu Ni, Che Liu, Ruilin Yang, Zhiming Yao, Xiancong Ren, Liangjian Wen, Wei Ge, Yuya Ieiri, Osamu Yoshie, Yong Dai, Xiaozhu Ju
-- **From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation** — Huicong Li, Xiangbo Ji, Wei Wu
-- **Deep-Reporter: Deep Research for Grounded Multimodal Long-Form Generation** — Alessandro Corona Mendozza, Anders Søgaard
-- **Survey Response Generation: Generating Closed-Ended Survey Responses In-Silico with Large Language Models** — Tobias Grantner, Emanuel Sallinger, Martin Flechl
-- **Social Story Frames: Contextual Reasoning about Narrative Intent and Reception** — Wenqiang Wang, WenYujia, Yan Xiao, Zhifeng Chen, Yangshijie Zhang, Peng Chen, Mingbo Yang, Xiaochun Cao
-- **From Nodes to Narratives: Explaining Graph Neural Networks with LLMs and Graph Context** — Girish, Mohd Mujtaba Akhtar, Muskaan Singh
-- **RealChart2Code: Bridging the Gap in Real-World Chart-to-Code Generation via Multi-Task Evaluation** — William Rudman, Michal Golovanevsky, Dana Arad, Yonatan Belinkov, Carsten Eickhoff, Ritambhara Singh, Kyle Mahowald
-- **HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation** — Or Shafran, Atticus Geiger, Mor Geva
-- **A Structured Clustering Approach for Inducing Media Narratives** — He Cheng, Yifu Wu, Saksham Khatwani, Maya Kruse, Dmitriy Dligach, Timothy A. Miller, Majid Afshar, Yanjun Gao
-- **Simple Agents, Biased Judges: Efficient Multi-Party Dialogue Generation &amp; The Evaluation Gap** — Iseo Kim, Eunjin Hong, Juae Kim
-- **Locate and Explain: Joint Multimodal Emotion Cause Extraction and Summarization in Conversation** — Robin Vujanic, Thomas Rückstieß
-- **ServImage: An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services** — Wei-Chieh Huang, Henry Peng Zou, Yaozu Wu, Dongyuan Li, Yankai Chen, Weizhi Zhang, Yangning Li, Angelo Zangari, Jizhou Guo, Chunyu Miao, Liancheng Fang, Langzhou He, Yinghui Li, Renhe Jiang, Philip S. Yu
-- **PodBench: A Comprehensive Benchmark for Instruction-Aware Audio-Oriented Podcast Script Generation** — Bingkang Shi, Jen-tse Huang, Luo Long, Tianyu Zong, Hongzhu Yi, Yuanxiang Wang, Songlin Hu, Xiaodan Zhang, Zhongjiang Yao
-- **A Survey of Large Language Models for Text-Guided Molecular Discovery: From Molecule Generation to Optimization** — Faisal Hossain Raquib, Akm Moshiur Rahman Mazumder, Md Fahim, Md Tahmid Hasan Fuad, Md Farhan Ishmam, Faria Sultana, M Ashraful Amin, Amin Ahsan Ali, Akmmahbubur Rahman
-- **ReCode: Reinforcing Code Generation with Reasoning-Process Rewards** — Zelin Li, Jia Leng, Dawei Song, Yangen Hu
-- **CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation** — Yuxuan Lu, Jing Huang, Yan Han, Bingsheng Yao, Sisong Bei, Yaochen Xie, Yisi Sang, Qi He, Dakuo Wang
-- **MTRouter: Cost-Aware Multi-Turn LLM Routing with History–Model Joint Embeddings** — Shubin Kim, Yejin Son, Junyeong Park, Keummin Ka, Seungbeen Lee, Jaeyoung Lee, Hyeju Jang, Alice Oh, Youngjae Yu
-- **Automatic and Reliable Evaluation for Academic Caption-to-Figure Generation with LMMs** — Haochun Tang, Yuliang Yan, Jiahua Lu, Huaxiao Liu, Enyan Dai
-- **SciMDR: Advancing Scientific Multimodal Document Reasoning** — Parisa Rabbani, Priyam Sahoo, Ruben Mathew, Aishee Mondal, Harshita Ketharaman, Nimet Beyza Bozdag, Dilek Hakkani-Tür
-- **Learning Faster with Better Tokens: Parameter-Efficient Vocabulary Adaptation for Specialized Text Summarization** — Yang Shi, Yifeng Xie, Minzhe Guo, Liangsi Lu, Mingxuan Huang, Jingchao Wang, Zhihong Zhu, Boyan Xu, Zhiqi Huang
-- **SHARP: Self-adaptive Harmful Category-aware Prompt Generation for Black-box Jailbreaking** — Fuqiang Niu, Zini Chen, Zhiyu Xie, Hu Huang, Qing Liao, Qianlong Wang, Genan Dai, Bowen Zhang
-- **Mind’s Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs** — Sijie Mai, Shiqin Han
-- **Synthia: Scalable Grounded Persona Generation from Social Media Data** — Guilherme Fonseca, Gabriel Prenassi, Washington Cunha, Leonardo Rocha, Marcos André Gonçalves
-- **From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding** — *Doc-V
-- **CEBC: Conformal Evidence-Bounded Control for Low-Hallucination Vision–Language Generation** — Syed Md Mukit Rashid, Abdullah Al Ishtiaq, Kai Tu, Yilu Dong, Tianwei Wu, Ali Ranjbar, Tianchang Yang, Najrin Sultana, Shagufta Mehnaz, Syed Rafiul Hussain
-- **DiNO: Disinformation Narrative Observer** — Yizhou Wang, Mang Tik Chiu, Lingzhi Zhang, Xuan Shen, Sohrab Amirghodsi, Yun Fu
-- **GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities** — Yue Wang, Ruotian Ma, Xingyu Chen, Zhengliang Shi, Morunliu Yang, Wanshun CHEN, Huang Liu, Jiadi Yao, Xin He, Qu Yang, Qingxuan Jiang, Fanghua Ye, Juntao Li, Zhaopeng Tu, Xiaolong Li, Liefeng Bo, Min Zhang
-- **DREAM-S: Speculative Decoding with Searchable Drafting and Target-Aware Refinement for Multimodal Generation** — Alejandro Hernández-Cano, Alexander Hägele, Allen Hao Huang, Angelika Romanou, Antoni-Joan Solergibert, Barna Pásztor, Bettina Messmer, Dhia Garbaya, Eduard Frank Ďurech, Ido Hakimi, Juan Garcia Giraldo, Mete Ismayilzada, Negar Foroutan, Skander Moalla, Tiancheng Chen, Vinko Sabolčec, Yixuan Xu, Michael Aerni, Badr AlKhamissi, Inés Altemir Marinas, Mohammad Hossein Amani, Matin Ansaripour, Ilia Badanin, Harold Benoit, Emanuela Boros, Nicholas John Browning, Fabian Bösch, Maximilian Böther, Niklas Canova, Camille Challier, Clément Charmillot, Jonathan Coles, Jan Milan Deriu, Arnout Devos, Lukas Drescher, Daniil Dzenhaliou, Maud Ehrmann, Dongyang Fan, Simin Fan, Silin Gao, Miguel Gila, María Grandury, Diba Hashemi, Alexander Miserlis Hoyle, Jiaming Jiang, Mark Klein, Andrei Kucharavy, Anastasiia Kucherenko, Frederike Lübeck, Roman Machacek, Theofilos Ioannis Manitaras, Andreas Marfurt, Kyle Matoba, Simon Matrenok, Henrique Mendonça, Fawzi Roberto Mohamed, Syrielle Montariol, Luca Mouchel, Sven Najem-Meyer, Jingwei Ni, Gennaro Oliva, Matteo Pagliardini, Elia Palme, Andrei Panferov, Léo Paoletti, Marco Passerini, Ivan Pavlov, Auguste Poiroux, Kaustubh Ponkshe, Nathan Ranchin, Javier Rando, Mathieu Sauser, Jakhongir Saydaliev, Mukhammadali Sayfiddinov, Marian Schneider, Stefano Schuppli, Marco Scialanga, Andrei Semenov, Kumar Shridhar, Raghav Singhal, Anna Sotnikova, Alexander Sternfeld, Ayush Kumar Tarun, Paul Teiletche, Jannis Vamvas, Xiaozhe Yao, Hao Zhao, Alexander Ilic, Ana Klimovic, Andreas Krause, Caglar Gulcehre, David Rosenthal, Elliott Ash, Florian Tramèr, Joost VandeVondele, Livio Veraldi, Martin Rajman, Thomas C. Schulthess, Torsten Hoefler, Antoine Bosselut, Martin Jaggi, Imanol Schlag
-- **Protein-STORY: Semantic Text-Oriented Representation Yields biologically meaningful Protein embeddings** — Tejas Anvekar, Junha Park, Aparna Garimella, Vivek Gupta
-- **Self-Guided Alignment: Adaptive Preference Sensing for Multi-Objective Generation** — Lanlan Qiu, Xiao Pu, Yeqi Feng, Wenchang Gao, Tianxing He
-- **Typology-Aware Multilingual Morphosyntactic Parsing with Joint Abstract Node Modeling** — Yifan Gong, Jing Yao, Xiting Wang, Xunlong Wang, Xiaoyuan Yi, Xing Xie
-- **MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation** — Kutay Acar, Gülşen Eryiğit
+
+- **No Reader Left Behind: Multi-Agent Summaries Everyone Can Understand**
+- **EASE: Entity-Aware Sub-table Generation for Real-world Multi-table QA**
+- **Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation**
+- **PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation**
+- **FastV-RAG: Towards Fast and Fine-Grained Video QA with Retrieval-Augmented Generation**
+- **ReasonEmbed: Enhanced Text Embeddings for Reasoning-Intensive Document Retrieval**
+- **ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling**
+- **Contextual Relevance and Adaptive Sampling for LLM-Based Document Reranking**
+- **MORPHOGEN: A Multilingual Benchmark for Evaluating Gender-Aware Morphological Generation**
+- **CodeHacker: Automated Test Case Generation for Detecting Vulnerabilities in Competitive Programming Solutions**
+- **SDE-SQL: Enhancing Text-to-SQL Generation in Large Language Models via Self-Driven Exploration with SQL Probes**
+- **BracketRank: Large Language Model Document Ranking via Reasoning-based Competitive Elimination**
+- **A Comprehensive Survey of Process Reward Models: Data Generation, Model Construction, and Usage**
+- **CODERL+: Improving Code Generation via Reinforcement with Execution Semantics Alignment**
+- **Saber: Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model in Code Generation**
+- **APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation**
+- **Bringing Real-World Relations into Video Generation with Graph-Structured Knowledge**
+- **SAGE: Sparse Adaptive Guidance for Dependency-Aware Tabular Data Generation**
+- **UniversalRAG: Retrieval-Augmented Generation over Corpora of Diverse Modalities and Granularities**
+- **Looking at Radiology Report Generation through a Causal Lens: A Survey**
+- **Disco-RAG: Discourse-Aware Retrieval-Augmented Generation**
+- **Guaranteeing Knowledge Integration with Joint Decoding for Retrieval-Augmented Generation**
+- **Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning**
+- **CodeFlowBench: A Multi-turn, Iterative Benchmark for Complex Code Generation**
+- **Scaling Beyond Context: A Survey of Multimodal Retrieval-Augmented Generation for Document Understanding**
+- **Open Schrödinger’s Closed Box: Identifying Retrieval Augmented Generation in API-Accessible Large Language Model Services**
+- **AgentOCR: Reimagining Agent History via Optical Self-Compression**
+- **A Theoretically Grounded Approach to Summarizing Conversation Dynamics for Forecasting the Derailment of Online Conversations**
+- **LogicPoison: Logical Attacks on Graph Retrieval-Augmented Generation**
+- **Compete to Complete: Co-opetition Adversarial Learning for Retrieval-Augmented Generation**
+- **What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation**
+- **Measuring Human Contribution in AI-Assisted Content Generation**
+- **ACE-Router: Generalizing History-Aware Routing from MCP Tools to the Agent Web**
+- **UNIKIE-BENCH: Benchmarking Large Multimodal Models for Key Information Extraction in Visual Documents**
+- **StealthGraph: Exposing Domain-Specific Risks in LLMs through Knowledge-Graph-Guided Harmful Prompt Generation**
+- **Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration**
+- **Don’t Be Misled by Style: A Style-Adaptive Reranker for Capturing Effective Knowledge in Retrieval-Augmented Generation**
+- **In-depth Research Impact Summarization through Fine-Grained Temporal Citation Analysis**
+- **Is a Document Educational or Just Wikipedia-Style? — Pitfalls of Classifier-Based Quality Filtering**
+- **STEM: Structure-Tracing Evidence Mining for Knowledge Graphs-Driven Retrieval-Augmented Generation**
+- **Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement**
+- **arXiv2Table: Toward Realistic Benchmarking and Evaluation for LLM-Based Literature-Review Table Generation**
+- **iTAG: Inverse Design for Natural Text Generation with Accurate Causal Graph Annotations**
+- **LiGen: Active Lipid Generation via a Molecular Language Model**
+- **Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective**
+- **UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity Mixture-of-Experts**
+- **KCVR: Knowledge-Centric Video Reconstruction for Structured Pedagogical Summarization via Dynamic Graph Planning**
+- **RepoGenesis: Benchmarking End-to-End Microservice Generation from Readme to Repository**
+- **AGSC: Adaptive Granularity and Semantic Clustering for Uncertainty Quantification in Long-text Generation**
+- **TRACE: Traversal Retrieval-Augmented Chain of Evidence for Document Understanding**
+- **Self-Reflective Generation at Test Time**
+- **From Past To Path: Masked History Learning for Next-Item Prediction in Generative Recommendation**
+- **Unified Thinker: A General Reasoning Core for Image Generation**
+- **Visual and Memory–Augmented Soccer Commentary Generation**
+- **Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data**
+- **Improving Retrieval-Augmented Generation without Taxonomy-based Error Categorization**
+- **WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics**
+- **EvoNarrator: Modeling Scientific Evolution for Feasible Hypothesis Generation**
+- **LLM-SLM Collaborative Framework of Idiomatic Expression Generation**
+- **Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review**
+- **Deriving Character Logic from Storyline as Codified Decision Trees**
+- **SegTune: Structured and Fine-Grained Control for Song Generation**
+- **IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation**
+- **ALDEN: Reinforcement Learning for Active Navigation and Evidence Gathering in Long Documents**
+- **Reinforced Informativeness Optimization for Long-Form Retrieval-Augmented Generation**
+- **Illusions of the Gold Standard: A Large-scale Analysis of Human Evaluation Protocols for Long-form Text Generation**
+- **Iterative Dual-Model Alignment for Story Evaluation**
+- **ReFEree: Reference-Free and Fine-Grained Method for Evaluating Factual Consistency in Real-World Code Summarization**
+- **MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows**
+- **ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation**
+- **FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation**
+- **SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression**
+- **SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding**
+- **LAD-RAG: Layout-aware Dynamic RAG for Visually-Rich Document Understanding**
+- **ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation**
+- **MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation**
+- **Biomedical Question Answering via Multi-Level Summarization on a Local Knowledge Graph**
+- **Narrative License and Model Sycophancy in LLM Summaries of Scientific Work**
+- **ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios**
+- **Decoupling Task-Solving and Output Formatting in LLM Generation**
+- **Analyzing and Internalizing Complex Policy Documents for LLM Agents**
+- **Anchor: Branch-Point Data Generation for GUI Agents**
+- **OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward Modeling and LLM Alignment**
+- **LENS: LLM-Enabled Narrative Synthesis for Mental Health by Aligning Multimodal Sensing with Language Models**
+- **Controlling Distributional Bias in Multi-Round LLM Generation via KL-Optimized Fine-Tuning**
+- **SciFlow-Bench: Evaluating Structure-Aware Scientific Diagram Generation via Inverse Parsing**
+- **LCR-RAG: Enhancing Logical Consistency in Retrieval-Augmented Generation via Neuro-symbolic Reinforcement Learning**
+- **HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering**
+- **Your Reasoning Benchmark May Not Test Reasoning: Revealing Perception Bottleneck in Abstract Reasoning Benchmarks**
+- **Beyond Chunking: Discourse-Aware Hierarchical Retrieval for Long Document Question Answering**
+- **GBV-SQL: Guided Generation and SQL2Text Back-Translation Validation for Multi-Agent Text2SQL**
+- **Adaptive Planning for Multi-Attribute Controllable Summarization with Monte Carlo Tree Search**
+- **Difficulty-Controllable Cloze Question Distractor Generation**
+- **REG: Retrieval via Emotion Similarity for Guiding Empathetic Dialogue Generation**
+- **DisCo_Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**
+- **Know the Known and the Unknown: Reasonable Answer Generation with Knowledge-Informed Citations**
+- **Suggest-Verify-Revise: A Three-Stage Document-Level Event Causality Identification with Narrative Consistency**
+- **StoryCoder: Narrative Reformulation for Structured Reasoning in LLM Code Generation**
+- **Discourse Coherence and Response-Guided Context Rewriting for Multi-Party Dialogue Generation**
+- **EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation**
+- **Identity-Robust Language Model Generation via Content Integrity Preservation**
+- **Knowledge Poisoning Attacks on Medical Multi-Modal Retrieval-Augmented Generation**
+- **When Bigger Isn’t Better: A Comprehensive Fairness Evaluation of Political Bias in Multi-News Summarisation**
+- **CAML: A Conflict-Aware Molecular Language Model Merging Framework for Multi-Constraint Molecular Generation**
+- **HiGoE: Hierarchical Graph of Evidence to Enhance Retrieval-Augmented Generation for Long-context Summarization**
+- **Region-Grounded Report Generation for 3D Medical Imaging: A Fine-Grained Dataset and Graph-Enhanced Framework**
+- **DeepGuard: Secure Code Generation via Multi-Layer Semantic Aggregation**
+- **IS-CoT: Breaking the Long-form Generation Collapse via Interleaved Structural Thinking**
+- **MTAVG-Bench: A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation**
+- **Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation**
+- **Bridging Internal Consistency and External Alignment: A Causal and Dynamic Interpretability Framework for LLM Generation**
+- **R^3AG: Retriever Routing for Retrieval-Augmented Generation**
+- **ClusterRAG: Cluster-Based Collaborative Filtering for Personalized Retrieval-Augmented Generation**
+- **Aligned Multi-View Scripts for Universal Chart-to-Code Generation**
+- **Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models**
+- **Unveiling the Unknown: Open-Set Entity Typing via Two-Stage Generation**
+- **Tailoring Diagnostic Modeling to Individual Learners: Personalized Distractor Generation via MCTS-Guided Reasoning Reconstruction**
+- **Efficient Prior-Guided Reasoning for Robust Retrieval-Augmented Generation under Conflicts**
+- **LitVISTA: A Benchmark for Narrative Orchestration in Literary Text**
+- **MAB-DQA: Addressing Query Aspect Importance in Document Question Answering with Multi-Armed Bandits**
+- **FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean**
+- **BiMol-Diff: A Unified Diffusion Framework for Molecular Generation and Captioning**
+- **DEBAR: Mitigating Contextual Bias in Cross-Document Relation Extraction via Dual-Stream Decoupling**
+- **LegalChainReasoner: Grounding Criminal Judicial Opinion Generation via Structured Legal Chains**
+- **InsideOut: Measuring and Mitigating Insider–Outsider Bias in Interview Script Generation**
+- **Attention as Selector: Unlocking VLM Attention for Long Document Page Retrieval**
+- **CharTide: Data-Centric Chart-to-Code Generation via Tri-Perspective Tuning and Inquiry-Driven Evolution**
+- **Agent Newsroom: Efficient Chronological Report Generation via Dynamic Multi-Agent Collaboration**
+- **ChipSeek: Optimizing Verilog Generation via EDA-Integrated Reinforcement Learning**
+- **CSPO: Alleviating Reward Ambiguity for Structured Table-to-LaTeX Generation**
+- **Chart-MRAG: Benchmarking Multimodal Retrieval Augmented Generation on Chart-based Documents**
+- **Revisiting Metric Reliability for Fine-grained Evaluation of Machine Translation and Summarization in Indian Languages**
+- **HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation**
+- **Stable-RAG: Mitigating Retrieval-Permutation-Induced Hallucinations in Retrieval-Augmented Generation**
+- **CIRAG: Construction–Integration Retrieval and Adaptive Generation for Multi-hop Question Answering**
+- **Dynamic Infilling Anchors for Format-Constrained Generation in Diffusion Large Language Models**
+- **Think Parallax: Solving Multi-Hop Problems via Multi-View Knowledge-Graph-Based Retrieval-Augmented Generation**
+- **DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**
+- **Attention Weights as an Indicator: Analyzing and Improving Document Utilization in Retrieval-Augmented Generation**
+- **LADR: Locality-Aware Dynamic Rescue for Efficient Text-to-Image Generation with Diffusion Large Language Models**
+- **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation**
+- **FusionFlow: Enabling Deep Structural Exploration for Automated Agentic Workflow Generation**
+- **UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**
+- **HopWeaver: Cross-Document Synthesis of High-Quality and Authentic Multi-Hop Questions**
+- **VerilogLAVD: LLM-Aided Pattern Generation for Verilog CWE Detection**
+- **Bloom-Eval: A Hierarchical Evaluation Benchmark for Automatic Survey Generation Based on Bloom’s Taxonomy**
+- **GenesisFunc: Multi-Agent Data Generation for Accurate and Generalizable Function-Calling**
+- **FactVerse: A Benchmark for Factual Consistency in Interleaved Image–Text Generation**
+- **Incorporating Temporal Coherence to Cross-Document Event Coreference Resolution**
+- **HiChunk: Evaluating and Enhancing Retrieval Augmented Generation with Hierarchical Chunking**
+- **PersonalityDBench: A Dataset for Personality Disorders - from Modeling to Controlled Generation**
+- **Beyond Explicit Refusals: Soft-Failure Attacks on Retrieval-Augmented Generation**
+- **MavenCoder: Competitive Code Generation via Model Adaptive Planning Strategies and Multi-Perspective Verification Enhancement**
+- **CPR-RAG: Clinical Prior-Regularized Retrieval for Anatomy-Aware 3D CT Report Generation**
+- **ArgGenBench: Benchmarking the Complex Controlled Argument Generation Capability of Large Language Models**
+- **OSCBench: Benchmarking Object State Change in Text-to-Video Generation**
+- **Attribution, Citation, and Quotation: A Survey of Evidence-based Text Generation with Large Language Models**
+- **SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for Token-level Recognition of Semantic Differences Between Related Documents**
+- **RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation**
+- **Frankentext: Stitching random text fragments into long-form narratives**
+- **Decisive: Guiding User Decisions with Optimal Preference Elicitation from Unstructured Documents**
+- **Stress Testing Factual Consistency Metrics for Long-Document Summarization**
+- **LLM-Generated Text May Harm Your Retrieval! A Robust Detection Strategy for Retrieval-Augmented Generation**
+- **EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution**
+- **HiddenGuard: Fine-Grained Safe Generation with Specialized Representation Router**
+- **ThreadSumm: Summarization of Nested Discourse Threads Using Tree of Thoughts**
+- **Enhanced Reasoning for Biomedical Document-Level Relation Extraction via a Novel Cascade Language Model Framework**
+- **Multimodal Large Language Models for Multi-Subject In-Context Image Generation**
+- **Synthetic Data Generation for Training Diversified Commonsense Reasoning Models**
+- **MARS²: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation**
+- **LoVeC: Reinforcement Learning for Better Verbalized Confidence in Long-Form Generation**
+- **Anchoring the Cache: Mitigating Contextual Hallucination in KV-Compressed Long-Context Summarization**
+- **Beyond Static Artifacts: An Evolutionary Framework for Synthetic Claim Generation**
+- **ChiKhaPo: A Large-Scale Multilingual Benchmark for Evaluating Lexical Comprehension and Generation in Large Language Models**
+- **Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation**
+- **Fiction Flows: A Replication and Reinterpretation of Narrative Sequentiality**
+- **Evaluating Visual Narrative Coherence in Story Visualization via Diversified Storylines**
+- **CypherSmith: Transforming Text-to-Cypher Generation for LLMs with Synthetic Data**
+- **ATGL: An Adaptive-Threshold Global Loss for Document-level Relation Extraction**
+- **Utility-Oriented Visual Evidence Selection for Multimodal Retrieval-Augmented Generation**
+- **DefGen-Bench: A Benchmark for Chinese Criminal Defence Opinion Generation in LegalAI**
+- **SeDev: Structured Semantic Exploration for LLM-Driven Code Generation**
+- **EVM-QuestBench: An Execution-Grounded Benchmark for Natural-Language Transaction Code Generation**
+- **TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction**
+- **If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**
+- **Flow-Based Page Unique Semantic Mapping Architecture for Document Visual Question Answering**
+- **SWAN: Semantic Watermarking with Abstract Meaning Representation**
+- **PaT: Planning-after-Trial for Efficient Test-Time Code Generation**
+- **The Role of Mixed-Language Documents for Multilingual Large Language Model Pretraining**
+- **ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation**
+- **IGenBench: Benchmarking the Reliability of Text-to-Infographic Generation**
+- **Enhancing Reinforcement Learning for Radiology Report Generation with Evidence-aware Rewards and Self-correcting Preference Learning**
+- **Grammar as Control: Modular Language Generation for the Long Tail**
+- **LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**
+- **Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation**
+- **AdaDPI: Document-level Translation Adaptive Agent via Dynamic Parametric Internalization**
+- **Cross-Examination Framework: A Task-Agnostic Diagnostic for Information Fidelity in Text-to-Text Generation**
+- **Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models**
+- **One-step Nonautoregressive Natural Language Generation with Shortcut Flow Matching Models**
+- **PHOTON: Hierarchical Autoregressive Modeling for Lightspeed and Memory-Efficient Language Generation**
+- **More Aligned, Less Diverse? Analyzing the Grammar and Lexicon of Two Generations of LLMs**
+- **Structure Guided Retrieval-Augmented Generation for Factual Queries**
+- **From Competition to Synergy: Unlocking Reinforcement Learning for Subject-Driven Image Generation**
+- **Deep-Reporter: Deep Research for Grounded Multimodal Long-Form Generation**
+- **Survey Response Generation: Generating Closed-Ended Survey Responses In-Silico with Large Language Models**
+- **Social Story Frames: Contextual Reasoning about Narrative Intent and Reception**
+- **From Nodes to Narratives: Explaining Graph Neural Networks with LLMs and Graph Context**
+- **RealChart2Code: Bridging the Gap in Real-World Chart-to-Code Generation via Multi-Task Evaluation**
+- **HypoEval: Hypothesis-Guided Evaluation for Natural Language Generation**
+- **A Structured Clustering Approach for Inducing Media Narratives**
+- **Simple Agents, Biased Judges: Efficient Multi-Party Dialogue Generation &amp; The Evaluation Gap**
+- **Locate and Explain: Joint Multimodal Emotion Cause Extraction and Summarization in Conversation**
+- **ServImage: An Image Generation and Editing Benchmark from Real-world Commercial Imaging Services**
+- **PodBench: A Comprehensive Benchmark for Instruction-Aware Audio-Oriented Podcast Script Generation**
+- **A Survey of Large Language Models for Text-Guided Molecular Discovery: From Molecule Generation to Optimization**
+- **ReCode: Reinforcing Code Generation with Reasoning-Process Rewards**
+- **CT-FineBench: A Diagnostic Fidelity Benchmark for Fine-Grained Evaluation of CT Report Generation**
+- **MTRouter: Cost-Aware Multi-Turn LLM Routing with History–Model Joint Embeddings**
+- **Automatic and Reliable Evaluation for Academic Caption-to-Figure Generation with LMMs**
+- **SciMDR: Advancing Scientific Multimodal Document Reasoning**
+- **Learning Faster with Better Tokens: Parameter-Efficient Vocabulary Adaptation for Specialized Text Summarization**
+- **SHARP: Self-adaptive Harmful Category-aware Prompt Generation for Black-box Jailbreaking**
+- **Mind’s Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs**
+- **Synthia: Scalable Grounded Persona Generation from Social Media Data**
+- **From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding**
+- **CEBC: Conformal Evidence-Bounded Control for Low-Hallucination Vision–Language Generation**
+- **DiNO: Disinformation Narrative Observer**
+- **GitChameleon 2.0: Evaluating AI Code Generation Against Python Library Version Incompatibilities**
+- **DREAM-S: Speculative Decoding with Searchable Drafting and Target-Aware Refinement for Multimodal Generation**
+- **Protein-STORY: Semantic Text-Oriented Representation Yields biologically meaningful Protein embeddings**
+- **Self-Guided Alignment: Adaptive Preference Sensing for Multi-Objective Generation**
+- **Typology-Aware Multilingual Morphosyntactic Parsing with Joint Abstract Node Modeling**
+- **MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**

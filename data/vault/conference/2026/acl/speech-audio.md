@@ -11,86 +11,88 @@ draft: false
 
 ## Speech & Audio
 **82 papers**
+*Links not yet available — ACL proceedings pending on ACL Anthology.*
 
-- **Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models** — Yifu Chen, Shengpeng Ji, Zhengqing Liu, Qian Chen, Wen Wang, Ziqing Wang, Yangzhuo Li, Tianle Liang, Zhou Zhao
-- **RespiraMFM: A Multimodal Foundation Model with Contrastive Audio-Language Alignment for Respiratory Disease Identification** — Shakhrul Iman Siam, Tiantian Feng, Jiankun Zhang, Shrikanth Narayanan, Mi Zhang
-- **Is EEG-to-Text Feasible in Real-World Scenarios? An In-Depth Analysis Using a Neuropsychology-Inspired Benchmark** — Zihan Zhang, Yu Bao, Xiao Ding, Tianyi Jiang, Kai Xiong
-- **ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling** — Yuxuan Jiang, Zehua Chen, Zeqian Ju, Yusheng Dai, Weibei Dou, Jun Zhu
-- **Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech** — Siqi Ouyang, Shuoyang Ding, Oleksii Hrinchuk, Vitaly Lavrukhin, Brian Yan, Boris Ginsburg, Lei Li
-- **When Misinformation Speaks and Converses: Rethinking Fact-Checking in Audio Platforms** — Chaewan Chun, Delvin Ce Zhang, Dongwon Lee
-- **RealTalk-CN: A Realistic Chinese Speech Task-Oriented Dialogue Benchmark with Cross-Modal Analysis** — Enzhi Wang, Jiaming Zhou, Yuhang Jia, Aobo Kong, Qicheng Li, Yong Qin
-- **SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization** — Wenxi Chen, Ruiqi Yan, Yushen Chen, Zhikang Niu, Ziyang Ma, Xiquan Li, Yuzhe Liang, Hanlin Wen, Shunshun Yin, Ming Tao, Xinsheng Wang, Xie Chen
-- **FC-TTS: Style and Timbre Control in Zero-Shot Text-to-Speech with Disentangled Speech Representations** — Yoonhyung Lee, Hyunsin Park, Jinhwan Park, Jinkyu Lee
-- **SDiaReward: Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness** — Jingyu Lu, Yuhan Wang, Fan Zhuo, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao
-- **Towards Fine-Grained and Multi-Granular Contrastive Language-Speech Pre-training** — Yifan Yang, Bing Han, Hui Wang, Wei Wang, Ziyang Ma, Long Zhou, Zengrui Jin, Guanrou Yang, Tianrui Wang, Xu Tan, Xie Chen
-- **Standard-to-Dialect Transfer Trends Differ across Text and Speech: A Case Study on Intent and Topic Classification in German Dialects** — Verena Blaschke, Miriam Winkler, Barbara Plank
-- **SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation** — Hui Wang, Jinghua Zhao, Yifan Yang, Shujie Liu, Junyang Chen, Yanzhe Zhang, Shiwan Zhao, Jinyu Li, Jiaming Zhou, Haoqin Sun, Yan Lu, Yong Qin
-- **On the Emotion Understanding of Synthesized Speech** — Yuan Ge, Haishu Zhao, Aokai Hao, Junxiang Zhang, Bei Li, Xiaoqian Liu, Chenglong Wang, Jianjin Wang, Bingsen Zhou, Bingyu Liu, Jingbo Zhu, Zhengtao Yu, Tong Xiao
-- **Beyond Transcripts: A Renewed Perspective on Audio Chaptering** — Fabian Retkowski, Maike Züfle, Thai Binh Nguyen, Jan Niehues, Alexander Waibel
-- **Shanks: Simultaneous Hearing and Thinking for Spoken Language Models** — Cheng-Han Chiang, Xiaofei Wang, Linjie Li, Chung-Ching Lin, Kevin Lin, Shujie LIU, Zhendong Wang, Zhengyuan Yang, Hung-yi Lee, Lijuan Wang
-- **Evaluating the Expressive Appropriateness of Speech in Rich Contexts** — Tianrui Wang, Ziyang Ma, Yizhou Peng, Haoyu Wang, Zhikang Niu, Zikang Huang, Yihao Wu, Yi-Wen Chao, Yu Jiang, Yuheng Lu, Guanrou Yang, Xuanchen Li, Hexin Liu, Chunyu Qiang, Cheng Gong, Yifan Yang, Tianchi Liu, Junyu Wang, Nana Hou, Meng Ge, Fuming You, Yang Wei, Zhongqian Sun, Hu Haifeng, Xiaobao Wang, Eng Siong Chng, Xie Chen, Longbiao Wang, Jianwu Dang
-- **UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity Mixture-of-Experts** — Zhenyu Liu, Yunxin Li, Xuanyu Zhang, Qixun Teng, Shenyuan Jiang, Xinyu Chen, Haoyuan Shi, Haolan Chen, Fanbo Meng, Minjun Zhao, Yu Xu, Yancheng He, Baotian Hu, Haizhou Li, Min Zhang
-- **XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs** — Yitian Gong, Luozhijie Jin, Kuangwei Chen, Dong Zhang, Ruifan Deng, Xiaogui Yang, Xin Zhang, Zhaoye Fei, Qinyuan Cheng, Shimin Li, Xipeng Qiu
-- **VAPO: End-to-end Slide-Enhanced Speech Recognition with Omni-modal Large Language Models** — Rui Hu, Delai Qiu, Yining Wang, Shengping Liu, Jitao Sang
-- **VoxMind: An End-to-End Agentic Spoken Dialogue System** — Tianle Liang, Yifu Chen, Shengpeng Ji, Yijun Chen, Zhiyang Jia, Jingyu Lu, Fan Zhuo, Xueyi Pu, Yangzhuo Li, Zhou Zhao
-- **An Exploration of Mamba for Speech Self-Supervised Models** — Tzu-Quan Lin, Heng-Cheng Kuo, Tzu-Chieh Wei, Hsi-Chun Cheng, Chun Wei Chen, Hsien-Fu Hsiao, Yu Tsao, Hung-yi Lee
-- **FineLAP: Taming Heterogeneous Supervision for Fine-grained Language-Audio Pretraining** — Xiquan Li, Xuenan Xu, Ziyang Ma, Wenxi Chen, Haolin He, Qiuqiang Kong, Xie Chen
-- **MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows** — Xiquan Li, Junxi Liu, Yuzhe Liang, Zhikang Niu, Wenxi Chen, Xie Chen
-- **Discovering and Causally Validating Emotion-Sensitive Neurons in Large Audio-Language Models** — Xuanwen Ding, Chengjun Pan, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
-- **Protecting Bystander Privacy via Selective Hearing in Audio LLMs** — Xinhe Shi, Qingcheng Zeng, Weihao Xuan, Linchao Zhu
-- **Listening Like Humans: Semantics-Guided Noise-Robust Multimodal Speech Recognition** — Xiulin Yang, Heidi Getz, Ethan Wilcox
-- **emg2speech: synthesizing speech from electromyography using self-supervised speech models** — Minqian Liu, Ioana Baldini, David Rabinowitz, David S Rosenberg, Sebastian Gehrmann, Mark Dredze
-- **A Data-Centric Approach to Generalizable Speech Deepfake Detection** — Tao Fan, GuoqiangMa, Yuanfeng SONG, Lixin Fan, Kai ChenQiang Yang
-- **POWSM: A Phonetic Open Whisper-Style Speech Foundation Model** — JiYan Liu, Youzheng Liu, Taihang Wang, Yimin Wang, Ye Jiang, Diana Maynard
-- **PRiSM: Benchmarking Phone Realization in Speech Models** — Yilun Liu, Ruihong Qiu, Zi Huang
-- **Closing the Modality Reasoning Gap for Speech Large Language Models** — Jianghao Lin, Yuanyuan Shi, Xin Peng, Renjie Ding, Hairui Wang, Yuxuan Peng, Bizhe Bai, Weixi Song, Fengshuo Bai, Huacan Chai, Weinan Zhang, Fei Huang, Ying Wen
-- **DisCo_Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec** — Yifan Hu, Peiji Yang, Zhisheng Wang, Yicheng Zhong, Rui Liu
-- **SEE: Signal Embedding Energy for Quantifying Noise Interference in Large Audio Language Models** — Hao Peng, Yunjia Qi, Xiaozhi Wang, Zijun Yao, Lei Hou, Juanzi Li
-- **MTAVG-Bench: A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation** — Zechen Sun, Yuyang Sun, Zecheng Tang, Juntao Li, Wenpeng Hu, Wenliang Chen, Zhunchen Luo, Guotong Geng, Min Zhang
-- **SpeakerSleuth: Can Large Audio-Language Models Judge Speaker Consistency across Multi-turn Dialogues?** — Jiaxin Bai, Wei Fan, Qi Hu, Qing Zong, Chunyang Li, Hong Ting Tsang, Hongyu Luo, Yauwai Yim, Haoyu Huang, Xiao Zhou, Feng QIN, Tianshi Zheng, Xi Peng, Xin YAO, Huiwen Yang, Leijie Wu, JI Yi, Gong Zhang, Renhai Chen, Yangqiu Song
-- **Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification** — Yeji Park, Jiwon Tark, Taesik Gong
-- **Rectifying the Emotional Flow: Aligning Priors and Dynamic Guidance for High-Arousal Text-to-Speech** — Yuhua Jiang, Shuang Cheng, Yihao Liu, Ermo Hua, Che Jiang, Weigao Sun, Yu Cheng, Feifei Gao, Biqing Qi, Bowen Zhou
-- **ATIR: Towards Audio-Text Interleaved Contextual Retrieval** — Wenhan Liu, Xinyu Ma, Weiwei Sun, Yutao Zhu, Yuchen Li, Dawei Yin, Zhicheng Dou
-- **Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval** — Xuemiao Zhang, Can Ren, Chengying Tu, Rongxiang Weng, Hongfei Yan, Jingang Wang, Xunliang Cai
-- **PEAP: Proactive Embodied Action Sequence Planning with Joint Understanding of Vision and Audio Perception** — Erum Mushtaq, Anil Ramakrishna, Satyapriya Krishna, Sattvik Sahai, Prasoon Goyal, Kai-Wei Chang, Tao Zhang, Rahul Gupta
-- **TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis** — Justice Ou, Tinglin Huang, Yilun Zhao, Ziyang Yu, Peiqing Lu, Yifei Shen, Rex Ying
-- **LLM-ForcedAligner: A Non-Autoregressive and Accurate LLM-Based Forced Aligner for Multilingual and Long-Form Speech** — Qiuyuan Ai, Zenghuang Fu, Zhaoyang Li, Jie Song, Guannan He, Ping Jiang, Haoyu Wu
-- **Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition** — Jeongho Yoon, Chanhee Park, Yongchan Chun, Hyeonseok Moon, Heuiseok Lim
-- **SAFE-QAQ: End-to-End Slow-Thinking Audio-Text Fraud Detection via Reinforcement Learning** — Yanxu Mao, Peipei Liu, Tiehan Cui, Congying Liu, Mingzhe Xing, Datao You
-- **Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models** — Jingjing Li, Yue Feng, Yuchen Guo, Jincai Huang, Wei Ji, Qi Bi, Yongri Piao, Miao Zhang, Xiaoqi Zhao, Qiang Chen, Shihao Zou, Huchuan Lu, Li Cheng
-- **SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models** — Minping Chen, Bowen Xiao, Du Liang, Chuxuan Zeng, Zeyi Wen
-- **Towards Fine-grained Audio Captioning with Multimodal Contextual Fusion** — Kairui Hu, Penghao Wu, Fanyi Pu, Wang Xiao, Xiang Yue, Bo Li, Yuanhan Zhang, Ziwei Liu
-- **UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions** — Zhiqiang Liu, Yichi Zhang, Mengshu Sun, Lei Liang, Wen Zhang
-- **Difference in Task Performance on Sparse Speech Representations** — Libo Sun, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
-- **SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation** — Guirong Chen, Shuqi Ye, Wenkai Yang, Shiqi Shen, Guangyao Shen, Yankai Lin
-- **SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation** — Ying He, Sihang Jiang, Xingzhou Chen, Zhouhong Gu, Yiwei Gu, Minggui HE, Shimin Tao, Hongxia Ma, Yanghua Xiao
-- **UniVocal: Unified Speech-Singing Code-Switching Synthesis** — Chenghao Zhang, Qingqing Long, Ludi Wang, Wenjuan Cui, Jianjun Yu, Yi Du
-- **From Naturalness to Norms: Interactional Cultural Competence for SpeechLMs** — Junzhe Wang, Zhiheng Xi, Yajie Yang, Hao Luo, Shihan Dou, Tao Gui, Qi Zhang
-- **LLM-Based Multi-Task Bangla Hate Speech Detection: Type, Severity, and Target** — Hongwen Ding, Yizheng Zhao
-- **Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation** — Nokimul Hasan Arif, Qian Lou, Mengxin Zheng
-- **Confident, Calibrated, or Complicit: Safety Alignment and Ideological Bias in LLM Hate Speech Detection** — Zoher Kachwala, Bao Tran Truong, Rasika Muralidharan, Haewoon Kwak, Jisun An, Filippo Menczer
-- **S2S-Arena: Evaluating Paralinguistic Instruction Following in Speech-to-Speech Models** — Qingqing Yang, Haijiang Liu, Moyan Li
-- **LCMA-SRT: Language-Conditional Mixture-of-Experts Adapters for Joint Multilingual Speech Recognition and Translation** — Song Jin, Juntian Zhang, Xun Zhang, Zeying Tian, Fei Jiang, Guojun Yin, Wei Lin, Yong Liu, Rui Yan
-- **Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural Human Interaction** — Qingguo Qi, Hongyang Chen, Zhao Li
-- **Probing Audio-Visual Reasoning in Multimodal Language Models through the Lens of Audio** — Terry Jingchen Zhang, Gopal Dev, Ning Wang, Max Obreiter, Wenyuan Jiang, Punya Syon Pandey, Keenan Samway, Yinya Huang, Bernhard Schölkopf, Mrinmaya Sachan, Zhijing Jin
-- **ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation** — Yinan Liu, Dongying Lin, Sigang Luo, Xiaochun Yang, Bin Wang
-- **ImmersiveTTS: Environment-Aware Text-to-Speech with Multimodal Diffusion Transformer and Domain-Specific Representation Alignment** — Nikita Afonin, Nikita Andriianov, Vahagn Hovhannisyan, Nikhil Bageshpura, Kyle Liu, Kevin Zhu, Sunishchal Dev, Ashwinee Panda, Oleg Rogov, Elena Tutubalina, Alexander Panchenko, Mikhail Seleznyov
-- **HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models** — Jinyuan Fang, Zaiqiao Meng, Craig Macdonald
-- **S^4: Operationalizing Speech Act Theory for Strategic Semi-Structured Psychiatric Interview** — Francesco Maria Molfese, Luca Moroni, Ciro Porcaro, Simone Conia, Roberto Navigli
-- **Data-efficient Targeted Token-level Preference Optimization for LLM-based Text-to-Speech** — Mutian Bao, Qiuyi Qi, Tian Liang, Jinjian Zhang, Wei Zhou, Ming Kong, Linjian Mo, Qiang Zhu
-- **Emotion-Wheel-Guided Audio-Referred Text Representation for Multimodal Emotion Recognition in Conversation** — Jiayi Tuo, Cheng Tang, Zihan Wang, Chenyue Zhou, Yao Li, Yanbiao Ma, Chao Wang, Wei Dai, Mingxuan Wang, Shitong Qin, Ziwei Zhao
-- **Still Between Us? Evaluating and Improving Voice Assistant Robustness to Third-Party Interruptions** — Hongju Su, Ke Li, Lan Yang, Honggang Zhang, Yi-Zhe Song
-- **Temporal Precision Matters: Brain-Tuning Speech Language Models with Millisecond-Resolution Neural Signals** — Onur Keleş, Aslı Özyürek, Gerardo Ortega, Kadir Gökgöz, Esam Ghaleb
-- **CIS-BWE: Chaos-Informed Speech Bandwidth Extension** — Xiaoliang Fu, Jiaye Lin, Yangyi Fang, Chaowen Hu, Cong Qin, Zekai Shao, Binbin Zheng, Lu Pan, Ke Zeng
-- **TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding** — Joel Mire, Maria Antoniak, Steven Wilson, Zexin Ma, Achyutarama Ganti, Andrew Piper, Maarten Sap
-- **Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition** — Anwar Alajmi, Gabriele Pergola
-- **Measuring User’s Mental Models of Speech Translation in Human-AI Collaboration** — Laerdon Kim, Vivian Nguyen, Cristian Danescu-Niculescu-Mizil
-- **AV-Dialog: Spoken Dialogue Models with Audio-Visual Input** — Yuming Yang, Mingyoung Lai, Wanxu Zhao, Xiaoran Fan, Zhiheng Xi, Mingqi Wu, Chiyue Huang, Jun Zhao, Haijun Lv, Tong Jian, Yunhua Zhou, Yicheng Zou, Qipeng Guo, Tao Gui, Qi Zhang, Xuanjing Huang
-- **Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception** — Lina Sun
-- **PodBench: A Comprehensive Benchmark for Instruction-Aware Audio-Oriented Podcast Script Generation** — Bingkang Shi, Jen-tse Huang, Luo Long, Tianyu Zong, Hongzhu Yi, Yuanxiang Wang, Songlin Hu, Xiaodan Zhang, Zhongjiang Yao
-- **BanHADEX: Towards Explainable HAte Speech Detection in Bangla Using Human Annotated EXplanation** — Hieu Man, Van-Cuong Pham, Nghia Trung Ngo, Franck Dernoncourt, Thien Huu Nguyen
-- **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant** — Junfan Chen, Sizhe Wu, Richong Zhang, Chunming Hu
-- **RV-HATE: Reinforced Multi-Module Voting for Implicit Hate Speech Detection** — Youngwon Lee, Seung-won Hwang, Zhewei Yao, Yuxiong He
-- **Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs** — Yijia Fan, Jing Yang, Mingyu Liu, Kaitong Cai, Jian Wang, Keze Wang, Jusheng Zhang
-- **UniSRM: A Unified Speech Reward Model for Reasoning-Based Fine-grained Assessment** — Longkai Cheng, Ximing Wang, Jiangcai Zhu, Kailai Shao, Chao Chen, Haixiang Hu
-- **BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs** — Duy Nguyen, Archiki Prasad, Elias Stengel-Eskin, Mohit Bansal
+
+- **Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models**
+- **RespiraMFM: A Multimodal Foundation Model with Contrastive Audio-Language Alignment for Respiratory Disease Identification**
+- **Is EEG-to-Text Feasible in Real-World Scenarios? An In-Depth Analysis Using a Neuropsychology-Inspired Benchmark**
+- **ControlAudio: Tackling Text-Guided, Timing-Indicated and Intelligible Audio Generation via Progressive Diffusion Modeling**
+- **Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech**
+- **When Misinformation Speaks and Converses: Rethinking Fact-Checking in Audio Platforms**
+- **RealTalk-CN: A Realistic Chinese Speech Task-Oriented Dialogue Benchmark with Cross-Modal Analysis**
+- **SAC: Neural Speech Codec with Semantic-Acoustic Dual-Stream Quantization**
+- **FC-TTS: Style and Timbre Control in Zero-Shot Text-to-Speech with Disentangled Speech Representations**
+- **SDiaReward: Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness**
+- **Towards Fine-Grained and Multi-Granular Contrastive Language-Speech Pre-training**
+- **Standard-to-Dialect Transfer Trends Differ across Text and Speech: A Case Study on Intent and Topic Classification in German Dialects**
+- **SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation**
+- **On the Emotion Understanding of Synthesized Speech**
+- **Beyond Transcripts: A Renewed Perspective on Audio Chaptering**
+- **Shanks: Simultaneous Hearing and Thinking for Spoken Language Models**
+- **Evaluating the Expressive Appropriateness of Speech in Rich Contexts**
+- **UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity Mixture-of-Experts**
+- **XY-Tokenizer: Mitigating the Semantic-Acoustic Conflict in Low-Bitrate Speech Codecs**
+- **VAPO: End-to-end Slide-Enhanced Speech Recognition with Omni-modal Large Language Models**
+- **VoxMind: An End-to-End Agentic Spoken Dialogue System**
+- **An Exploration of Mamba for Speech Self-Supervised Models**
+- **FineLAP: Taming Heterogeneous Supervision for Fine-grained Language-Audio Pretraining**
+- **MeanAudio: Fast and Faithful Text-to-Audio Generation with Mean Flows**
+- **Discovering and Causally Validating Emotion-Sensitive Neurons in Large Audio-Language Models**
+- **Protecting Bystander Privacy via Selective Hearing in Audio LLMs**
+- **Listening Like Humans: Semantics-Guided Noise-Robust Multimodal Speech Recognition**
+- **emg2speech: synthesizing speech from electromyography using self-supervised speech models**
+- **A Data-Centric Approach to Generalizable Speech Deepfake Detection**
+- **POWSM: A Phonetic Open Whisper-Style Speech Foundation Model**
+- **PRiSM: Benchmarking Phone Realization in Speech Models**
+- **Closing the Modality Reasoning Gap for Speech Large Language Models**
+- **DisCo_Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**
+- **SEE: Signal Embedding Energy for Quantifying Noise Interference in Large Audio Language Models**
+- **MTAVG-Bench: A Diagnostic Benchmark for Multi-Talker Dialogue-Centric Audio-Video Generation**
+- **SpeakerSleuth: Can Large Audio-Language Models Judge Speaker Consistency across Multi-turn Dialogues?**
+- **Retrieving to Recover: Towards Incomplete Audio-Visual Question Answering via Semantic-consistent Purification**
+- **Rectifying the Emotional Flow: Aligning Priors and Dynamic Guidance for High-Arousal Text-to-Speech**
+- **ATIR: Towards Audio-Text Interleaved Contextual Retrieval**
+- **Omni-Embed-Audio: Leveraging Multimodal LLMs for Robust Audio-Text Retrieval**
+- **PEAP: Proactive Embodied Action Sequence Planning with Joint Understanding of Vision and Audio Perception**
+- **TED-TTS: Training-Free Intra-Utterance Emotion and Duration Control for Text-to-Speech Synthesis**
+- **LLM-ForcedAligner: A Non-Autoregressive and Accurate LLM-Based Forced Aligner for Multilingual and Long-Form Speech**
+- **Mixture-of-Experts with Intermediate CTC Supervision for Accented Speech Recognition**
+- **SAFE-QAQ: End-to-End Slow-Thinking Audio-Text Fraud Detection via Reinforcement Learning**
+- **Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**
+- **SoundBreak: A Systematic Study of Audio-Only Adversarial Attacks on Trimodal Models**
+- **Towards Fine-grained Audio Captioning with Multimodal Contextual Fusion**
+- **UniSonate: A Unified Model for Speech, Music, and Sound Effect Generation with Text Instructions**
+- **Difference in Task Performance on Sparse Speech Representations**
+- **SpidR-Adapt: A Universal Speech Representation Model for Few-Shot Adaptation**
+- **SpeechMedAssist: Efficiently and Effectively Adapting Speech Language Models for Medical Consultation**
+- **UniVocal: Unified Speech-Singing Code-Switching Synthesis**
+- **From Naturalness to Norms: Interactional Cultural Competence for SpeechLMs**
+- **LLM-Based Multi-Task Bangla Hate Speech Detection: Type, Severity, and Target**
+- **Revisiting Audio-language Pretraining for Learning General-purpose Audio Representation**
+- **Confident, Calibrated, or Complicit: Safety Alignment and Ideological Bias in LLM Hate Speech Detection**
+- **S2S-Arena: Evaluating Paralinguistic Instruction Following in Speech-to-Speech Models**
+- **LCMA-SRT: Language-Conditional Mixture-of-Experts Adapters for Joint Multilingual Speech Recognition and Translation**
+- **Audio MultiChallenge: A Multi-Turn Evaluation of Spoken Dialogue Systems on Natural Human Interaction**
+- **Probing Audio-Visual Reasoning in Multimodal Language Models through the Lens of Audio**
+- **ES4R: Speech Encoding Based on Prepositive Affective Modeling for Empathetic Response Generation**
+- **ImmersiveTTS: Environment-Aware Text-to-Speech with Multimodal Diffusion Transformer and Domain-Specific Representation Alignment**
+- **HalluAudio: A Comprehensive Benchmark for Hallucination Detection in Large Audio-Language Models**
+- **S^4: Operationalizing Speech Act Theory for Strategic Semi-Structured Psychiatric Interview**
+- **Data-efficient Targeted Token-level Preference Optimization for LLM-based Text-to-Speech**
+- **Emotion-Wheel-Guided Audio-Referred Text Representation for Multimodal Emotion Recognition in Conversation**
+- **Still Between Us? Evaluating and Improving Voice Assistant Robustness to Third-Party Interruptions**
+- **Temporal Precision Matters: Brain-Tuning Speech Language Models with Millisecond-Resolution Neural Signals**
+- **CIS-BWE: Chaos-Informed Speech Bandwidth Extension**
+- **TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding**
+- **Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition**
+- **Measuring User’s Mental Models of Speech Translation in Human-AI Collaboration**
+- **AV-Dialog: Spoken Dialogue Models with Audio-Visual Input**
+- **Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception**
+- **PodBench: A Comprehensive Benchmark for Instruction-Aware Audio-Oriented Podcast Script Generation**
+- **BanHADEX: Towards Explainable HAte Speech Detection in Bangla Using Human Annotated EXplanation**
+- **Speculative End-Turn Detector for Efficient Speech Chatbot Assistant**
+- **RV-HATE: Reinforced Multi-Module Voting for Implicit Hate Speech Detection**
+- **Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs**
+- **UniSRM: A Unified Speech Reward Model for Reasoning-Based Fine-grained Assessment**
+- **BatonVoice: An Operationalist Framework for Enhancing Controllable Speech Synthesis with Linguistic Intelligence from LLMs**

@@ -11,319 +11,321 @@ draft: false
 
 ## Agents & Multi-Agent Systems
 **319 papers**
+*Links not yet available — ACL proceedings pending on ACL Anthology.*
 
-- **OctoTools: A Multi-Agent Framework with Extensible Tools for Complex Reasoning** — Pan Lu, Bowen Chen, Sheng Liu, Rahul Thapa, Joseph Boen, James Zou
-- **No Reader Left Behind: Multi-Agent Summaries Everyone Can Understand** — Jimin Jung, MyoungJin Kim, Jaehyung Seo, Heuiseok Lim
-- **Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4** — Chengwu Liu, Yichun Yin, Ye Yuan, Jiaxuan Xie, Botao Li, Siqi Li, Jianhao Shen, Yan Xu, Lifeng Shang, Ming Zhang
-- **PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation** — Jiho Choi, Seojeong Park, Seongjong Song, Hyunjung Shim
-- **WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering** — Yifei He, Pranit Chawla, Yaser Souri, Subhojit Som, Xia Song
-- **How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior** — Zidi Xiong, Yuping Lin, Wenya Xie, Pengfei He, Zirui Liu, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
-- **IntrAgent: An LLM Agent for Content-Grounded Information Retrieval through Literature Review** — Fengbo Ma, Zixin Rao, Xiaoting Li, Zhetao Chen, Hongyue Sun, Yiping Zhao, Xianyan Chen, Zhen Xiang
-- **AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering** — Zheyuan Zhang, Kaiwen Shi, Zhengqing Yuan, Zehong Wang, Tianyi Ma, Keerthiram Murugesan, Vincent Galassi, Chuxu Zhang, Yanfang Ye
-- **MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search** — Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wenlin Zhang, Maolin Wang, Yong Liu, Xiangyu Zhao
-- **RAM-SD: Retrieval-Augmented Multi-agent framework for Sarcasm Detection** — Ziyang Zhou, Ziqi Liu, Yan Wang, Yiming Lin, Yangbin Chen
-- **A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains** — Xianren Zhang, Shreyas Prasad, Di Wang, Qiuhai Zeng, Suhang Wang, Wenbo Yan, Mat Hans
-- **Reinforcement Learning for Self-Improving Agent with Skill Library** — Jiongxiao Wang, Qiaojing Yan, Yawei Wang, Yijun Tian, Soumya Smruti Mishra, Zhichao Xu, Megha Gandhi, Panpan Xu, Lin Lee Cheong
-- **Grammar Search for Multi-Agent Systems** — Mayank Singh, Vikas Yadav, Shiva Krishna Reddy Malay, Shravan Nayak, Sai Rajeswar, Sathwik Tejaswi Madhusudhan, Eduardo Blanco
-- **Explicit Trait Inference for Multi-Agent Coordination** — Suhaib Abdurahman, Etsuko Ishii, Katerina Margatina, Divya Bhargavi, Monica Sunkara, Yi Zhang
-- **Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning** — Houxing Ren, Mingjie Zhan, Zimu Lu, Ke Wang, Yunqiao Yang, Haotian Hou, Hongsheng Li
-- **GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks** — Jianwen Luo, Yiming Huang, Jinxiang Meng, Fangyu Lei, Shizhu He, Xiao Liu, Shanshan Jiang, Bin Dong, Jun Zhao, Kang Liu
-- **Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding** — Yuhang Zhou, Mingrui Zhang, Ke Li, Mingyi Wang, Qiao Liu, Qifei Wang, Jiayi Liu, Fei Liu, Serena Li, Weiwei Li, Mingze Gao, Abhishek Kumar, Xiangjun Fan, Zhuokai Zhao, Lizhu Zhang
-- **COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context** — Guangya Wan, Mingyang Ling, Xiaoqi Ren, Rujun Han, Sheng Li, Zizhao Zhang
-- **Mitigating Context Interference for Reliable and Efficient Search Agents** — Boyang XUE, Bin Wu, Shuofei Qiao, Sheng Wang, Rui Wang, Yiming Du, Hongru WANG, Jeff Z. Pan, Emine Yilmaz, Kam-Fai Wong, Aldo Lipani
-- **Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy** — Yi Jiang, Sendong Zhao, Jianbo Li, Haochun Wang, Lizhe Zhang, Yan Liu, Bing Qin
-- **Can We Predict Before Executing Machine Learning Agents?** — Jingsheng Zheng, Jintian Zhang, Yujie Luo, Yuren Mao, Yunjun Gao, Lun Du, Huajun Chen, Ningyu Zhang
-- **Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions** — Yongqi Li, Hao Lang, Tieyun Qian, Yongbin Li
-- **Timely Machine: Awareness of Time Makes Test-Time Scaling Agentic** — Yichuan Ma, Linyang Li, Yongkang Chen, Peiji Li, Xiaozhe Li, Qipeng Guo, Dahua Lin, Kai Chen
-- **D²Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning** — Kangcheng Luo, Tinglang Wu, Yansong Feng
-- **Simple-VGC: Enhancing Visual Grounding in Multimodal Reasoning via Adaptive Tool Composition** — Ye Wang, Qianglong Chen, Siyuan Wang, Zejun Li, Shijie Guo, Zhirui Zhang, Zhongyu Wei
-- **AgentOCR: Reimagining Agent History via Optical Self-Compression** — Lang Feng, Fuchao Yang, Feng Chen, Xin Cheng, Haiyang Xu, Zhenglin Wan, Ming Yan, Bo An
-- **MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools** — Wenhao Wang, Peizhi Niu, Zhao Xu, Zhaoyu Chen, Jian Du, Yaxin Du, Xianghe Pang, Keduan Huang, Yanfeng Wang, Qiang Yan, Siheng Chen
-- **Spec-o3: A Tool-Augmented Vision-Language Agent for Rare Celestial Object Candidate Vetting via Automated Spectral Inspection** — Minghui Jia, Qichao Zhang, Ali Luo, Linjing Li, Shuo Ye, Hailing Lu, Wen Hou, Dongbin Zhao
-- **Dual-Cluster Memory Agent: Resolving Multi-Paradigm Ambiguity in Optimization Problem Solving** — Xinyu Zhang, Yuchen Wan, Boxuan Zhang, Zesheng Yang, Lingling Zhang, Bifan Wei, Jun Liu
-- **OctoBench: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding** — Deming Ding, Shichun Liu, Enhui Yang, Jiahang Lin, Ziying Chen, Shihan Dou, Honglin Guo, Weiyu Cheng, Pengyu Zhao, Chengjun Xiao, Qunhong Zeng, Qi Zhang, Xuanjing Huang, Qidi Xu, Tao Gui
-- **Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage** — Jinwei Hu, Xinmiao Huang, Youcheng Sun, Yi Dong, Xiaowei Huang
-- **MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments** — Quyu Kong, Xu Zhang, Zhenyu Yang, Nolan Gao, Chen Liu, Panrong Tong, Chenglin Cai, Hanzhang Zhou, Jianan Zhang, Liangyu Chen, Zhidan Liu, Steven Hoi, Yue Wang
-- **ACE-Router: Generalizing History-Aware Routing from MCP Tools to the Agent Web** — Zhiyuan Yao, Zishan Xu, Yifu Guo, Zhiguang Han, Cheng Yang, Shuo Zhang, Weinan Zhang, Xingshan Zeng, Weiwen Liu
-- **FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents** — Chiwei Zhu, Benfeng Xu, Mingxuan Du, Shaohan Wang, Xiaorui Wang, Zhendong Mao, Yongdong Zhang
-- **TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs** — Ziyi Wang, Chen Zhang, Wenjun Peng, Qi Wu, Xinyu Wang
-- **Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search** — Wentao Shi, Zichun Yu, Fuli Feng, Xiangnan He, Chenyan Xiong
-- **Don’t Click That: Teaching Web Agents to Resist Deceptive Interfaces** — Yilin Zhang
-- **MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents** — Pengxiang Zhao, Guangyi Liu, Yaozhen Liang, Weiqing He, Zhengxi Lu, WenHao Wang, Yuehao Huang, Yuxiang Chai, Zhaolu Kang, Yaxuan Guo, Hao Wang, Kexin Zhang, Liang Liu, Yong Liu
-- **Hierarchical Reinforcement Learning with Augmented Step-Level Transitions for LLM Agents** — Shuai Zhen, Yanhua Yu, Ruopei Guo, Nan Cheng, Yang Deng
-- **When KV Cache Reuse Fails in Multi-Agent Systems: Cross-Candidate Interaction is Crucial for LLM Judges** — Sichu Liang, Zhenglin Wang, Chujiajia, Pengfei Xia, Hui Zang, Deyu Zhou
-- **Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS** — Bingyu Yan, Xiaoming Zhang, Jinyu Hou, Chaozhuo Li, Ziyi Zhou, Yiming Hei, Litian Zhang
-- **ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration** — Yifei Chen, Guanting Dong, Zhicheng Dou
-- **DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints** — Yinger Zhang, Shutong Jiang, Renhao Li, Jianhong Tu, Yang Su, Lianghao Deng, Xudong Guo, ChenXu Lv, Junyang Lin
-- **AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts** — Keyu Li, Junhao Shi, Yang Xiao, Mohan Jiang, Jie Sun, Yunze Wu, Dayuan Fu, Shijie Xia, Xiaojie Cai, Tianze Xu, Weiye Si, Wenjie Li, Dequan Wang, Pengfei Liu
-- **Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning** — QishengSu, Shiting Huang, Zhen Fang, Ziyan Chen, Zehui Chen, Feng Zhao
-- **NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning** — Zhongtao Miao, Kaiyan Zhao, Masaaki Nagata, Yoshimasa Tsuruoka
-- **AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering** — Taolin Zhang, Dongyang Li, Chen Chen, Qizhou Chen, Jiuheng Wan, Xiaofeng He, Chengyu Wang, Richang Hong
-- **Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents** — Yiting Shen, Kun Li, Wei Zhou, Songlin Hu
-- **Taming “Zombie” Agents: A Markov State-Aware Framework for Resilient Multi-Agent Evolution** — Taolin Zhang, Pukun Zhao, Qizhou Chen, Jiuheng Wan, Chen Chen, Xiaofeng He, Chengyu Wang, Richang Hong
-- **A Survey of Large Language Model-Based Search Agents** — Yunjia Xi, Jianghao Lin, Yongzhao Xiao, Zheli Zhou, Rong Shan, Te Gao, Jiachen Zhu, Weiwen Liu, Yong Yu, Weinan Zhang
-- **The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination** — Chenlong Yin, Zeyang Sha, Shiwen Cui, Changhua Meng, Zechao Li
-- **AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios** — Lisa Alazraki, Lihu Chen, Ana Brassard, Joe Stacey, Hossein A. Rahmani, Marek Rei
-- **MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution** — Zihan Wu, Jie Xu, Yun Peng, Chun Yong Chong, Xiaohua Jia
-- **From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level** — Jia Li, Yuxin Su, Michael R. Lyu
-- **QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement** — Zhensheng Luo, Sai Wu, Yuan Qiu, Chang Yao, Gang Chen, Xiu Tang
-- **Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training** — Kailai Yang, Xiao Liu, Lei Ji, Hao Li, Xiao Liang, Zhiwei Liu, Yeyun Gong, Peng Cheng, Mao Yang
-- **Experience-driven Multi-turn Reinforcement Learning for GUI Agents** — Zhengxi Lu, Jiabo Ye, Fei Tang, Yongliang Shen, Haiyang Xu, Ziwei Zheng, Weiming Lu, Ming Yan, Fei Huang, Jun Xiao, Yueting Zhuang
-- **OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows** — Qiushi Sun, Mukai Li, Zhoumianze Liu, Zhihui Xie, Fangzhi Xu, Zhangyue Yin, Kanzhi Cheng, Zehao Li, Zichen Ding, Qi Liu, Zhiyong Wu, Zhuosheng Zhang, Ben Kao, Lingpeng Kong
-- **Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs** — Yu Li, Xiaoran shang, Qizhi Pei, Yun Zhu, Xin Gao, Honglin Lin, Zhanping Zhong, Zhuoshi Pan, Zheng Liu, Xiaoyang Wang, Conghui He, Dahua Lin, Feng Zhao, Lijun Wu
-- **IEvoAgent: Evolving Conversational Agent based on User Implicit Feedback** — Yichen Cai, Jiayang Li, Junyuan Qiu, Jingya Guo, Weitao You, Changyuan Yang, Lingyun Sun, Pei Chen
-- **VIGIL: Defending LLM Agents Against Tool-Stream Injection via Verify-Before-Commit** — Junda lin, Zhaomeng Zhou, Zhi Zheng, Shuochen Liu, Tong Xu, Yong Chen, Enhong Chen
-- **EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery** — Xiaoyu Xiong, Yuqi Ren, Deyi Xiong
-- **DREAM: Deep Research Evaluation with Agentic Metrics** — Elad Ben Avraham, ChangHao Li, Ron Dorfman, Roy Ganz, Oren Nuriel, Amir Dudai, Aviad Aberdam, Noah Flynn, Elman Mansimov, Aditya Kalyanpur, Ron Litman
-- **Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text** — Zhihao Xu, Rumei Li, Jiahuan Li, Rongxiang Weng, Jingang Wang, Xunliang Cai, Xiting Wang
-- **ACIArena: Toward Unified Evaluation for Agent Cascading Injection** — Hengyu An, Minxi Li, Jinghuai Zhang, Naen Xu, Chunyi Zhou, Changjiang Li, Xiaogang Xu, Tianyu Du, Shouling Ji
-- **VoxMind: An End-to-End Agentic Spoken Dialogue System** — Tianle Liang, Yifu Chen, Shengpeng Ji, Yijun Chen, Zhiyang Jia, Jingyu Lu, Fan Zhuo, Xueyi Pu, Yangzhuo Li, Zhou Zhao
-- **Reinforcing Agentic Search Via Reward Density Optimization** — Kun Luo, Hongjin Qian, Zheng Liu, Ziyi Xia, Shitao Xiao, Zhao Cao, Siqi Bao, Jun Zhao, Kang Liu
-- **Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration** — Zijun Liu, Zhennan Wan, Peng Li, Ming Yan, Fei Huang, Yang Liu
-- **Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments** — Zheng Jia, Shengbin Yue, Wei Chen, Siyuan Wang, Yidong Liu, Zejun Li, Yun Song, Zhongyu Wei
-- **OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory** — Jinze Li, Yang Zhang, Xin Yang, Jiayi Qu, Jinfeng Xu, Shuo Yang, Junhua Ding, Edith Cheuk-Han Ngai
-- **When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors** — Chenghao Yang, Yuning Zhang, Zhoufutu Wen, Tao Gong, Jiaheng Liu, Qi Chu, Nenghai Yu
-- **Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data** — FengXian Dong, Zhi Zheng, Xiao Han, Wei Chen, Jingqing Ruan, Tong Xu, Yong Chen, Enhong Chen
-- **Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning** — Qiao Liang, Yuke Zhu, Chao Ge, Lei Yang, Ying Shen, Bo Zheng, Sheng Guo
-- **The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents** — Weihao Xuan, Qingcheng Zeng, Heli Qi, Yunze Xiao, Junjue Wang, Naoto Yokoya
-- **SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning** — Lichao Wang, Zhaoxing Ren, Tianzhuo Yang, Jiaming Ji, Chi Harold Liu, Yaodong Yang, Juntao Dai
-- **MOA: Multi-Objective Alignment for Role-Playing Agents** — Chonghua Liao, Ke Wang, Yuchuan Wu, Ruoran Li, Fei Huang, Yongbin Li
-- **From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents** — Niu Lian, Yuting Wang, Hanshu Yao, Jinpeng Wang, Bin Chen, Yaowei Wang, Min Zhang, Shu-Tao Xia
-- **Chain-of-Memory: Lightweight Memory Construction with Dynamic Evolution for LLM Agents** — Xiucheng Xu, Bingbing Xu, Tian Xueyun, Zihe Huang, Rongxin Chen, Li Yunfan, Huawei Shen
-- **MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching** — Changle Qu, Sunhao Dai, Hengyi Cai, Jun Xu, Shuaiqiang Wang, Dawei Yin
-- **RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents** — Jize Wang, Han Wu, Zhiyuan You, Yiming Song, Yijun Wang, Zifei Shan, Yining Li, Songyang Zhang, Xinyi Le, Cailian Chen, Xinping Guan, Dacheng Tao
-- **Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards** — Yuanjie Lyu, Chengyu Wang, Lei Shen, Jun Huang, Tong Xu
-- **AgentMark: Utility-Preserving Behavioral Watermarking for Agents** — Kaibo Huang, Jin Tan, Yukun Wei, Wanling Li, Zipei Zhang, Hui Tian, Zhongliang Yang, Linna Zhou
-- **No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning** — Zhicong Li, Lingjie Jiang, Yulan Hu, Xingchen Zeng, Yixia Li, Xiangwen Zhang, Guanhua Chen, Zheng Pan, Xin Li, Yong Liu
-- **LLM-as-Scheduler: Agentic Workflow Dynamic Scheduling** — Dawei Xiang, Kexin Chu, Wenyan Xu, Wenhui Zhang, Wei Zhang
-- **Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning** — Sikuan Yan, Xiufeng Yang, Zuchao Huang, Ercong Nie, Zifeng Ding, Zonggen Li, Xiaowen Ma, Jinhe Bi, Kristian Kersting, Jeff Z. Pan, Hinrich Schuetze, Volker Tresp, Yunpu Ma
-- **CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents** — Jiayu Liu, Cheng Qian, Zhaochen Su, Qing Zong, Shijue Huang, Bingxiang He, Yi R. Fung
-- **Lightweight LLM Agent Memory with Small Language Models** — Jiaquan Zhang, Chaoning Zhang, Shuxu Chen, Zhenzhen Huang, Pengcheng Zheng, Zhicheng Wang, Ping Guo, Fan Mo, Sung-Ho Bae, Jie Zou, Jiwei Wei, Yang Yang
-- **Interleaved Tool-Call Reasoning for Protein Function Understanding** — Chuanliu Fan, Zicheng Ma, Huanran Meng, Aijia Zhang, Wenjie Du, Jun Zhang, Ziqiang Cao, Guohong Fu
-- **Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents** — Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
-- **A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Task** — Shuzheng Si, Haozhe Zhao
-- **GLARE: Agentic Reasoning for Legal Judgment Prediction** — Xinyu Yang, Chenlong Deng, Zhicheng Dou
-- **DORA: A Dual-Objective Reinforcement Learning Framework for Effective and Efficient Multimodal Agentic Search** — Guangming Qin, Yuhao Deng, Yukun Zhao, Zhenyang Li, Junfeng Wang, Dawei Yin, Ye Yuan, Guoren Wang, Yizhou Yan, Chengliang Chai, Lei Cao
-- **CODESTRUCT: Code Agents over Structured Action Spaces** — Myeongsoo Kim, Chao-Chun Hsu, Dingmin Wang, Shweta Garg, Varun Kumar, Murali Krishna Ramanathan
-- **Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision** — Bingsen Chen, Boyan Li, Ping Nie, Yuyu Zhang, Xi Ye, Chen Zhao
-- **Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions** — Guo Gan, Cong Chen
-- **Current Agents Fail to Leverage World Model as Tool for Foresight** — Cheng Qian, Emre Can Acikgoz, Bingxuan Li, Xiusi Chen, Yuji Zhang, Bingxiang He, Qinyu Luo, Gokhan Tur, Dilek Hakkani-Tür, Yunzhu Li, Heng Ji
-- **HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents** — Jinchang Zhu, Jindong Li, Cheng Zhang, Jiahong Liu, Menglin Yang
-- **Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction** — Yuanfei Wang, Xinju Huang, Fangwei Zhong, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
-- **ICDAGENT: Empowering Agentic Large Language Models for Explainable Medical Coding** — Ziyi Yin, Yuanpu Cao, Ting Wang, Jinghui Chen, Fenglong Ma
-- **Mango: Multi-Agent Web Navigation via Global-View Optimization** — Weixi Tong, Yifeng Di, Tianyi Zhang
-- **Discovery and Reinforcement of Tool-Integrated Reasoning Chains via Rollout Trees** — Kun Li, Zenan Xu, Junan Li, Zengrui Jin, Jinghao Deng, Zexuan Qiu, Bo Zhou
-- **When Identity Skews Debate: Anonymization for Bias-Reduced Multi-Agent Reasoning** — Hyeong Kyu Choi, Jerry Zhu, Sharon Li
-- **TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems** — Jiale Liu, Victor Bursztyn, Lin Ai, Haoliang Wang, Sunav Choudhary, Saayan Mitra, Qingyun Wu
-- **Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human–Agent Interaction** — Zisu Huang, Muzhao Tian, Xiaohua Wang, Jingwen Xu, Zhengkang Guo, Qi Qian, Kaitao Song, Jiakang Yuan, Changze Lv, Xiaoqing Zheng
-- **MONETA: Multimodal Industry Classification through Geographic Information with Multi Agent Systems** — Arda Yüksel, Gabriel Thiem, Susanne Walter, Patrick Felka, Gabriela Alves Werb, Ivan Habernal
-- **SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding** — Yiqiao Jin, Rachneet Kaur, Zhen Zeng, Sumitra Ganesh, Srijan Kumar
-- **YIELD: A Large-Scale Dataset and Evaluation Framework for Information Elicitation Agents** — Victor De Lima, Grace Hui Yang
-- **Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts** — Riyang Bao, Cheng Yang, Dazhou Yu, Zhexiang Tang, Gengchen Mai, Liang Zhao
-- **ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents** — Yujan Ting, Xu Tang, Terrence Chen, Weijing Huang
-- **AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs** — Zechen Li, Baiyu Chen, Hao Xue, Flora D. Salim
-- **Agentic Rubrics as Contextual Verifiers for SWE Agents** — Zohaib Khan, Mustafa Dogan, Ifeoma Okoh, Pouya Sadeghi, Siddhartha Shrestha, Sergius Justus Nyah, Mahmoud O. Mokhiamar, Michael J. Ryan, Tarek Naous
-- **When “Correct” Is Not Safe: Can We Trust Functionally Correct Patches Generated by Code Agents?** — Saptarshi Ghosh, Tianyu Jiang
-- **Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate** — Yibo Peng, James Song, Lei Li, Xinyu Yang, Mihai Christodorescu, Ravi Mangal, Corina Pasareanu, Haizhong Zheng, Beidi Chen
-- **SynthAgent: Adapting Web Agents with Synthetic Supervision** — Joaquín Polonuer, Lucas Vittor, Iñaki Arango, Ayush Noori, David A. Clifton, Luciano Del Corro, Marinka Zitnik
-- **LLM Agents in Law: Taxonomy, Applications, and Challenges** — Zhaoyang Wang, Yiming Liang, Xuchao Zhang, Qianhui Wu, Siwei Han, Anson Bastos, Rujia Wang, Chetan Bansal, Baolin Peng, Jianfeng Gao, Saravan Rajmohan, Huaxiu Yao
-- **BenchMarker: An Education-Inspired Toolkit for Highlighting Flaws in Multiple-Choice Benchmarks** — Wei He
-- **Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems** — Nishant Balepur, Atrey Desai, Rachel Rudinger
-- **ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation** — Yan Fang, Jun Chen, Yian Yao, Shuxin Zhong, Min Sun, Kaishun Wu
-- **MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation** — Abdullah Mazhar, Het Riteshkumar Shah, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar
-- **Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition** — Eshgin Hasanov, Md. Mahadi Hassan, Santu Karmaker, Aashish Yadavally
-- **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities** — Myra Cheng, Robert Hawkins, Dan Jurafsky
-- **RExBench: Can coding agents autonomously implement AI research extensions?** — Lingxiao Guan, Yuanhao Huang, Jie Liu
-- **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation** — Nicholas Edwards, Yukyung Lee, Yujun (Audrey) Mao, Yulu Qin, Sebastian Schuster, Najoung Kim
-- **APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI** — Nicolas Bougie, Gian Maria Marconi, Xiaotong Ye, Narimasa Watanabe
-- **Evolving Agents** — Artur Kulmizev, Erika Lombart, Patrick Watrin, Marie-Catherine de Marneffe
-- **Analyzing and Internalizing Complex Policy Documents for LLM Agents** — Qizhuo Xie, Yunhui Liu, Yu Xing, Qianzi Hou, Xudong Jin, Tao Zheng, Tieke He
-- **Anchor: Branch-Point Data Generation for GUI Agents** — Xinliang Frederick Zhang, Anhad Mohananey, Alexandra Chronopoulou, Pinelopi Papalampidi, Somit Gupta, Tsendsuren Munkhdalai, Lu Wang, Shyam Upadhyay
-- **From Query to Counsel: Structured Reasoning with a Multi-Agent Framework and Dataset for Legal Consultation** — Jinbiao Wei, Yilun Zhao, Kangqi Ni, Arman Cohan
-- **SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion** — Avinash Amballa, Yashas Malur Saidutta, Chi-Heng Lin, Vivek Kulkarni, Srinivas Chappidi
-- **Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation** — Zhenwen Liang, Ruosen Li, Yujun Zhou, Linfeng Song, Dian Yu, Xinya Du, Haitao Mi, Dong Yu
-- **CIA: Inferring the Communication Topology from LLM-based Multi-Agent Systems** — Chin-Jou Li, Kalvin Chang, Shikhar Bharadwaj, Eunjung Yeo, Kwanghee Choi, Jian Zhu, David R. Mortensen, Shinji Watanabe
-- **Model-Based Imaginative Planning for Embodied Agents** — Shikhar Bharadwaj, Chin-Jou Li, Yoonjae Kim, Kwanghee Choi, Eunjung Yeo, Ryan Soh-Eun Shim, Hanyu Zhou, Brendon Boldt, Karen Rosero, Kalvin Chang, Darsh Agrawal, Keer Xu, Chao-Han Huck Yang, Jian Zhu, Shinji Watanabe, David R. Mortensen
-- **ProActor: Timing-Aware Reinforcement Learning for Proactive Task Scheduling Agents** — Jingting Zheng, Yuqi Ren, Linhao Yu, Yongqi Leng, Deyi Xiong
-- **GBV-SQL: Guided Generation and SQL2Text Back-Translation Validation for Multi-Agent Text2SQL** — Yunyao Zhang, Xinglang Zhang, Junxi Sheng, Wenbing Li, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, Zikai Song
-- **ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering** — Yulong Wang, Siyu Zhao
-- **CPT-Agent: A Cognitive Process Theory-driven Framework for Student Simulation in Writing Development** — Youliang Yuan, Qiuyang Mang, Jingbang Chen, Hong Wan, Xiaoyuan Liu, Junjielong Xu, Jen-tse Huang, Wenxuan Wang, Wenxiang Jiao, Pinjia He
-- **SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation** — Wu Li, Yigeng Zhou, Zesheng Shi, Yequan Wang, Min Zhang, Jing Li
-- **ToolPRM: Fine-Grained Inference Scaling of Structured Outputs for Function Calling** — Xinyu Li, Kexi Chen, Jiajie Shen, Ying Zheng, Hong Lu, Jin Zhao, Xin Wang
-- **GTA: Generating Long-horizon Tasks for Web Agents at Scale** — Seokhoon Kang, Yejin Jeon, Seonjeong Hwang, Gary Geunbae Lee
-- **Taming System Complexity: Demystifying Software Engineering Agents in Diagnosing Linux Kernel Faults** — Xu Wang, Bo Wang, Yang Xiang, Yihong Tang, Dongming Zhao, Zifei Yu, Yuexian Hou
-- **UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization** — Long Yuan, Kaiwen Tian, Zi Chen, Bolong Zheng, Chuan Ma
-- **Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems** — Jianwen Luo, Yongkang Jin, Yu Hong, Jianmin YAO
-- **Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration** — Hanjun Cho, Jay-Yoon Lee
-- **HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application** — Ziyang Ling, Ronald XuMingzhai Sun
-- **Don’t Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models** — Zhuo Chen, Minghao Li, Xiaoqian Ma, Siqi Fan, Xiusheng Huang, ZhangLiujie, Weihang Chen
-- **Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards** — Jonggeun Lee, Woojung Song, Jongwook Han, Haesung Pyun, Yohan Jo
-- **Mem²Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation** — Jiajie Zhang, Xin Lv, Ling Feng, Lei Hou, Juanzi Li
-- **Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning** — Zihao Cheng, Zeming Liu, YingyuShan, Xinyi Wang, Xiangrong Zhu, Yunpu Ma, Hongru Wang, Yuhang Guo, Wei Lin
-- **Beyond the Context Window: Scaling Agentic RL via End-to-end Optimized Context Compression** — Jiani Huang, Shijie Wang, Liang-Bo Ning, Wenqi Fan, Li Qing
-- **LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls** — Miao Lu, Weiwei Sun, Weihua Du, Zhan Ling, Xuesong Yao, Kang Liu, Jiecao Chen
-- **Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents** — Shiqiang Tian, Cheng Ding, Qin Chen, Jie Zhou, Liang He
-- **WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning** — Chuang Zhou, Junnan Dong, Yilin Xiao, Shengyuan Chen, Su Dong, Di Yin, Xing Sun, Zhaozhuo Xu, Xiao Huang
-- **Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces** — Hui Liu, Bin Zou, Kecheng Chen, Jie Liu, Wenya Wang, Haoliang Li
-- **MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents** — Minsik Oh, Jiwei Li, Guoyin Wang
-- **OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agents** — Yang Zhao, Hepeng Wang, Xiao Ding, Yangou Ouyang, Bibo Cai, Kai Xiong, Jinglong Gao, Zhouhao Sun, Li Du, Bing Qin, Ting Liu
-- **BrowseComp-Plus: A Fair and Disentangled Evaluation Benchmark for Deep Search Agents** — Bowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Yian Wang, Qingyun Li, Yu Qiao, Zun Wang, Zichen DingBowen Yang, Kaiming Jin, Zhenyu Wu, Zhaoyang Liu, Qiushi Sun, Zehao Li, JingJing Xie, Zhoumianze Liu, Fangzhi Xu, Kanzhi Cheng, Yian Wang, Qingyun Li, Yu Qiao, Zun Wang, Zichen Ding
-- **Agent-based Substructure Counting under Local Differential Privacy** — Ren Lijing, Denghui Zhang
-- **SPIO: Ensemble and Selective Strategies via LLM-Based Multi-Agent Planning in Automated Data Science** — Shagun Dwivedi, Kaushik Gopalan
-- **Nested Browser-Use Learning for Agentic Information Seeking** — Zhiyin Yu, Yuchen Mou, Juncheng Yan, Junyu Luo, Chunchun Chen, Xing Wei, Yunhui Liu, Hongru Sun, Yuxing Zhang, Jun Xu, Yatao Bian, Ming Zhang, Wei Ye, Tieke He, Jie Yang, Guanjie Zheng, Zhonghai Wu, Bo Zhang, Lei Bai, Xiao Luo
-- **CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution** — Minda Zhao, Yilun Du, Mengyu Wang
-- **FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean** — Chenyi Li, Xinhui Tu, Zaixiang Wang
-- **Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling** — Hang Yan, Fangzhi Xu, Rongman Xu, Yifei Li, Jian Zhang, Haoran Luo, Xiaobao Wu, Anh Tuan Luu, Haiteng Zhao, Qika Lin, Jun Liu
-- **From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset** — Aditya Hemant Shahane, Anuj Kumar Sirohi, Devansh Arora, Nitin Kumar, Prathosh A P, Sandeep Kumar
-- **From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation** — Feiran Zhang, Yixin Wu, Zhenghua Wang, Xiaohua Wang, Changze Lv, Xuanjing Huang, Xiaoqing Zheng
-- **SPARK: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning** — Zihao Tang, Xin Yu, Ziyu Xiao, Zengxuan Wen, Zelin Li, Jiaxi Zhou, Hualei Wang, Haohua Wang, Haizhen Huang, Weiwei Deng, Feng Sun, Qi Zhang
-- **Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment** — Jinyang Wu, Shuo Yang, Yuhao Shen, Shuai Zhang, Zhengqi Wen, Jianhua Tao
-- **AT²PO: Agentic Turn-based Policy Optimization via Tree Search** — Shenghao Ye, Yu Guo, Dong Jin, Yuxiang Wang, Yikai Shen, Yunpeng Hou, Shuangwu Chen, Jian Yang, Xiaofeng Jiang
-- **SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios** — Dingwei Zhu, Shihan Dou, Zhiheng Xi, Senjie Jin, Guoqiang Zhang, Jiazheng Zhang, Junjie Ye, Mingxu Chai, Enyu Zhou, Ming Zhang, Yuhui Wang, Caishuang Huang, Chenhao Huang, Yunke Zhang, Yuran Wang, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang
-- **WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models** — Mingxiang Tao, Yu Tian, Wenxuan Tu, Yue Yang, Xue Yang, Xiangyan Tang
-- **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents** — Zixu Li, Yupeng Hu, Zhiheng Fu, Zhiwei Chen, Yongqi Li, Liqiang Nie
-- **BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?** — Tianle Chen, Pengyu Cheng, Qiyuan Zhu, Jiacheng Wang, Bei Liu, Hao Gu, Ruijie Shen, Xiaofeng Hou, Sirui Han, Jiacheng Liu
-- **Agentic Oversight via Dialectic Reasoning** — Ki Sen Hung, Xi Yang, Chang Liu, Haoran Li, Kejiang Chen, Changxuan Fan, Tsun On Kwok, Weiming Zhang, Xiaomeng Li, Yangqiu Song
-- **Agent Newsroom: Efficient Chronological Report Generation via Dynamic Multi-Agent Collaboration** — Xiangxi Zheng, Kuang He, Jiayi Hu, Ping Yu, Rui Yan, Yuan Yao, Peng Hou, Anxiang Zeng, Alex Jinpeng Wang
-- **Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents** — Junho Park, Dohoon Kim, Taesup Moon
-- **WebSynthesis: World Model-Guided Monte Carlo Tree Search for Efficient WebAgent Trajectory Synthesis** — Yingfeng Luo, Ziqiang Xu, Yuxuan Ouyang, MuRun Yang, DingYang Lin, Kaiyan Chang, Tong Zheng, Bei Li, Peinan Feng, Quan Du, Tong Xiao, JingBo Zhu
-- **AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning** — Yifei Gao, Junhong Ye, Yifan Yang, Jiaqi Wang, Yi Zhang, Zhang Ruichen, Jitao Sang
-- **ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding** — Yunfan Yang, Cuiling Lan, Jitao Sang, Yan Lu
-- **Enhancing Agentic Textual Graph Retrieval with Synthetic Stepwise Supervision** — Di Zhang, Xun Wu, Shaohan Huang, Lingjie Jiang, Yaru Hao, Li Dong, Zewen Chi, Zhifang Sui, Furu Wei
-- **Cognitive Scaffold: From Fluid Context to Crystallized Memory for Long-Horizon DeepResearch Agents** — Chuanqi Shi, Miao Gao, Zhiqiang Gao
-- **Temp-R1: A Unified Autonomous Agent for Complex Temporal KGQA via Reverse Curriculum Reinforcement Learning** — Jiawei Cao, Jie Ouyang, Mingyue Cheng, Zhaomeng Zhou, Chunli Liu, Yupeng Li, Zirui Liu, Shijin Wang
-- **HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation** — Jiaxuan Wu, Wanli Peng, Hang Fu, Xue Yiming, Juan Wen
-- **Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents** — Shize Zhou, Peiyu Liu, Lirong Fu, Tong Ye, Wenhai Wang
-- **SGVEF-LOOP: Coverage-Guided Progressive Topological Exploration and Fact-Grounded Metamorphic Evaluation for MCP Agents** — Rhea Kapur, Robert Hawkins, Elisa Kreiss
-- **DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding** — Yuanzhen Hao, Desheng Wu
-- **Beyond Self-Report: Bridging the Intention-Behavior Gap in Critical Thinking Assessment via Interpretable Multi-Agent System** — Sen Hu, Yuxiang Wei, Jiaxin Ran, Xueran Han, Zhiyuan Yao, Huacan Wang, Ronghao Chen, Lei Zou
-- **ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering** — Hao Zhou, Tianhao Li, Zhijun Wang, Shuaijie She, Linjuan Wu, Hao-Ran Wei, Baosong Yang, Jiajun Chen, Shujian Huang
-- **LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations** — Bingquan Zhang, Xiaoxiao Liu, Yuchi Wang, Lei Zhou, Qianqian Xie, Benyou Wang
-- **Enabling Agents to Communicate Entirely in Latent Space** — Jinhui Chen, Shizhu He, Xingchang Yang, Huanxuan Liao, Yequan Wang, Xiangwen Liao, Wenhao Teng, Kang Liu, Jun Zhao
-- **DR-Arena: an Automated Evaluation Framework for Deep Research Agents** — Jing Jin, Yuhan Song, Wen Luo, Houfeng Wang
-- **PACE: Predictive Adaptive Context Extraction for Long-Horizon LLM Agents** — Zhuoyun Du, Runze Wang, Huiyu Bai, Zouying Cao, Xiaoyong Zhu, Yu Cheng, Bo Zheng, Wei Chen, Haochao Ying
-- **When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents** — Renliang Sun, Wei Cheng, Dawei Li, Haifeng Chen, Wei Wang
-- **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation** — Ao Sun, Xiaoyu Wang, Zhe Tan, Yu Li, Jiachen Zhu, Yuheng Jia, Shu Su
-- **Hetero-Designer: Automated Design of Multi-Agent Systems with Heterogeneous LLMs** — Victor Morand, Nadi Tomeh, Josiane Mothe, Benjamin Piwowarski
-- **Trust Within? Seek Beyond? Knowledge Boundary Aware Policy Optimization for Agentic Search** — Zhiheng Zhang, Yuanzhe Zhang, Bohan Yu, Daojian Zeng, Kang Liu, Jun Zhao
-- **FusionFlow: Enabling Deep Structural Exploration for Automated Agentic Workflow Generation** — Yuncheng Hua, Sion Weatherhead, Mehdi Jafari, Hao Xue, Flora D. Salim
-- **OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning** — Zhen Yang, Wei Du, Jie Wang, Wenze Zhou, Xiangfeng Meng, Zhengyang Wang, Suping Sun, Ziwei Du, Haodong Zou, Jie Chen, Yongbin Liu, Shicheng Tan, Jiahao Ying, Shu Zhao
-- **Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents** — Shunian Chen, Xinyuan Xie, Zheshu Chen, Owen Lee, Liyan Zhao, Zhan Su, Qilin Sun, Benyou Wang
-- **AgentAsk: Multi-Agent Systems Need to Ask** — Yu-Zheng Lin, Bono Po-Jen Shih, John Paul Martin Encinas, Elizabeth Victoria Achom, Karan Patel, Jesus Horacio Pacheco, Sicong Shao, Jyotikrishna Dass, Soheil Salehi, Pratik Satam
-- **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution** — Zhiyu Shen, Jiyuan Liu, Yunhe Pang, Yanghui Rao, Fu Lee Wang, Jianxing Yu
-- **VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation Agents** — Zhuoshi Pan, Qizhi Pei, Yu Li, Zinan Tang, Qiyao Sun, H. Vicky Zhao, Conghui He, Lijun Wu
-- **Conflict-Aware Memory for Embodied Agents: Enhancing Vector Data Quality via Detection Rules** — Junmyeong Lee, Chan Hur, Changsu Choi, Sukmin Cho, Fitsum Gaim, Eui Jun Hwang, Hoyun Song, KyungTae Lim
-- **STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training** — Xiang Long, Yingjie Xia, Li Kuang, Yao Wan
-- **InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training** — Jiwei Tang, Shilei Liu, Zhicheng Zhang, Qingsong Lv, Runsong Zhao, Tingwei Lu, Langming Liu, Haibin Chen, Yujin Yuan, Hai-Tao Zheng, Wenbo Su, Bo Zheng
-- **GenesisFunc: Multi-Agent Data Generation for Accurate and Generalizable Function-Calling** — Fei Zhang, Zhe Zhao, Haibin Wen, Tianshuo Wei, Zaixi Zhang, Chao Yang, Ye Wei
-- **From Knowing to Teaching: Scaffolding Pedagogical Decisions for LLM Agent** — Jiwei Tang, Zhicheng Zhang, Shunlong Wu, Jingheng Ye, Lichen Bai, Zitai Wang, Tingwei Lu, Lin Hai, Yiming Zhao, Hai-Tao Zheng, Hong-Gee Kim
-- **Why Are We Moral? An LLM-based Agent Simulation Approach to the Study of Moral Evolution** — Yuzhe Zhang, Xianwei Xue, Xingyong Wu, Mengke Chen, Chen Liu, Xinran He, Run Shao, Feiran Liu, Huanmin Xu, Qiutong Pan, Haiwei Wang
-- **Beyond Itinerary Planning—A Real-World Benchmark for Multi-Turn and Tool-Using Travel Tasks** — Changxin Ke, Rui Zhang, Jiaming Guo, Yuanbo Wen, Li Ding, Shuo Wang, Xuyuan Zhu, Xiong Peng, Di Huang, Zidong Du, Xing Hu, Qi Guo, Yunji Chen
-- **DIXITWORLD: Evaluating Multimodal Abductive Reasoning in Vision-Language Models with Multi-Agent Dixit Gameplay** — Xinyu Chen, Peifeng Li, Qiaoming Zhu
-- **MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation** — Priyanshu Mahato, Aniket Santosh Mishra, Kripabandhu Ghosh
-- **SILO-BENCH: A Scalable Environment for Evaluating Distributed Coordination in Multi-Agent LLM Systems** — Yuqin Yang, Haowu Zhou, Haoran Tu, Zhiwen Hui, Shiqi Yan, HaoYang Li, Dong She, Xianrong Yao, Yang Gao, Zhanpeng Jin
-- **DEFT: Demystifying VLN Failures via a Unified Dual-View Explainability Framework for LLM-based Agents** — Xiaohao Luo, Ying Wei, Rui Zhao
-- **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** — Wensheng Lu, Keyu Chen, Zhifeng Shen, Ruizhi Qiao, Xing Sun
-- **AgentSlimming: Towards Efficient and Cost-Aware Multi-Agent Systems** — Yucheng Zhou, Junwei Sheng, Qianning Wang, Jianbing Shen
-- **End-to-End Optimization of LLM-Driven Multi-Agent Search Systems via Heterogeneous-Group-Based Reinforcement Learning** — Federico Ravenda, Seyed Ali Bahrainian, Daniele Montagnani, Antonietta Mira, Andrea Raballo
-- **Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection** — ZhenChun Xu, Yi Cai, Dajun Zheng, Li Yuan, Mengchen Zhao, Qixiang Wang, Jiexin Wang
-- **EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment** — Eric Onyame, Akash Ghosh, Subhadip Baidya, Sriparna Saha, Xiuying Chen, Chirag Agarwal
-- **Mobile-R1: Towards Interactive Capability for VLM-Based Mobile Agent via Systematic Training** — Zhanyu Liu, Qingguo Hu, Ante Wang, Chenqing Liu, Zhishang Xiang, Hui Li, Delai Qiu, Jinsong Su
-- **MirrorCAPTCHA: Wild CAPTCHA, Wild Distribution, Wild Web-based Platform Meet Multimodal LLM Agents** — Xiaoquan Yi, Haixing Wu, Haozhao Wang, Yichen Li, Yuhua Li, Rui Zhang, Ruixuan Li
-- **ReCreate: Reasoning and Creating Domain Agents Driven by Experience** — Sirry Chen, Jieyi Wang, Wei Chen, Zhongyu Wei
-- **Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing** — Michelle Wastl, Jannis Vamvas, Rico Sennrich
-- **TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems** — Haolei Xu, Haiwen Hong, Hongxing Li, Rui Zhou, Yang Zhang, Longtao Huang, Hui Xue, Yongliang Shen, Weiming Lu, Yueting Zhuang
-- **MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection** — Bingbing Wang, Zhengda Jin, Bin Liang, Wenjie Li, Jing Li, Ruifeng Xu, Min Zhang
-- **Enhancing LLM-based Search Agents via Contribution Weighted Group Relative Policy Optimization** — Chenxi Lin, Zhuoren Jiang, Kaisong Song, Yiquan Wu
-- **EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration** — Wonjin Lee, Kyumin Kim, Sungjae Lee, Jihun Lee, Kwang In Kim
-- **Do LLMs Know Tool Irrelevance? Demystifying Structural Alignment Bias in Tool Invocations** — Xianda Zheng, Huan Gao, Meng-Fen Chiang, Michael Witbrock, Kaiqi Zhao, Shangyang Li
-- **ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents** — Yilong Liu, Xixun Lin, Pengfei Cao, Ge Zhang, Fang Fang, Yanan Cao
-- **EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution** — Yanning Su, Yuhang Zhou, Yang Fang, Sen Liu, Guangnan Ye, Hongfeng Chai
-- **Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective** — Jianqi Gao, Hang Yu, Jian Cao, Ranran Bu, Jinghua Tang, Nengjun Zhu, Yonggang Zhang
-- **InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning** — Mohamed Aghzal, Gregory J. Stein, Ziyu Yao
-- **SafeAgent: Safeguarding LLM Agents via an Automated Risk Simulator** — Shahab Rahimirad, Guven Gergerli, Lucia Romero, Angela Qian, Matthew Lyle Olson, Simon Stepputtis, Joseph Campbell
-- **SimPBL: A Multi-Agent Framework for Project-Based Learning** — Quoc Phong Dao, Hoang Son Nguyen, Pham Khanh Chi, Linh Ngo Van, Nguyen Thi Ngoc Diep, Thien Huu Nguyen, Trung Le
-- **A Multi-Agent Framework for High-Interaction Terminal Simulation** — Xi Fang, Weijie Xu, Yuchong Zhang, Scott Nickleach, Stephanie Eckman, Chandan K. Reddy
-- **RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation** — Kai Wei, Yuwen Cui, Kehan Shen, Hua Wei, Guangjing Wang
-- **Neuro-Symbolic Agentic Reinforcement Learning for Long-Term Original Character Companionship and Interaction** — Zekai Lin, Chao Xue, Di Liang, Xingsheng Han, Peiyang Liu, Xianjie Wu, Lei Jiang, Yu Lu, Haibo Shi, Shuang Liang, Minlong Peng
-- **Behavior Knowledge Merge in Reinforced Agentic Models** — Tianhui Zhang, Bei Peng, Danushka Bollegala
-- **MARS²: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation** — Sathvik Nair, Byung-Doh Oh
-- **NeuralFSM: Adaptive Multi-Agent Coordination via Learning Finite-State Execution Policy** — Caiqi Zhang, Xiaochen Zhu, Chengzu Li, Nigel Collier, Andreas Vlachos
-- **UniDataBench: Evaluating Data Analytics Agents Across Structured and Unstructured Data** — Aastha A K Verma, Anwoy Chatterjee, Mehak Gupta, Tanmoy Chakraborty
-- **MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training** — JungMin Yun, YoungBin Kim
-- **PExA: Parallel Exploration Agent for Complex Text-to-SQL** — Yaxuan Wang, Zhongteng Cai, Yujia Bao, Xueru Zhang, Yang Liu
-- **ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering** — Jiawen Deng, Wei Li, Wentao Zhang, Ziyun Jiao, Fuji Ren
-- **Conjunctive Prompt Attacks in Multi-Agent LLM Systems** — Jaewoo Lee, Archiki Prasad, Justin Chen, Zaid Khan, Elias Stengel-Eskin, Mohit Bansal
-- **GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents** — Viraaji Mothukuri, Reza M. Parizi
-- **DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality** — Gauri Kambhatla, Sanjana Gautam, Angela Zhang, Alexander Liu, Ravi Srinivasan, Junyi Jessy Li, Matthew Lease
-- **RIMRULE: Improving Tool-Using Language Agents via MDL-Guided Rule Learning** — Shangjian Yin, Zhepei Wei, Xinyu Zhu, Wei-Lin Chen, Yu Meng
-- **GAM: Hierarchical Graph-based Agentic Memory for LLM Agents** — Tatsuya Hiraoka
-- **What Deserves Memory: Adaptive Memory Distillation for LLM Agents** — Huangming Xu, Fu Zhang, Zhixuan Yang, Lu Zhang, Jingwei Cheng
-- **TPS-Bench: Evaluating AI Agents’ Tool Planning &amp; Scheduling Abilities in Compounding Tasks** — Kunpeng Kang, Shuaimin Li, Kaiyuan Zhang, Luyang Zhang, Jiasheng Si, Bing Xu, Kehai Chen, Muyun Yang, Wenpeng Lu
-- **SOAR: Supervision from Observation for Agentic Reinforcement Learning** — Weiqing Luo, Zongye Hu, Xiao Wang, Zhiyuan Yu, Haofeng Zhang, Ziyi Huang
-- **HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation** — Pei Yang, Wanyi Chen, Ke Wang, Lynn Ai, Eric Yang, Tianyu Shi
-- **ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants** — Fuwen Luo, Shengfeng Lou, Chi Chen, Ziyue Wang, Chenliang Li, Weizhou Shen, Jiyue Guo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Yang Liu
-- **PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records** — Aunabil Chakma, Mihai Surdeanu, Eduardo Blanco
-- **Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning** — Yixin Bu, Runze Xia, Guanyun Zou, Yupeng Ji, Hongliang Dai, Haodong Liu, Piji Li
-- **Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems** — Taiwei Shi, Zhuoer Wang, Longqi Yang, Ying-Chun Lin, Zexue He, Mengting Wan, Pei Zhou, Sujay Kumar Jauhar, Sihao Chen, Shan Xia, Hongfei Zhang, Jieyu Zhao, Xiaofeng Xu, Xia Song, Jennifer Neville
-- **ARCHITECT: Uncertainty-Aware Dynamic Tool Learning via Causal Intervention for Open-World Agents** — Youngsik Yoon, Sungjae Lee, Seockbean Song, Siwei Wang, Wei Chen, Jungseul Ok
-- **MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents** — Yilun Zhao, Jinbiao Wei, Tingyu Song, Siyue Zhang, Chen Zhao, Arman Cohan
-- **Action Boundary Blindness: When LLM Agents Cannot Tell Where One Action Ends and Another Begins** — Wang Zhangyi, Jiexiang Xu, Bingnan Yu, Li Zongze
-- **R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling** — Wang Zhangyi, Bingnan Yu, Jiexiang Xu, Li Zongze
-- **RISK: A Framework for GUI Agents in E-commerce Risk Management** — Zhi Zeng, Jiaying Wu, Minnan Luo, Di Zhang, Yifei Yang, Xiangzheng Kong, Herun Wan, Zihan Ma
-- **ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution** — Xuefei Wang, Haoyu Tang, Tianyuan Liang, Zhibin Wang, Yupeng Hu, Weili Guan
-- **LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning** — Jongho Kim, Jaeyoung Kim, Seung-won Hwang, Jihyuk Kim, Yu Jin Kim, Moontae Lee
-- **Impatient Users Confuse AI Agents: High-fidelity Simulations of Human Traits for Testing Agents** — Jiaoda Li, Ryan Cotterell
-- **Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities** — Minghan Zhang, Zhen Yang, Haodong Zou, Jie Chen, Zhen Duan, Shu Zhao
-- **FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation** — Jiawei Zhou, Chi Zhang, Xiang Feng, Qiming Zhang, Haibo Qiu, Lihuo He, Dengpan Ye, Xinbo Gao, Jing Zhang
-- **AdaDPI: Document-level Translation Adaptive Agent via Dynamic Parametric Internalization** — Jia Liu, Jiaxin Luo, Weiwen Xu, Jonathan M. Garibaldi, Xiao-Kun Wu, Yixue Hao, Min Chen
-- **Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models** — Kon Woo Kim, Jin-Dong Kim, Akiko Aizawa
-- **EvoRoute: Experience-Driven Self-Routing LLM Agent Systems** — Xiusheng Huang, Zhe Li, Xuanwu Yin, Lu Wang, Yequan Wang, Dong Li, Emad Barsoum, Kang Liu
-- **When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents** — Guibin Zhang, Haiyang Yu, Kaiming Yang, Bingli Wu, Fei Huang, Yongbin Li, Shuicheng YAN
-- **SPARKLE: A Structured and Plug-and-play Agentic Retrieval Policy for Adaptive RAG Models** — Hao Wu
-- **BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks** — Xueyan Wang, Dingyi Yang, Qin Jin
-- **MARCH: Multi-Agent Reinforced Check for Hallucination** — Xinyue Fang, Zhiliang Tian, Zhen Huang, Ziyi Pan, Zhihua Wen, Xi Wang, Quntian Fang, Dongsheng Li
-- **Towards Trustworthy Smart Contract Synthesis: A Multi-Agent Framework with Lean-Based Verification** — Riley Grossman, Yi Chen
-- **LongVideoAgent: Multi-Agent Reasoning with Long Videos** — Milan Miletic, Julie Kallini, Ekaterina Shutova
-- **Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors** — Runtao Liu, Ziyi Liu, Jiaqi Tang, Yue Ma, Renjie Pi, Jipeng Zhang, Qifeng Chen
-- **CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty** — Zhaokun Wang, Jinyu Guo, Jingwen Pu, Hongli Pu, Meng Yang, Xunlei Chen, Jie Ou, Wenyi Li, Guangchun Luo, Wenhong Tian
-- **Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents** — Jiatong Ma, Longteng Guo, Yuchen Liu, Zijia Zhao, Dongze Hao, Xuanxu Lin, Jing Liu
-- **ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents** — Dongwook Lee, Eunwoo Song, Che Hyun Lee, Heeseung Kim, Sungroh Yoon
-- **Multimodal Safety Evaluation in Generative Agent Social Simulations** — Zhejun Zhang, Wenqing Zhou, Haozhe Xu, Lin Zhang, Lei Li
-- **LLM4Cell: Taxonomy and Evaluation of LLM and Agentic Models for Single-Cell Biology** — Mingyue Huo, Yiwen Shao, Yuheng Zhang
-- **From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models** — Mark Rothermel, Marcus Kornmann, Marcus Rohrbach, Anna Rohrbach
-- **Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework** — Yiyang Wei, Tingyu Song, Siyue Zhang, Yilun Zhao
-- **Empowering Multi-Turn Tool-Integrated Agentic Reasoning with Group Turn Policy Optimization** — Afra Feyza Akyürek, Advait Gosai, Chen Bo Calvin Zhang, Vipul Gupta, Jaehwan Jeong, Anisha Gunjal, Tahseen Rabbani, Maria Mazzone, David Randolph IV, Mohammad Mahmoudi Meymand, Gurshaan Chattha, Paula Rodriguez, Diego A. Mares Buendia, Pavit Singh, Michael Liu, Subodh Chawla, Peter Cline, Lucy Ogaz, Ernesto Gabriel Hernández Montoya, Zihao Wang, Pavi Bhatter, Marcos Ayestaran, Bing Liu, Yunzhong He
-- **GCA Framework: A GCC Countries–Grounded Dataset and Agentic Pipeline for Climate Decision Support** — Mingxuan Li, Hanchen Li, Chenhao Tan
-- **Dialogue is the Plan: From Interface to Joint Action in Agentic AI** — Zehua Cheng, Wei Dai, Jiahao Sun, Thomas Lukasiewicz
-- **BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning** — Runchao Li, Yao Fu, Mu Sheng, Xianxuan Long, Haotian Yu, Kenneth Loparo
-- **Value of Information: A Framework for Human–Agent Communication** — Sibo Xiao, Fu Jinyuan, Zhongle Xie, Lidan Shou
-- **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation** — Jiacheng Liang, Tanqiu Jiang, Yuhui Wang, Rongyi Zhu, Fenglong Ma, Ting Wang
-- **Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception** — Lina Sun
-- **C-World: A Computer Use Agent Environment Creator** — Zhen Wan, Chao-Han Huck Yang, Jinchuan Tian, Hanrong Ye, Ankita Pasad, Szu-Wei Fu, Arushi Goel, Ryo Hachiuma, Shizhe Diao, Kunal Dhawan, Sreyan Ghosh, Yusuke Hirota, Zhehuai Chen, Rafael Valle, Chenhui Chu, Shinji Watanabe, Boris Ginsburg, Yu-Chiang Frank Wang
-- **Simple Agents, Biased Judges: Efficient Multi-Party Dialogue Generation &amp; The Evaluation Gap** — Iseo Kim, Eunjin Hong, Juae Kim
-- **EVOTOOL: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection** — Jikun Wan, Chen Gong, Guohong Fu
-- **MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization** — Jin Cui, Jiaqi Guo, Jiepeng Zhou, Ruixuan Yang, Jiayi Lu, Jiajun Xu, Jiangcheng Song, Boran Zhao, Pengju Ren
-- **Can LLM Agents Simulate Multi-Turn Human Behavior? Evidence from Real Online Customer Behavior Data** — Connor Baumler, Calvin Bao, Huy Nghiem, Xinchen Yang, Marine Carpuat, and Hal Daumé III
-- **The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check** — Byeongjin Kim, Gyuwan Kim, Seo Yeon Park
-- **Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents** — Ziyi Wang, Yuxuan Lu, Wenbo Li, Amirali Amini, Bo Sun, Yakov Bart, Weimin Lyu, Jiri Gesi, Tian Wang, Jing Huang, Yu Su, Upol Ehsan, Malihe Alikhani, Toby Jia-Jun Li, Lydia Chilton, Dakuo Wang
-- **Lost in Execution: On the Multilingual Robustness of Tool Calling in Large Language Models** — Qingyu Lu, Liang Ding, Kanjian Zhang, Jinxia Zhang, Dacheng Tao
-- **GUI0: Self-Evolving Foundational GUI Agents in Super App Ecosystems** — ZhongDong Li, Weijie Shi, Yue Cui, Haolun Ma, Yuanjun Liu, Jiawei Li, An Liu, Jia Zhu, Jiajie Xu
-- **AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments** — Sijia Chen, Baochun Li, Di Niu
-- **MemRec: Collaborative Memory-Augmented Agentic Recommender System** — BinChen, Hongfei Ye, Huiyang Wang, Wenxi Liu, Yu Zhang, Furui Liu
-- **HSGraphAgent: Knowledge-Graph-Guided Large Language Models for Harmonized System Code Classification** — Ali El Lahib, Ying-Jieh Xia, Zehan Li, Yuxuan Wang, Xinyu Pi
-- **TInR: Exploring Tool-Internalized Reasoning in Large Language Models** — Wenyi Xiao, Xinchi Xu, Leilei Gan
-- **PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts** — Minzhu Tu, Shiyu Ni, Keping Bi
-- **Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language Agents** — Lucio La Cava, Dominik Macko, Robert Moro, Ivan Srba, Andrea Tagarelli
-- **JARVIS or Ultron? A Survey on the Safety and Security Threats of Computer-Using Agents** — Sugyeong Eo, Heuiseok Lim
-- **LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals** — Delip Rao, Weiqiu You, Eric Wong, Chris Callison-Burch
-- **Privacy-R1: Privacy-Aware Multi-LLM Agent Collaboration via Reinforcement Learning** — Rohit Sinha, Aditya Sanjiv Kanade, Sai Srinivas Kancheti, Vineeth N. Balasubramanian, Tanuja Ganu
-- **BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models** — Miyu Oba, Saku Sugawara
-- **Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance** — Vahid Rahimzadeh, Erfan Moosavi Monazzah, Mohammad Taher Pilehvar, Yadollah Yaghoobzadeh
-- **DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents** — Souvik Rana, Arul Menezes, Ashish Kulkarni, Chandra Khatri, Shubham Agarwal
-- **TEA-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent** — Javier Carnerero-Cano, Massimiliano Pronesti, Radu Marinescu, Tigran T. Tchrakian, James Barry, Jasmina Gajcin, Yufang Hou, Alessandra Pascale, Elizabeth M. Daly
-- **Agentic Very Long Video Understanding** — Christos Ziakas, Nicholas Loo, Nishita Jain, Alessandra Russo
-- **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations** — Hiroyuki Deguchi, Katsuki Chousa, Yusuke Sakai
-- **KARL: Reinforcement Learning for LLM Agents on Multi-Turn Knowledge-Intensive Agentic Tasks** — Jianyuan Zhong, Zeju Li, Zhijian Xu, Xiangyu Wen, Kezhi Li, Qiang Xu
-- **Do LLM Agents Mirror Socio-Cognitive Effects in Power-Asymmetric Conversations?** — Xueqiao Sun, Xiao Liu, Bowen Lv, Hanchen Zhang, Bohao Jing, Zehan Qi, Yifan Xu, Yuxiao Dong, Jie Tang
-- **Constructing coherent spatial memory in LLM agents through graph rectification** — Ziqi Zhao, Zhaochun Ren, Jiahong Zou, Liu Yang, Zhiwei Xu, Xuri Ge, Zhumin Chen, Xinyu Ma, Daiting Shi, Shuaiqiang Wang, Dawei Yin, Xin Xin
+
+- **OctoTools: A Multi-Agent Framework with Extensible Tools for Complex Reasoning**
+- **No Reader Left Behind: Multi-Agent Summaries Everyone Can Understand**
+- **Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4**
+- **PosterForest: Hierarchical Multi-Agent Collaboration for Scientific Poster Generation**
+- **WebSTAR: Scalable Data Synthesis for Computer Use Agents with Step-Level Filtering**
+- **How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior**
+- **IntrAgent: An LLM Agent for Content-Grounded Information Retrieval through Literature Review**
+- **AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering**
+- **MemSearch-o1: Empowering Large Language Models with Reasoning-Aligned Memory Growth in Agentic Search**
+- **RAM-SD: Retrieval-Augmented Multi-agent framework for Sarcasm Detection**
+- **A Functionality-Grounded Benchmark for Evaluating Web Agents in E-commerce Domains**
+- **Reinforcement Learning for Self-Improving Agent with Skill Library**
+- **Grammar Search for Multi-Agent Systems**
+- **Explicit Trait Inference for Multi-Agent Coordination**
+- **Towards Robust Real-World Spreadsheet Understanding with Multi-Agent Multi-Format Reasoning**
+- **GATE: Graph-based Adaptive Tool Evolution Across Diverse Tasks**
+- **Mixture-of-Minds: Multi-Agent Reinforcement Learning for Table Understanding**
+- **COMPASS: Enhancing Agent Long-Horizon Reasoning with Evolving Context**
+- **Mitigating Context Interference for Reliable and Efficient Search Agents**
+- **Collaborative Chain-of-Agents for Parametric-Retrieved Knowledge Synergy**
+- **Can We Predict Before Executing Machine Learning Agents?**
+- **Controlling Multimodal Conversational Agents with Coverage-Enhanced Latent Actions**
+- **Timely Machine: Awareness of Time Makes Test-Time Scaling Agentic**
+- **D²Plan: Dual-Agent Dynamic Global Planning for Complex Retrieval-Augmented Reasoning**
+- **Simple-VGC: Enhancing Visual Grounding in Multimodal Reasoning via Adaptive Tool Composition**
+- **AgentOCR: Reimagining Agent History via Optical Self-Compression**
+- **MCP-Flow: Facilitating LLM Agents to Master Real-World, Diverse and Scaling MCP Tools**
+- **Spec-o3: A Tool-Augmented Vision-Language Agent for Rare Celestial Object Candidate Vetting via Automated Spectral Inspection**
+- **Dual-Cluster Memory Agent: Resolving Multi-Paradigm Ambiguity in Optimization Problem Solving**
+- **OctoBench: Benchmarking Scaffold-Aware Instruction Following in Repository-Grounded Agentic Coding**
+- **Lying with Truths: Open-Channel Multi-Agent Collusion for Belief Manipulation via Generative Montage**
+- **MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive and MCP-Augmented Environments**
+- **ACE-Router: Generalizing History-Aware Routing from MCP Tools to the Agent Web**
+- **FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents**
+- **TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs**
+- **Efficient Multi-Agent System Training with Data Influence-Oriented Tree Search**
+- **Don’t Click That: Teaching Web Agents to Resist Deceptive Interfaces**
+- **MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI Agents**
+- **Hierarchical Reinforcement Learning with Augmented Step-Level Transitions for LLM Agents**
+- **When KV Cache Reuse Fails in Multi-Agent Systems: Cross-Candidate Interaction is Crucial for LLM Judges**
+- **Evo-Attacker: Memory-Augmented Reinforcement Learning for Long-Horizon Tool Attacks on LLM-MAS**
+- **ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration**
+- **DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints**
+- **AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts**
+- **Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning**
+- **NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning**
+- **AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering**
+- **Mem2ActBench: A Benchmark for Evaluating Long-Term Memory Utilization in Task-Oriented Autonomous Agents**
+- **Taming “Zombie” Agents: A Markov State-Aware Framework for Resilient Multi-Agent Evolution**
+- **A Survey of Large Language Model-Based Search Agents**
+- **The Reasoning Trap: How Enhancing LLM Reasoning Amplifies Tool Hallucination**
+- **AgentCoMa: A Compositional Benchmark Mixing Commonsense and Mathematical Reasoning in Real-World Scenarios**
+- **MulVul: Retrieval-augmented Multi-Agent Code Vulnerability Detection via Cross-Model Prompt Evolution**
+- **From Laboratory to Real-World Applications: Benchmarking Agentic Code Reasoning at the Repository Level**
+- **QBridge: Bridging Natural Language and SQL via Gold Query Rewriting with Agentic Refinement**
+- **Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training**
+- **Experience-driven Multi-turn Reinforcement Learning for GUI Agents**
+- **OS-Sentinel: Towards Safety-Enhanced Mobile GUI Agents via Hybrid Validation in Realistic Workflows**
+- **Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs**
+- **IEvoAgent: Evolving Conversational Agent based on User Implicit Feedback**
+- **VIGIL: Defending LLM Agents Against Tool-Stream Injection via Verify-Before-Commit**
+- **EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery**
+- **DREAM: Deep Research Evaluation with Agentic Metrics**
+- **Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text**
+- **ACIArena: Toward Unified Evaluation for Agent Cascading Injection**
+- **VoxMind: An End-to-End Agentic Spoken Dialogue System**
+- **Reinforcing Agentic Search Via Reward Density Optimization**
+- **Scaling External Knowledge Input Beyond Context Windows of LLMs via Multi-Agent Collaboration**
+- **Ready Jurist One: Benchmarking Language Agents for Legal Intelligence in Dynamic Environments**
+- **OCR-Memory: Optical Context Retrieval for Long-Horizon Agent Memory**
+- **When Agents Look the Same: Quantifying Distillation-Induced Similarity in Tool-Use Behaviors**
+- **Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data**
+- **Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning**
+- **The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents**
+- **SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning**
+- **MOA: Multi-Objective Alignment for Role-Playing Agents**
+- **From Verbatim to Gist: Distilling Pyramidal Multimodal Memory via Semantic Information Bottleneck for Long-Horizon Video Agents**
+- **Chain-of-Memory: Lightweight Memory Construction with Dynamic Evolution for LLM Agents**
+- **MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching**
+- **RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents**
+- **Mock Worlds, Real Skills: Building Small Agentic Language Models with Synthetic Tasks, Simulated Environments, and Rubric-Based Rewards**
+- **AgentMark: Utility-Preserving Behavioral Watermarking for Agents**
+- **No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning**
+- **LLM-as-Scheduler: Agentic Workflow Dynamic Scheduling**
+- **Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning**
+- **CostBench: Evaluating Multi-Turn Cost-Optimal Planning and Adaptation in Dynamic Environments for LLM Tool-Use Agents**
+- **Lightweight LLM Agent Memory with Small Language Models**
+- **Interleaved Tool-Call Reasoning for Protein Function Understanding**
+- **Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents**
+- **A Goal Without a Plan Is Just a Wish: Efficient and Effective Global Planner Training for Long-Horizon Agent Task**
+- **GLARE: Agentic Reasoning for Legal Judgment Prediction**
+- **DORA: A Dual-Objective Reinforcement Learning Framework for Effective and Efficient Multimodal Agentic Search**
+- **CODESTRUCT: Code Agents over Structured Action Spaces**
+- **Beyond Single-shot Writing: Deep Research Agents are Unreliable at Multi-turn Report Revision**
+- **Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions**
+- **Current Agents Fail to Leverage World Model as Tool for Foresight**
+- **HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents**
+- **Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction**
+- **ICDAGENT: Empowering Agentic Large Language Models for Explainable Medical Coding**
+- **Mango: Multi-Agent Web Navigation via Global-View Optimization**
+- **Discovery and Reinforcement of Tool-Integrated Reasoning Chains via Rollout Trees**
+- **When Identity Skews Debate: Anonymization for Bias-Reduced Multi-Agent Reasoning**
+- **TeamFusion: Supporting Open-ended Teamwork with Multi-Agent Systems**
+- **Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human–Agent Interaction**
+- **MONETA: Multimodal Industry Classification through Geographic Information with Multi Agent Systems**
+- **SlideAgent: Hierarchical Agentic Framework for Multi-Page Visual Document Understanding**
+- **YIELD: A Large-Scale Dataset and Evaluation Framework for Information Elicitation Agents**
+- **Spatial-Agent: Agentic Geo-spatial Reasoning with Scientific Core Concepts**
+- **ZARA: Training-Free Motion Time-Series Reasoning via Evidence-Grounded LLM Agents**
+- **AutoJudger: An Agent-Driven Framework for Efficient Benchmarking of MLLMs**
+- **Agentic Rubrics as Contextual Verifiers for SWE Agents**
+- **When “Correct” Is Not Safe: Can We Trust Functionally Correct Patches Generated by Code Agents?**
+- **Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate**
+- **SynthAgent: Adapting Web Agents with Synthetic Supervision**
+- **LLM Agents in Law: Taxonomy, Applications, and Challenges**
+- **BenchMarker: An Education-Inspired Toolkit for Highlighting Flaws in Multiple-Choice Benchmarks**
+- **Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems**
+- **ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation**
+- **MARCH: Multi-Agent Radiology Clinical Hierarchy for CT Report Generation**
+- **Every Response Counts: Quantifying Uncertainty of LLM-based Multi-Agent Systems through Tensor Decomposition**
+- **Uncertainty Quantification in LLM Agents: Foundations, Emerging Challenges, and Opportunities**
+- **RExBench: Can coding agents autonomously implement AI research extensions?**
+- **AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation**
+- **APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI**
+- **Evolving Agents**
+- **Analyzing and Internalizing Complex Policy Documents for LLM Agents**
+- **Anchor: Branch-Point Data Generation for GUI Agents**
+- **From Query to Counsel: Structured Reasoning with a Multi-Agent Framework and Dataset for Legal Consultation**
+- **SpecAgent: A Speculative Retrieval and Forecasting Agent for Code Completion**
+- **Multi-Agent-as-Judge: Aligning LLM-Agent-Based Automated Evaluation with Multi-Dimensional Human Evaluation**
+- **CIA: Inferring the Communication Topology from LLM-based Multi-Agent Systems**
+- **Model-Based Imaginative Planning for Embodied Agents**
+- **ProActor: Timing-Aware Reinforcement Learning for Proactive Task Scheduling Agents**
+- **GBV-SQL: Guided Generation and SQL2Text Back-Translation Validation for Multi-Agent Text2SQL**
+- **ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in Complex Chart Question Answering**
+- **CPT-Agent: A Cognitive Process Theory-driven Framework for Student Simulation in Writing Development**
+- **SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation**
+- **ToolPRM: Fine-Grained Inference Scaling of Structured Outputs for Function Calling**
+- **GTA: Generating Long-horizon Tasks for Web Agents at Scale**
+- **Taming System Complexity: Demystifying Software Engineering Agents in Diagnosing Linux Kernel Faults**
+- **UI-Copilot: Advancing Long-Horizon GUI Automation via Tool-Integrated Policy Optimization**
+- **Seeing the Whole Elephant: A Benchmark for Failure Attribution in LLM-based Multi-Agent Systems**
+- **Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration**
+- **HSCodeComp: A Realistic and Expert-level Agent Benchmark for Hierarchical Rule Application**
+- **Don’t Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models**
+- **Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards**
+- **Mem²Evolve: Towards Self-Evolving Agents via Co-Evolutionary Capability Expansion and Experience Distillation**
+- **Visual Inception: Compromising Long-term Planning in Agentic Recommenders via Multimodal Memory Poisoning**
+- **Beyond the Context Window: Scaling Agentic RL via End-to-end Optimized Context Compression**
+- **LoopTool: Closing the Data–Training Loop for Robust LLM Tool Calls**
+- **Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents**
+- **WebClipper: Efficient Evolution of Web Agents with Graph-based Trajectory Pruning**
+- **Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces**
+- **MIRTH: Mutual-Information Reasoning with Temporal Hubs for Vision-Language-Action Agents**
+- **OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agents**
+- **BrowseComp-Plus: A Fair and Disentangled Evaluation Benchmark for Deep Search Agents**
+- **Agent-based Substructure Counting under Local Differential Privacy**
+- **SPIO: Ensemble and Selective Strategies via LLM-Based Multi-Agent Planning in Automated Data Science**
+- **Nested Browser-Use Learning for Agentic Information Seeking**
+- **CoEvolve: Training LLM Agents via Agent-Data Mutual Evolution**
+- **FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean**
+- **Aligning Agents via Planning: A Benchmark for Trajectory-Level Reward Modeling**
+- **From Synthesis to Clinical Assistance: A Strategy-Aware Agent Framework for Autism Intervention based on Real Clinical Dataset**
+- **From Off-Policy to On-Policy: Enhancing GUI Agents via Bi-level Expert-to-Policy Assimilation**
+- **SPARK: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning**
+- **Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment**
+- **AT²PO: Agentic Turn-based Policy Optimization via Tree Search**
+- **SecureVibeBench: Benchmarking Secure Vibe Coding of AI Agents via Reconstructing Vulnerability-Introducing Scenarios**
+- **WebAggregator: Enhancing Compositional Reasoning Capabilities of Deep Research Agent Foundation Models**
+- **SEARL: Joint Optimization of Policy and Tool Graph Memory for Self-Evolving Agents**
+- **BadScientist: Can a Research Agent Write Convincing but Unsound Papers that Fool LLM Reviewers?**
+- **Agentic Oversight via Dialectic Reasoning**
+- **Agent Newsroom: Efficient Chronological Report Generation via Dynamic Multi-Agent Collaboration**
+- **Locomo-Plus: Beyond-Factual Cognitive Memory Evaluation Framework for LLM Agents**
+- **WebSynthesis: World Model-Guided Monte Carlo Tree Search for Efficient WebAgent Trajectory Synthesis**
+- **AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning**
+- **ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web Coding**
+- **Enhancing Agentic Textual Graph Retrieval with Synthetic Stepwise Supervision**
+- **Cognitive Scaffold: From Fluid Context to Crystallized Memory for Long-Horizon DeepResearch Agents**
+- **Temp-R1: A Unified Autonomous Agent for Complex Temporal KGQA via Reverse Curriculum Reinforcement Learning**
+- **HAG: Hierarchical Demographic Tree-based Agent Generation for Topic-Adaptive Simulation**
+- **Stop Fixating on Prompts: Reasoning Hijacking and Constraint Tightening for Red-Teaming LLM Agents**
+- **SGVEF-LOOP: Coverage-Guided Progressive Topological Exploration and Fact-Grounded Metamorphic Evaluation for MCP Agents**
+- **DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding**
+- **Beyond Self-Report: Bridging the Intention-Behavior Gap in Critical Thinking Assessment via Interpretable Multi-Agent System**
+- **ReCoQA: A Benchmark for Tool-Augmented and Multi-Step Reasoning in Real Estate Question and Answering**
+- **LiveCultureBench: a Multi-Agent, Multi-Cultural Benchmark for Large Language Models in Dynamic Social Simulations**
+- **Enabling Agents to Communicate Entirely in Latent Space**
+- **DR-Arena: an Automated Evaluation Framework for Deep Research Agents**
+- **PACE: Predictive Adaptive Context Extraction for Long-Horizon LLM Agents**
+- **When Personalization Legitimizes Risks: Uncovering Safety Vulnerabilities in Personalized Dialogue Agents**
+- **A Multi-Agent Framework for Feature-Constrained Difficulty Control in Reading Comprehension Item Generation**
+- **Hetero-Designer: Automated Design of Multi-Agent Systems with Heterogeneous LLMs**
+- **Trust Within? Seek Beyond? Knowledge Boundary Aware Policy Optimization for Agentic Search**
+- **FusionFlow: Enabling Deep Structural Exploration for Automated Agentic Workflow Generation**
+- **OptiCo: Adaptive Distributed Training Optimization via Collaborative Agent Reasoning**
+- **Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents**
+- **AgentAsk: Multi-Agent Systems Need to Ask**
+- **MAGNET: Towards Adaptive GUI Agents with Memory-Driven Knowledge Evolution**
+- **VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation Agents**
+- **Conflict-Aware Memory for Embodied Agents: Enhancing Vector Data Quality via Detection Rules**
+- **STAPO: Selective Trajectory-Aware Policy Optimization for LLM Agent Training**
+- **InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training**
+- **GenesisFunc: Multi-Agent Data Generation for Accurate and Generalizable Function-Calling**
+- **From Knowing to Teaching: Scaffolding Pedagogical Decisions for LLM Agent**
+- **Why Are We Moral? An LLM-based Agent Simulation Approach to the Study of Moral Evolution**
+- **Beyond Itinerary Planning—A Real-World Benchmark for Multi-Turn and Tool-Using Travel Tasks**
+- **DIXITWORLD: Evaluating Multimodal Abductive Reasoning in Vision-Language Models with Multi-Agent Dixit Gameplay**
+- **MARS-RA: Rank Aggregation for Credit Assignment via Multimodal Comparisons in Embodied Multi-Agent Cooperation**
+- **SILO-BENCH: A Scalable Environment for Evaluating Distributed Coordination in Multi-Agent LLM Systems**
+- **DEFT: Demystifying VLN Failures via a Unified Dual-View Explainability Framework for LLM-based Agents**
+- **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents**
+- **AgentSlimming: Towards Efficient and Cost-Aware Multi-Agent Systems**
+- **End-to-End Optimization of LLM-Driven Multi-Agent Search Systems via Heterogeneous-Group-Based Reinforcement Learning**
+- **Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**
+- **EA-Agent: A Structured Multi-Step Reasoning Agent for Entity Alignment**
+- **Mobile-R1: Towards Interactive Capability for VLM-Based Mobile Agent via Systematic Training**
+- **MirrorCAPTCHA: Wild CAPTCHA, Wild Distribution, Wild Web-based Platform Meet Multimodal LLM Agents**
+- **ReCreate: Reasoning and Creating Domain Agents Driven by Experience**
+- **Verify Before You Commit: Towards Faithful Reasoning in LLM Agents via Self-Auditing**
+- **TAMAS: Benchmarking Adversarial Risks in Multi-Agent LLM Systems**
+- **MM-StanceDet: Retrieval-Augmented Multi-modal Multi-agent Stance Detection**
+- **Enhancing LLM-based Search Agents via Contribution Weighted Group Relative Policy Optimization**
+- **EmoMAS: Emotion-Aware Multi-Agent System for High-Stakes Edge-Deployable Negotiation with Bayesian Orchestration**
+- **Do LLMs Know Tool Irrelevance? Demystifying Structural Alignment Bias in Tool Invocations**
+- **ReviewGrounder: Improving Review Substantiveness with Rubric-Guided, Tool-Integrated Agents**
+- **EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution**
+- **Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective**
+- **InquireMobile: Teaching VLM-based Mobile Agent to Request Human Assistance via Reinforcement Fine-Tuning**
+- **SafeAgent: Safeguarding LLM Agents via an Automated Risk Simulator**
+- **SimPBL: A Multi-Agent Framework for Project-Based Learning**
+- **A Multi-Agent Framework for High-Interaction Terminal Simulation**
+- **RSMeM: Knowledge-Enhanced Memory Evolution for Remote Sensing Agents with Systematic Evaluation**
+- **Neuro-Symbolic Agentic Reinforcement Learning for Long-Term Original Character Companionship and Interaction**
+- **Behavior Knowledge Merge in Reinforced Agentic Models**
+- **MARS²: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation**
+- **NeuralFSM: Adaptive Multi-Agent Coordination via Learning Finite-State Execution Policy**
+- **UniDataBench: Evaluating Data Analytics Agents Across Structured and Unstructured Data**
+- **MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic Training**
+- **PExA: Parallel Exploration Agent for Complex Text-to-SQL**
+- **ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering**
+- **Conjunctive Prompt Attacks in Multi-Agent LLM Systems**
+- **GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**
+- **DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality**
+- **RIMRULE: Improving Tool-Using Language Agents via MDL-Guided Rule Learning**
+- **GAM: Hierarchical Graph-based Agentic Memory for LLM Agents**
+- **What Deserves Memory: Adaptive Memory Distillation for LLM Agents**
+- **TPS-Bench: Evaluating AI Agents’ Tool Planning &amp; Scheduling Abilities in Compounding Tasks**
+- **SOAR: Supervision from Observation for Agentic Reinforcement Learning**
+- **HARPO: Hierarchical Agentic Reasoning for User-Aligned Conversational Recommendation**
+- **ShopSimulator: Evaluating and Exploring RL-Driven LLM Agent for Shopping Assistants**
+- **PersonalAlign: Hierarchical Implicit Intent Alignment for Personalized GUI Agent with Long-Term User-Centric Records**
+- **Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning**
+- **Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems**
+- **ARCHITECT: Uncertainty-Aware Dynamic Tool Learning via Causal Intervention for Open-World Agents**
+- **MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents**
+- **Action Boundary Blindness: When LLM Agents Cannot Tell Where One Action Ends and Another Begins**
+- **R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling**
+- **RISK: A Framework for GUI Agents in E-commerce Risk Management**
+- **ToolOmni: Enabling Open-World Tool Use via Agentic learning with Proactive Retrieval and Grounded Execution**
+- **LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning**
+- **Impatient Users Confuse AI Agents: High-fidelity Simulations of Human Traits for Testing Agents**
+- **Can Compact Language Models Search Like Agents? Distillation-Guided Policy Optimization for Preserving Agentic RAG Capabilities**
+- **FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation**
+- **AdaDPI: Document-level Translation Adaptive Agent via Dynamic Parametric Internalization**
+- **Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models**
+- **EvoRoute: Experience-Driven Self-Routing LLM Agent Systems**
+- **When Efficiency Becomes a Vulnerability: Computational Cost Attacks on WebAgents**
+- **SPARKLE: A Structured and Plug-and-play Agentic Retrieval Policy for Adaptive RAG Models**
+- **BlindGuard: Safeguarding LLM-based Multi-Agent Systems under Unknown Attacks**
+- **MARCH: Multi-Agent Reinforced Check for Hallucination**
+- **Towards Trustworthy Smart Contract Synthesis: A Multi-Agent Framework with Lean-Based Verification**
+- **LongVideoAgent: Multi-Agent Reasoning with Long Videos**
+- **Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors**
+- **CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty**
+- **Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents**
+- **ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents**
+- **Multimodal Safety Evaluation in Generative Agent Social Simulations**
+- **LLM4Cell: Taxonomy and Evaluation of LLM and Agentic Models for Single-Cell Biology**
+- **From Proof to Program: Characterizing Tool-Induced Reasoning Hallucinations in Large Language Models**
+- **Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework**
+- **Empowering Multi-Turn Tool-Integrated Agentic Reasoning with Group Turn Policy Optimization**
+- **GCA Framework: A GCC Countries–Grounded Dataset and Agentic Pipeline for Climate Decision Support**
+- **Dialogue is the Plan: From Interface to Joint Action in Agentic AI**
+- **BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning**
+- **Value of Information: A Framework for Human–Agent Communication**
+- **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**
+- **Speech-Hands: A Self-Reflection Voice Agentic Approach to Speech Recognition and Audio Reasoning with Omni Perception**
+- **C-World: A Computer Use Agent Environment Creator**
+- **Simple Agents, Biased Judges: Efficient Multi-Party Dialogue Generation &amp; The Evaluation Gap**
+- **EVOTOOL: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection**
+- **MolMem: Memory-Augmented Agentic Reinforcement Learning for Sample-Efficient Molecular Optimization**
+- **Can LLM Agents Simulate Multi-Turn Human Behavior? Evidence from Real Online Customer Behavior Data**
+- **The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check**
+- **Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents**
+- **Lost in Execution: On the Multilingual Robustness of Tool Calling in Large Language Models**
+- **GUI0: Self-Evolving Foundational GUI Agents in Super App Ecosystems**
+- **AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments**
+- **MemRec: Collaborative Memory-Augmented Agentic Recommender System**
+- **HSGraphAgent: Knowledge-Graph-Guided Large Language Models for Harmonized System Code Classification**
+- **TInR: Exploring Tool-Internalized Reasoning in Large Language Models**
+- **PolitNuggets: Benchmarking Agentic Discovery of Long-Tail Political Facts**
+- **Breaking the Impasse: Dual-Scale Evolutionary Policy Training for Social Language Agents**
+- **JARVIS or Ultron? A Survey on the Safety and Security Threats of Computer-Using Agents**
+- **LLM-Based Multi-Agent Systems for Clinical Workflows: A Survey of AI Hospitals**
+- **Privacy-R1: Privacy-Aware Multi-LLM Agent Collaboration via Reinforcement Learning**
+- **BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models**
+- **Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance**
+- **DPEPO: Diverse Parallel Exploration Policy Optimization for LLM-based Agents**
+- **TEA-Bench: A Systematic Benchmarking of Tool-enhanced Emotional Support Dialogue Agent**
+- **Agentic Very Long Video Understanding**
+- **Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations**
+- **KARL: Reinforcement Learning for LLM Agents on Multi-Turn Knowledge-Intensive Agentic Tasks**
+- **Do LLM Agents Mirror Socio-Cognitive Effects in Power-Asymmetric Conversations?**
+- **Constructing coherent spatial memory in LLM agents through graph rectification**

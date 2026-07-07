@@ -1,11 +1,14 @@
 ---
 title: "The JEPA Ecosystem: A Comprehensive Survey of Variants"
-tags: [jepa, survey, self-supervised-learning, representation-learning, world-models, variants]
+tags:
+  - jepa
+  - survey
+  - self-supervised-learning
+  - representation-learning
+  - world-models
+  - variants
 date: 2026-07-05
 draft: false
-aliases:
-  - jepa-flavors
-  - jepa-variants
 ---
 
 ## Overview

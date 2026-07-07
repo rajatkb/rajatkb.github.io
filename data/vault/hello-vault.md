@@ -1,7 +1,11 @@
 ---
 title: 'Welcome to the Vault'
 date: '2026-06-07'
-tags: [obsidian, vault, notes, ideas]
+tags:
+  - obsidian
+  - vault
+  - notes
+  - ideas
 draft: false
 summary: 'Welcome to my internal Obsidian vault — a collection of raw, unfiltered notes and half-formed ideas.'
 ---

@@ -11,115 +11,117 @@ draft: false
 
 ## Machine Translation & Multilingual
 **112 papers**
+*Links not yet available — ACL proceedings pending on ACL Anthology.*
 
-- **Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation** — Qianli Wang, Van Bach Nguyen, Yihong Liu, Fedor Splitt, Nils Feldhus, Christin Seifert, Hinrich Schuetze, Sebastian Möller, Vera Schmitt
-- **CLEAR: Cross-Lingual Enhancement in Retrieval via Reverse-training** — Seungyoon Lee, Minhyuk Kim, Seongtae Hong, Youngjoon Jang, Dongsuk Oh, Heuiseok Lim
-- **SACTOR: LLM-Driven Correct and Idiomatic C to Rust Translation with Static Analysis and FFI-Based Verification** — Tianyang Zhou, Ziyi Zhang, Haowen Lin, Somesh Jha, Mihai Christodorescu, Kirill Levchenko, Varun Chandrasekaran
-- **Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech** — Siqi Ouyang, Shuoyang Ding, Oleksii Hrinchuk, Vitaly Lavrukhin, Brian Yan, Boris Ginsburg, Lei Li
-- **MORPHOGEN: A Multilingual Benchmark for Evaluating Gender-Aware Morphological Generation** — Mehul Agarwal, Aditya Aggarwal, Arnav Goel, Medha Hira, Anubha Gupta
-- **EMCEE: Improving Multilingual Capability of LLMs via Bridging Knowledge and Reasoning with Extracted Synthetic Multilingual Context** — Hamin Koo, Jaehyung Kim
-- **TRACE: Evaluating Execution Efficiency of LLM-Based Code Translation** — Zhihao Gong, Zeyu Sun, Dong Huang, Qingyuan Liang, Jie M. Zhang, Dan Hao
-- **One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers** — Diana Abagyan, Alejandro R. Salamanca, Andres Felipe Cruz-Salinas, Kris Cao, Hangyu Lin, Acyr Locatelli, Marzieh Fadaee, Ahmet Üstün, Sara Hooker
-- **LLM-XTM: Enhancing Cross-Lingual Topic Models with Large Language Models** — Minh Chu Xuan, Tien-Phat Nguyen, Linh Ngo Van, Dinh Viet Sang, Nguyen Thi Ngoc Diep, Trung Le
-- **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation** — Yanzhi Tian, Cunxiang Wang, Zeming Liu, Heyan Huang, Wenbo Yu, Dawei Song, Jie Tang, Yuhang Guo
-- **Incentivizing Parametric Knowledge via Reinforcement Learning with Verifiable Rewards for Cross-Cultural Entity Translation** — Jiang Zhou, Xiaohu Zhao, Xinwei Wu, Tianyu Dong, Hao Wang, Yangyang Liu, Heng Liu, Linlong Xu, Longyue Wang, Weihua Luo, Deyi Xiong
-- **What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation** — Shaomu Tan, Dawei Zhu, Ke Tran, Michael Denkowski, Sony Trenous, Bill Byrne, Leonardo Ribeiro, Felix Hieber
-- **DeReA: Improving Idiom Translation with Detect-Retrieve-Arbitrate Reasoning** — Rongqing Jiang, Xuebo Liu
-- **All Languages Matter: Understanding and Mitigating  Language Bias in Multilingual RAG** — Dan Wang, Guozhao Mo, Yafei Shi, Cheng Zhang, Bo Zheng, Boxi Cao, Xuanang Chen, Yaojie Lu, Hongyu Lin, Ben He, Xianpei Han, Le Sun
-- **Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization** — Negar Foroutan, Clara Meister, Debjit Paul, Joel Niklaus, Sina Ahmadi, Antoine Bosselut, Rico Sennrich
-- **NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning** — Zhongtao Miao, Kaiyan Zhao, Masaaki Nagata, Yoshimasa Tsuruoka
-- **DART: Disambiguation-Aware Reasoning for Video-guided Machine Translation** — Boyu Guan, Chuang Han, Yang Zhao, Chengqing Zong
-- **Gained in Translation: Privileged Pairwise Judges Enhance Multilingual Reasoning** — Lintang Sutawika, Gokul Swamy, Steven Wu, Graham Neubig
-- **VFA: Empoweing Multilingual MLLMs via Vision-Free Adaptation** — Yixia Li, Yaqing Shi, Zhiwen Ruan, Dongdong Zhang, Lingjie Jiang, Shaohan Huang, Yun Chen, Guanhua Chen, Furu Wei
-- **Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation** — Yiyang Jiang, Li Zhang, Xiao-Yong Wei, Li Qing
-- **MT³: A Synergistic Multi-Task RL Framework for Specializing MLLMs in Text Image Machine Translation** — Zhaopeng Feng, Yupu Liang, Shaosheng Cao, Jiayuan Su, Jiahan Ren, zhijie Zhou, Wenxuan Huang, Jian Wu, Zuozhu Liu
-- **M²PO: Multi-Perspective Multi-Pair Preference Optimization for Machine Translation** — Hao Wang, Linlong Xu, Heng Liu, Yangyang Liu, Xiaohu Zhao, Bo Zeng, Liangying Shao, Yichen Dong, Xinwei Wu, Jiang Zhou, Tianyu Dong, Xiangxiang Zeng, Longyue Wang, Weihua Luo
-- **Losing our Tail, Again: (Un)Natural Selection &amp; Multilingual LLMs** — Eva Vanmassenhove
-- **Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages** — Saeed Almheiri, Bilal Elbouardi, Salsabila Zahirah Pranida, Irina Nikishina, Ashwath Rao B, Parameswari Krishnamurthy, Muhammad Cendekia Airlangga, Rifo Ahmad Genadi, Nguyễn Phan Gia Bảo, Amir Hossein Yari, Hawau Olamide Toyin, Nurdaulet Mukhituly, Mena Attia, Besher Hassan, Ahmad Fathan Hidayatullah, Tatsuki Kuribayashi, Haonan Li, Suma Bhat, Fajri Koto
-- **Is Human-Like Text Liked by Humans? Multilingual Human Detection and Preference Against AI** — Yuxia Wang, Rui Xing, Jonibek Mansurov, Giovanni Puccetti, Zhuohan Xie, Minh Ngoc Ta, Jiahui Geng, Jinyan Su, Mervat Abassy, Saadeldine Eletter, Kareem Elozeiri, Nurkhan Laiyk, Maiya Goloburda, Tarek Mahmoud, Raj Vardhan Tomar, Alexander Aziz, Ryuto Koike, Masahiro Kaneko, Artem Shelmanov, Ekaterina Artemova, Vladislav Mikhailov, Akim Tsvigun, Alham Fikri Aji, Nizar Habash, Iryna Gurevych, Preslav Nakov
-- **LiveCLKTBench: Towards Reliable Evaluation of Cross-Lingual Knowledge Transfer in Multilingual LLMs** — Linrui Ma, Chun Hei Lo, Xinyu Wang, Peng Lu, Xihao Yuan, Hanting Chen, Kai Han, Xinghao Chen, Chengjun Zhan, Hanlin xu, Yichun Yin, Lifeng Shang, Feng Wen, Boxing Chen, Yufei Cui
-- **Evaluating the Impact of Verbal Multiword Expressions on Machine Translation** — Andreia Podasca, Anup Das
-- **HAT: Hallucination Annotation for Translation** — Nishant Balepur, Bhavya Rajasekaran, Hyunjin Jane Oh, Michael Xie, Atrey Desai, Vipul Gupta, Steven James Moore, Eunsol Choi, Rachel Rudinger, Jordan Lee Boyd-Graber
-- **Evaluating Robustness of Large Language Models Against Multilingual Typographical Errors** — Shuhua Yang, Jiahao Zhang, Yilong Wang, Dongwon Lee, Suhang Wang
-- **ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation** — Yan Fang, Jun Chen, Yian Yao, Shuxin Zhong, Min Sun, Kaishun Wu
-- **MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application** — Itay Yona, Amir Sarid, Michael Karasik, Yossi Gandelsman
-- **Lost in Translation, and Found: Detecting and Interpreting Translation Effects** — Chuhan Wang, Xintong Li, Jennifer Yuntong Zhang, Junda Wu, Chengkai Huang, Lina Yao, Julian McAuley, Jingbo Shang
-- **Paraphrasing as Zero-shot Translation with Feature-guided Diversity Enhancement** — Shira Wein, Anna Serbina, Jiyuan Ji, Nathan Wolf, Jason DeGraaff, Prajakta Kini, Maria Leonor Pacheco
-- **XToM: Exploring the Multilingual Theory of Mind for Large Language Models** — Wenxi Li, Jingyu Peng
-- **TAMA: Target-Aware Multilingual Abuse Detection by Cascaded Conditional Multi-Task Learning** — Jeesu Jung, Sangkeun Jung
-- **GBV-SQL: Guided Generation and SQL2Text Back-Translation Validation for Multi-Agent Text2SQL** — Yunyao Zhang, Xinglang Zhang, Junxi Sheng, Wenbing Li, Junqing Yu, Yi-Ping Phoebe Chen, Wei Yang, Zikai Song
-- **MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis** — Zhanyu Wu, Richong Zhang, Zhijie Nie
-- **Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning** — Congchi Yin, Ziyi Ye, Piji Li
-- **Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality** — Hongbo Jin, Kuanwei Lin, Wenhao Zhang, Yichen Jin, Ge Li
-- **SAME: Signer-Aware Mixture-of-Experts for Test-Time Adaptation in Sign Language Translation** — Yusong Hu, Runmin Ma, Yue Fan, Jinxin Shi, Zongsheng Cao, Yuhao Zhou, Jiakang Yuan, Shuaiyu Zhang, Shiyang Feng, Xiangchao Yan, Shufei Zhang, Wenlong Zhang, Lei Bai, Bo Zhang
-- **The GaoYao Benchmark: A Comprehensive Framework for Evaluating Multilingual and Multicultural Abilities of Large Language Models** — Xunjian Yin, Sitao Cheng, Yuxi Xie, Xinyu Hu, Li Lin, Xinyi Wang, Liangming Pan, William Yang Wang, Xiaojun Wan
-- **MMAC: A Multilingual, Multimodal Alignment Framework for Cultural Grounding Evaluation** — Bin Xu, Yu Bai, Huashan Sun, Yiguan Lin, Siming Liu, Xinyue Liang, Yaolin Li, Zhuangzhi Dong, Jingren Zhang, Yufan Deng, Xinyu Zou, Yang Gao, Heyan Huang
-- **How Can Synthetic Data Improve Multilingual Language Model Pretraining? A Data Quality Perspective** — Qian Chen, Xianyin Zhang, Yanzhi Liu, Lifan Guo, Feng Chen, Chi Zhang
-- **Translation or Recitation? Calibrating Evaluation Scores for Machine Translation of Extremely Low-Resource Languages** — Shaoning Sun, Mingzhu Cai, Huang He, Bingjin Chen, Siqi Bao, Yujiu Yang, Hua Wu, Haifeng Wang
-- **IRIS: Interleaved Reinforcement with Incremental Staged Curriculum for Cross-Lingual Mathematical Reasoning** — Shiying Fan, Mareike Bassenge, Martin Steinebach
-- **Right at My Level: A Unified Multilingual Framework for Proficiency-Aware Text Simplification** — Zezhou Wang, Ziyun Zhang, Xiaoyi Zhang, Zhuzhong Qian, Yan Lu
-- **Knowledge Beyond Language: Bridging the Gap in Multilingual Machine Unlearning Evaluation** — Xianzhen Luo, Wenzhen Zheng, Qingfu Zhu, Rongyi Zhang, Houyi Li, Siming Huang, YuanTao Fan, Wanxiang Che
-- **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering** — Fengqing Jiang, Yichen Feng, Yuetai Li, Luyao Niu, Basel Alomair, Radha Poovendran
-- **NiuTrans.LMT: Toward Inclusive and Scalable Multilingual Machine Translation with LLMs** — Zhenhua Wang, Chunlei Wang, Yue Geng, Bang Wang
-- **Revisiting Metric Reliability for Fine-grained Evaluation of Machine Translation and Summarization in Indian Languages** — Yuhang Li, Chenchen Zhang, Ruilin Lv, Ao Liu, Ken Deng, Yuanxing Zhang, Jiaheng Liu, Bo Zhou
-- **LLM-ForcedAligner: A Non-Autoregressive and Accurate LLM-Based Forced Aligner for Multilingual and Long-Form Speech** — Qiuyuan Ai, Zenghuang Fu, Zhaoyang Li, Jie Song, Guannan He, Ping Jiang, Haoyu Wu
-- **A Data-Efficient Path to Multilingual LLMs: Language Expansion via Post-training PARAMΔ Integration into Upcycled MoE** — Dawei Zhu, Rui Meng, Jiefeng Chen, Sujian Li, Tomas Pfister, Jinsung Yoon
-- **Improving Long-Context Translation via Self-Supervised Dual Learning** — Jingcheng Hu, Yinmin Zhang, Shijie Shang, Xiaobo Yang, Yue Peng, Zhewei Huang, Hebin Zhou, Xin Wu, Jie Cheng, Fangi Wan, Xiangwen Kong, Chengyuan Yao, Kaiwen Yan, Ailin Huang, Hongyu Zhou, Qi Han, Zheng Ge, Xiangyu Zhang, Heung-Yeung Shum
-- **Multilingual and Cross-Lingual Citation Needed Detection on Wikipedia for Lower-Resource Languages** — Alberto Testoni, Iacer Calixto
-- **Location Not Found: Exposing Implicit Local and Global Biases in Multilingual LLMs** — Doreen Osmelak, Yang Xu, Michael Hahn, Kate McCurdy
-- **TOWER+: Bridging Generality and Translation Specialization in Multilingual LLMs** — Jayeol Chun, Nianwen Xue
-- **Culture-Aware Machine Translation in Large Language Models: Benchmarking and Investigation** — Yawen Wang, Yihan Dai, Jianming Chen, Junjie Wang, Qing Wang
-- **GOLEMcoref: A Multilingual Coreference Dataset of Fiction** — Xuwen Zhou, Fangxin Liu, Chao Wang, Xiao Zheng, Hao Zheng, Min He, Li Jiang, Haibing Guan
-- **How Good is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP** — Xueyun Tian, Minghua Ma, Bingbing Xu, Nuoyan Lyu, Wei Li, Heng Dong, Zheng Chu, Yuanzhuo Wang, Huawei Shen
-- **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents** — Wensheng Lu, Keyu Chen, Zhifeng Shen, Ruizhi Qiao, Xing Sun
-- **Less Languages, Less Tokens: An Efficient Unified Logic Cross-lingual Chain-of-Thought Reasoning Framework** — Ruihan Chen, Qiming Li, Xiaocheng Feng, Weihong Zhong, Xiaoliang Yang, Yuxuan Gu, Zekun Zhou, Yunfei Lu, Haoyu Ren, Kun Chen, Dandan Tu, Bing Qin
-- **Beyond Atomic Characters: Glyph-Aware Sub-character Alignment for Low-Resource Multilingual OCR** — Shuai Ling, Lizi Liao, Dongmei Jiang, Weili Guan
-- **Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation** — Lirong Gao, Zewei Yu, Zhongrui Yin, Qi Zhang, Yuke Zhu, Bo Zheng, Haobo Wang, Junbo Zhao, Gang Chen, Sheng Guo
-- **CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning** — Jessica Lin, Amir Zeldes
-- **An Experimental Study on the Influence of Culture on Cross-Lingual Sentiment Transfer** — Xianjing Han, Bin Zhu, Shiqi Hu, Franklin Mingzhe Li, Patrick Carrington, Roger Zimmermann, Jingjing Chen
-- **SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for Token-level Recognition of Semantic Differences Between Related Documents** — Arkadiusz Modzelewski, Paweł Golik, Anna Kołos, Giovanni Da San Martino
-- **When Does Mixing Help? Analyzing Query Embedding Interpolation in Multilingual Dense Retrieval** — Xianda Zheng, Zijian Huang, Meng-Fen Chiang, Jiamou Liu, Yuan Fang, Michael Witbrock, Kaiqi Zhao
-- **Alexandria: A Multi-Domain Dialectal Arabic Machine Translation Dataset for Culturally Inclusive and Linguistically Diverse LLMs** — Jieun Kim, Seoha Lim, YoungHae Choi, Sung-Bae Cho
-- **Vocabulary Shapes Cross-Lingual Variation of Word-Order Learnability in Language Models** — Yuxing Lu, Xukai Zhao, J. Ben Tamo, Micky C. Nnamdi, Rui Peng, Shuang Zeng, Xingyu Hu, Jinzhuo Wang, May Dongmei Wang
-- **MQM Re-Annotation: A Technique for Collaborative Evaluation of Machine Translation** — Sen Hu, Zhiyu Zhang, Yuxiang Wei, Xueran Han, Zhenheng Tang, Ronghao Chen, Huacan Wang
-- **Multilingual Language Models Encode Script Over Linguistic Structure** — Weijie Xu, Brian Dillon, Richard Futrell
-- **ChiKhaPo: A Large-Scale Multilingual Benchmark for Evaluating Lexical Comprehension and Generation in Large Language Models** — Yuhe Wu, Guangyu Wang, Yuran Chen, Jiatong Zhang, Yutong Zhang, Yujie Chen, Jiaming Shang, Guang Zhang, Zhuang Liu
-- **Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation** — Emily Chang, Niyati Bafna
-- **MMSciCode: Real-world Evaluation of Multilingual Multi-Discipline Scientific Research Coding** — Taicheng Guo, Hai Wang, ChaoChun Liu, Mohsen Golalikhani, Xin Chen, Xiangliang Zhang, Chandan K. Reddy
-- **Where the Cat Sat: A Multilingual Framework for Spatial Language Understanding** — Xinyu Gao, Shaonan Wang, Li Zhao, Nai Ding
-- **LCMA-SRT: Language-Conditional Mixture-of-Experts Adapters for Joint Multilingual Speech Recognition and Translation** — Song Jin, Juntian Zhang, Xun Zhang, Zeying Tian, Fei Jiang, Guojun Yin, Wei Lin, Yong Liu, Rui Yan
-- **Massively Multilingual Joint Segmentation and Glossing** — Ziyan Wang, Enmao Diao, Qi Le, Pu Wang, Minwoo Lee, Shu-ping Yeh, Evgeny Stupachenko, Hao Feng, Li Yang
-- **Bootstrapping Code Translation with Weighted Multilanguage Exploration** — Eojin Jeon, SangKeun Lee
-- **LangSAE Editing: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal** — Ziping Ye, Gourab Dey, Christos Christodoulopoulos, Charith Peris, Anil Ramakrishna, Weitong Ruan, Aram Galstyan, Kai-Wei Chang, Rahul Gupta, Ninareh Mehrabi
-- **Framing Political Bias in Multilingual LLMs Across Pakistani Languages** — Dongjun Kim, Jeongho Yoon, Chanjun Park, Heuiseok Lim
-- **Mitigating Tokenization-Induced Distance Distortion in Long-Context Multilingual Machine Translation** — Haotian Lu, Yuchen Mou, Bingzhe Wu
-- **The Role of Mixed-Language Documents for Multilingual Large Language Model Pretraining** — Chenxi Gu, Xiaoning Du, John Grundy
-- **FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation** — Jiawei Zhou, Chi Zhang, Xiang Feng, Qiming Zhang, Haibo Qiu, Lihuo He, Dengpan Ye, Xinbo Gao, Jing Zhang
-- **AdaDPI: Document-level Translation Adaptive Agent via Dynamic Parametric Internalization** — Jia Liu, Jiaxin Luo, Weiwen Xu, Jonathan M. Garibaldi, Xiao-Kun Wu, Yixue Hao, Min Chen
-- **DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection** — Chongyuan Dai, Yaling Shen, Jinpeng Hu, Zihan Gao, Jia Li, Yishun Jiang, Yaxiong Wang, Liu Liu, Zongyuan Ge
-- **G-IdiomAlign: A Gloss-Pivoted Benchmark for Cross-Lingual Idiom Alignment** — Joeun Kim, Seunghyouk Yoon, Xuan-Bach Le, Youngeun Nam, Doyoung Kim, Hwanjun Song, Jae-Gil Lee
-- **Towards Fast and Accurate Modeling for Cross-Lingual Label Projection** — Pengze Guo, Jingxi Liang, Zhiwen Xie, Qifeng Wang, Derek F. Wong
-- **False Friends or Cognates? A Cross-lingual Semantic Ambiguity Evaluation for Galician, Portuguese and Spanish** — Tom Utting, Mario Giulianelli, Arabella Sinclair
-- **Phonemes to the Rescue: Multilingual Tokenization Based on International Phonetic Alphabet** — Atnafu Lambebo Tonja, Srija Anand, Emilio Villa-Cueva, Israel Abebe Azime, Jesujoba Oluwadara Alabi, Muhidin A Mohamed, Debela Desalegn Yadeta, Negasi Haile Abadi, Abigail Oppong, Nnaemeka Casmir Obiefuna, Idris Abdulmumin, Naome A Etori, Eric Peter Wairagala, Kanda Patrick Tshinu, Imanigirimbabazi Emmanuel, Gabofetswe Malema, Alham Fikri Aji, David Ifeoluwa Adelani, Thamar Solorio
-- **DimABSA: Building Multilingual and Multidomain Datasets for Dimensional Aspect-Based Sentiment Analysis** — Abbas Ghaddar, Ivan Kobyzev, Boxing Chen, Yufei Cui
-- **One Pair Suffices: Unlocking Universal Zero-Shot Translation via Cross-Architecture Alignment** — Ziwei Huang, Ying Shu, Fanghao, Quanyu Long, Wenya Wang, Qiushi Guo, Tiezheng Ge, Leilei Gan
-- **Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation** — Hao Zong, CongHuYuan, Chao Bei, Wentao Chen, Huan Liu, Kaiyu Huang, Degen Huang
-- **Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition** — Anwar Alajmi, Gabriele Pergola
-- **Measuring User’s Mental Models of Speech Translation in Human-AI Collaboration** — Laerdon Kim, Vivian Nguyen, Cristian Danescu-Niculescu-Mizil
-- **PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation** — Obed Junias, Maria Leonor Pacheco
-- **LANG: Reinforcement Learning for Multilingual Reasoning with Language-Adaptive Hint Guidance** — Lingfeng Zhong, Qiongkai Xu, Usman Naseem
-- **Lost in Execution: On the Multilingual Robustness of Tool Calling in Large Language Models** — Qingyu Lu, Liang Ding, Kanjian Zhang, Jinxia Zhang, Dacheng Tao
-- **POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering** — Zheng Luo, T Pranav Kutralingam, Ogochukwu N. Okoani, Wanpeng Xu, Hua Wei, Xiyang Hu
-- **CLAOCS-TX: Cross-Lingual Triplet Extraction with Aspect-Opinion-Aware Code-Switched Prompting and LLM-Guided Contrastive Distillation** — Shunqi Mao, Chaoyi Zhang, Weidong Cai
-- **When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models** — Yangjunqi, Yuecong Min, Jie Zhang, Shiguang Shan, Xilin CHEN
-- **A Shared Geometry of Difficulty in Multilingual Language Models** — Hamed Damirchi, Ignacio Meza De la Jara, Ehsan Abbasnejad, Afshar Shamsi, Zhen Zhang, Javen Shi
-- **Authorship Attribution in Multilingual Machine-Generated Texts** — Gewen Liang, Mufan Xu, Kehai Chen, Wei Wang, Yuwei Wang, Muyun Yang, Tiejun Zhao, Min Zhang
-- **Combining Distantly Supervised Models with In Context Learning for Monolingual and Cross-Lingual Relation Extraction** — Yejin Lee, Hyeseon An, Yo-Sub Han
-- **Selective Contrastive Learning For Gloss Free Sign Language Translation** — Yixuan Jiang, Tiancheng Hu, Jose Hernandez-Orallo, David Stillwell, Luning Sun
-- **Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs** — Yijia Fan, Jing Yang, Mingyu Liu, Kaitong Cai, Jian Wang, Keze Wang, Jusheng Zhang
-- **MUTANT: A Recipe for Multilingual Tokenizer Design** — Qianli Ma, Chang Guo, Zhiheng Tian, SiyuWang, Jipeng Xiao, Yuanhao Yue, Zhipeng Zhang
-- **Characterizing and Evaluating Working Emotion Vocabularies in Multilingual Large Language Models** — Adithya V Ganesan, Vasudha Varadarajan, Oscar Kjell, Whitney Ringwald, Scott M Feltman, Benjamin J. Luft, Romon Kotov, Ryan L Boyd, H. Andrew Schwartz
-- **Toward Robust Evaluation for Multilingual Grammatical Error Correction: Can Large Language Models Replace Human References?** — Wentao Hu, Yanbo Zhai, Xiaohui Hu, Mingkuan Zhao, Shanhong Yu, Xue Liu, Kaidong Yu, Shuangyong Song, Xuelong Li
-- **A Multilingual Social Bias Benchmark Incorporating Thinking Processes** — Yinxi Li, Yuntian Deng, Pengyu Nie
-- **Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling** — Weixu Zhang, Ye Yuan, Changjiang Han, Yuxing Tian, Zipeng Sun, Linfeng Du, Jikun Kang, Hong Kang, Xue Liu, Haolun Wu
-- **Typology-Aware Multilingual Morphosyntactic Parsing with Joint Abstract Node Modeling** — Yifan Gong, Jing Yao, Xiting Wang, Xunlong Wang, Xiaoyuan Yi, Xing Xie
+
+- **Parallel Universes, Parallel Languages: A Comprehensive Study on LLM-based Multilingual Counterfactual Example Generation**
+- **CLEAR: Cross-Lingual Enhancement in Retrieval via Reverse-training**
+- **SACTOR: LLM-Driven Correct and Idiomatic C to Rust Translation with Static Analysis and FFI-Based Verification**
+- **Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech**
+- **MORPHOGEN: A Multilingual Benchmark for Evaluating Gender-Aware Morphological Generation**
+- **EMCEE: Improving Multilingual Capability of LLMs via Bridging Knowledge and Reasoning with Extracted Synthetic Multilingual Context**
+- **TRACE: Evaluating Execution Efficiency of LLM-Based Code Translation**
+- **One Tokenizer To Rule Them All: Emergent Language Plasticity via Multilingual Tokenizers**
+- **LLM-XTM: Enhancing Cross-Lingual Topic Models with Large Language Models**
+- **Beyond Literal Mapping: Benchmarking and Improving Non-Literal Translation Evaluation**
+- **Incentivizing Parametric Knowledge via Reinforcement Learning with Verifiable Rewards for Cross-Cultural Entity Translation**
+- **What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation**
+- **DeReA: Improving Idiom Translation with Detect-Retrieve-Arbitrate Reasoning**
+- **All Languages Matter: Understanding and Mitigating  Language Bias in Multilingual RAG**
+- **Parity-Aware Byte-Pair Encoding: Improving Cross-lingual Fairness in Tokenization**
+- **NeoAMT: Neologism-Aware Agentic Machine Translation with Reinforcement Learning**
+- **DART: Disambiguation-Aware Reasoning for Video-guided Machine Translation**
+- **Gained in Translation: Privileged Pairwise Judges Enhance Multilingual Reasoning**
+- **VFA: Empoweing Multilingual MLLMs via Vision-Free Adaptation**
+- **Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation**
+- **MT³: A Synergistic Multi-Task RL Framework for Specializing MLLMs in Text Image Machine Translation**
+- **M²PO: Multi-Perspective Multi-Pair Preference Optimization for Machine Translation**
+- **Losing our Tail, Again: (Un)Natural Selection &amp; Multilingual LLMs**
+- **Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages**
+- **Is Human-Like Text Liked by Humans? Multilingual Human Detection and Preference Against AI**
+- **LiveCLKTBench: Towards Reliable Evaluation of Cross-Lingual Knowledge Transfer in Multilingual LLMs**
+- **Evaluating the Impact of Verbal Multiword Expressions on Machine Translation**
+- **HAT: Hallucination Annotation for Translation**
+- **Evaluating Robustness of Large Language Models Against Multilingual Typographical Errors**
+- **ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation**
+- **MultiFinBen: Benchmarking Large Language Models for Multilingual and Multimodal Financial Application**
+- **Lost in Translation, and Found: Detecting and Interpreting Translation Effects**
+- **Paraphrasing as Zero-shot Translation with Feature-guided Diversity Enhancement**
+- **XToM: Exploring the Multilingual Theory of Mind for Large Language Models**
+- **TAMA: Target-Aware Multilingual Abuse Detection by Cascaded Conditional Multi-Task Learning**
+- **GBV-SQL: Guided Generation and SQL2Text Back-Translation Validation for Multi-Agent Text2SQL**
+- **MSMO-ABSA: Multi-Scale and Multi-Objective Optimization for Cross-Lingual Aspect-Based Sentiment Analysis**
+- **Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning**
+- **Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality**
+- **SAME: Signer-Aware Mixture-of-Experts for Test-Time Adaptation in Sign Language Translation**
+- **The GaoYao Benchmark: A Comprehensive Framework for Evaluating Multilingual and Multicultural Abilities of Large Language Models**
+- **MMAC: A Multilingual, Multimodal Alignment Framework for Cultural Grounding Evaluation**
+- **How Can Synthetic Data Improve Multilingual Language Model Pretraining? A Data Quality Perspective**
+- **Translation or Recitation? Calibrating Evaluation Scores for Machine Translation of Extremely Low-Resource Languages**
+- **IRIS: Interleaved Reinforcement with Incremental Staged Curriculum for Cross-Lingual Mathematical Reasoning**
+- **Right at My Level: A Unified Multilingual Framework for Proficiency-Aware Text Simplification**
+- **Knowledge Beyond Language: Bridging the Gap in Multilingual Machine Unlearning Evaluation**
+- **Unlocking Multilingual Reasoning Capability of LLMs and LVLMs through Representation Engineering**
+- **NiuTrans.LMT: Toward Inclusive and Scalable Multilingual Machine Translation with LLMs**
+- **Revisiting Metric Reliability for Fine-grained Evaluation of Machine Translation and Summarization in Indian Languages**
+- **LLM-ForcedAligner: A Non-Autoregressive and Accurate LLM-Based Forced Aligner for Multilingual and Long-Form Speech**
+- **A Data-Efficient Path to Multilingual LLMs: Language Expansion via Post-training PARAMΔ Integration into Upcycled MoE**
+- **Improving Long-Context Translation via Self-Supervised Dual Learning**
+- **Multilingual and Cross-Lingual Citation Needed Detection on Wikipedia for Lower-Resource Languages**
+- **Location Not Found: Exposing Implicit Local and Global Biases in Multilingual LLMs**
+- **TOWER+: Bridging Generality and Translation Specialization in Multilingual LLMs**
+- **Culture-Aware Machine Translation in Large Language Models: Benchmarking and Investigation**
+- **GOLEMcoref: A Multilingual Coreference Dataset of Fiction**
+- **How Good is Your Wikipedia? Auditing Data Quality for Low-resource and Multilingual NLP**
+- **MPR-GUI: Benchmarking and Enhancing Multilingual Perception and Reasoning in GUI Agents**
+- **Less Languages, Less Tokens: An Efficient Unified Logic Cross-lingual Chain-of-Thought Reasoning Framework**
+- **Beyond Atomic Characters: Glyph-Aware Sub-character Alignment for Low-Resource Multilingual OCR**
+- **Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation**
+- **CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning**
+- **An Experimental Study on the Influence of Culture on Cross-Lingual Sentiment Transfer**
+- **SwissGov-RSD: A Human-annotated, Cross-lingual Benchmark for Token-level Recognition of Semantic Differences Between Related Documents**
+- **When Does Mixing Help? Analyzing Query Embedding Interpolation in Multilingual Dense Retrieval**
+- **Alexandria: A Multi-Domain Dialectal Arabic Machine Translation Dataset for Culturally Inclusive and Linguistically Diverse LLMs**
+- **Vocabulary Shapes Cross-Lingual Variation of Word-Order Learnability in Language Models**
+- **MQM Re-Annotation: A Technique for Collaborative Evaluation of Machine Translation**
+- **Multilingual Language Models Encode Script Over Linguistic Structure**
+- **ChiKhaPo: A Large-Scale Multilingual Benchmark for Evaluating Lexical Comprehension and Generation in Large Language Models**
+- **Beyond Code Pairs: Dialogue-Based Data Generation for LLM Code Translation**
+- **MMSciCode: Real-world Evaluation of Multilingual Multi-Discipline Scientific Research Coding**
+- **Where the Cat Sat: A Multilingual Framework for Spatial Language Understanding**
+- **LCMA-SRT: Language-Conditional Mixture-of-Experts Adapters for Joint Multilingual Speech Recognition and Translation**
+- **Massively Multilingual Joint Segmentation and Glossing**
+- **Bootstrapping Code Translation with Weighted Multilanguage Exploration**
+- **LangSAE Editing: Improving Multilingual Information Retrieval via Post-hoc Language Identity Removal**
+- **Framing Political Bias in Multilingual LLMs Across Pakistani Languages**
+- **Mitigating Tokenization-Induced Distance Distortion in Long-Context Multilingual Machine Translation**
+- **The Role of Mixed-Language Documents for Multilingual Large Language Model Pretraining**
+- **FairQE: Multi-Agent Framework for Mitigating Gender Bias in Translation Quality Estimation**
+- **AdaDPI: Document-level Translation Adaptive Agent via Dynamic Parametric Internalization**
+- **DetectRL-X: Towards Reliable Multilingual and Real-World LLM-Generated Text Detection**
+- **G-IdiomAlign: A Gloss-Pivoted Benchmark for Cross-Lingual Idiom Alignment**
+- **Towards Fast and Accurate Modeling for Cross-Lingual Label Projection**
+- **False Friends or Cognates? A Cross-lingual Semantic Ambiguity Evaluation for Galician, Portuguese and Spanish**
+- **Phonemes to the Rescue: Multilingual Tokenization Based on International Phonetic Alphabet**
+- **DimABSA: Building Multilingual and Multidomain Datasets for Dimensional Aspect-Based Sentiment Analysis**
+- **One Pair Suffices: Unlocking Universal Zero-Shot Translation via Cross-Architecture Alignment**
+- **Quantifying the Impact of Translation Errors on Multilingual LLM Evaluation**
+- **Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition**
+- **Measuring User’s Mental Models of Speech Translation in Human-AI Collaboration**
+- **PEAR: Pairwise Evaluation for Automatic Relative Scoring in Machine Translation**
+- **LANG: Reinforcement Learning for Multilingual Reasoning with Language-Adaptive Hint Guidance**
+- **Lost in Execution: On the Multilingual Robustness of Tool Calling in Large Language Models**
+- **POLYCHARTQA: Benchmarking Large Vision-Language Models with Multilingual Chart Question Answering**
+- **CLAOCS-TX: Cross-Lingual Triplet Extraction with Aspect-Opinion-Aware Code-Switched Prompting and LLM-Guided Contrastive Distillation**
+- **When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models**
+- **A Shared Geometry of Difficulty in Multilingual Language Models**
+- **Authorship Attribution in Multilingual Machine-Generated Texts**
+- **Combining Distantly Supervised Models with In Context Learning for Monolingual and Cross-Lingual Relation Extraction**
+- **Selective Contrastive Learning For Gloss Free Sign Language Translation**
+- **Mind the Pause: Disfluency-Aware Objective Tuning for Multilingual Speech Correction with LLMs**
+- **MUTANT: A Recipe for Multilingual Tokenizer Design**
+- **Characterizing and Evaluating Working Emotion Vocabularies in Multilingual Large Language Models**
+- **Toward Robust Evaluation for Multilingual Grammatical Error Correction: Can Large Language Models Replace Human References?**
+- **A Multilingual Social Bias Benchmark Incorporating Thinking Processes**
+- **Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling**
+- **Typology-Aware Multilingual Morphosyntactic Parsing with Joint Abstract Node Modeling**

@@ -11,84 +11,86 @@ draft: false
 
 ## Mechanistic Interpretability
 **80 papers**
+*Links not yet available — ACL proceedings pending on ACL Anthology.*
 
-- **Rhetorical Questions in LLM Representations: A Linear Probing Study** — Louie Hong Yao, Vishesh Anand, Yuan Zhuang, Tianyu Jiang
-- **Mechanistic Interpretability Should Prioritize Feature Consistency in Sparse Autoencoders** — Xiangchen Song, Aashiq Muhamed, Yujia Zheng, Lingjing Kong, Zeyu Tang, Mona T. Diab, Virginia Smith, Kun Zhang
-- **Make Mechanistic Interpretability Auditable: A Call to Develop Guidelines via Continuous Collaborative Reviewing** — Michael Lan, Narmeen Fatimah Oozeer, Chaithanya Bandi, Philip Quirke, Austin Meek, Fazl Barez, Amir Abdullah
-- **APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation** — Pengyun Zhu, Qiheng Sun, Long Wen, Yanbo Wang, Yang Cao, Junxu Liu, Deyi Xiong, Jinfei Liu, Zhibo Wang, Kui Ren
-- **Are Emotion and Rhetoric Neurons in LLM? Neuron Recognition and Adaptive Masking for Emotion-Rhetoric Prediction Steering** — Li Zheng, Xin Zhang, Shuyi He, Fei Li, Chong Teng, Jiang-Ming Yang, Donghong Ji, Zhuang Li
-- **REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control** — Chuyi Kong, Wei Gao, Jing Ma, Hongzhan Lin, Yuxi Sun
-- **Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation** — Dianyun Wang, Qingsen Ma, Yuhu Shang, Zhifeng Lu, Zhenbo Xu, Lechen Ning, Huijia Wu, Zhaofeng He
-- **Revitalizing Black-Box Interpretability: Actionable Interpretability for LLMs via Proxy Models** — Junhao Liu, Haonan Yu, Zhenyu Yan, Xin Zhang
-- **OCP: Outlier-Centric Probing for Dynamic Structured Pruning of LLMs** — Yang Ji, Ying Sun
-- **From Insight to Action: A Novel Framework for Interpretability-Guided Data Selection in Large Language Models** — Ling Shi, Xinwei Wu, Xiaohu Zhao, Hao Wang, Heng Liu, Yangyang Liu, Linlong Xu, Longyue Wang, Deyi Xiong, Weihua Luo
-- **A Mechanistic Account of Attention Sinks in GPT-2: One Circuit, Broader Implications for Mitigation** — Yuval Ran-Milo, Hila Ofek, Shahar Mendel
-- **SCOUT: Selective Coupling via Optimal Unbalanced Transport for Interpretable Text Classification** — Junhao Jia, Hanwen Zheng, Yueyi Wu, Huangwei Chen, Haishuai Wang, Jiajun Bu, Lei Wu
-- **TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs** — Ziyi Wang, Chen Zhang, Wenjun Peng, Qi Wu, Xinyu Wang
-- **SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation** — Hui Wang, Jinghua Zhao, Yifan Yang, Shujie Liu, Junyang Chen, Yanzhe Zhang, Shiwan Zhao, Jinyu Li, Jiaming Zhou, Haoqin Sun, Yan Lu, Yong Qin
-- **Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective** — Ziyao Xu, Cong Wang, Houfeng Wang
-- **One Battle After Another: Probing LLMs’ Limits on Multi-Turn Instruction Following with a Benchmark Evolving Framework** — Qi Jia, Ye Shen, Xiujie Song, Kaiwei Zhang, Shibo Wang, Dun Pei, Xiangyang Zhu, Guangtao Zhai
-- **SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models** — Ming Chen, Wenyao Li, Chao Liang, Shi Gu, Peng Lin, De Ma, Huajin Tang, Qian Zheng, Gang Pan
-- **Correct When Paired, Wrong When Split: Decoupling and Editing Modality-Specific Neurons in MLLMs** — Tingchao Fu, Wenkai Wang, Fanxiao Li, Huadong Zhang, Jinhong Zhang, Dayang Li, Yunyun Dong, Renyang Liu, Wei Zhou
-- **Beyond Single-View Detection: A Dual-Space Reasoning Framework for Interpretable Harmful Meme Understanding** — Wenqing Hou, Hongkui Tu, Ye Wang, Yue Zhang, Yuying Liu, Dong Zhu, Liqun Gao, Bin Zhou
-- **How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study** — Zhen Yang, Ping Jian, Zhongbin Guo, Zuming Zhang, Chengzhi Li, Yonghong Deng, Xinyue Zhang, Wenpeng Lu
-- **WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics** — Chenxu Liu, Yingjie Fu, Wei Yang, Ying Zhang, Tao Xie
-- **Efficient Test-Time Scaling of Multi-Step Reasoning by Probing Internal States of Large Language Models** — Ekaterina Fadeeva, Tianyi Wu, Mubashara Akhtar, Jiaheng Zhang, Elliott Ash, Markus Leippold, Timothy Baldwin, See-Kiong Ng, Artem Shelmanov, Mrinmaya Sachan
-- **Probing for Reading Times** — Eleftheria Tsipidi, Samuel Kiegeland, Francesco Ignazio Re, Tianyang Xu, Mario Giulianelli, Karolina Stanczak, Ryan Cotterell
-- **Continuous Interpretive Steering for Scalar Diversity** — Ye-eun Cho
-- **ICDAGENT: Empowering Agentic Large Language Models for Explainable Medical Coding** — Ziyi Yin, Yuanpu Cao, Ting Wang, Jinghui Chen, Fenglong Ma
-- **Discovering and Causally Validating Emotion-Sensitive Neurons in Large Audio-Language Models** — Xuanwen Ding, Chengjun Pan, Zejun Li, Jiwen Zhang, Siyuan Wang, Zhongyu Wei
-- **Attention Under Attack: Analog Noise Effects and Mechanistic Vulnerabilities in Transformer Models** — Bolei Ma, Yusuke Miyao
-- **Lost in Translation, and Found: Detecting and Interpreting Translation Effects** — Chuhan Wang, Xintong Li, Jennifer Yuntong Zhang, Junda Wu, Chengkai Huang, Lina Yao, Julian McAuley, Jingbo Shang
-- **From Isolation to Entanglement: When Do Interpretability Methods Identify and Disentangle Known Concepts?** — Muyang Li, Runze Wu, Xiangyu Zhao, Bo Han, Daoyi Dong, Tongliang Liu
-- **Tracing Logit Trajectories Across Layer Depth: Dataset-Level Explainability for Language Models** — Tong Zhang, Honglin Lin, Zhou Liu, Chong Chen, Wentao Zhang
-- **Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling** — Zhengxi Lu, Fei Tang, Guangyi Liu, Kaitao Song, Xu Tan, Jin Ma, Wenqi Zhang, Weiming Lu, Jun Xiao, Yueting Zhuang, Yongliang Shen
-- **Why LLMs Hallucinate on Structured Knowledge: A Mechanistic Analysis of Reasoning over Linearized Representations** — Mengzhuo Chen, Junjie Wang, Fangwen Mu, Yawen Wang, Zhe Liu, Huanxiang Feng, Qing Wang
-- **Uncovering Sentiment Analysis Circuit in Large Language Model** — Mohammadtaher Safarzadeh, Hitesh Laxmichand Patel, Afshin Oroojlooy, Graham Horwood, Dan Roth
-- **Bridging Internal Consistency and External Alignment: A Causal and Dynamic Interpretability Framework for LLM Generation** — Zhizhang Fu, Yuancheng Gu, Chenkai Hu, Hanmeng Liu, Yue Zhang
-- **Probing the Safety Robustness of LLMs in Latent Space** — Jie Cao
-- **NeuReasoner: Towards Explainable, Controllable, and Unified Reasoning via Mixture-of-Neurons** — Shrey Pandit, Austin Xu, Xuan-Phi Nguyen, Yifei Ming, Caiming Xiong, Shafiq Joty
-- **Stop Hardening Everything: A Training-Free Neuron-Level Defense for Neural Ranking Models** — Minseo Kwak, Jaehyung Kim
-- **MedForge: Interpretable Medical Deepfake Detection via Forgery-aware Reasoning** — Wen Luo, Guangyue Peng, Wei Li, Shaohang Wei, Feifan Song, Liang Wang, Nan Yang, Xingxing Zhang, Jing Jin, Furu Wei, Houfeng Wang
-- **MicroC-KT: Modeling Community Effect via Learning Micro-Environment for Evidence-Grounded Explainable Knowledge Tracing** — Xu Zhang, Hao Li, Zhichao Lu
-- **Beyond Self-Report: Bridging the Intention-Behavior Gap in Critical Thinking Assessment via Interpretable Multi-Agent System** — Sen Hu, Yuxiang Wei, Jiaxin Ran, Xueran Han, Zhiyuan Yao, Huacan Wang, Ronghao Chen, Lei Zou
-- **Probing Semantic Alignment, Lexical Invariance, and Syntactic Influence in LLM Metaphor Processing** — Xueting Li, Qi liu, Chenghao Xu, Xu Yang, Guangtao Lyu, Jiahua Li, Cheng Deng
-- **DVI-DTM: Dual-View Representation Learning for Interpretable Short Text Dynamic Topic Modeling** — Tang Da Huang, Weidong Tang, Wen Qi Xu, Xianpeng Guo
-- **Exploring and Distilling Multi-Dimensional Clues for Interpretable Social Bot Detection** — Zheyu Lin, Jirui Yang, Yukui Qiu, Hengqi Guo, Yubing Bao, Yao Guan
-- **DEFT: Demystifying VLN Failures via a Unified Dual-View Explainability Framework for LLM-based Agents** — Xiaohao Luo, Ying Wei, Rui Zhao
-- **Embracing Anisotropy: Turning Massive Activations into Interpretable Control Knobs for Large Language Models** — Teng Pan, Yuchen Yan, Zixuan Wang, Ruiqing Zhang, Guiyang Hou, Wenqi Zhang, Weiming Lu, Jun Xiao, Yongliang Shen
-- **Towards Interpretable Tabular Reasoning: Enhancing LLM Reasoning on Tabular Data with Pre-Constructed Logic Graph** — Mengxiao Zhu, Haixu Chen, Jiu Sha, Jie Liu, Ge Shi
-- **Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection** — ZhenChun Xu, Yi Cai, Dajun Zheng, Li Yuan, Mengchen Zhao, Qixiang Wang, Jiexin Wang
-- **Neuron-Aware Active Few-Shot Learning for LLMs** — Quoc Phong Dao, Hoang Son Nguyen, Pham Khanh Chi, Tung Nguyen, Linh Ngo Van, Nguyen Thi Ngoc Diep, Trung Le
-- **PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations** — Yeqing Teng, Jiasheng Si, Shuxia Lin, Linhai Zhang, Weiyu Zhang, Wenpeng Lu, Deyu Zhou, Xiaoming Wu
-- **Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention** — Tanmay Parekh, Ella Hofmann-Coyle, Shuyi Wang, Sachith Sri Ram Kothur, Srivas Prasad, Yunmo Chen
-- **Fiction Flows: A Replication and Reinterpretation of Narrative Sequentiality** — Marianne Menglin Liu, Daniel Garcia, Fjona Parllaku, Vikas Upadhyay, Fahad Shah, Dan Roth
-- **Experiments or Outcomes? Probing Scientific Feasibility in Large Language Models** — Manzi Fabrice Niyigaba, Ivory Yang, Soroush Vosoughi
-- **Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures** — Zeyu Zhang, Kexuan Sun, Zheng Tang, Jens-S. Vöckler, Thien Huu Nguyen, Thuy Vu
-- **Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation** — Zhiyang Li, Ao Ke, Yukun Cao, Xike Xie
-- **Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers** — Yang Wu, Jinhong Yu, Jingwei Xiong, Zhimin Tao, Xiaozhong Liu
-- **Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation** — Jialiang Guo, Fucheng Xiong, Xu He, Haodong Zhao, Xingyang Li, Ke Zeng, Xunliang Cai
-- **Memorization, Emergence, and Explaining Reversal Failures: A Controlled Study of Relational Semantics in LLMs** — Yijie Li, Xi Cao, Yuan Sun, Quulgan Minggad, Abdulla Ablikim, JiaQingCaiWang
-- **An Existence Proof for Neural Language Models That Can Explain Garden-Path Effects via Surprisal** — Kazuki Tsutsukawa
-- **Probing Audio-Visual Reasoning in Multimodal Language Models through the Lens of Audio** — Terry Jingchen Zhang, Gopal Dev, Ning Wang, Max Obreiter, Wenyuan Jiang, Punya Syon Pandey, Keenan Samway, Yinya Huang, Bernhard Schölkopf, Mrinmaya Sachan, Zhijing Jin
-- **Towards Explainable Diagnosis: A Self-learned Explanatory Knowledge Base Approach** — Khotso Selialia, Antoine Nzeyimana, Fatima M. Anwar
-- **R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling** — Wang Zhangyi, Bingnan Yu, Jiexiang Xu, Li Zongze
-- **Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering** — Yukang Wu, Xiyuan Jia, Jiayi Wu, HongChen Yu, Yuhan Qiu, Wu Guohua
-- **Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models** — Yuewen Liu, Peng Xu, Muxi Diao, Anyi Zhang, Yang Li, Yutong Zhang
-- **SemCSE-Multi: Multifaceted and Decodable Embeddings for Aspect-Specific and Interpretable Scientific Domain Mapping** — Zhiwei Zhang, Fei zhao, Rui Wang, Zezhong WANG, Bin Liang, Jiakang Wang, Yao Hu, Shaosheng Cao, Kam-Fai Wong
-- **From Nodes to Narratives: Explaining Graph Neural Networks with LLMs and Graph Context** — Girish, Mohd Mujtaba Akhtar, Muskaan Singh
-- **Constructing Interpretable Features from Compositional Neuron Groups** — Gonzalo Ariel Meyoyan, Luciano Del Corro
-- **LogosKG: Hardware-Optimized Scalable and Interpretable Knowledge Graph Retrieval** — Yifeng Ding, Hung Le, Songyang Han, Kangrui Ruan, Zhenghui Jin, Varun Kumar, Zijian Wang, Anoop Deoras
-- **CoDial: Interpretable Task-Oriented Dialogue Systems Through Dialogue Flow Alignment** — Jinho Choo, JunSeung Lee, Jimyeong Kim, Yeeho Song, S. K. Hong, Yeong-Dae Kwon
-- **Explain the Synth: Interpretable Evaluation of LLM Data Synthesis** — Tanmoy Mukherjee, Thomas Bailleux, Pierre Marquis, Zied Bouraoui
-- **Locate and Explain: Joint Multimodal Emotion Cause Extraction and Summarization in Conversation** — Robin Vujanic, Thomas Rückstieß
-- **A Lightweight Explainable Guardrail for Prompt Safety** — Ruifeng Yuan, Chaohao Yuan, David Dai, Yu Rong, Hong Cheng, Hou Pong Chan, Chenghao Xiao
-- **Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI** — Fengxian Ji, Jingpu Yang, Zirui Song, Lang Gao, Junhong Liang, Zhenhao Chen, Jinghui Zhang, Xiuying Chen
-- **BanHADEX: Towards Explainable HAte Speech Detection in Bangla Using Human Annotated EXplanation** — Hieu Man, Van-Cuong Pham, Nghia Trung Ngo, Franck Dernoncourt, Thien Huu Nguyen
-- **Explaining Sources of Uncertainty in Automated Fact-Checking** — Shengjie Li, Vincent Ng
-- **PRISMA: Preference-Reinforced Self-Training Approach for Interpretable Emotionally Intelligent Negotiation Dialogues** — Zijing Wang, Xingle Xu, YongKang Liu, Yiqun Zhang, Peiqin Lin, Shi Feng, Daling Wang, Xiaocui Yang, Hinrich Schuetze
-- **Interpretable Coreference Resolution Evaluation Using Explicit Semantics** — Mukai Li, Linfeng Song, Zhenwen Liang, Jiahao Xu, Shansan Gong, Qi Liu, Haitao Mi, Dong Yu
-- **TabReX: Tabular Referenceless eXplainable Evaluation** — Michael Hardy, Yunsung Kim
-- **Preference Heads in Large Language Models: A Mechanistic Framework for Interpretable Personalization** — FuLin Shi, Wenyi Xiao, Leilei Gan, Liang Ding, Bin Chen
-- **Is Chain-of-Thought Really Not Explainability? Chain-of-Thought Can Be Faithful without Hint Verbalization** — Alaa Elsetohy, Sama Hadhoud, Haryo Wibowo, Chenxi Whitehouse, Genta Winata, Fajri Koto, Alham Aji
-- **Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures** — Kerem Zaman, Shashank Srivastava
+
+- **Rhetorical Questions in LLM Representations: A Linear Probing Study**
+- **Mechanistic Interpretability Should Prioritize Feature Consistency in Sparse Autoencoders**
+- **Make Mechanistic Interpretability Auditable: A Call to Develop Guidelines via Continuous Collaborative Reviewing**
+- **APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation**
+- **Are Emotion and Rhetoric Neurons in LLM? Neuron Recognition and Adaptive Masking for Emotion-Rhetoric Prediction Steering**
+- **REFLEX: Self-Refining Explainable Fact-Checking via Verdict-Anchored Style Control**
+- **Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation**
+- **Revitalizing Black-Box Interpretability: Actionable Interpretability for LLMs via Proxy Models**
+- **OCP: Outlier-Centric Probing for Dynamic Structured Pruning of LLMs**
+- **From Insight to Action: A Novel Framework for Interpretability-Guided Data Selection in Large Language Models**
+- **A Mechanistic Account of Attention Sinks in GPT-2: One Circuit, Broader Implications for Mitigation**
+- **SCOUT: Selective Coupling via Optimal Unbalanced Transport for Interpretable Text Classification**
+- **TriEx: A Game-based Tri-View Framework for Explaining Internal Reasoning in Multi-Agent LLMs**
+- **SpeechLLM-as-Judges: Towards General and Interpretable Speech Quality Evaluation**
+- **Investigating More Explainable and Partition-Free Compositionality Estimation for LLMs: A Rule-Generation Perspective**
+- **One Battle After Another: Probing LLMs’ Limits on Multi-Turn Instruction Following with a Benchmark Evolving Framework**
+- **SPEAK: Spiking Neurons as an Entropy-Aware Tokenizer for Large Language Models**
+- **Correct When Paired, Wrong When Split: Decoupling and Editing Modality-Specific Neurons in MLLMs**
+- **Beyond Single-View Detection: A Dual-Space Reasoning Framework for Interpretable Harmful Meme Understanding**
+- **How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study**
+- **WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics**
+- **Efficient Test-Time Scaling of Multi-Step Reasoning by Probing Internal States of Large Language Models**
+- **Probing for Reading Times**
+- **Continuous Interpretive Steering for Scalar Diversity**
+- **ICDAGENT: Empowering Agentic Large Language Models for Explainable Medical Coding**
+- **Discovering and Causally Validating Emotion-Sensitive Neurons in Large Audio-Language Models**
+- **Attention Under Attack: Analog Noise Effects and Mechanistic Vulnerabilities in Transformer Models**
+- **Lost in Translation, and Found: Detecting and Interpreting Translation Effects**
+- **From Isolation to Entanglement: When Do Interpretability Methods Identify and Disentangle Known Concepts?**
+- **Tracing Logit Trajectories Across Layer Depth: Dataset-Level Explainability for Language Models**
+- **Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling**
+- **Why LLMs Hallucinate on Structured Knowledge: A Mechanistic Analysis of Reasoning over Linearized Representations**
+- **Uncovering Sentiment Analysis Circuit in Large Language Model**
+- **Bridging Internal Consistency and External Alignment: A Causal and Dynamic Interpretability Framework for LLM Generation**
+- **Probing the Safety Robustness of LLMs in Latent Space**
+- **NeuReasoner: Towards Explainable, Controllable, and Unified Reasoning via Mixture-of-Neurons**
+- **Stop Hardening Everything: A Training-Free Neuron-Level Defense for Neural Ranking Models**
+- **MedForge: Interpretable Medical Deepfake Detection via Forgery-aware Reasoning**
+- **MicroC-KT: Modeling Community Effect via Learning Micro-Environment for Evidence-Grounded Explainable Knowledge Tracing**
+- **Beyond Self-Report: Bridging the Intention-Behavior Gap in Critical Thinking Assessment via Interpretable Multi-Agent System**
+- **Probing Semantic Alignment, Lexical Invariance, and Syntactic Influence in LLM Metaphor Processing**
+- **DVI-DTM: Dual-View Representation Learning for Interpretable Short Text Dynamic Topic Modeling**
+- **Exploring and Distilling Multi-Dimensional Clues for Interpretable Social Bot Detection**
+- **DEFT: Demystifying VLN Failures via a Unified Dual-View Explainability Framework for LLM-based Agents**
+- **Embracing Anisotropy: Turning Massive Activations into Interpretable Control Knobs for Large Language Models**
+- **Towards Interpretable Tabular Reasoning: Enhancing LLM Reasoning on Tabular Data with Pre-Constructed Logic Graph**
+- **Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection**
+- **Neuron-Aware Active Few-Shot Learning for LLMs**
+- **PRISM: Probing Reasoning, Instruction, and Source Memory in LLM Hallucinations**
+- **Unlocking the Black Box of Latent Reasoning: An Interpretability-Guided Approach to Intervention**
+- **Fiction Flows: A Replication and Reinterpretation of Narrative Sequentiality**
+- **Experiments or Outcomes? Probing Scientific Feasibility in Large Language Models**
+- **Towards Intrinsic Interpretability of Large Language Models: A Survey of Design Principles and Architectures**
+- **Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation**
+- **Union-of-Experts: Neurons in Mixture-of-Experts are Secretly Routers**
+- **Interpretable Traces, Unexpected Outcomes: Investigating the Disconnect in Trace-Based Knowledge Distillation**
+- **Memorization, Emergence, and Explaining Reversal Failures: A Controlled Study of Relational Semantics in LLMs**
+- **An Existence Proof for Neural Language Models That Can Explain Garden-Path Effects via Surprisal**
+- **Probing Audio-Visual Reasoning in Multimodal Language Models through the Lens of Audio**
+- **Towards Explainable Diagnosis: A Self-learned Explanatory Knowledge Base Approach**
+- **R2IF: Aligning Reasoning with Decisions via Composite Rewards for Interpretable LLM Function Calling**
+- **Vision-Language Introspection: Mitigating Overconfident Hallucinations in MLLMs via Interpretable Bi-Causal Steering**
+- **Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models**
+- **SemCSE-Multi: Multifaceted and Decodable Embeddings for Aspect-Specific and Interpretable Scientific Domain Mapping**
+- **From Nodes to Narratives: Explaining Graph Neural Networks with LLMs and Graph Context**
+- **Constructing Interpretable Features from Compositional Neuron Groups**
+- **LogosKG: Hardware-Optimized Scalable and Interpretable Knowledge Graph Retrieval**
+- **CoDial: Interpretable Task-Oriented Dialogue Systems Through Dialogue Flow Alignment**
+- **Explain the Synth: Interpretable Evaluation of LLM Data Synthesis**
+- **Locate and Explain: Joint Multimodal Emotion Cause Extraction and Summarization in Conversation**
+- **A Lightweight Explainable Guardrail for Prompt Safety**
+- **Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI**
+- **BanHADEX: Towards Explainable HAte Speech Detection in Bangla Using Human Annotated EXplanation**
+- **Explaining Sources of Uncertainty in Automated Fact-Checking**
+- **PRISMA: Preference-Reinforced Self-Training Approach for Interpretable Emotionally Intelligent Negotiation Dialogues**
+- **Interpretable Coreference Resolution Evaluation Using Explicit Semantics**
+- **TabReX: Tabular Referenceless eXplainable Evaluation**
+- **Preference Heads in Large Language Models: A Mechanistic Framework for Interpretable Personalization**
+- **Is Chain-of-Thought Really Not Explainability? Chain-of-Thought Can Be Faithful without Hint Verbalization**
+- **Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures**

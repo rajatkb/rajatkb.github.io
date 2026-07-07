@@ -1,6 +1,12 @@
 ---
 title: "Self-Supervised Learning: A Historical Arc to JEPA"
-tags: [ssl, self-supervised-learning, jepa, representation-learning, deep-learning, predictive-ssl]
+tags:
+  - ssl
+  - self-supervised-learning
+  - jepa
+  - representation-learning
+  - deep-learning
+  - predictive-ssl
 date: 2026-06-07
 lastmod: 2026-06-07
 draft: false
