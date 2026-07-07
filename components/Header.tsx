@@ -6,12 +6,9 @@ import ThemeSwitch from './ThemeSwitch'
 import SearchButton from './SearchButton'
 
 const Logo = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" className="h-8 w-8">
-    <rect width="32" height="32" rx="8" fill="currentColor" />
-    <text x="16" y="22" textAnchor="middle" fontSize="18" fontWeight="bold" fill="white" fontFamily="system-ui">
-      R
-    </text>
-  </svg>
+  <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gray-900 text-white dark:bg-primary-500 dark:text-black">
+    <span className="text-sm font-bold leading-none">R</span>
+  </div>
 )
 
 const Header = () => {
@@ -28,7 +25,7 @@ const Header = () => {
             <Logo />
           </div>
           {typeof siteMetadata.headerTitle === 'string' ? (
-            <div className="hidden h-6 text-2xl font-semibold sm:block">
+            <div className="hidden text-2xl font-semibold sm:block">
               {siteMetadata.headerTitle}
             </div>
           ) : (
