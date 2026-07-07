@@ -975,7 +975,7 @@ draft: false
 ### Zebra-CoT: A Dataset for Interleaved Vision-Language Reasoning
 - **Link**: [OpenReview](https://openreview.net/forum?id=c6XIVI3TiQ)
 
-### Sharp asymptotic theory for Q-learning with \texttt{LD2Z} learning rate and its generalization
+### Sharp asymptotic theory for Q-learning with $\texttt{LD2Z}$ learning rate and its generalization
 - **Link**: [OpenReview](https://openreview.net/forum?id=WjEAMyLDoh)
 
 ### DeepCompress: A Dual Reward Strategy for Dynamically Exploring and Compressing Reasoning Chains

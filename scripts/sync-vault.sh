@@ -1,13 +1,13 @@
 #!/bin/bash
-# Sync vault between WSL repo (data/vault/) and Windows vault directory.
-# Default: pull Obsidian edits from Windows into repo (before committing)
-# --push: copy repo changes to Windows (for Obsidian to see)
-# --watch: continuously watch Windows vault and auto-sync on changes
+# Sync vault between WSL repo (data/vault/) and Windows Obsidian vault.
+# Always pushes from Repo → Windows so Obsidian sees the latest files.
+# --watch: continuously watch repo vault and auto-push on changes (run via npm run watch)
+# Default (no args): one-shot push.
 #
 # Requires VAULT_WIN_PATH env var pointing to the Windows vault (e.g.
 # /mnt/c/Users/RAJAT/vault/). Set it in .zshrc / .bashrc.
 #
-# On push mode, runs a git diff first to detect new/changed/untracked files
+# Runs a git diff first to detect new/changed/untracked files
 # and verifies they arrive at the destination.
 
 REPO_VAULT="$(cd "$(dirname "$0")/../data/vault/" && pwd)/"
@@ -92,31 +92,28 @@ sync_push() {
   fi
 }
 
-watch_pull() {
-  echo "→ Watching $WIN_VAULT for changes..."
+watch_push() {
+  echo "→ Watching $REPO_VAULT for changes..."
   inotifywait -m -r -e modify,create,delete,move \
     --exclude '.obsidian/' \
     --format '%w%f' \
-    "$WIN_VAULT" 2>/dev/null | \
+    "$REPO_VAULT" 2>/dev/null | \
   while read; do
     # Debounce: wait 1.5s of quiet before syncing
     while read -t 1.5; do true; done
-    echo "→ Change detected, syncing..."
-    sync_pull
+    echo "→ Change detected, pushing to Windows..."
+    sync_push
   done
 }
 
 case "${1:-}" in
-  --push)
-    echo "→ Repo → Windows (push)..."
-    sync_push
-    ;;
   --watch)
-    watch_pull
+    echo "→ Watching repo for changes and pushing to Windows..."
+    watch_push
     ;;
   *)
-    echo "→ Windows → Repo (pull)..."
-    sync_pull
+    echo "→ Repo → Windows (push)..."
+    sync_push
     ;;
 esac
 echo "✓ Done."

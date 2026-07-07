@@ -1365,7 +1365,7 @@ draft: false
 ### Bayesian Neural Networks for Functional ANOVA Model
 - **Link**: [OpenReview](https://openreview.net/forum?id=cvZhXILRLI)
 
-### Robust Generalized Schr\"{o}dinger Bridge via Sparse Variational Gaussian Processes
+### Robust Generalized Schrödinger Bridge via Sparse Variational Gaussian Processes
 - **Link**: [OpenReview](https://openreview.net/forum?id=3a2QuEzveq)
 
 ### SFBD-OMNI: Bridge models for lossy measurement restoration with limited clean samples

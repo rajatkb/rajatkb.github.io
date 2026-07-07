@@ -432,7 +432,7 @@ draft: false
 ### GT-Space: Enhancing Heterogeneous Collaborative Perception with Ground Truth Feature Space
 - **Link**: [OpenReview](https://openreview.net/forum?id=fwTRpXMsxB)
 
-### Sharp asymptotic theory for Q-learning with \texttt{LD2Z} learning rate and its generalization
+### Sharp asymptotic theory for Q-learning with $\texttt{LD2Z}$ learning rate and its generalization
 - **Link**: [OpenReview](https://openreview.net/forum?id=WjEAMyLDoh)
 
 ### Trion: FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of LLMs
