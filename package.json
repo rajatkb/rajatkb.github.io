@@ -6,8 +6,8 @@
     "start": "next dev",
     "watch": "bash scripts/sync-vault.sh --watch & echo $! > .vault-watch.pid && echo '→ Vault watcher started (PID '$(cat .vault-watch.pid)')'",
     "blind": "kill $(cat .vault-watch.pid 2>/dev/null) 2>/dev/null && rm -f .vault-watch.pid && echo '→ Vault watcher stopped' || echo '→ No vault watcher running'",
-    "dev": "cross-env INIT_CWD=$PWD NEXT_TELEMETRY_DISABLED=1 next dev --webpack",
-    "build": "cross-env INIT_CWD=$PWD NEXT_TELEMETRY_DISABLED=1 next build --webpack && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
+    "dev": "cross-env INIT_CWD=$PWD NEXT_TELEMETRY_DISABLED=1 next dev",
+    "build": "cross-env INIT_CWD=$PWD NEXT_TELEMETRY_DISABLED=1 next build && cross-env NODE_OPTIONS='--experimental-json-modules' node ./scripts/postbuild.mjs",
     "serve": "next start",
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir app --dir components --dir lib --dir layouts --dir scripts",
@@ -54,7 +54,6 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.3",
     "@eslint/js": "^9.18.0",
-    "@svgr/webpack": "^8.1.0",
     "@types/mdx": "^2.0.13",
     "@types/react": "^19.2.13",
     "@typescript-eslint/eslint-plugin": "^8.54.0",

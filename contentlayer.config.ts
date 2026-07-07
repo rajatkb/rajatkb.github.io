@@ -4,6 +4,7 @@ import readingTime from 'reading-time'
 import { slug } from 'github-slugger'
 import path from 'path'
 import { fromHtmlIsomorphic } from 'hast-util-from-html-isomorphic'
+import { visit } from 'unist-util-visit'
 // Remark packages
 import remarkGfm from 'remark-gfm'
 import remarkMath from 'remark-math'
@@ -202,6 +203,30 @@ export const VaultNote = defineDocumentType(() => ({
   },
 }))
 
+/** Strip .md / .mdx from relative <a href> so Obsidian-style links work on the web */
+function rehypeStripMdLinks() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      if (
+        node.tagName === 'a' &&
+        node.properties &&
+        node.properties.href &&
+        typeof node.properties.href === 'string'
+      ) {
+        var href = node.properties.href
+        if (
+          !href.startsWith('http') &&
+          !href.startsWith('#') &&
+          !href.startsWith('//') &&
+          (href.endsWith('.md') || href.endsWith('.mdx'))
+        ) {
+          node.properties.href = href.replace(/\.(md|mdx)$/, '')
+        }
+      }
+    })
+  }
+}
+
 export default makeSource({
   contentDirPath: 'data',
   documentTypes: [Blog, Authors, VaultNote],
@@ -232,6 +257,7 @@ export default makeSource({
       [rehypeCitation, { path: path.join(root, 'data') }],
       [rehypePrismPlus, { defaultLanguage: 'js', ignoreMissing: true }],
       rehypeMermaid,
+      rehypeStripMdLinks,
     ],
   },
   onSuccess: async (importData) => {

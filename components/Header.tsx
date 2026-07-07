@@ -1,10 +1,18 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-import Logo from '@/data/logo.svg'
 import Link from './Link'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 import SearchButton from './SearchButton'
+
+const Logo = () => (
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" className="h-8 w-8">
+    <rect width="32" height="32" rx="8" fill="currentColor" />
+    <text x="16" y="22" textAnchor="middle" fontSize="18" fontWeight="bold" fill="white" fontFamily="system-ui">
+      R
+    </text>
+  </svg>
+)
 
 const Header = () => {
   let headerClass = 'flex items-center w-full bg-white dark:bg-black justify-between py-10'
