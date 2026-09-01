@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   email: 'rajatk.dev@gmail.com',
   github: 'https://github.com/rajatkb',
-  x: 'https://x.com/rajatkb',
+  x: 'https://x.com/simpuleguy',
   linkedin: 'https://www.linkedin.com/in/rajatkb',
   locale: 'en-US',
   stickyNav: false,
